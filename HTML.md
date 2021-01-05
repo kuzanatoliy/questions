@@ -16,7 +16,21 @@
 
 <details>
   <summary>How can JavaScript be used on an HTML page? Where is the better place for injecting scripts to the page?</summary>
-  In progress ...
+  
+  For working with JavaScript, HTML document has a script tag. There are two opportunities for injection scripts:
+
+  * Firstly, JavaScript code can be between open/close scripts tags.
+
+  `<script>...your code</script>`
+
+  * Secondly, the script tag can inject an external script. For it, need to add an src attribute with link to the external script.
+
+  `<script src=’...’ />`
+
+  **Note:** cannot mix these two ways. One script tag cannot have external and internal scripts at the same time. In this case, the browser runs the only external script.
+
+  Also, the best place for script injection is the last part of the HTML document before close body tag because when a browser starts work with a script tag, it stops other processes before the script is loaded and run. Besides, there are async and defer attributes for async loading.
+
 </details>
 
 <details>
