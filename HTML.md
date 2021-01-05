@@ -9,7 +9,9 @@
 
 <details>
   <summary>Why is a doctype tag needed? What will happen if there is no doctype in the HTML document?</summary>
-  In progress ...
+  
+  Doctype allows understanding what type of the HTML standards browser should use for a document. Without this tag, a browser will work in compatibility mode. As a result, experimental features can be used that can break a document view.
+
 </details>
 
 <details>
