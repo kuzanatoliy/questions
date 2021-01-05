@@ -2,7 +2,9 @@
 
 <details>
   <summary>What is HTML?</summary>
-  In progress ...
+  
+  HTML is the hypertext markup language. It is one of the XML types that allows describing document structure in a browser-friendly view.
+
 </details>
 
 <details>
