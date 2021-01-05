@@ -35,7 +35,23 @@
 
 <details>
   <summary>Can a browser use async scripts loading? How? There is a difference between async and defer?</summary>
-  In progress ...
+  
+  The async loading of external scripts is allowed by async and defer attributes of a script tag. This functionality could be useful when to need to add additional functionality that not depend on others. For example, advertising banners. So, there are two ways to set async loading.
+  
+  * Firstly, to add an async attribute to a script tag. In this case, the script will be loaded async and run right after loading.
+  
+  * Secondly, to add a defer attribute to the tag. In this case, a browser run scripts after finish load all sources. Moreover, there will save the order of the loaded scripts.
+
+  For example, try to imagen that we have five scripts like these:
+
+  `<script class=’script1’ ...  />`
+  `<script class=’script2’ deffer ...  />`
+  `<script class=’script3’ deffer ...  />`
+  `<script class=’script4’ async ...  />`
+  `<script class=’script5’ ...  />`
+
+  So, there is next order of the scripts runing: script1 -> script5 -> script4 -> script2 -> script3
+
 </details>
 
 <details>
