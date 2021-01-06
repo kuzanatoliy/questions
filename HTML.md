@@ -95,7 +95,7 @@
 
 <details>
   <summary>There is a difference between strong and b tags?</summary>
-  In progress ...
+  These tags have the same styles, but strong has a semantic meaning too. For example, readers can make attention to that text.
 </details>
 
 <details>
