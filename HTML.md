@@ -81,7 +81,16 @@
 
 <details>
   <summary>What is new in the HTML5?</summary>
-  In progress ...
+  
+  * Canvas, tag for management of 2D graphic arts. Can be used for creating dynamic images and charts;
+  * Video and audio, tags add functionality for working with audio and video content without additional technologies;
+  * Context menu, opportunity adding context menus in your site;
+  * Semantic tags as a header, a footer, a main and etc., tags add better structure and have semantic meaning;
+  * New types for input tag as DateTime, Date, Week, URL, Email, etc., expand functionality for control elements;
+  * Syntaxis for settings of charset;
+  * Href attribute for links is necessary now;
+  * Async attribute for scripts.
+
 </details>
 
 <details>
