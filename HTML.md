@@ -2,21 +2,21 @@
 
 <details>
   <summary>What is HTML?</summary>
-  
+
   HTML is the hypertext markup language. It is one of the XML types that allows describing document structure in a browser-friendly view.
 
 </details>
 
 <details>
   <summary>Why is a doctype tag needed? What will happen if there is no doctype in the HTML document?</summary>
-  
+
   Doctype allows understanding what type of the HTML standards browser should use for a document. Without this tag, a browser will work in compatibility mode. As a result, experimental features can be used that can break a document view.
 
 </details>
 
 <details>
   <summary>How can JavaScript be used on an HTML page? Where is the better place for injecting scripts to the page?</summary>
-  
+
   For working with JavaScript, HTML document has a script tag. There are two opportunities for injection scripts:
 
   * Firstly, JavaScript code can be between open/close scripts tags.
@@ -35,11 +35,11 @@
 
 <details>
   <summary>Can a browser use async scripts loading? How? There is a difference between async and defer?</summary>
-  
+
   The async loading of external scripts is allowed by async and defer attributes of a script tag. This functionality could be useful when to need to add additional functionality that not depend on others. For example, advertising banners. So, there are two ways to set async loading.
-  
+
   * Firstly, to add an async attribute to a script tag. In this case, the script will be loaded async and run right after loading.
-  
+
   * Secondly, to add a defer attribute to the tag. In this case, a browser run scripts after finish load all sources. Moreover, there will save the order of the loaded scripts.
 
   For example, try to imagen that we have five scripts like these:
@@ -56,7 +56,7 @@
 
 <details>
   <summary>How does a browser render an HTML page?</summary>
-  
+
   Loading of a web page starts from a request for an HTML document. After that, a browser parse parts of the gotten documents and generate the document object model. When the browser finds a link to external sources as styles, images or scripts, it requests a new resource. Part of the requests could be blocking (It meant that browser stop other actions before those requests are loading). Next browser builds a CSS object model. After that, the browser generates a render tree where consulate styles for each element on the page. Next is a layout stage that defines elements positions on the web page. And finally, browser paint web page.
 
   In details:
@@ -65,9 +65,9 @@
   3. After that, the browser forms render tree from the DOM and the CSSOM. The render tree duplicates DOM without invisible elements as the head. Render tree's nodes contain the DOM element or text element and style.
   4. Next one is the layout. For each render tree element calculate a position on document view.
   5. Browser paint elements in the window.
-  
+
   *Repaint* - happen when styles are changed, but proportions and position are not changed browser just repaint it.
-  
+
   *Reflow* - happen when proportions and positions are changed. It could happen from the reasons:
   * DOM manipulation (add, remove, change of nodes);
   * Content changing;
@@ -81,7 +81,7 @@
 
 <details>
   <summary>What is new in the HTML5?</summary>
-  
+
   * Canvas, tag for management of 2D graphic arts. Can be used for creating dynamic images and charts;
   * Video and audio, tags add functionality for working with audio and video content without additional technologies;
   * Context menu, opportunity adding context menus in your site;
@@ -95,12 +95,18 @@
 
 <details>
   <summary>There is a difference between strong and b tags?</summary>
+
   These tags have the same styles, but strong has a semantic meaning too. For example, readers can make attention to that text.
+
 </details>
 
 <details>
   <summary>Why are semantic tags needed?</summary>
-  In progress ...
+
+  There are a few reasons:
+  * Firstly, semantic tags allow implementing HTML pages with better structure;
+  * Secondly, these tags have meaning, that allows boots to made more effective working process.
+
 </details>
 
 <details>
