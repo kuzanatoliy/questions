@@ -123,9 +123,3 @@
   `<input id=”inputid” type=”text” />`
 
 </details>
-
-<details>
-  <summary>What is the difference between vector and raster images?</summary>
-  In progress ...
-</details>
-
