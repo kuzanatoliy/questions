@@ -44,10 +44,10 @@
 
   For example, try to imagen that we have five scripts like these:
 
-  `<script class=’script1’ ...  />`
-  `<script class=’script2’ deffer ...  />`
-  `<script class=’script3’ deffer ...  />`
-  `<script class=’script4’ async ...  />`
+  `<script class=’script1’ ...  />`<br>
+  `<script class=’script2’ deffer ...  />`<br>
+  `<script class=’script3’ deffer ...  />`<br>
+  `<script class=’script4’ async ...  />`<br>
   `<script class=’script5’ ...  />`
 
   So, there is next order of the scripts runing: script1 -> script5 -> script4 -> script2 -> script3
@@ -111,15 +111,15 @@
 
 <details>
   <summary>How can we join input and label?</summary>
-  
+
   There are two ways of joining input and label tags.
   Firstly, an input tag can be pushed into a label tag.
 
   `<label><input type=”text”><label>`
-  
+
   Secondly, a ‘for’ attribute of a label tag can content id of an input tag.
-  
-  `<label for=”inputid”>Title</label>`
+
+  `<label for=”inputid”>Title</label>`<br>
   `<input id=”inputid” type=”text” />`
 
 </details>
