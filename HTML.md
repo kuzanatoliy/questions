@@ -111,7 +111,17 @@
 
 <details>
   <summary>How can we join input and label?</summary>
-  In progress ...
+  
+  There are two ways of joining input and label tags.
+  Firstly, an input tag can be pushed into a label tag.
+
+  `<label><input type=”text”><label>`
+  
+  Secondly, a ‘for’ attribute of a label tag can content id of an input tag.
+  
+  `<label for=”inputid”>Title</label>`
+  `<input id=”inputid” type=”text” />`
+
 </details>
 
 <details>
