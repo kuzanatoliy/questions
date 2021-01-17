@@ -5,7 +5,7 @@
 <details>
   <summary>What does flexbox technology based?</summary>
 
-  In progress ...
+  Each of the flexbox containers has the base and secondary axis directed perpendicularly each other. Flexbox items suited on the base axis can be moved or stretched out by the secondary axis.
 
 </details>
 
