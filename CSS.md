@@ -26,7 +26,7 @@
 <details>
   <summary>Does Flexbox allow wrapping elements?</summary>
 
-  In progress ...
+  A base flexbox elements behaviour is fitting elements onto one line. This behaviour can be changed by wrap property for a flexbox container. There are the next available values: nowrap, wrap, wrap-reverse. Moreover, possible to combine flex-direction and flex-wrap by flex-flow property.
 
 </details>
 
