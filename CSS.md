@@ -12,7 +12,7 @@
 <details>
   <summary>How can be used Flexbox on an HTML page?</summary>
 
-  In progress ...
+  Need to set a display css property of elemtn to flex or inline-flex values.
 
 </details>
 
