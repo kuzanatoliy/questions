@@ -19,7 +19,7 @@
 <details>
   <summary>How can be changed the direction of container axes?</summary>
 
-  In progress ...
+  The direction of flexbox elements could be managed by flex-direction property into a flexbox container element. There are the next available values: row, column, row-reverse, column-reverse.
 
 </details>
 
