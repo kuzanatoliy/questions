@@ -33,7 +33,7 @@
 <details>
   <summary>How can elements be aligned?</summary>
 
-  In progress ...
+  Flexbox elements can be aligned by justify-content(the base axis) and align-content(the secondary axis). There are the next available properties: flex-start, flex-end, center, space-between, space-around. Moreover, it’s possible managing how flex items laid out along the secondary axis on the current line. There are the next available properties: stretch, flex-start, flex-end, center, baseline. Besides, item align could be managed for only one element by align-self property.
 
 </details>
 
