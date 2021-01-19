@@ -40,7 +40,7 @@
 <details>
   <summary>Can an order of Flexbox elements be changed?</summary>
 
-  In progress ...
+  Order one of the flexbox elements can change by order property.
 
 </details>
 
