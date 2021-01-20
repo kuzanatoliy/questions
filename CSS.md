@@ -47,6 +47,9 @@
 <details>
   <summary>Can the size of a Flexbox element be managed?</summary>
 
-  In progress ...
+  The flex-grow property defines the ability for a flex item to grow if necessary. It accepts a unitless value that serves as a proportion. It dictates what amount of the available space inside the flex container the item should take up.
+  The flex-shrink property defines the ability for a flex item to shrink if necessary.
+  The flex-basis property defines the default size of an element before the distribution of the remaining space.
+  Moreover, there can use a combination of these properties in flex property.
 
 </details>
