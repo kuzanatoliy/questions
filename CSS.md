@@ -1,5 +1,112 @@
 # CSS
 
+# CSS Grid layout
+
+<details>
+  <summary>What is a grid container?</summary>
+
+  In progress ...
+
+</details>
+
+<details>
+  <summary>What is a grid item?</summary>
+
+  In progress ...
+
+</details>
+
+<details>
+  <summary>What is a grid line?</summary>
+
+  In progress ...
+
+</details>
+
+<details>
+  <summary>What is a grid cell?</summary>
+
+  In progress ...
+
+</details>
+
+<details>
+  <summary>What is a grid track?</summary>
+
+  In progress ...
+
+</details>
+
+<details>
+  <summary>What is a grid area?</summary>
+
+  In progress ...
+
+</details>
+
+<details>
+  <summary>How can be set an element as a grid container?</summary>
+
+  In progress ...
+
+</details>
+
+<details>
+  <summary>How can be set a count of columns and rows of the grid component?</summary>
+
+  In progress ...
+
+</details>
+
+<details>
+  <summary>How can be worked with the grid areas?</summary>
+
+  In progress ...
+
+</details>
+
+<details>
+  <summary>Is it possible adding space between grid cells?</summary>
+
+  In progress ...
+
+</details>
+
+<details>
+  <summary>How can be aligned the content of each grid cells?</summary>
+
+  In progress ...
+
+</details>
+
+<details>
+  <summary>How can be aligned with the grid component?</summary>
+
+  In progress ...
+
+</details>
+
+<details>
+  <summary>Is it possible adding the size of the grid cells?</summary>
+
+  In progress ...
+
+</details>
+
+<details>
+  <summary>How can be added to the auto-placement algorithm?</summary>
+
+  In progress ...
+
+</details>
+
+<details>
+  <summary>How can be set the grid area for grid element?</summary>
+
+  In progress ...
+
+</details>
+
 ### CSS Flexbox layout
 
 <details>
