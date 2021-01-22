@@ -12,7 +12,7 @@
 <details>
   <summary>What is a grid item?</summary>
 
-  In progress ...
+  A grid item is any child element of a grid container.
 
 </details>
 
