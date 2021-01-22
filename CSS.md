@@ -33,7 +33,7 @@
 <details>
   <summary>What is a grid track?</summary>
 
-  In progress ...
+  It is a space between two adjacent grid lines. You can think of them as the columns or rows of the grid.
 
 </details>
 
