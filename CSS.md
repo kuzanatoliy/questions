@@ -5,7 +5,7 @@
 <details>
   <summary>What is a grid container?</summary>
 
-  In progress ...
+  Grid container is applied by 'display: grid’ property. All children elements align in lines and columns.
 
 </details>
 
