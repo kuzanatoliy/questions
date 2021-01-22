@@ -19,7 +19,7 @@
 <details>
   <summary>What is a grid line?</summary>
 
-  In progress ...
+  A grid line is each line that makes up the structure of the grid. It can be either vertical (column grid lines) or horizontal (row grid lines) and reside on either side of a row or column.
 
 </details>
 
