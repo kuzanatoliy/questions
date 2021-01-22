@@ -40,7 +40,7 @@
 <details>
   <summary>What is a grid area?</summary>
 
-  In progress ...
+  It is a total space surrounded by four grid lines. A grid area may be composed of any number of grid cells.
 
 </details>
 
