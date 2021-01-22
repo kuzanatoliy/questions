@@ -26,7 +26,7 @@
 <details>
   <summary>What is a grid cell?</summary>
 
-  In progress ...
+  The space between two adjacent row and two adjacent column grid lines.
 
 </details>
 
