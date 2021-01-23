@@ -54,7 +54,7 @@
 <details>
   <summary>How can be set a count of columns and rows of the grid component?</summary>
 
-  In progress ...
+  This bihaviour could be controlled by `grid-template-columns` and `grid-template-rows` css properties. For example, grid-template-columns: `[line1] 50% [line2] 50%`. Moreover, possible to combine these properties using grid-template property. For example, `<grid-template-rows> / <grid-template-columns>`
 
 </details>
 
