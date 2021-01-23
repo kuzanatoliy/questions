@@ -61,7 +61,7 @@
 <details>
   <summary>How can be worked with the grid areas?</summary>
 
-  In progress ...
+  Could be controlled by a `gird-template-areas` property, It allows to use a map of areas. In this case, each grid element should have a name that was set by a `grid-area` property.
 
 </details>
 
