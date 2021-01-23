@@ -47,7 +47,7 @@
 <details>
   <summary>How can be set an element as a grid container?</summary>
 
-  In progress ...
+  Need to set a `display` css property of an element to `grid` or `inline-grid` values.
 
 </details>
 
@@ -119,7 +119,7 @@
 <details>
   <summary>How can be used Flexbox on an HTML page?</summary>
 
-  Need to set a `display` css property of elemtn to `flex` or `inline-flex` values.
+  Need to set a `display` css property of an element to `flex` or `inline-flex` values.
 
 </details>
 
