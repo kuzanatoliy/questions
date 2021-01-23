@@ -68,7 +68,7 @@
 <details>
   <summary>Is it possible adding space between grid cells?</summary>
 
-  In progress ...
+  Could be set gaps between columns by the `grid-column-gap` or the `column-gap`. And could be set gaps between rows by the `grid-row-gap` or the `row-gap`. For example, `gap: <row-gap> <column-gap>`
 
 </details>
 
