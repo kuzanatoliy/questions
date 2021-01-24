@@ -82,7 +82,7 @@
 <details>
   <summary>How can be aligned with the grid component?</summary>
 
-  In progress ...
+  Could be aligned by the `justify-content` in rows or by the `align-content` in columns. Could be set values: `start`, `end`, `center`, `stretch`, `space-around`, `space-between` or `space-evenly`. Also, it's possible for combining these settings using `place-items`. For example, `place-content: <justify-content> <align-content>`
 
 </details>
 
