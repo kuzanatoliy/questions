@@ -96,7 +96,7 @@
 <details>
   <summary>How can be added to the auto-placement algorithm?</summary>
 
-  In progress ...
+  Could be managed by the `grid-auto-flow` (`row`, `column`, `row dense`, `column dense`).
 
 </details>
 
