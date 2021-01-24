@@ -1,6 +1,9 @@
 # CSS
 
-# CSS Grid layout
+### CSS Grid layout
+
+#### Links
+[docs](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 <details>
   <summary>What is a grid container?</summary>
@@ -108,6 +111,9 @@
 </details>
 
 ### CSS Flexbox layout
+
+#### Links
+[docs](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 <details>
   <summary>What does flexbox technology based?</summary>
