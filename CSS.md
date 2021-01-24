@@ -103,7 +103,7 @@
 <details>
   <summary>How can be set the grid area for grid element?</summary>
 
-  In progress ...
+  Could be managed by the properties: `grid-column-start` / `grid-column-end` / `grid-row-start` / `grid-row-end` or combining `grid-column` / `grid-row`
 
 </details>
 
