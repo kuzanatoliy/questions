@@ -89,7 +89,7 @@
 <details>
   <summary>Is it possible adding the size of the grid cells?</summary>
 
-  In progress ...
+  Could be managed by the `gird-auto-columns` and `grid-auto-rows` properties.
 
 </details>
 
