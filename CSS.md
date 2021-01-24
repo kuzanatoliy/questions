@@ -75,7 +75,7 @@
 <details>
   <summary>How can be aligned the content of each grid cells?</summary>
 
-  In progress ...
+  Could be aligned by the `justify-items` property in rows and could be aligned by the `align-items` in columns. Possible to use values: `start`, `end`, `center` or `stretch`. Moreover, the properties have a combination with the `place-items` property. For example, place-items: `<justify-items> <align-items>`. Besides, each grid element can be aligned with only one element using identical settings (`justify-self` / `align-self` / `place-self`).
 
 </details>
 
