@@ -12,9 +12,9 @@
 ### KISS
 
 <details>
-  <summary>What do you know about KISS?</summary>
+  <summary>What is KISS?</summary>
 
-  In progress ...
+  KISS or keep it simple stupid is one of the design principles. KISS says that the many systems will work better if they are simple. So, simplicity should be one of the main targets in the design sphere.
 
 </details>
 
