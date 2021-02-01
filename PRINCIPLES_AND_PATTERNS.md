@@ -21,9 +21,9 @@
 ### DRY
 
 <details>
-  <summary>What do you know about DRY?</summary>
+  <summary>What is DRY?</summary>
 
-  In progress ...
+  DRY or don’t repeat yourself is one of the design principles. DRY says that not need to repeat different information or functionality. Each part of knowledge should have only one view into system scope.
 
 </details>
 
