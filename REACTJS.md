@@ -26,7 +26,8 @@
 <details>
   <summary>What are refs in React?</summary>
 
-  ...in progress
+  A ref is an optional component's param that allows getting access to elements of a DOM element or a state of a component. A value is a callback function that gets a link to the DOM element or the component as a first argument of the function.
+  *Note:* It is bad practice to use ref. So, to use a callback mechanism for getting a child state property.
 
 </details>
 
