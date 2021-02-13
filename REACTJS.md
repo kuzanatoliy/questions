@@ -48,7 +48,7 @@
 <details>
   <summary>What is the difference between stateful and stateless components?</summary>
 
-  ...in progress
+  The stateful component has an inner state. Unlike, the stateless component does not have it.
 
 </details>
 
