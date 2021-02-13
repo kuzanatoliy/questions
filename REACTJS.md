@@ -41,7 +41,7 @@
 <details>
   <summary>What is the render callback template?</summary>
 
-  ...in progress
+  In this way, to use a callback function as a child component. So, children's props should be a function.
 
 </details>
 
