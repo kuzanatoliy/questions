@@ -3,7 +3,7 @@
 <details>
   <summary>What happens when you call setState?</summary>
 
-  ...in progress
+  Firstly, when setState is called React contacts a state and new state props. After that to start the agreement process that allows updating a view in one of the most effective ways. For it React generates a new tree of React elements and a comparison of new and old trees between themselves. It allows knowing what changes.
 
 </details>
 
