@@ -16,9 +16,10 @@
 </details>
 
 <details>
-  <summary>When should you use class components without function components?</summary>
+  <summary>When class components should be used without function components?</summary>
 
-  ...in progress
+  If a component has to work with a state or a life cycle method that a class component has to be used. For all of the other cases have to be used function components. One of the most important reasons to use a functional component is a scripts minimization, it is easier to minimize functions then classes.
+  *Note*: Last versions of the React allows using hooks for a rendering optimization and a state using.
 
 </details>
 
