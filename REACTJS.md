@@ -10,7 +10,8 @@
 <details>
   <summary>What is the difference between element and component?</summary>
 
-  ...in progress
+  Each React element is an object view of a user’s interface part.
+  Each component is a function or class that gets data and returns a React element.
 
 </details>
 
