@@ -81,6 +81,6 @@
 <details>
   <summary>Why should you use Peact.Children.map without props.children.map?</summary>
 
-  ...in progress
+  Because there is not a conviction that children prop will be an array.
 
 </details>
