@@ -67,7 +67,7 @@
 <details>
   <summary>Why shouldComponentUpdate is an important life cycle method?</summary>
 
-  ...in progress
+  The shouldComponentUpdate allows controlling the compressing process of the current and his children when there is a conviction that the component had not had to be changed. So, for it, shouldComponentUpdate has to return false.
 
 </details>
 
