@@ -74,7 +74,7 @@
 <details>
   <summary>How you can start to use production mode to React?</summary>
 
-  ...in progress
+  Could be used to DefinePlugin for Webpack. It allows setting NODE_ENV in production. For example, in this case, there will be cat propType validation and other warnings.
 
 </details>
 
