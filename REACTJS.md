@@ -18,7 +18,7 @@
 <details>
   <summary>When class components should be used without function components?</summary>
 
-  Can be used class component if it has to work with a state or a life cycle methods. For all of the other cases have to be used function components.  One of the most important reasons to use a functional style is a minimization process. It is easier to minimize functions then classes.
+  Class components are used if it has to work with state and life cycle methods. For all of the other cases have to be used function components. One of the most important reasons to use a functional style is a minimization process. It is easier to minimize functions then classes.
   *Note*: Last versions of the React allows using hooks for a rendering optimization and a state using.
 
 </details>
@@ -55,7 +55,12 @@
 <details>
   <summary>What method of the life cycle should be used to call an AJAX request?</summary>
 
-  ...in progress
+  There are two lifecycle methods for AJAX requests.
+  First and the best is componentDidMount.
+  Second is componentWillMount. There are a few reasons why it is a bad idea:
+  1. Firstly, there is not a conviction about when this method exactly would be called;
+  2. There can be a situation when a request wouldn't resolve when a component tries to call setState or render a component.
+
 
 </details>
 
