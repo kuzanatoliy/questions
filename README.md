@@ -1,7 +1,7 @@
 # questions
 
-[CSS](/CSS.md)
+[CSS](CSS/README.md)
 
-[HTML](/HTML.md)
+[HTML](HTML.md)
 
-[ReactJS](/REACTJS.md)
+[ReactJS](REACTJS.md)
