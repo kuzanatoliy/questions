@@ -14,7 +14,17 @@
 
 </details>
 
-How Node.js versioning is defined?
+<details>
+  <summary>How is NodeJS versioning defined?</summary>
+
+  There are two groups of NodeJS versions. First odd-numbered releases (9, 11, etc.), and second even-numbered or LTS releases (10, 12, etc.). LTS releases have long term support which typically guarantees that NodeJS developers will fix critical problems(bugs). As a result, the production application should use only LTS versions. There are follow life cycle periods:
+  Not supported - version is not supported anymore;
+  Current - version is in active development;
+  Active - version is recommended to use;
+  Maintenance - version is supported.
+
+</details>
+
 What types of modules are used/supported in Node.js?
 What is NPM and how to use it?What is package.json, its structure and purpose?
 What are NPM scripts and how to use them?
