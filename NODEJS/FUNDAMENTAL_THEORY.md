@@ -80,9 +80,16 @@
 
 ### Questions
 
-How does Node.js interact with asynchronous code?
-What is Node.js Event Loop?
-How does it work?What is EventEmitter and how does event system work in Node.js?
+<details>
+  <summary>What is NodeJS Event Loop?</summary>
+
+  The event loop is the module that allows Node.js to perform non-blocking I/O operations - although JavaScript is single-threaded - by offloading operations to the system kernel whenever possible.
+  Since most modern kernels are multi-threaded, they can handle multiple operations executing in the background.
+  There are follow queues: timers, pending callbacks, idle, prepare, poll, check, close callbacks.
+
+</details>
+
+What is EventEmitter and how does event system work in Node.js?
 What is a memory leak and what causes it?
 How to work with filesystem in Node.js?
 What are the main pros and cons of interacting with filesystem synchronously and asynchoronously?
