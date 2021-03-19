@@ -77,6 +77,8 @@
 ## Events and Event Loop. Async Development Introduction
 
 ### Links
+[Event]https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/
+[Events](https://nodejs.org/api/events.html)
 
 ### Questions
 
@@ -89,9 +91,11 @@
 
 </details>
 
-What is EventEmitter and how does event system work in Node.js?
-What is a memory leak and what causes it?
-How to work with filesystem in Node.js?
-What are the main pros and cons of interacting with filesystem synchronously and asynchoronously?
-What is a Buffer? How can it be used?
-What is a Stream?What are the benefits of using them while interacting with filesystem?
+<details>
+  <summary>What is EventEmitter? How does the event system work in NodeJS?</summary>
+
+  All objects that emit events are instances of the EventEmitter class. These objects expose an ```eventEmitter.on()``` function that allows one or more functions to be attached to named events emitted by the object. Typically, event names are camel-cased strings but any valid JavaScript property key can be used.
+  When the EventEmitter object emits an event, all of the functions attached to that specific event are called synchronously. Any values returned by the called listeners are ignored and discarded.
+  The following example shows a simple EventEmitter instance with a single listener. The ```eventEmitter.on()``` method is used to register listeners, while the ```eventEmitter.emit()``` method is used to trigger the event.
+
+</details>
