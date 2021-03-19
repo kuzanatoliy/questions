@@ -7,6 +7,7 @@
 
 ### Links
 [NodeJS Releases](https://nodejs.org/en/about/releases/)
+[NPM docs](https://docs.npmjs.com/about-npm)
 
 ### Questions
 
@@ -60,7 +61,16 @@
   <summary>What are NPM scripts? How to use them?</summary>
   
   The scripts property of a package.json file contains scripts that can be run by ```npm run <stage>```. Also, It is possible to use pre and post commands as prepare, prepublish, prepublishOnly and .etc.
-  What are package dependencies and what are their main types?
+
+</details>
+
+<details>
+  <summary>What are package dependencies? What are their main types?</summary>
+  
+  Dependencies are a list of external modules that a project uses.
+  NodeJS contains two dependency types:
+  1. Dependencies should have dependencies that the production mode will use.
+  2. devDependencies should have dependencies that will be used in development. For example, linter, bable and etc.
 
 </details>
 
