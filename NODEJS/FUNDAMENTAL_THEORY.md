@@ -56,8 +56,13 @@
 
 </details>
 
-What are NPM scripts and how to use them?
-What are package dependencies and what are their main types?
+<details>
+  <summary>What are NPM scripts? How to use them?</summary>
+  
+  The scripts property of a package.json file contains scripts that can be run by ```npm run <stage>```. Also, It is possible to use pre and post commands as prepare, prepublish, prepublishOnly and .etc.
+  What are package dependencies and what are their main types?
+
+</details>
 
 ## Events and Event Loop. Async Development Introduction
 
