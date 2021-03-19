@@ -40,10 +40,15 @@
   Local modules are modules created locally in your Node.js application. These modules include different functionalities of your application in separate files and folders. You can also package it and distribute it via NPM. For example, if it is needed to connect to MongoDB and fetch data, it will be possible to create a reusable module.
   Third-Party Modules are modules that are possible to import from NPM.
 
+</details>
+
+<details>
+  <summary>What is NPM? How to use it?</summary>
+
+  Node Package Manager (NPM) is a command-line tool that installs, updates or uninstalls Node.js packages in your application. It is also an online repository for open-source Node.js packages. The node community around the world creates modules and publishes them as packages in this repository. Npm allows installing, uninstalling and updating packages.
 
 </details>
 
-What is NPM and how to use it?
 What is package.json, its structure and purpose?
 What are NPM scripts and how to use them?
 What are package dependencies and what are their main types?
