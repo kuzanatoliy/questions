@@ -1,8 +1,12 @@
 # Fundamental theory
 
+## Links
+[NodeJS Tutorial](https://www.tutorialsteacher.com/nodejs/nodejs-tutorials)
+
 ## Node.js introduction. Modules. NPM
 
 ### Links
+[NodeJS Releases](https://nodejs.org/en/about/releases/)
 
 ### Questions
 
@@ -25,8 +29,22 @@
 
 </details>
 
-What types of modules are used/supported in Node.js?
-What is NPM and how to use it?What is package.json, its structure and purpose?
+<details>
+  <summary>What types of modules are used/supported in NodeJS?</summary>
+  
+  NodeJS includes three types of modules:
+  1. Core Modules
+  2. Local Modules
+  3. Third-Party Modules
+  The core modules include the bare minimum functionalities of NodeJS. Core modules are compiled into their binary distribution and automatically load when NodeJS starts the process. However, it is required to import the core module first to use it in your application.
+  Local modules are modules created locally in your Node.js application. These modules include different functionalities of your application in separate files and folders. You can also package it and distribute it via NPM. For example, if it is needed to connect to MongoDB and fetch data, it will be possible to create a reusable module.
+  Third-Party Modules are modules that are possible to import from NPM.
+
+
+</details>
+
+What is NPM and how to use it?
+What is package.json, its structure and purpose?
 What are NPM scripts and how to use them?
 What are package dependencies and what are their main types?
 
