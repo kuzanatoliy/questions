@@ -49,7 +49,13 @@
 
 </details>
 
-What is package.json, its structure and purpose?
+<details>
+  <summary>What is package.json, it is structure and purpose?</summary>
+
+  Package.json file contains information about an application: name, version, dependencies, and etc. Each directory in the file is interpreted as a NodeJS package.
+
+</details>
+
 What are NPM scripts and how to use them?
 What are package dependencies and what are their main types?
 
