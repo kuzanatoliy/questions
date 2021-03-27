@@ -53,6 +53,7 @@
 ### Links
 [Express docs](https://expressjs.com)
 [Express middlewares](http://expressjs.com/en/guide/using-middleware.html#middleware.application)
+[Express validator docs](https://express-validator.github.io/docs/)
 
 ### Questions
 
@@ -136,11 +137,15 @@
 </details>
 
 <details>
-  <summary>How to handlw request and response in Express?</summary>
+  <summary>How to handle request and response in Express?</summary>
 
   Each middleware has request and response objects and can work with them. Moreover, there is a next callback that allows moving to the next one.
 
 </details>
 
-How to setup a validation in Express?
-What are the main types of validation?
+<details>
+  <summary>How to set up validation in Express?</summary>
+
+  It is possible to create middleware that will check data. Moreover, it is possible to use one of the validation libraries. For example, the express-validation library allows using powerful functionality for the creation of effective validation handling.
+
+</details>
