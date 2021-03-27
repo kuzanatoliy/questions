@@ -54,8 +54,27 @@
 
 ### Questions
 
-How to create basic CRUD RESTful service in Node.js?
+<details>
+  <summary>How to create basic CRUD RESTful service in NodeJS?</summary>
+
+  Firstly, to create and install dependencies for the application.
+  Secondly, create one of the variants of the servers(HTTP, HTTPS or HTTP2).
+  Next step, creation of an API. Into RESTful API is possible to use HTTP headers and paths for indication of what operation is.
+  For example, imagine that we have CRUD RESTful API for working with users profile. In this case, creating the following endpoints:
+
+    GET: /users -> get full list of users;
+    GET: /user/{id} -> get user by id;
+    POST: /users -> create new one user;
+    PUT: /user/{id} -> update user data;
+    DELETE: /user/{id} -> delete user;
+
+  So, request artefacts describe what operation will be using. Moreover, it is possible to use one of the NodeJS frameworks like Express, Nest and etc.
+
+</details>
+
 What is Express and how does it help to create services?
-What is a middleware and how it is used in Express?How to setup routing in Express?
+What is a middleware and how it is used in Express?
+How to setup routing in Express?
 How to handle requests and responses in Express?
-How to setup a validation in Express? What are the main types of validation?
+How to setup a validation in Express?
+What are the main types of validation?
