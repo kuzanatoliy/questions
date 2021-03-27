@@ -135,6 +135,12 @@
 
 </details>
 
-How to handle requests and responses in Express?
+<details>
+  <summary>How to handlw request and response in Express?</summary>
+
+  Each middleware has request and response objects and can work with them. Moreover, there is a next callback that allows moving to the next one.
+
+</details>
+
 How to setup a validation in Express?
 What are the main types of validation?
