@@ -128,7 +128,13 @@
 
 </details>
 
-How to setup routing in Express?
+<details>
+  <summary>How to set up routing in express?</summary>
+  
+  Express has a few functions like .use, .get, .post, etc. that allows setting paths and middlewares.
+
+</details>
+
 How to handle requests and responses in Express?
 How to setup a validation in Express?
 What are the main types of validation?
