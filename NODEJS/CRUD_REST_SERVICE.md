@@ -72,7 +72,14 @@
 
 </details>
 
-What is Express and how does it help to create services?
+<details>
+  <summary>What is Express? How does it help to create services?</summary>
+
+  Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications. Many popular frameworks use 'Express' as a base of their functionality (NestJS, Kraken, etc.).
+  Express allows functionality that manages request processing more comfortable than the native way. Moreover, express has additional libraries that decrease his opportunity, for example, body-parser, etc. Especially, express is effective for working with RESTful API.
+
+</summary>
+
 What is a middleware and how it is used in Express?
 How to setup routing in Express?
 How to handle requests and responses in Express?
