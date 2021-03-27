@@ -46,11 +46,13 @@
   
   So, It is possible to use WebSockets in NodeJS with external packages as ws or socket.io.
 
-</detauls>
+</details>
 
 ## Middleware. Frameworks. Validation
 
 ### Links
+[Express docs](https://expressjs.com)
+[Express middlewares](http://expressjs.com/en/guide/using-middleware.html#middleware.application)
 
 ### Questions
 
@@ -75,12 +77,57 @@
 <details>
   <summary>What is Express? How does it help to create services?</summary>
 
-  Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications. Many popular frameworks use 'Express' as a base of their functionality (NestJS, Kraken, etc.).
+  Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications. Many popular frameworks use Express as a base of their functionality (NestJS, Kraken, etc.).
   Express allows functionality that manages request processing more comfortable than the native way. Moreover, express has additional libraries that decrease his opportunity, for example, body-parser, etc. Especially, express is effective for working with RESTful API.
 
-</summary>
+</details>
 
-What is a middleware and how it is used in Express?
+<details>
+  <summary>What is middleware? How is it used in Express?</summary>
+
+  Middleware is a function that has access to the request and the response objects and the next middleware function from the application request-response cycle.
+  Middleware functions can perform the following tasks:
+  
+  * Execute any code.
+  * Make changes to the request and the response objects.
+  * End the request-response cycle.
+  * Call the next middleware function in the stack.
+  
+  An Express application can use the following types of middleware:
+  
+  Application-level middleware: middleware that works on the application level, for example:
+	
+    var express = require('express')
+	  var app = express()
+	  app.use(function (req, res, next) {
+  		console.log('Time:', Date.now())
+  		next()
+	  });
+  
+  Router-level middleware: middleware that works on the router level, for example:
+	  
+    var express = require('express')
+	  var app = express()
+	  var router = express.Router()
+	  router.use(function (req, res, next) {
+  		  console.log('Time:', Date.now())
+  		  next()
+	  });
+	  app.use(router);
+
+  Error-handling middleware: middleware that has an error object in the arguments, for example:
+	
+    app.use(function (err, req, res, next) {
+  		  console.error(err.stack)
+  		  res.status(500).send('Something broke!')
+	  });
+
+  Built-in middleware: middleware that moved into external libraries from 4.16.0+ express version, for example, express.static.
+
+  Third-party middleware.
+
+</details>
+
 How to setup routing in Express?
 How to handle requests and responses in Express?
 How to setup a validation in Express?
