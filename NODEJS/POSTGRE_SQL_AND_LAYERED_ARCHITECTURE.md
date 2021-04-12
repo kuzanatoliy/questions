@@ -5,6 +5,7 @@
 ## Layered Style Guides. Back-End Patterns
 
 ### Links
+[Organize Node.js API project using 3-layer architecture](https://bytearcher.com/articles/node-project-structure/#:~:text=The%20project%20is%20structured%20into,below%20it%2C%20never%20above%20it.)
 
 ### Questions
 
@@ -15,7 +16,20 @@
 
 </details>
 
-What is 3 Layer approach in Node.js application?
+<details>
+  <summary>What is the 3 Layer approach in the Node.js application?</summary>
+  
+  It is a base situation when a code structure of a NodeJS application splits into three layers: API, Service and Integration. In this case, each of the layers has a specific responsibility and depends on one below layer.
+  API layer:
+  The responsibility of the API layer is receiving HTTP requests and parsing payload. Besides, the layer responsible for creating a response. So, this layer gets data and prepares and moves it to the service layer. When it comes back to a result, the layer transforms it, adding HTTP artefacts to a response, for example, express library work on the API layer.
+  Service layer:
+  The service layer is responsible for performing business logic. So, on the layer, it is needed to implement business requirements and rules. If the layer needs data outside the system, it uses an integration layer. 
+  Integration layer:
+  The integration layer is responsible for performing I/O outside the application. For example, requests to 3rd party web APIs and talks to databases and file systems.
+  In my opinion, using these layers allows using independent unit tests, having a more clean codebase, and doing change into one of the layers without changing others.
+
+</details>
+
 What is Data Mapper pattern and how it could be applied in Node.js application?
 What is Repository pattern and how it could be applied in Node.js application?
 What is Components approach in Node.js application?
