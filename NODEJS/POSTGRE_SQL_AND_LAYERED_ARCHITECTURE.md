@@ -30,7 +30,18 @@
 
 </details>
 
-What is Data Mapper pattern and how it could be applied in Node.js application?
+<details>
+  <summary>What is the Data Mapper pattern? How is it possible to apply?</summary>
+  
+  It is one of the programming patterns that splits data(object) and database functionality. The responsibility of the data mapper pattern is communication between the application and database. Moreover, the data objects don't know anything about SQL and are responsible only for their logic.
+  Advantages:
+  * Each object has its responsibility and is as easy as possible.
+  * The logic of the data object and getting/setting data have a weak dependency. As a result mapper or object could be replaced easily.
+  Disadvantages:
+  * Increase count of entities and code complexity.
+
+</details>
+
 What is Repository pattern and how it could be applied in Node.js application?
 What is Components approach in Node.js application?
 
