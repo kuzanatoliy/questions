@@ -51,15 +51,20 @@
   The next one is the Repository as a list of requests to the database.
 </details>
 
-What is Components approach in Node.js application?
-
 ## SQL Databases. ORM
 
 ### Links
+[What a Relational Database is](https://www.oracle.com/database/what-is-a-relational-database/)
 
 ### Questions
 
-What is a relational database?
+<details>
+  <summary>What is a relational database?</summary>
+  
+  A relational database is a type of database that stores and provides access to data points. That data is related to one another. The relational model is a base of relational databases, an intuitive, straightforward way of representing data in tables. There each row in the tables is a record with a unique ID called the key. The columns of the table hold attributes of the data, and each record usually has a value, making it easy to establish the relationships among data points.
+
+</details>
+
 What are the main principles of data modeling?
 What are the main possibilities/operations of SQL?
 How to work with SQL databases using native Node.js driver?
