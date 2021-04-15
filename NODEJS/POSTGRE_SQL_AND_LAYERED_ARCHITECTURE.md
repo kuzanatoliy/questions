@@ -42,7 +42,15 @@
 
 </details>
 
-What is Repository pattern and how it could be applied in Node.js application?
+<details>
+  <summary>What is a Repository pattern? How is it possible to apply?</summary>
+
+  It is one of the programming patterns. It is a mediator between the data access layer and domain objects.
+  Two frequently ways:
+  Firstly, Generic Repository. In this case, this pattern is an attempt to abstract from using specific ORM. In my personal opinion, this way is useless because it is impossible to work with the unique functionality of ORM and have to spend additional time to implement versions of the Repository for a few ORM.
+  The next one is the Repository as a list of requests to the database.
+</details>
+
 What is Components approach in Node.js application?
 
 ## SQL Databases. ORM
