@@ -55,6 +55,7 @@
 
 ### Links
 [What a Relational Database is](https://www.oracle.com/database/what-is-a-relational-database/)
+[Database normalization](https://en.wikipedia.org/wiki/Database_normalization)
 
 ### Questions
 
@@ -65,7 +66,17 @@
 
 </details>
 
-What are the main principles of data modeling?
+<details>
+  <summary>What are the main principles of data modelling?</summary>
+  
+  Data of the database should be not conflicting and understandable. A good database structure should correspond to the 'normal forms'.
+  Database normalization is the process of structuring a database, usually a relational database, following a series of so-called 'normal forms' to reduce data redundancy and improve data integrity.
+  1NF: The values in each column of a table must be atomic.
+  2NF: Each attribute should depend on only the primary key.
+  3NF: The table should not have transitive functional dependencies.
+
+<details>
+
 What are the main possibilities/operations of SQL?
 How to work with SQL databases using native Node.js driver?
 What is ORM? What are the main ORM concepts?How to work with Sequelize ORM?
