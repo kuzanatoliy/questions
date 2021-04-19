@@ -75,8 +75,17 @@
   2NF: Each attribute should depend on only the primary key.
   3NF: The table should not have transitive functional dependencies.
 
-<details>
+</details>
 
-What are the main possibilities/operations of SQL?
+<details>
+  <summary>What are the main possibilities/operations of SQL?</summary>
+  
+  ```SELECT```: getting data from the database.
+  ```INSERT```: create a new row into the database table.
+  ```UPDATE```: update a row into the database table.
+  ```DELETE```: remove a row into the database table.
+
+</details>
+
 How to work with SQL databases using native Node.js driver?
 What is ORM? What are the main ORM concepts?How to work with Sequelize ORM?
