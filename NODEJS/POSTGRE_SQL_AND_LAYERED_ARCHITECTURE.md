@@ -56,6 +56,8 @@
 ### Links
 [What a Relational Database is](https://www.oracle.com/database/what-is-a-relational-database/)
 [Database normalization](https://en.wikipedia.org/wiki/Database_normalization)
+[mssql](https://www.npmjs.com/package/mssql)
+[mysql](https://www.npmjs.com/package/mysql2)
 
 ### Questions
 
@@ -87,5 +89,11 @@
 
 </details>
 
-How to work with SQL databases using native Node.js driver?
+<details>
+  <summary>How to work with SQL databases using native Node.js driver?</summary>
+  
+  It is possible to work with a less level package as mysql2 or mssql.
+
+</details>
+
 What is ORM? What are the main ORM concepts?How to work with Sequelize ORM?
