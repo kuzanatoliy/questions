@@ -96,4 +96,10 @@
 
 </details>
 
-What is ORM? What are the main ORM concepts?How to work with Sequelize ORM?
+<details>
+  <summary>What is Sequelize ORM?</summary>
+  
+  Sequelize is a promise-based Node.js ORM for Postgres, MySQL, MariaDB, SQLite and Microsoft SQL Server. It features solid transaction support, relations, eager and lazy loading, read replication and more.
+
+<details>
+
