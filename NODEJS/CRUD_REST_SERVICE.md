@@ -63,7 +63,7 @@
   Firstly, to create and install dependencies for the application.
   Secondly, create one of the variants of the servers(HTTP, HTTPS or HTTP2).
   Next step, creation of an API. Into RESTful API is possible to use HTTP headers and paths for indication of what operation is.
-  For example, imagine that we have CRUD RESTful API for working with users profile. In this case, creating the following endpoints:
+  For example, imagine that we have a CRUD RESTful API for working with users' profiles. In this case, creating the following endpoints:
 
     GET: /users -> get full list of users;
     GET: /user/{id} -> get user by id;
@@ -71,7 +71,7 @@
     PUT: /user/{id} -> update user data;
     DELETE: /user/{id} -> delete user;
 
-  So, request artefacts describe what operation will be using. Moreover, it is possible to use one of the NodeJS frameworks like Express, Nest and etc.
+  So, request artefacts describe what operation will have been using. Moreover, it is possible to use one of the NodeJS frameworks like Express, Nest, etc.
 
 </details>
 
@@ -79,7 +79,7 @@
   <summary>What is Express? How does it help to create services?</summary>
 
   Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications. Many popular frameworks use Express as a base of their functionality (NestJS, Kraken, etc.).
-  Express allows functionality that manages request processing more comfortable than the native way. Moreover, express has additional libraries that decrease his opportunity, for example, body-parser, etc. Especially, express is effective for working with RESTful API.
+  Express allows functionality that manages request processing more comfortable than the native way. Moreover, express has additional libraries that decrease his opportunity, for example, body-parser, etc. Express is effective for working with RESTful API.
 
 </details>
 
