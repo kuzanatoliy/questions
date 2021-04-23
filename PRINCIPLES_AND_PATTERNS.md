@@ -1,6 +1,6 @@
 # Principles and patterns
 
-### SOLID
+## SOLID
 
 <details>
   <summary>What do you know about SOLID?</summary>
@@ -9,7 +9,7 @@
 
 </details>
 
-### KISS
+## KISS
 
 <details>
   <summary>What is KISS?</summary>
@@ -18,7 +18,7 @@
 
 </details>
 
-### DRY
+## DRY
 
 <details>
   <summary>What is DRY?</summary>
@@ -27,7 +27,7 @@
 
 </details>
 
-### YAGNI
+## YAGNI
 
 <details>
   <summary>What do you know about KISS?</summary>
@@ -36,9 +36,15 @@
 
 </details>
 
-### Design patterns
+## Design patterns
 
-#### Creational patterns
+### Links
+
+### Creational patterns
+
+#### Links
+
+#### Questions
 
 <details>
   <summary>What is Factory Method?</summary>
@@ -75,7 +81,11 @@
 
 </details>
 
-#### Structural patterns
+### Structural patterns
+
+#### Links
+
+#### Questions
 
 <details>
   <summary>What is Adapter?</summary>
@@ -126,7 +136,11 @@
 
 </details>
 
-#### Behavioral patterns
+### Behavioral patterns
+
+#### Links
+
+#### Questions
 
 <details>
   <summary>What is Chain of Responsibility?</summary>
