@@ -30,9 +30,9 @@
 ## YAGNI
 
 <details>
-  <summary>What do you know about KISS?</summary>
+  <summary>What is YAGNI?</summary>
 
-  In progress ...
+  YAGNI or you aren’t gonna need it is one of the design principles. YAGNI says that the programmer should not implement functionality if it is not necessary. There are a few reasons. Firstly, a customer does not have to pay for something that is not needed for him. Secondary, additional functionality could increase the development difficulty of other features.
 
 </details>
 
