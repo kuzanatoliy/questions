@@ -40,6 +40,15 @@
 
 ### Links
 
+### Questions
+
+<details>
+  <summary>What are design patterns?</summary>
+
+  Design patterns are standard solutions to common problems in a software design. Each design pattern provides a customized blueprint for exacting problems. As a result, you cannot copy a pattern in your program, but you can use it as a design solution to your problem. The design patterns could be confused with algorithms because both concepts describe standard solutions to some known targets. But while an algorithm has always defined a clear set of actions, a pattern is a more high-level description of a solution.
+
+</details>
+
 ### Creational patterns
 
 #### Links
