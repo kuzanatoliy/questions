@@ -7,6 +7,7 @@
 ### Links
 [What is NoSQL?](https://aws.amazon.com/nosql/?nc1=h_ls)
 [mongodb](https://www.npmjs.com/package/mongodb)
+[mongoose](https://www.npmjs.com/package/mongoose)
 
 ### Questions
 
@@ -48,12 +49,18 @@
 <details>
   <summary>How to work with MongoDB in Node.js using a native driver?</summary>
 
-  Firstly, it is possible to install the package of the native driver into dependencies.
+  It is possible to install the package of the native driver into dependencies.
 
 </details>
 
 What is ODM? What are the main ODM concepts?
-How to work with MongoDB in Node.js using Mongoose ODM?
+
+<details>
+  <summary>How to work with MongoDB in Node.js using Mongoose ODM?</summary>
+  
+  It is possible to install the package of the Mongoose into dependencies.
+
+</details>
 
 ## Asynchronous Network API
 
