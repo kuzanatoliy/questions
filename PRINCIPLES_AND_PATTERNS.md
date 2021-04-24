@@ -3,9 +3,13 @@
 ## SOLID
 
 <details>
-  <summary>What do you know about SOLID?</summary>
+  <summary>What is SOLID?</summary>
 
-  In progress ...
+  The single responsibility principle - each class should have only one responsibility that encapsulates in this class.
+  The open-closed principle - each entity should be open for expansion and be closed for modification.
+  The Liskov substitution principle - any subclass should supplement the parent class but not change it.
+  The interface segregation principle - a few separate interfaces are better than one combined interface.
+  The dependency inversion principle - dependencies should be only on abstractions.
 
 </details>
 
