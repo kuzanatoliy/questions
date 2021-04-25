@@ -70,8 +70,17 @@
 ## Asynchronous Network API
 
 ### Links
+[Net](https://nodejs.org/api/net.html)
 
 ### Questions
 
-How to work with TCP in Node.js?
+<details>
+  <summary>How to work with TCP in Node.js?</summary>
+  
+  It is possible to use the Net package for working with TCP protocol.
+  Create server: ```net.createServer(...)```
+  Create connection: ```net.createConnection(...)```
+
+</details>
+
 How does Node.js handle IPC using native modules?
