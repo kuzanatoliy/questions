@@ -76,11 +76,16 @@
 
 <details>
   <summary>How to work with TCP in Node.js?</summary>
-  
+
   It is possible to use the Net package for working with TCP protocol.
   Create server: ```net.createServer(...)```
   Create connection: ```net.createConnection(...)```
 
 </details>
 
-How does Node.js handle IPC using native modules?
+<details>
+  <summary>How does Node.js handle IPC using native modules?</summary>
+
+  The same way as for TCP but instead of port and host params using a path.
+
+</details>
