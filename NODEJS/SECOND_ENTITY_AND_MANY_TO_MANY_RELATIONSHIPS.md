@@ -53,7 +53,12 @@
 
 </details>
 
-What is ODM? What are the main ODM concepts?
+<details>
+  <summary>What is ODM? What are the main ODM concepts?</summary>
+  
+  Object-document mapping is the same programming technique as ORM but works with documents into NoSQL databases.
+
+</details>
 
 <details>
   <summary>How to work with MongoDB in Node.js using Mongoose ODM?</summary>
