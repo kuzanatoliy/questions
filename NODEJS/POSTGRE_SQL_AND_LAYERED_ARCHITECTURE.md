@@ -97,9 +97,16 @@
 </details>
 
 <details>
+  <summary>What is ORM? What are the main ORM concepts?</summary>
+  
+  Object-relational mapping in computer science is a programming technique for converting data between incompatible type systems using object-oriented programming languages. It creates, in effect, a "virtual object database" that works from within the programming language.
+
+</details>
+
+<details>
   <summary>What is Sequelize ORM?</summary>
   
   Sequelize is a promise-based Node.js ORM for Postgres, MySQL, MariaDB, SQLite and Microsoft SQL Server. It features solid transaction support, relations, eager and lazy loading, read replication and more.
 
-<details>
+</details>
 
