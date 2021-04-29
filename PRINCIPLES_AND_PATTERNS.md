@@ -296,6 +296,16 @@
 ### Behavioral patterns
 
 #### Links
+[Chain of responsibility](https://refactoring.guru/design-patterns/chain-of-responsibility)
+[Command](https://refactoring.guru/design-patterns/command)
+[Iterator](https://refactoring.guru/design-patterns/iterator)
+[Mediator](https://refactoring.guru/design-patterns/mediator)
+[Memento](https://refactoring.guru/design-patterns/memento)
+[Observer](https://refactoring.guru/design-patterns/observer)
+[State](https://refactoring.guru/design-patterns/state)
+[Strategy](https://refactoring.guru/design-patterns/strategy)
+[Template method](https://refactoring.guru/design-patterns/template-method)
+[Visitor](https://refactoring.guru/design-patterns/visitor)
 
 #### Questions
 
