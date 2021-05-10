@@ -13,7 +13,13 @@
 
 </details>
 
-How to log entities in Node.js?
+<details>
+  <summary>How to log entities in Node.js?</summary>
+
+  It is possible to use one of the most popular logging libraries as Winston or Debug. It is necessary to configure the logger and import function into the code and call function.
+
+</details>
+
 What are the main levels of loging used in Node.js?
 What are pros and cons of the main Node.js loggers?
 What are the main error types in Node.js?
