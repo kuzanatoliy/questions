@@ -3,6 +3,8 @@
 ## Logging. Error Handling
 
 ### Links
+[Debug](https://www.npmjs.com/package/debug)
+[Winston](https://www.npmjs.com/package/winston)
 
 ### Questions
 
@@ -20,7 +22,18 @@
 
 </details>
 
-What are the main levels of loging used in Node.js?
+<details>
+  <summary>What are the base levels of logging used in Node.js?</summary>
+
+  In the usual situation, NodeJS application has the following levels:
+  Debug - fine-grained informational events that are most useful to debug an application.
+  Info - informational messages that highlight the progress of the application at a coarse-grained level.
+  Warn - potentially harmful situations.
+  Error - error events that might still allow the application to continue running.
+  Fatal - very severe error events that will presumably lead the application to abort.
+
+</details>
+
 What are pros and cons of the main Node.js loggers?
 What are the main error types in Node.js?
 How to setup error handling in Node.js?
