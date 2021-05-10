@@ -6,6 +6,13 @@
 
 ### Questions
 
+<details>
+  <summary>What are logs?</summary>
+  
+  Logs are the events that reflect the various aspect of an application. It is the mode of troubleshooting and diagnosing your application if written correctly by the team.
+
+</details>
+
 How to log entities in Node.js?
 What are the main levels of loging used in Node.js?
 What are pros and cons of the main Node.js loggers?
