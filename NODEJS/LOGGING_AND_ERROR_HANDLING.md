@@ -4,6 +4,7 @@
 
 ### Links
 [Debug](https://www.npmjs.com/package/debug)
+[Debug-levels](https://www.npmjs.com/package/debug-levels)
 [Winston](https://www.npmjs.com/package/winston)
 
 ### Questions
@@ -31,6 +32,19 @@
   Warn - potentially harmful situations.
   Error - error events that might still allow the application to continue running.
   Fatal - very severe error events that will presumably lead the application to abort.
+
+</details>
+
+<details>
+  <summary>What are the pros and cons of a debug logger?</summary>
+
+  Pros:
+  + It is a simple solution.
+  + A big community.
+  + Common solution for NodeJS and browser.
+  Cons:
+  - This logger doesn't have levels but can be extended by a debug-levels package.
+  - The output into an error stream.
 
 </details>
 
