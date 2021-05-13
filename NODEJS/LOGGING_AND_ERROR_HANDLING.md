@@ -7,6 +7,7 @@
 [Debug-levels](https://www.npmjs.com/package/debug-levels)
 [Winston](https://www.npmjs.com/package/winston)
 [Bunyan](https://www.npmjs.com/package/bunyan)
+[Error handling in NodeJS](https://nodejs.dev/learn/error-handling-in-nodejs)
 
 ### Questions
 
@@ -86,7 +87,49 @@
 
 </details>
 
-How to setup error handling in Node.js?
+<details>
+  <summary>How to set up error handling in Node.js?</summary>
+
+  Creating exceptions:
+
+    throw value
+
+  Error objects:
+
+    throw new Error('Ran out of coffee')
+
+  or
+
+    class NotEnoughCoffeeError extends Error {
+      //...
+    }
+    throw new NotEnoughCoffeeError()
+
+  Handling exeptions:
+
+    try {
+      //lines of code
+    } catch (e) {}
+
+  Exceptions with promise:
+
+    doSomething1()
+      .then(doSomething2)
+      .then(doSomething3)
+      .catch(err => console.error(err))
+
+  Error handling with async/await:
+
+    async function someFunction() {
+      try {
+        await someOtherFunction()
+      } catch (err) {
+        console.error(err.message)
+      }
+    }
+
+</details>
+
 What is an uncaught exception in Node.js and how to handle it?
 
 ## Command Line. Debugging
