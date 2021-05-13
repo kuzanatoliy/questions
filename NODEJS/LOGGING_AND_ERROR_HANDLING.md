@@ -38,6 +38,7 @@
 <details>
   <summary>What are the pros and cons of a debug logger?</summary>
 
+  Debug is a tiny JavaScript debugging utility modelled after Node.js core's debugging technique. Works in Node.js and web browsers.
   Pros:
   + It is a simple solution.
   + A big community.
