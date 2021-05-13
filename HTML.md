@@ -60,6 +60,7 @@
   Loading of a web page starts from a request for an HTML document. After that, a browser parse parts of the gotten documents and generate the document object model. When the browser finds a link to external sources as styles, images or scripts, it requests a new resource. Part of the requests could be blocking (It meant that browser stop other actions before those requests are loading). Next browser builds a CSS object model. After that, the browser generates a render tree where consulate styles for each element on the page. Next is a layout stage that defines elements positions on the web page. And finally, browser paint web page.
 
   In details:
+
   1. The Document Object Model is defined from tokens those were gotten from responses in HTML view and turn into nodes. They start from the start tag and end to end tag. Nodes content all necessary information about the HTML element and have a connection with render three through tokens. Note: Time of document processing depends on the count of nodes.
   2. Download styles and build the CSS Object Model (CSSOM). It contents nodes with CSS styles of elements.
   3. After that, the browser forms render tree from the DOM and the CSSOM. The render tree duplicates DOM without invisible elements as the head. Render tree's nodes contain the DOM element or text element and style.
@@ -69,6 +70,7 @@
   *Repaint* - happen when styles are changed, but proportions and position are not changed browser just repaint it.
 
   *Reflow* - happen when proportions and positions are changed. It could happen from the reasons:
+
   * DOM manipulation (add, remove, change of nodes);
   * Content changing;
   * Calculation and changing of CSS properties;
@@ -104,6 +106,7 @@
   <summary>Why are semantic tags needed?</summary>
 
   There are a few reasons:
+
   * Firstly, semantic tags allow implementing HTML pages with better structure;
   * Secondly, these tags have meaning, that allows boots to made more effective working process.
 
