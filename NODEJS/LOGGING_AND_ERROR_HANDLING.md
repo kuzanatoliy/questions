@@ -28,10 +28,15 @@
   <summary>What are the base levels of logging used in Node.js?</summary>
 
   In the usual situation, NodeJS application has the following levels:
+
   Debug - fine-grained informational events that are most useful to debug an application.
+
   Info - informational messages that highlight the progress of the application at a coarse-grained level.
+
   Warn - potentially harmful situations.
+
   Error - error events that might still allow the application to continue running.
+
   Fatal - very severe error events that will presumably lead the application to abort.
 
 </details>
@@ -40,11 +45,15 @@
   <summary>What are the pros and cons of a debug logger?</summary>
 
   Debug is a tiny JavaScript debugging utility modelled after Node.js core's debugging technique. Works in Node.js and web browsers.
+
   Pros:
+
   + It is a simple solution.
   + A big community.
   + Common solution for NodeJS and browser.
+
   Cons:
+
   - This logger doesn't have levels but can be extended by a debug-levels package.
   - The output into an error stream.
 
@@ -54,6 +63,7 @@
   <summary>What are the pros and cons of a bunyan logger?</summary>
 
   Prons:
+
   + Use JSON format.
   + Has logger levels.
   + Configure output streams.
