@@ -11,6 +11,7 @@
   <summary>What is the difference between element and component?</summary>
 
   Each React element is an object view of a user interface part.
+
   Each component is a function or class that gets data and returns a React element.
 
 </details>
@@ -19,6 +20,7 @@
   <summary>When class components should be used without function components?</summary>
 
   Class components are used if it has to work with state and life cycle methods. For all of the other cases have to be used function components. One of the most important reasons to use a functional style is a minimization process. It is easier to minimize functions then classes.
+
   *Note*: Last versions of the React allows using hooks for a rendering optimization and a state using.
 
 </details>
@@ -27,6 +29,7 @@
   <summary>What are refs in React?</summary>
 
   A ref is an optional component's param that allows access to a DOM element or a component state. A value is a callback function that gets a link to the DOM element or the component as a first function argument.
+
   *Note:* It is bad practice to use ref. So, to use a callback mechanism for getting a child state property.
 
 </details>
@@ -58,9 +61,9 @@
   There are two lifecycle methods for AJAX requests.
   First and the best is componentDidMount.
   Second is componentWillMount. There are a few reasons why it is a bad idea:
+
   1. Firstly, there is not a conviction about when this method exactly would be called;
   2. There can be a situation when a request wouldn't resolve when a component tries to call setState or render a component.
-
 
 </details>
 
