@@ -62,8 +62,20 @@
 
 </details>
 
-What are pros and cons of the main Node.js loggers?
-What are the main error types in Node.js?
+<details>
+  <summary>What are the main error types in Node.js?</summary>
+
+  Applications running in Node.js will generally experience four categories of errors:
+  
+  * Standard JavaScript errors such as ```<EvalError>```, ```<SyntaxError>```, ```<RangeError>```, ```<ReferenceError>```, ```<TypeError>```, and ```<URIError>```.
+  * System errors.
+  * Custom application errors.
+  * AssertionErrors are a speciality class of errors that can be triggered when Node.js detects an exceptional logic violation that should never occur. These are raised typically by the assert module.
+  
+  All JavaScript and system errors raised by Node.js inherit from, or are instances of, the standard JavaScript <Error> class and are guaranteed to provide at least the properties available on that class.
+
+</details>
+
 How to setup error handling in Node.js?
 What is an uncaught exception in Node.js and how to handle it?
 
