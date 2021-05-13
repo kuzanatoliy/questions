@@ -16,7 +16,7 @@
 
   NodeJS is a programming platform for running JavaScript and turning the language into a common language. Also, NodeJS adds opportunities to communicate with output/input through NodeJS API and use external modules. The base using sphere is the development of web-servers. Moreover, NodeJS allows creating desktop applications(for example, it is possible to use Electron). NodeJS uses an event-driven model and async or reactive programming with not blocked output/input.
 
-  For using could be downloaded one of the NodeJS versions from the official website. Besides, it is possible to turn between versions with the nvm application.
+  For using, one of the NodeJS versions could be downloaded from the official website. Besides, it is possible to turn between versions with the nvm application.
 
 </details>
 
