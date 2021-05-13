@@ -130,7 +130,21 @@
 
 </details>
 
-What is an uncaught exception in Node.js and how to handle it?
+<details>
+  <summary>What is an uncaught exception in Node.js? How to handle it?</summary>
+
+  If an uncaught exception gets thrown during the execution of your program, your program will crash.
+
+  To solve this, you listen for the uncaughtException event on the process object:
+
+    process.on('uncaughtException', err => {
+      console.error('There was an uncaught error', err)
+      process.exit(1) //mandatory (as per the Node.js docs)
+    })
+
+  You don't need to import the process core module for this, as it's automatically injected.
+
+</details>
 
 ## Command Line. Debugging
 
