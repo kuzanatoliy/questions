@@ -20,12 +20,19 @@
   <summary>What is the 3 Layer approach in the Node.js application?</summary>
   
   It is a base situation when a code structure of a NodeJS application splits into three layers: API, Service and Integration. In this case, each of the layers has a specific responsibility and depends on one below layer.
+
   API layer:
+
   The responsibility of the API layer is receiving HTTP requests and parsing payload. Besides, the layer responsible for creating a response. So, this layer gets data and prepares and moves it to the service layer. When it comes back to a result, the layer transforms it, adding HTTP artefacts to a response, for example, express library work on the API layer.
+
   Service layer:
+
   The service layer is responsible for performing business logic. So, on the layer, it is needed to implement business requirements and rules. If the layer needs data outside the system, it uses an integration layer. 
+
   Integration layer:
+
   The integration layer is responsible for performing I/O outside the application. For example, requests to 3rd party web APIs and talks to databases and file systems.
+
   In my opinion, using these layers allows using independent unit tests, having a more clean codebase, and doing change into one of the layers without changing others.
 
 </details>
@@ -34,10 +41,14 @@
   <summary>What is the Data Mapper pattern? How is it possible to apply?</summary>
   
   It is one of the programming patterns that splits data(object) and database functionality. The responsibility of the data mapper pattern is communication between the application and database. Moreover, the data objects don't know anything about SQL and are responsible only for their logic.
+
   Advantages:
+
   * Each object has its responsibility and is as easy as possible.
   * The logic of the data object and getting/setting data have a weak dependency. As a result mapper or object could be replaced easily.
+
   Disadvantages:
+
   * Increase count of entities and code complexity.
 
 </details>
@@ -47,8 +58,11 @@
 
   It is one of the programming patterns. It is a mediator between the data access layer and domain objects.
   Two frequently ways:
+
   Firstly, Generic Repository. In this case, this pattern is an attempt to abstract from using specific ORM. In my personal opinion, this way is useless because it is impossible to work with the unique functionality of ORM and have to spend additional time to implement versions of the Repository for a few ORM.
+
   The next one is the Repository as a list of requests to the database.
+
 </details>
 
 ## SQL Databases. ORM
@@ -72,9 +86,13 @@
   <summary>What are the main principles of data modelling?</summary>
   
   Data of the database should be not conflicting and understandable. A good database structure should correspond to the 'normal forms'.
+
   Database normalization is the process of structuring a database, usually a relational database, following a series of so-called 'normal forms' to reduce data redundancy and improve data integrity.
+
   1NF: The values in each column of a table must be atomic.
+
   2NF: Each attribute should depend on only the primary key.
+
   3NF: The table should not have transitive functional dependencies.
 
 </details>
@@ -83,8 +101,11 @@
   <summary>What are the main possibilities/operations of SQL?</summary>
   
   ```SELECT```: getting data from the database.
+
   ```INSERT```: create a new row into the database table.
+
   ```UPDATE```: update a row into the database table.
+
   ```DELETE```: remove a row into the database table.
 
 </details>
@@ -109,4 +130,3 @@
   Sequelize is a promise-based Node.js ORM for Postgres, MySQL, MariaDB, SQLite and Microsoft SQL Server. It features solid transaction support, relations, eager and lazy loading, read replication and more.
 
 </details>
-
