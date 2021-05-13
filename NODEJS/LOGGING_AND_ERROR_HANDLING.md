@@ -6,6 +6,7 @@
 [Debug](https://www.npmjs.com/package/debug)
 [Debug-levels](https://www.npmjs.com/package/debug-levels)
 [Winston](https://www.npmjs.com/package/winston)
+[Bunyan](https://www.npmjs.com/package/bunyan)
 
 ### Questions
 
@@ -46,6 +47,18 @@
   Cons:
   - This logger doesn't have levels but can be extended by a debug-levels package.
   - The output into an error stream.
+
+</details>
+
+<details>
+  <summary>What are the pros and cons of a bunyan logger?</summary>
+
+  Prons:
+  + Use JSON format.
+  + Has logger levels.
+  + Configure output streams.
+  + Has CLI.
+  + Support runtime environments.
 
 </details>
 
