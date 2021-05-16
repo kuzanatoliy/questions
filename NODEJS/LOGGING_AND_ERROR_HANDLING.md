@@ -145,14 +145,3 @@
   You don't need to import the process core module for this, as it's automatically injected.
 
 </details>
-
-## Command Line. Debugging
-
-### Links
-
-### Questions
-
-How to work with CLI in Node.js?
-How to debug Node.js applications?
-What are the main approaches and solutions?
-How to debug Node.js applications with Chrome DevTools?
