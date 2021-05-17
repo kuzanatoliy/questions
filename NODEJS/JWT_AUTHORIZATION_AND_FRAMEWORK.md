@@ -4,6 +4,7 @@
 
 ### Links
 [Authentication vs authorization](https://medium.datadriveninvestor.com/authentication-vs-authorization-716fea914d55)
+[Passport docs](http://www.passportjs.org/docs/)
 
 ### Questions
 
@@ -24,7 +25,15 @@
 
 </details>
 
-How to setup authentication in Node.js service using Passport.js?
+<details>
+  <summary>How to set up authentication in the NodeJS service using Passport.js?</summary>
+  
+  Passport is authentication middleware for Node.js. Extremely flexible and modular. Any application based on express.js can use it. A comprehensive set of strategies support authentication using a username and password, Facebook, Twitter, and more.
+  
+  So for using, it is possible to install Passport.js and one or more strategies. For more look into documentation.
+
+</details>
+
 What is JWT and how it is used in authentication process?
 What instruments and solutions are used for improving security of Node.js applications?
 What is CORS and how does Node.js application can handle it?
