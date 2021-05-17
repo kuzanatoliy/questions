@@ -9,3 +9,5 @@
 [Second entity and many to many relationships](SECOND_ENTITY_AND_MANY_TO_MANY_RELATIONSHIPS.md)
 
 [Logging and error handling](LOGGING_AND_ERROR_HANDLING.md)
+
+[JWT authorization and framework](JWT_AUTHORIZATION_AND_FRAMEWORK.md)
