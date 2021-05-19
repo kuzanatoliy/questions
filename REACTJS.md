@@ -19,9 +19,9 @@
 <details>
   <summary>When class components should be used without function components?</summary>
 
-  Class components are used if it has to work with state and life cycle methods. For all of the other cases have to be used function components. One of the most important reasons to use a functional style is a minimization process. It is easier to minimize functions then classes.
+  It is possible to use class components if it has to work with state and life cycle methods. For all of the other cases, it is better to use the function component. One of the most important reasons to use a functional style is a minimization process. It is easier to minimize functions than classes.
 
-  *Note*: Last versions of the React allows using hooks for a rendering optimization and a state using.
+  *Note*: Last versions of React allows using hooks for rendering optimization and state using.
 
 </details>
 
@@ -56,7 +56,7 @@
 </details>
 
 <details>
-  <summary>What method of the life cycle should be used to call an AJAX request?</summary>
+  <summary>What method of the life cycle is better to use for calling an AJAX request?</summary>
 
   There are two lifecycle methods for AJAX requests.
   First and the best is componentDidMount.
@@ -68,14 +68,14 @@
 </details>
 
 <details>
-  <summary>Why shouldComponentUpdate is an important life cycle method?</summary>
+  <summary>Why do you need to use shouldComponentUpdate?</summary>
 
   The shouldComponentUpdate allows controlling the compressing process of the current and his children when there is a conviction that the component had not had to be changed. So, for it, shouldComponentUpdate has to return false.
 
 </details>
 
 <details>
-  <summary>How you can start to use production mode to React?</summary>
+  <summary>How can you start to use production mode to React?</summary>
 
   Could be used to DefinePlugin for Webpack. It allows setting NODE_ENV in production. For example, in this case, there will be cat propType validation and other warnings.
 
