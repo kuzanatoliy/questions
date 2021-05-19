@@ -8,6 +8,13 @@
 </details>
 
 <details>
+  <summary>What is Virtual DOM?</summary>
+
+  The virtual DOM is an in-memory representation of Real DOM. React creates an in-memory data structure cache, computes the resulting differences, and then updates the browser's displayed DOM efficiently. It allows the programmer to write code as if the entire page is rendered on each change, while the React libraries only render subcomponents that change.
+
+</details>
+
+<details>
   <summary>What happens when you call setState?</summary>
 
   Firstly, when setState function called, React contacts a state and new state props, after that to start the agreement process that allows updating a view in one of the most effective ways. For it React generates a new tree of React elements and a comparison of new and old trees between themselves. It allows knowing what changes.
