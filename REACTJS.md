@@ -1,5 +1,9 @@
 # ReactJS
 
+## Links
+
+### Questions
+
 <details>
   <summary>What is React?</summary>
 
@@ -11,6 +15,17 @@
   <summary>What is Virtual DOM?</summary>
 
   The virtual DOM is an in-memory representation of Real DOM. React creates an in-memory data structure cache, computes the resulting differences, and then updates the browser's displayed DOM efficiently. It allows the programmer to write code as if the entire page is rendered on each change, while the React libraries only render subcomponents that change.
+
+</details>
+
+<details>
+  <summary>What is the difference between state and props?</summary>
+
+  Both props and state are plain JavaScript objects. But they have different functionality.
+  
+  * The props get passed to the component similar to function parameters.
+  
+  * The React component can create the state object for the management of the inner state of it.
 
 </details>
 
