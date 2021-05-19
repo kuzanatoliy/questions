@@ -1,6 +1,13 @@
 # ReactJS
 
 <details>
+  <summary>What is React?</summary>
+
+  React is Facebook's open-source JS library for building complex interactive UI in web and mobile applications. React's core purpose is building UI components. Generally, it is possible to use just the view in an MVC architecture.
+
+</details>
+
+<details>
   <summary>What happens when you call setState?</summary>
 
   Firstly, when setState function called, React contacts a state and new state props, after that to start the agreement process that allows updating a view in one of the most effective ways. For it React generates a new tree of React elements and a comparison of new and old trees between themselves. It allows knowing what changes.
