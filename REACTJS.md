@@ -12,6 +12,13 @@
 </details>
 
 <details>
+  <summary>How does React work?</summary>
+
+  React creates a virtual DOM. When state changes in a component, it firstly runs a "diffing" algorithm, which identifies what has changed in the virtual DOM. The second step is reconciliation, where it updates the DOM with the results of diff.
+
+</details>
+
+<details>
   <summary>What is Virtual DOM?</summary>
 
   The virtual DOM is an in-memory representation of Real DOM. React creates an in-memory data structure cache, computes the resulting differences, and then updates the browser's displayed DOM efficiently. It allows the programmer to write code as if the entire page is rendered on each change, while the React libraries only render subcomponents that change.
@@ -19,9 +26,9 @@
 </details>
 
 <details>
-  <summary>How does React work?</summary>
+  <summary>What is JSX?</summary>
 
-  React creates a virtual DOM. When state changes in a component, it firstly runs a "diffing" algorithm, which identifies what has changed in the virtual DOM. The second step is reconciliation, where it updates the DOM with the results of diff.
+  JSX is a syntax extension to JavaScript and comes with the full power of JavaScript. JSX produces React "elements". You can embed any JS expression in JSX by wrapping it in curly braces. After compilation, JSX expressions become regular JavaScript objects.
 
 </details>
 
