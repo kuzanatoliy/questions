@@ -5,6 +5,7 @@
 ### Links
 [Authentication vs authorization](https://medium.datadriveninvestor.com/authentication-vs-authorization-716fea914d55)
 [Passport docs](http://www.passportjs.org/docs/)
+[JWT](https://jwt.io/introduction)
 
 ### Questions
 
@@ -31,6 +32,13 @@
   Passport is authentication middleware for Node.js. Extremely flexible and modular. Any application based on express.js can use it. A comprehensive set of strategies support authentication using a username and password, Facebook, Twitter, and more.
   
   So for using, it is possible to install Passport.js and one or more strategies. For more look into documentation.
+
+</details>
+
+<details>
+  <summary>What is a JSON Web Token?</summary>
+  
+  JSON Web Token (JWT) is an open standard (RFC 7519) that defines a compact and self-contained way for securely transmitting information between parties as a JSON object. This information can be verified and trusted because it is digitally signed.
 
 </details>
 

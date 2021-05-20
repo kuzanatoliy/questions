@@ -141,7 +141,7 @@
 </details>
 
 <details>
-  <summary>How to handle request and response in Express?</summary>
+  <summary>How to handle requests and responses in Express?</summary>
 
   Each middleware has request and response objects and can work with them. Moreover, there is a next callback that allows moving to the next one.
 
