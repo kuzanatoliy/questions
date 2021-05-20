@@ -66,7 +66,15 @@
 
 </details>
 
-What is JWT and how it is used in authentication process?
+<details>
+  <summary>How do JSON web Tokens work?</summary>
+
+  In authentication, when the user successfully logs in using their credentials, the server returns JWT. In general, you should not keep tokens longer than required.
+
+  Whenever the user wants to access a protected route or resource, the user agent should send the JWT, typically in the Authorization header using the Bearer schema.
+
+</details>
+
 What instruments and solutions are used for improving security of Node.js applications?
 What is CORS and how does Node.js application can handle it?
 
