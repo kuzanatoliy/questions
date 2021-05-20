@@ -140,6 +140,13 @@
 </details>
 
 <details>
+  <summary>What are children?</summary>
+  
+  In JSX expressions that contain both an opening tag and a closing tag, the content between those tags is passed to the component automatically as a prop: 'props.children'.
+
+</details>
+
+<details>
   <summary>Why should you use Peact.Children.map without props.children.map?</summary>
 
   Because there is not a conviction that children prop will be an array.
