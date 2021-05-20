@@ -78,6 +78,21 @@
 </details>
 
 <details>
+  <summary>What are the different phases of the React component lifecycle?</summary>
+
+  There are four phases of React component's lifecycle:
+  
+  * Initialization: In this phase, a react component prepares settings up the initial state and default props.
+  
+  * Mounting: The react component is ready to mount in the browser DOM. This phase covers componentWillMount and componentDidMount lifecycle methods.
+  
+  * Updating: In this phase, the component gets updated in two ways, sending the new props and updating the state. This phase covers shouldComponentUpdate, componentWillUpdate and componentDidUpdate lifecycle methods.
+  
+  * Unmounting: In this last phase, the component is not needed and get unmounted from the browser DOM. This phase includes the componentWillUnmount lifecycle method.
+
+</details>
+
+<details>
   <summary>What are the keys to React? Why are they important?</summary>
 
   Keys are a unique identification of a component array. They are significant because the keys allow optimizing the rendering process. For example, without keys when the order in the component array, all elements would be rerendered. So keys allow being sure that rerender is needed.
