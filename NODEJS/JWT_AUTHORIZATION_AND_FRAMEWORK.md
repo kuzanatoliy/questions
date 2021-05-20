@@ -42,16 +42,29 @@
 
 </details>
 
-<detauls>
+<details>
   <summary>When should you use JSON Web Tokens?</summary>
   
   It is possible to use JWT for authorization and information exchange:
 
   * Authorization: It is the most common scenario for using JWT. After the login process, each request will include the JWT, which allows getting access.
   
-  * Information Exchange: JSON Web Tokens are a good way of securely transmitting information between parties. Because JWTs can be signed - for example, using public/private key pairs—you can be sure the senders are who they say they are.
+  * Information Exchange: JSON Web Tokens are a good way of securely transmitting information between parties. Because JWTs can be signed - for example, using public/private key pairs - you can be sure the senders are who they say they are.
 
-</detauls>
+</details>
+
+<details>
+  <summary>What is the JSON Web Token structure?</summary>
+  
+  JWT contains three parts:
+
+  * Header. Generally, it has two values: type of the token (JWT), and the signing algorithm, such as HMAC SHA256 or RSA.
+  
+  * Payload. The part of the token, which contains the claims. There are three types of claims: registered, public, and private.
+  
+  * Signature. It allows verifying that the message wasn't changed.
+
+</details>
 
 What is JWT and how it is used in authentication process?
 What instruments and solutions are used for improving security of Node.js applications?
