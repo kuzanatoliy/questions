@@ -42,6 +42,17 @@
 
 </details>
 
+<detauls>
+  <summary>When should you use JSON Web Tokens?</summary>
+  
+  It is possible to use JWT for authorization and information exchange:
+
+  * Authorization: It is the most common scenario for using JWT. After the login process, each request will include the JWT, which allows getting access.
+  
+  * Information Exchange: JSON Web Tokens are a good way of securely transmitting information between parties. Because JWTs can be signed - for example, using public/private key pairs—you can be sure the senders are who they say they are.
+
+</detauls>
+
 What is JWT and how it is used in authentication process?
 What instruments and solutions are used for improving security of Node.js applications?
 What is CORS and how does Node.js application can handle it?
