@@ -44,6 +44,13 @@
 </details>
 
 <details>
+  <summary>What is a state in React?</summary>
+
+  A state is similar to props, but it is private and fully controlled by the component. A state is necessarily an object that holds data and determines how the component renderers and behaves.
+
+</details>
+
+<details>
   <summary>What happens when you call setState?</summary>
 
   Firstly, when setState function called, React contacts a state and new state props, after that to start the agreement process that allows updating a view in one of the most effective ways. For it React generates a new tree of React elements and a comparison of new and old trees between themselves. It allows knowing what changes.
