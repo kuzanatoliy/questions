@@ -6,6 +6,7 @@
 [Authentication vs authorization](https://medium.datadriveninvestor.com/authentication-vs-authorization-716fea914d55)
 [Passport docs](http://www.passportjs.org/docs/)
 [JWT](https://jwt.io/introduction)
+[Ten top security risks](https://owasp.org/www-project-top-ten/)
 
 ### Questions
 
