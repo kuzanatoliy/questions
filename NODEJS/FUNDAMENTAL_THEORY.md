@@ -60,7 +60,7 @@
 </details>
 
 <details>
-  <summary>What is package.json, it is structure and purpose?</summary>
+  <summary>What is package.json, its structure and purpose?</summary>
 
   Package.json file contains information about an application: name, version, dependencies, and etc. Each directory in the file is interpreted as a NodeJS package.
 
