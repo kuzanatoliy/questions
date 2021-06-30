@@ -48,3 +48,10 @@
   The HTTP header contains a list of available HTTP headers that the browser can set.
 
 </details>
+
+<details>
+  <summary>What is Access-Control-Max-Age?</summary>
+
+  The HTTP header allows controlling the time of a preflight request caching.
+
+</details>
