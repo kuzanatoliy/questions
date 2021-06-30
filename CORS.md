@@ -34,3 +34,10 @@
   It is a preflight request that allows clients to know if the base request is safe or not. A client does it if not meet the requirements for simple requests. For example, PUT, DELETE methods or custom headers.
 
 </details>
+
+<details>
+  <summary>What is Access-Control-Allow-Origin?</summary>
+
+  The HTTP header contains a list of available domains or *.
+
+</details>
