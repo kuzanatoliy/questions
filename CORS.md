@@ -62,3 +62,10 @@
   The HTTP header indicates whether or not the response to the request can be exposed when the credentials flag is true.
 
 </details>
+
+<details>
+  <summary>What is Access-Control-Allow-Methods?</summary>
+
+  The HTTP header contains a list of available HTTP methods.
+
+</details>
