@@ -69,3 +69,10 @@
   The HTTP header contains a list of available HTTP methods.
 
 </details>
+
+<details>
+  <summary>What is Access-Control-Allow-Headers?</summary>
+
+  The HTTP header contains a list of available HTTP headers.
+
+</details>
