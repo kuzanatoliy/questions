@@ -41,3 +41,10 @@
   The HTTP header contains a list of available domains or *.
 
 </details>
+
+<details>
+  <summary>What is Access-Control-Expose-Headers?</summary>
+
+  The HTTP header contains a list of available HTTP headers that the browser can set.
+
+</details>
