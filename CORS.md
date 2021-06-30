@@ -27,3 +27,10 @@
   5. The request uses ReadableStream.
 
 </details>
+
+<details>
+  <summary>What is a preflight request?</summary>
+
+  It is a preflight request that allows clients to know if the base request is safe or not. A client does it if not meet the requirements for simple requests. For example, PUT, DELETE methods or custom headers.
+
+</details>
