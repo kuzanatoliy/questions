@@ -55,3 +55,10 @@
   The HTTP header allows controlling the time of a preflight request caching.
 
 </details>
+
+<details>
+  <summary>What is Access-Control-Allow-Methods?</summary>
+
+  The HTTP header indicates whether or not the response to the request can be exposed when the credentials flag is true.
+
+</details>
