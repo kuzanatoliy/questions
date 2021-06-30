@@ -12,6 +12,29 @@
 </details>
 
 <details>
+  <summary>What is Access-Control-Allow-Headers?</summary>
+
+  Prons:
+
+  * React is easier for learning because uses JSX has good documentation and fewer structures;
+
+  * Virtual DOM allows changing applications as fast as possible;
+
+  * React could support server-side rendering;
+
+  * React uses FP concepts that provide creating simple, testable applications;
+
+  * React could use TypeScript or Flow;
+
+  * ReactNative allows using experience for mobile development.
+
+  Cons:
+
+  * The library has a lot of different ways that allow having a lot of technologies stacks versions.
+
+</details>
+
+<details>
   <summary>How does React work?</summary>
 
   React creates a virtual DOM. When state changes in a component, it firstly runs a "diffing" algorithm, which identifies what has changed in the virtual DOM. The second step is reconciliation, where it updates the DOM with the results of diff.
