@@ -192,3 +192,16 @@
   The batching doesn't work correctly for async callbacks (Promises) into less than 18 React versions.
 
 </details>
+
+<details>
+  <summary>What are steps happened during server-side rendering (SSR)?</summary>
+
+  * The server fetches the relevant data which needs on the UI;
+
+  * The server renders the entire app to HTML and sends it to the client in response;
+
+  * The client downloads the JavaScript bundle (apart from HTML);
+
+  * In the final step, the client connects the javascript logic to the HTML (hydration).
+
+</details>
