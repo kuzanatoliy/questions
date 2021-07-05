@@ -10,6 +10,8 @@
 
 [HTML](HTML.md)
 
+[HTTP](HTTP.md)
+
 [Principles and patterns](PRINCIPLES_AND_PATTERNS.md)
 
 [ReactJS](REACTJS.md)
