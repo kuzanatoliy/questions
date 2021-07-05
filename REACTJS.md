@@ -182,3 +182,13 @@
   Because there is not a conviction that children prop will be an array.
 
 </details>
+
+
+<details>
+  <summary>What is automatic batching?</summary>
+
+  It is grouping multiple state updates into a single re-render.
+
+  The batching doesn't work correctly for async callbacks (Promises) into less than 18 React versions.
+
+</details>
