@@ -151,6 +151,7 @@
   Second is componentWillMount. There are a few reasons why it is a bad idea:
 
   1. Firstly, there is not a conviction about when this method exactly would be called;
+
   2. There can be a situation when a request wouldn't resolve when a component tries to call setState or render a component.
 
 </details>
@@ -203,5 +204,14 @@
   * The client downloads the JavaScript bundle (apart from HTML);
 
   * In the final step, the client connects the javascript logic to the HTML (hydration).
+
+</details>
+
+<details>
+  <summary>What is render prop?</summary>
+
+  The render prop is a component's opportunity to split code by a function or the function that describe what the parent component should render.
+
+  **Note.** Don't use the render prop with PureComponent or `React.memo` because superficial compression, in this case, always is false.
 
 </details>
