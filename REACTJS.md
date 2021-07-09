@@ -222,3 +222,10 @@
   The context is a functionality that allows pushing variables without pushing through all components tree. When you use the context into your react components, you have to remember that re-render starts for them in any case after context changes.
 
 </details>
+
+<details>
+  <summary>What is redux-thunk?</summary>
+
+  The redux-thunk is one of the popular middleware libraries that adds async functionality in redux. The main prop of the library is simple functionality.
+
+</details>
