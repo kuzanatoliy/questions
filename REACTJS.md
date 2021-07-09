@@ -229,3 +229,10 @@
   The redux-thunk is one of the popular middleware libraries that adds async functionality in redux. The main prop of the library is simple functionality.
 
 </details>
+
+<details>
+  <summary>What is the difference between a React.Component and a React.PureComponent?</summary>
+
+  The React.Component and the React.PureComponent are base react classes. The difference is that the PureComponent has a default implementation of the shouldComponentUpdate lifecycle method and does superficial compression.
+
+</details>
