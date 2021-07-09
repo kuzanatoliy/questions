@@ -236,3 +236,10 @@
   The React.Component and the React.PureComponent are base react classes. The difference is that the PureComponent has a default implementation of the shouldComponentUpdate lifecycle method and does superficial compression.
 
 </details>
+
+<details>
+  <summary>What is a React.memo?</summary>
+
+  The React.memo is high order component that allows optimizing performance if props don't change. Moreover works for function components.
+
+</details>
