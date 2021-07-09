@@ -215,3 +215,10 @@
   **Note.** Don't use the render prop with PureComponent or `React.memo` because superficial compression, in this case, always is false.
 
 </details>
+
+<details>
+  <summary>What is the context?</summary>
+
+  The context is a functionality that allows pushing variables without pushing through all components tree. When you use the context into your react components, you have to remember that re-render starts for them in any case after context changes.
+
+</details>
