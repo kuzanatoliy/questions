@@ -151,6 +151,7 @@
   Second is componentWillMount. There are a few reasons why it is a bad idea:
 
   1. Firstly, there is not a conviction about when this method exactly would be called;
+
   2. There can be a situation when a request wouldn't resolve when a component tries to call setState or render a component.
 
 </details>
@@ -203,5 +204,42 @@
   * The client downloads the JavaScript bundle (apart from HTML);
 
   * In the final step, the client connects the javascript logic to the HTML (hydration).
+
+</details>
+
+<details>
+  <summary>What is render prop?</summary>
+
+  The render prop is a component's opportunity to split code by a function or the function that describe what the parent component should render.
+
+  **Note.** Don't use the render prop with PureComponent or `React.memo` because superficial compression, in this case, always is false.
+
+</details>
+
+<details>
+  <summary>What is the context?</summary>
+
+  The context is a functionality that allows pushing variables without pushing through all components tree. When you use the context into your react components, you have to remember that re-render starts for them in any case after context changes.
+
+</details>
+
+<details>
+  <summary>What is redux-thunk?</summary>
+
+  The redux-thunk is one of the popular middleware libraries that adds async functionality in redux. The main prop of the library is simple functionality.
+
+</details>
+
+<details>
+  <summary>What is the difference between a React.Component and a React.PureComponent?</summary>
+
+  The React.Component and the React.PureComponent are base react classes. The difference is that the PureComponent has a default implementation of the shouldComponentUpdate lifecycle method and does superficial compression.
+
+</details>
+
+<details>
+  <summary>What is a React.memo?</summary>
+
+  The React.memo is high order component that allows optimizing performance if props don't change. Moreover works for function components.
 
 </details>
