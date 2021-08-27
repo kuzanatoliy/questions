@@ -12,7 +12,7 @@
 </details>
 
 <details>
-  <summary>What is Access-Control-Allow-Headers?</summary>
+  <summary>What are prons and cons?</summary>
 
   Prons:
 
