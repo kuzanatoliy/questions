@@ -6,6 +6,8 @@
 
 [Angular](ANGULAR.md)
 
+[CLOUD](CLOUD.md)
+
 [CORS](CORS.md)
 
 [HTML](HTML.md)
