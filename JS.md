@@ -16,6 +16,7 @@
   Truthy values:
 
   Truthy values are everything except falsy values.
+
 </details>
 
 <details>
@@ -24,6 +25,7 @@
   Undefined can be found in different ways. Such as for not setting value, accessing elements or proper which do not exist.
 
   For null a value, we will have to set it.
+
 </details>
 
 <details>
@@ -32,4 +34,12 @@
   Triple(===) check the value and type both.
 
   Double(==) convert type and after that compare values. At the time of converting and, comparing it follows its own rules.
+
+</details>
+
+<details>
+  <summary>What is the closure?</summary>
+
+  When we call or return a function inside of another method, they create a closed environment.
+
 </details>
