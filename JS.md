@@ -65,3 +65,10 @@
   A window is a global object that provides an interface for working with a DOM model of a document. It is possible to use the window object in each browser.
 
 </details>
+
+<details>
+  <summary>What is a global variable?</summary>
+
+  A global variable is a variable that is available from any function.
+
+</details>
