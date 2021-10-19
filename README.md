@@ -14,6 +14,8 @@
 
 [HTTP](HTTP.md)
 
+[JS](JS.md)
+
 [Principles and patterns](PRINCIPLES_AND_PATTERNS.md)
 
 [ReactJS](REACTJS.md)
