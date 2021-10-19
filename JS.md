@@ -79,3 +79,10 @@
   The setTimeout method evaluates an expression or calls a function after a specified time.
 
 </details>
+
+<details>
+  <summary>What is a setInterval method?</summary>
+
+  The setInterval method will continue calling the function until the interval would be active.
+
+<details>
