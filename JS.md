@@ -43,3 +43,18 @@
   When we call or return a function inside of another method, they create a closed environment.
 
 </details>
+
+<details>
+  <summary>What is the difference between Bind, Call and Apply?</summary>
+
+  If we have any method inside an object and we want to apply that to another one, in that case, we can use the Bind, Call and Apply method.
+
+  Firstly, Call: Need to call the Call method and send the object and parameters with separating a coma.
+
+  Secondly, Apply: It is possible to call the Applymethod and send the object and other parameters through an array.
+
+  Third, Bind: If it is needed to use a method, again and again, need to bind it with the new object. The bind creates a new function that will call the original one with context.
+
+  It is not possible to use Bind, Call and Apply with the arrow function.
+
+</details>
