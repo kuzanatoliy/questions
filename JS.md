@@ -72,3 +72,10 @@
   A global variable is a variable that is available from any function.
 
 </details>
+
+<details>
+  <summary>What is a setTimeout method?</summary>
+
+  The setTimeout method evaluates an expression or calls a function after a specified time.
+
+</details>
