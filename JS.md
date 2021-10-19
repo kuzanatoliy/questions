@@ -16,5 +16,12 @@
   Truthy values:
 
   Truthy values are everything except falsy values.
+</details>
 
+<details>
+  <summary>What is the difference between Null and Undefined?</summary>
+
+  Undefined can be found in different ways. Such as for not setting value, accessing elements or proper which do not exist.
+
+  For null a value, we will have to set it.
 </details>
