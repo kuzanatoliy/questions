@@ -6,6 +6,13 @@
 ## Questions
 
 <details>
+  <summary>What is the injection?</summary>
+
+  It is possible to inject data into almost all sources. Injection flaws occur when an attacker can send hostile data. Injection vulnerabilities are very prevalent, particularly in legacy code. SQL, LDAP, XPath or NoSQL queries, OS commands, XML parsers, SMTP headers, expression languages and ORM queries often are vulnerable to injection. The injection can result in data loss, corruption, disclosure to unauthorized parties, loss of accountability, or denial of access. Also, the injection can sometimes lead to a complete host takeover.
+
+</details>
+
+<details>
   <summary>What is injection risk?</summary>
 
   The injection flaws, such as SQL, NoSQL, OS, and LDAP injection, occur when an application includes untrusted data as part of a command or query. So attackers can trick and run some commands without proper authorization. So, the application can lose, change data or disclose them to unauthorized parties. From time to time, it is possible to lose control of a host.
