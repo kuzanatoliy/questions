@@ -25,3 +25,11 @@
 
   For null a value, we will have to set it.
 </details>
+
+<details>
+  <summary>What are the difference between double equal (==) and triple equal (===)?</summary>
+
+  Triple(===) check the value and type both.
+
+  Double(==) convert type and after that compare values. At the time of converting and, comparing it follows its own rules.
+</details>
