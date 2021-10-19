@@ -58,3 +58,10 @@
   It is not possible to use Bind, Call and Apply with the arrow function.
 
 </details>
+
+<details>
+  <summary>What is the Window?</summary>
+
+  A window is a global object that provides an interface for working with a DOM model of a document. It is possible to use the window object in each browser.
+
+</details>
