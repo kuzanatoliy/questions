@@ -13,6 +13,19 @@
 </details>
 
 <details>
+  <summary>When is an application is vulnerable?</summary>
+
+  * when user-supplied data is not validated, filtered, or sanitized by the application;
+
+  * when dynamic queries or non-parameterized calls without context-aware escaping are used directly in the interpreter;
+
+  * when using hostile data within object-relational mapping (ORM) search parameters to extract additional, sensitive records;
+
+  * when the SQL or command contains both structure and hostile data in dynamic queries, commands, or stored procedures (directly using).
+
+</details>
+
+<details>
   <summary>What is injection risk?</summary>
 
   The injection flaws, such as SQL, NoSQL, OS, and LDAP injection, occur when an application includes untrusted data as part of a command or query. So attackers can trick and run some commands without proper authorization. So, the application can lose, change data or disclose them to unauthorized parties. From time to time, it is possible to lose control of a host.
