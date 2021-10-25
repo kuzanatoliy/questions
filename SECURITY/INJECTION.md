@@ -3,6 +3,10 @@
 ## Links
 [OWASP: injection](https://owasp.org/www-project-top-ten/2017/A1_2017-Injection)
 
+[SAST](https://owasp.org/www-community/Source_Code_Analysis_Tools)
+
+[DAST](https://owasp.org/www-community/Vulnerability_Scanning_Tools)
+
 ## Questions
 
 <details>
@@ -35,5 +39,14 @@
   * Escape special characters for dynamic queries; 
 
   * Use LIMIT and other SQL controls within queries to prevent mass disclosure of records in case of SQL injection.
+
+</details>
+
+<details>
+  <summary>What tools could help to avoid injection?</summary>
+
+  * Static Application Security Testing (SAST)
+  
+  * Dynamic Application Security Testing (DAST)
 
 </details>
