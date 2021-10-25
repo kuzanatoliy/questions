@@ -243,3 +243,29 @@
   The React.memo is high order component that allows optimizing performance if props don't change. Moreover works for function components.
 
 </details>
+
+<details>
+  <summary>What is a polymorphic component?</summary>
+
+  It is a popular react pattern that lets a programmer specify which HTML tag to use for rendering your component using `as` prop.
+
+  Example:
+
+    import { ComponentPropsWithoutRef, ElementType, ReactNode } from "react";
+
+    type MyButtonProps<T extends ElementType> = {
+      as?: T;
+      children: ReactNode;
+    };
+
+    export const Button = <T extends ElementType = "button">({
+      as,
+      children,
+      ...props
+    }: MyButtonProps<T> & Omit<ComponentPropsWithoutRef<T>, keyof MyButtonProps<T>>) => {
+      const Component = as || "button";
+
+      return <Component { ...props }>{ children }</Component>
+    };
+
+</details>
