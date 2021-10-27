@@ -50,3 +50,24 @@
   * Dynamic Application Security Testing (DAST)
 
 </details>
+
+<details>
+  <summary>What are the criteria for secure database access?</summary>
+
+  * secure queries:
+
+  SQL Injection occurs when untrusted user input is dynamically added to a SQL query in an insecure manner, often via basic string concatenation. An attacker can get a foothold on your network by it. The best way of protection is using a programming technique known as query Parameterization. It allows the database to distinguish between code and data.
+
+  * secure configuration:
+
+  It is possible to use a secure database configuration. Need to be sure that security controls are available from the Database Management System and hosting platform is enabled and properly configured.
+
+  * secure authentication:
+
+  Authentication should take place only over a secure channel.
+
+  * secure communication:
+
+  Most DBMS support a set of communications methods - secure and insecure. It is a good practice to use secure communications options.
+
+</details>
