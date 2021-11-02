@@ -71,3 +71,16 @@
   Most DBMS support a set of communications methods - secure and insecure. It is a good practice to use secure communications options.
 
 </details>
+
+<details>
+  <summary>What is the ASVS(Application Security Verification Standard)?</summary>
+
+  The ASVS provides a basis for testing web application technical security controls and provides developers with a list of requirements for secure development. The requirements are following objectives in mind:
+
+  * Use as a metric: provide application developers and application owners with a yardstick that allows assessing the degree of trust in your application;
+
+  * Use as guidance: guide security control developers as to what to build into security controls to satisfy application security requirements;
+
+  * Use during procurement: provide a basis for specifying application security verification requirements in contracts.
+
+</details>
