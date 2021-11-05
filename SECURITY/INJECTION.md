@@ -84,3 +84,14 @@
   * Use during procurement: provide a basis for specifying application security verification requirements in contracts.
 
 </details>
+
+<details>
+  <summary>What are classes of the SQL injection?</summary>
+
+  Inband(inside): extract data by the same channel as for injection of the SQL code.
+  
+  Out-of-band(outside): data is retrieved using a different channel.
+  
+  Inferential or Blind: there is no actual transfer of data, but the tester can reconstruct the information by sending particular requests and observing the resulting behaviour of the DB Server.
+
+</details>
