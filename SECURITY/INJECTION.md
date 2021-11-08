@@ -95,3 +95,20 @@
   Inferential or Blind: there is no actual transfer of data, but the tester can reconstruct the information by sending particular requests and observing the resulting behaviour of the DB Server.
 
 </details>
+
+<details>
+  <summary>What are SQL injection techniques?</summary>
+
+  It is possible to use five general techniques or their combinations.
+
+  Union Operator: use when the SQL injection flaw happens in a SELECT statement, making it possible to combine two queries into a single result or result set;
+
+  Boolean: use Boolean condition(s) to verify whether certain conditions are true or false;
+
+  Error based: this technique forces the database to generate an error, giving the attacker or taster information which to refine their injection;
+
+  Out-of-band: the technique used to retrieve data using a different channel;
+
+  Time delay: use database commands to delay answers in conditional queries. It is useful when an application doesn't provide results, outputs or errors to an attacker.
+
+</details>
