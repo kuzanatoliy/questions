@@ -112,3 +112,18 @@
   Time delay: use database commands to delay answers in conditional queries. It is useful when an application doesn't provide results, outputs or errors to an attacker.
 
 </details>
+
+<details>
+  <summary>What are detection techniques?</summary>
+
+  Firstly need to understand when the application interacts with a DB Server to access some data. Typical examples:
+
+  Authentication forms: if authentication uses a web form, generally, an application will check user credentials;
+
+  Search engines: if the SQL query extracts all relevant records from a database, it will be possible to use submitted string;
+
+  E-Commerce sites: the products and their characteristics are very likely to be stored in a database.
+
+  The tester should check by an input fields list whose values could be used in SQL queries separately.
+
+</details>
