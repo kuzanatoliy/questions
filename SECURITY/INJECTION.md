@@ -145,7 +145,7 @@
 
   `SELECT * FROM Users WHERE Username='1' OR '1' = '1' AND Password='1' OR '1' = '1'`
 
-  If the values was sent by the GET method and if the domain was www.example.com, the request would be:
+  If the values was sent by the GET method and if the domain was `www.example.com`, the request would be:
 
   `http://www.example.com/index.php?username=1'%20or%20'1'%20=%20'1&amp;password=1'%20or%20'1'%20=%20'1`
 
@@ -221,5 +221,36 @@
   `http://www.example.com/product.php?id=10; INSERT INTO users (…)`
 
   This way is possible to execute many queries in a row and independent of the first query.
+
+</details>
+
+<details>
+  <summary>How understand what backend database uses?</summary>
+
+  The first way to find out what back end database uses is by observing the error returned by the application. The following are some examples of error messages:
+
+  MySql:
+
+    You have an error in your SQL syntax; check the manual
+    that corresponds to your MySQL server version for the
+    right syntax to use near '\'' at line 1
+
+  `SELECT id, name FROM users WHERE id=1 UNION SELECT 1, version() limit 1,1`
+
+  Oracle:
+
+    ORA-00933: SQL command not properly ended
+    MS SQL Server:
+    Microsoft SQL Native Client error ‘80040e14’
+    Unclosed quotation mark after the character string
+
+  `SELECT id, name FROM users WHERE id=1 UNION SELECT 1, @@version limit 1, 1`
+
+  PostgreSQL:
+
+    Query failed: ERROR: syntax error at or near
+    "’" at character 56 in /www/site/test.php on line 121.
+
+  If there is no error message or a custom error message, the tester can inject it into string fields using varying concatenation techniques.
 
 </details>
