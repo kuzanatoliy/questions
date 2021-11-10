@@ -181,3 +181,28 @@
   `http://www.example.com/index.php?username=1'%20or%20'1'%20=%20'1'))%20LIMIT%201/*&amp;password=foo`
 
 </details>
+
+<details>
+  <summary>What is standard SQL injection testing (SELECT Statement)?</summary>
+
+  Consider the following SQL query:
+
+  `SELECT * FROM products WHERE id_product=$id_product`
+
+  Consider also the request to a script that executes the query above:
+
+  `http://www.example.com/product.php?id=10`
+
+  When the tester tries a valid value (e.g. 10 in this case), the application will return the description of a product. It is possible to try to use the AND and OR operators.
+
+  Consider the request:
+
+  `http://www.example.com/product.php?id=10 AND 1=2`
+
+  `SELECT * FROM products WHERE id_product=10 AND 1=2`
+
+  In this case, probably the application would return some message telling us there is no content available or a blank page. Then the tester can send a true statement and check if there is a valid result:
+
+  `http://www.example.com/product.php?id=10 AND 1=1`
+
+</details>
