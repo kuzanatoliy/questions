@@ -206,3 +206,20 @@
   `http://www.example.com/product.php?id=10 AND 1=1`
 
 </details>
+
+<details>
+  <summary>What is standard SQL injection testing (Stacked Queries)?</summary>
+
+  If an application uses the DBMS (e.g. PHP + PostgreSQL, ASP+SQL SERVER) will be possible to execute multiple queries in one call.
+
+  Consider the following SQL query:
+
+  `SELECT * FROM products WHERE id_product=$id_product`
+
+  A way to exploit the above scenario would be:
+
+  `http://www.example.com/product.php?id=10; INSERT INTO users (…)`
+
+  This way is possible to execute many queries in a row and independent of the first query.
+
+</details>
