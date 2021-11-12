@@ -254,3 +254,43 @@
   If there is no error message or a custom error message, the tester can inject it into string fields using varying concatenation techniques.
 
 </details>
+
+<details>
+  <summary>How understand what backend database uses (Union Exploitation Techniques)?</summary>
+
+  The UNION operator is used in SQL injections to join a query, purposely forged by the tester, to the original one. It allows obtaining values from other tables. Look at the following example:
+
+  `SELECT Name, Phone, Address FROM Users WHERE Id=$id`
+
+  We will set the following $id value:
+
+  `$id=1 UNION ALL SELECT creditCardNumber,1,1 FROM CreditCardTable`
+
+  We will have the following query:
+
+  `SELECT Name, Phone, Address FROM Users WHERE Id=1 UNION ALL SELECT creditCardNumber,1,1 FROM CreditCardTable`
+
+  The keyword ALL is necessary to get around queries that use the keyword DISTINCT. Moreover, we notice that beyond the credit card numbers, we have selected two other values. They allow avoiding a syntax error.
+
+  The first detail a tester needs to exploit the SQL injection vulnerability using the technique is to find the correct numbers of columns in the SELECT statement.
+
+  The tester can use ORDER BY clause followed by a number indicating the numeration of the column selected:
+
+  `http://www.example.com/product.php?id=10 ORDER BY 10--`
+
+  After the tester finds out the numbers of columns, the next step is to find out the type of columns. Assuming there were three columns in the example above, the tester could try each column type, using the NULL value to help them:
+
+  `http://www.example.com/product.php?id=10 UNION SELECT 1,null,null--`
+
+  If the query fails, the tester will probably see a message like:
+
+    All cells in a column must have the same datatype
+    If the query executes with success, the first column can be an integer. Then the tester can move further and so on:
+
+  `http://www.example.com/product.php?id=10 UNION SELECT 1,1,null--`
+
+  After gathering successful information, the application may only show one line of the result because the application treats only the first line. It is possible to use a LIMIT clause or the tester can set an invalid value, making only the second query valid:
+
+  `http://www.example.com/product.php?id=99999 UNION SELECT 1,1,null--`
+
+</details>
