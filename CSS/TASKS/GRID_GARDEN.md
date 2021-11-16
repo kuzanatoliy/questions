@@ -32,3 +32,10 @@
     grid-column-end: 2;
 
 </details>
+
+<details>
+  <summary>Level 5</summary>
+
+    grid-column-end: 5;
+
+</details>
