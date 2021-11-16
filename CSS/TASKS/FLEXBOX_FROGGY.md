@@ -138,3 +138,11 @@
     flex-wrap: wrap;
 
 </details>
+
+<details>
+  <summary>Level 19</summary>
+
+    flex-direction: column;
+    flex-wrap: wrap;
+
+</details>
