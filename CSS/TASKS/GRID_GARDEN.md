@@ -67,3 +67,10 @@
     grid-column-start: 3;
 
 </details>
+
+<details>
+  <summary>Level 10</summary>
+
+    grid-column: 4 / 6;
+
+</details>
