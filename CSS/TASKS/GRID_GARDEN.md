@@ -95,3 +95,11 @@
     grid-column: 3 / 6;
 
 </details>
+
+<details>
+  <summary>Level 14</summary>
+
+    grid-row: 5 / 6;
+    grid-column: 2 / 3;
+
+</details>
