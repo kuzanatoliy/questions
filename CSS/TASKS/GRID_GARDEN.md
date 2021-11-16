@@ -160,3 +160,10 @@
     grid-template-columns: 100px 3em 40%;
 
 </details>
+
+<details>
+  <summary>Level 23</summary>
+
+    grid-template-columns: 1fr 5fr;
+
+</details>
