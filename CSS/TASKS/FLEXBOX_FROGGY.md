@@ -55,3 +55,10 @@
     align-items: flex-end;
 
 </details>
+
+<details>
+  <summary>Level 8</summary>
+
+    flex-direction: row-reverse;
+
+</details>
