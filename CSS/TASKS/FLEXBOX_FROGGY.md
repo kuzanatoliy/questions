@@ -131,3 +131,10 @@
     align-self: flex-end;
 
 </details>
+
+<details>
+  <summary>Level 18</summary>
+
+    flex-wrap: wrap;
+
+</details>
