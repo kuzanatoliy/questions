@@ -25,3 +25,10 @@
     grid-column-end: 4;
 
 </details>
+
+<details>
+  <summary>Level 4</summary>
+
+    grid-column-end: 2;
+
+</details>
