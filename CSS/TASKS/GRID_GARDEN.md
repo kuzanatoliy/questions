@@ -153,3 +153,10 @@
     grid-template-columns: repeat(8, 12.5%);
 
 </details>
+
+<details>
+  <summary>Level 22</summary>
+
+    grid-template-columns: 100px 3em 40%;
+
+</details>
