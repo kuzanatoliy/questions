@@ -146,3 +146,10 @@
     grid-template-columns: 50% 50%;
 
 </details>
+
+<details>
+  <summary>Level 21</summary>
+
+    grid-template-columns: repeat(8, 12.5%);
+
+</details>
