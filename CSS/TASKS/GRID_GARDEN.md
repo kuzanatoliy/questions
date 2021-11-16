@@ -111,3 +111,10 @@
     grid-column: 2 / 6;
 
 </details>
+
+<details>
+  <summary>Level 16</summary>
+
+    grid-area: 1 / 2 / 4 / 6;
+
+</details>
