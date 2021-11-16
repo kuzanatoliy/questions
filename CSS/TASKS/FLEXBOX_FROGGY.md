@@ -175,3 +175,12 @@
     align-content: center;
 
 </details>
+
+<details>
+  <summary>Level 24</summary>
+
+    flex-flow: column-reverse wrap-reverse;
+    justify-content: center;
+    align-content: space-between;
+
+</details>
