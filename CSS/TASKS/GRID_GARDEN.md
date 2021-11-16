@@ -60,3 +60,10 @@
     grid-column-end: 6;
 
 </details>
+
+<details>
+  <summary>Level 9</summary>
+
+    grid-column-start: 3;
+
+</details>
