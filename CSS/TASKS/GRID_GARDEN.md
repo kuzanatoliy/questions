@@ -167,3 +167,10 @@
     grid-template-columns: 1fr 5fr;
 
 </details>
+
+<details>
+  <summary>Level 24</summary>
+
+    grid-template-columns: 50px repeat(3, 1fr) 50px;
+
+</details>
