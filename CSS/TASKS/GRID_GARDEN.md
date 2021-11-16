@@ -46,3 +46,10 @@
     grid-column-start: 4;
 
 </details>
+
+<details>
+  <summary>Level 7</summary>
+
+    grid-column-end: 4;
+
+</details>
