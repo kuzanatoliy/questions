@@ -53,3 +53,10 @@
     grid-column-end: 4;
 
 </details>
+
+<details>
+  <summary>Level 8</summary>
+
+    grid-column-end: 6;
+
+</details>
