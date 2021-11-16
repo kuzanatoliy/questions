@@ -103,3 +103,11 @@
     grid-column: 2 / 3;
 
 </details>
+
+<details>
+  <summary>Level 15</summary>
+
+    grid-row: 1 / 6;
+    grid-column: 2 / 6;
+
+</details>
