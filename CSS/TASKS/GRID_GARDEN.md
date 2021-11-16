@@ -139,3 +139,10 @@
     order: -1;
 
 </details>
+
+<details>
+  <summary>Level 20</summary>
+
+    grid-template-columns: 50% 50%;
+
+</details>
