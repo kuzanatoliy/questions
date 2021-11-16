@@ -74,3 +74,10 @@
     grid-column: 4 / 6;
 
 </details>
+
+<details>
+  <summary>Level 11</summary>
+
+    grid-column: 2 / 5;
+
+</details>
