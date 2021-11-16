@@ -39,3 +39,10 @@
     grid-column-end: 5;
 
 </details>
+
+<details>
+  <summary>Level 6</summary>
+
+    grid-column-start: 4;
+
+</details>
