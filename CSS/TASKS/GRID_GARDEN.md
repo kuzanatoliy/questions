@@ -118,3 +118,10 @@
     grid-area: 1 / 2 / 4 / 6;
 
 </details>
+
+<details>
+  <summary>Level 17</summary>
+
+    grid-area: 2 / 3 / 5 / 6;
+
+</details>
