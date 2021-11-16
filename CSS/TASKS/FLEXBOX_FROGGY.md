@@ -47,3 +47,11 @@
     align-items: center;
 
 </details>
+
+<details>
+  <summary>Level 7</summary>
+
+    justify-content: space-around;
+    align-items: flex-end;
+
+</details>
