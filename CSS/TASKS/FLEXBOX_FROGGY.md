@@ -146,3 +146,10 @@
     flex-wrap: wrap;
 
 </details>
+
+<details>
+  <summary>Level 20</summary>
+
+    flex-flow: column wrap;
+
+</details>
