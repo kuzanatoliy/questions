@@ -11,3 +11,10 @@
     grid-column-start: 3;
 
 </details>
+
+<details>
+  <summary>Level 2</summary>
+
+    grid-column-start: 5;
+
+</details>
