@@ -39,3 +39,11 @@
     align-items: flex-end;
 
 </details>
+
+<details>
+  <summary>Level 6</summary>
+
+    justify-content: center;
+    align-items: center;
+
+</details>
