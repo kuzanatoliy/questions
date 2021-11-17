@@ -46,3 +46,10 @@
   .small
 
 </details>
+
+<details>
+  <summary>Level 7</summary>
+
+  orange.small
+
+</details>
