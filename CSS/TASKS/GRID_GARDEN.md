@@ -181,3 +181,10 @@
     grid-template-columns: 75px 3fr 2fr;
 
 </details>
+
+<details>
+  <summary>Level 26</summary>
+
+    grid-template-rows: repeat(4, 12.5px) 1fr;
+
+</details>
