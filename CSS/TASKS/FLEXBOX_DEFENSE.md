@@ -64,3 +64,12 @@
     justify-content: center;
   
 </details>
+
+<details>
+  <summary>Level 6</summary>
+
+  #### Group-1
+    align-items: center;
+    justify-content: space-between;
+  
+</details>
