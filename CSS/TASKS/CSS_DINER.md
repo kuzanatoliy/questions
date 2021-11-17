@@ -39,3 +39,10 @@
   #fancy pickle
 
 </details>
+
+<details>
+  <summary>Level 6</summary>
+
+  .small
+
+</details>
