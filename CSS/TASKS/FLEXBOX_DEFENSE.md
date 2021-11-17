@@ -48,3 +48,19 @@
     align-items: flex-end;
   
 </details>
+
+<details>
+  <summary>Level 5</summary>
+
+  #### Group-1
+    align-items: flex-end;
+    justify-content: space-around;
+  
+  #### Group-2
+    justify-content: center;
+  
+  #### Group-2
+    align-items: center;
+    justify-content: center;
+  
+</details>
