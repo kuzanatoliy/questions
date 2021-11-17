@@ -32,3 +32,10 @@
   plate apple
 
 </details>
+
+<details>
+  <summary>Level 5</summary>
+
+  #fancy pickle
+
+</details>
