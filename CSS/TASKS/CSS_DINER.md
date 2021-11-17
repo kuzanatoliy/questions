@@ -25,3 +25,10 @@
   #fancy
 
 </details>
+
+<details>
+  <summary>Level 4</summary>
+
+  plate apple
+
+</details>
