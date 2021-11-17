@@ -96,3 +96,17 @@
     align-items: center;
   
 </details>
+
+<details>
+  <summary>Level 9</summary>
+
+  #### Group-1
+    flex-direction: row-reverse;
+    justify-content: space-around;
+  
+  #### Group-2
+    flex-direction: row-reverse;
+    justify-content: space-around;
+    align-items: center;
+  
+</details>
