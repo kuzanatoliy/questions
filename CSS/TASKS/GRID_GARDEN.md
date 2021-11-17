@@ -195,3 +195,10 @@
     grid-template: 60% 1fr / 200px 1fr;
 
 </details>
+
+<details>
+  <summary>Level 28</summary>
+
+    grid-template: 1fr 50px / 20% 1fr;
+
+</details>
