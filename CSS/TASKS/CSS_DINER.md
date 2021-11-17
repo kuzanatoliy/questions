@@ -53,3 +53,10 @@
   orange.small
 
 </details>
+
+<details>
+  <summary>Level 8</summary>
+
+  bento orange.small
+
+</details>
