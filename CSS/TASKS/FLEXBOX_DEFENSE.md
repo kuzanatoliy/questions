@@ -138,3 +138,22 @@
     flex-self: flex-end;
   
 </details>
+
+<details>
+  <summary>Level 12</summary>
+
+  #### Group-1
+    justify-content: space-between;
+    align-items: center;
+  
+  #### Tower-1.1
+    flex-self: flex-start;
+
+  #### Tower-1.3
+    flex-self: flex-start;
+
+  #### Tower-1.5
+    flex-self: flex-end;
+    order: 1;
+
+</details>
