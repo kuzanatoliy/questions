@@ -81,3 +81,10 @@
   plate *
 
 </details>
+
+<details>
+  <summary>Level 12</summary>
+
+  plate + *
+
+</details>
