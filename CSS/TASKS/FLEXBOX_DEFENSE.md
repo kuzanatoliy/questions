@@ -73,3 +73,14 @@
     justify-content: space-between;
   
 </details>
+
+<details>
+  <summary>Level 7</summary>
+
+  #### Group-1
+    flex-direction: column;
+  
+  #### Group-2
+    flex-direction: column;
+  
+</details>
