@@ -188,3 +188,10 @@
     grid-template-rows: repeat(4, 12.5px) 1fr;
 
 </details>
+
+<details>
+  <summary>Level 27</summary>
+
+    grid-template: 60% 1fr / 200px 1fr;
+
+</details>
