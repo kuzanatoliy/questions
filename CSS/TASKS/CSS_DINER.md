@@ -144,3 +144,10 @@
   apple:first-of-type
 
 </details>
+
+<details>
+  <summary>Level 21</summary>
+
+  :nth-of-type(2n)
+
+</details>
