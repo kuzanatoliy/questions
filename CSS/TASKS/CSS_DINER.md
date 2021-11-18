@@ -221,3 +221,10 @@
     [for$="ato"]
 
 </details>
+
+<details>
+  <summary>Level 32</summary>
+
+    [for*="bb"]
+
+</details>
