@@ -165,3 +165,10 @@
   apple:only-of-type
 
 </details>
+
+<details>
+  <summary>Level 24</summary>
+
+  .small:last-of-type
+
+</details>
