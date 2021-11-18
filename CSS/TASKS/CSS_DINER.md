@@ -207,3 +207,10 @@
     bento[for="Vitaly"]
 
 </details>
+
+<details>
+  <summary>Level 30</summary>
+
+    [for^="S"]
+
+</details>
