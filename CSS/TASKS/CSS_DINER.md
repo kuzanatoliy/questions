@@ -172,3 +172,10 @@
   .small:last-of-type
 
 </details>
+
+<details>
+  <summary>Level 25</summary>
+
+  bento:empty
+
+</details>
