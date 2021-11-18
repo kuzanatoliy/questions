@@ -158,3 +158,10 @@
   :nth-of-type(2n + 3)
 
 </details>
+
+<details>
+  <summary>Level 23</summary>
+
+  apple:only-of-type
+
+</details>
