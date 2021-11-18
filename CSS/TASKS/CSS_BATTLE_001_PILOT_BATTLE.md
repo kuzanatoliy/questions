@@ -47,3 +47,32 @@
     </style>
 
 </details>
+
+<details>
+  <summary>#3 - Push Button</summary>
+
+  [Task](https://cssbattle.dev/play/3)
+
+    <div><div>
+    <style>
+      body {
+        margin: 0;
+        padding: 75px 50px;
+        background: #6592CF;
+      }
+      div {
+        height: 150px;
+        background: #243D83;
+      }
+      div div {
+        margin: 0 75px;
+        border: solid 50px #243D83;
+        box-shadow: 0 0 0 50px #6592CF;
+        border-radius: 50%;
+        width: 50px;
+        height: 50px;
+        background: #EEB850;
+      }
+    </style>
+
+</details>
