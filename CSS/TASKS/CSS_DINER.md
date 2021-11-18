@@ -151,3 +151,10 @@
   :nth-of-type(2n)
 
 </details>
+
+<details>
+  <summary>Level 22</summary>
+
+  :nth-of-type(2n + 3)
+
+</details>
