@@ -22,3 +22,28 @@
     </style>
 
 </details>
+
+<details>
+  <summary>#2 - Carrom</summary>
+
+  [Task](https://cssbattle.dev/play/2)
+
+    <div></div><div></div><div></div><div></div>
+    <style>
+      body {
+        margin: 0;
+        background: #62374e;
+      }
+      div {
+        margin: 50px;
+        float: left;
+        width: 50px;
+        height: 50px;
+        background: #fdc57b;
+      }
+      div:nth-of-type(2n + 1) {
+        margin-right: 150px;
+      }
+    </style>
+
+</details>
