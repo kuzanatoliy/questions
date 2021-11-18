@@ -137,3 +137,10 @@
   bento:nth-last-child(2)
 
 </details>
+
+<details>
+  <summary>Level 20</summary>
+
+  apple:first-of-type
+
+</details>
