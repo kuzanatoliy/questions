@@ -102,3 +102,10 @@
   plate > apple
 
 </details>
+
+<details>
+  <summary>Level 15</summary>
+
+  plate orange:last-child
+
+</details>
