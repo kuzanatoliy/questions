@@ -141,3 +141,37 @@
     </style>
 
 </details>
+
+<details>
+  <summary>#6 - Missing Slice</summary>
+
+  [Task](https://cssbattle.dev/play/6)
+
+    <div class=a></div><div class=b></div><div class=c></div>
+    <style>
+      body {
+        margin: 0;
+        background: #E3516E;
+        padding: 50px 100px;
+      }
+      div {
+        width: 100px;
+        height: 100px;
+        background: #dd6b4d;
+        float: left;
+      }
+      .a {
+        background: #51B5A9;
+        border-radius: 100% 0 0 0;
+      }
+      .b {
+        background: #FADE8B;
+        border-radius: 0 100% 0 0;
+      }
+      .c {
+        background: #F7F3D7;
+        border-radius: 0 0 0 100%;
+      }
+    </style>z
+
+</details>
