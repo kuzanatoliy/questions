@@ -123,3 +123,10 @@
   .small:last-child
 
 </details>
+
+<details>
+  <summary>Level 18</summary>
+
+  :nth-child(3)
+
+</details>
