@@ -76,3 +76,31 @@
     </style>
 
 </details>
+
+<details>
+  <summary>#4 - Ups n Downs</summary>
+
+  [Task](https://cssbattle.dev/play/4)
+
+    <div></div><div></div><div></div><div></div><div></div><div>
+    <style>
+      body {
+        margin: 0;
+        background: #62306D;
+        padding: 50px;
+      }
+      div {
+        float: left;
+        width: 100px;
+        height: 100px;
+      }
+      div:nth-of-type(2n) {
+        background: #F7EC7D;
+        border-radius: 50% 50% 0 0;
+      }
+      div:nth-of-type(2n + 4) {
+        transform: rotate(180deg);
+      }
+    </style>
+
+</details>
