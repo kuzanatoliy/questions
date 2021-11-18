@@ -109,3 +109,10 @@
   plate orange:last-child
 
 </details>
+
+<details>
+  <summary>Level 16</summary>
+
+  plate apple:only-child, plate pickle:only-child
+
+</details>
