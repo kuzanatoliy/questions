@@ -179,3 +179,10 @@
   bento:empty
 
 </details>
+
+<details>
+  <summary>Level 26</summary>
+
+  apple:not(.small)
+
+</details>
