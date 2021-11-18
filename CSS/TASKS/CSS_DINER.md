@@ -116,3 +116,10 @@
   plate apple:only-child, plate pickle:only-child
 
 </details>
+
+<details>
+  <summary>Level 17</summary>
+
+  .small:last-child
+
+</details>
