@@ -411,3 +411,55 @@
     </style>
 
 </details>
+
+<details>
+  <summary>#12 - Wiggly Moustache</summary>
+
+  [Task](https://cssbattle.dev/play/12)
+
+    <div id="l"></div>
+    <div id="c"></div>
+    <div id="r"></div>
+    <style>
+      *{
+        background: #F5D6B4;
+        position: fixed;
+      }
+      #l, #r, #c{
+        width: 60px;
+        height: 30px;
+        border: 20px solid #D86F45;
+      }
+      #l, #r{
+        border-radius: 0 0 50px 50px;
+        border-top: 0;
+      }
+      #l{
+        margin: 142px 0 0 62px;
+      }
+      #r{
+        margin: 142px 0 0 222px;
+      }
+      #c{
+        margin: 92px 0 0 142px;
+        border-radius: 50px 50px 0 0;
+        border-bottom: 0;
+      }
+      #l:before, #r:after{
+        content: "";
+        width: 20px;
+        height: 10px;
+        position: absolute;
+        background: #D86F45;
+        border-radius: 20px 20px 0 0;
+        top: -10px;
+      }
+      #l:before{
+        left: -20px;
+      }
+      #r:after{
+        left: 60px;
+      }
+    </style>
+
+</details>
