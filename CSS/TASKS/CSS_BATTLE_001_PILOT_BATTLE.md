@@ -366,3 +366,48 @@
     </style>
 
 </details>
+
+<details>
+  <summary>#11 - Eye of Sauron</summary>
+
+  [Task](https://cssbattle.dev/play/11)
+
+    <div id="l"></div><div id="c"></div><div id="r"></div>
+    <style>
+      body {
+        background: #191210;
+        position: relative;
+        margin: 0
+      }
+      div {
+        position: absolute;
+      }
+      #c {
+        top: 100;
+        left: 150;
+        width: 50;
+        height: 50;
+        background: #84271C;
+        border-radius: 50%;
+        border: solid #191210 25px;
+        box-shadow: 0px 0px 0px 20px #ECA03D;
+      }
+      #l, #r {
+        width: 60;
+        height: 30;
+        border-radius: 50px 50px 0 0;
+        border: solid #ECA03D 20px;
+        border-bottom: 0;
+      }
+      #l {
+        top: 150;
+        transform: rotate(180deg);
+        left: 50;
+      }
+      #r {
+        top: 100;
+        left: 250;
+      }
+    </style>
+
+</details>
