@@ -326,3 +326,43 @@
     </style>
 
 </details>
+
+<details>
+  <summary>#10 - Cloaked Spirits</summary>
+
+  [Task](https://cssbattle.dev/play/10)
+
+    <p a><i></i></p><p b><i></i></p><p a><i></i></p>
+    <style>	
+      body {
+        margin: 0 50;
+        background: #62306D
+      }
+      p {
+        display: inline-block;
+        width: 100;
+        height: 100;
+        background: #F7EC7D;
+      }
+      i {
+        display: block;
+        width: 60;
+        height: 60;
+        background: #E38F66;
+        border: solid 20px #AA445F;
+        border-radius: 50%;
+        margin-top: -50
+      }
+      [a]{
+        margin-top: 200
+      }
+      [b]{
+        height: 200
+      }
+      [b] > i {
+        background: #AA445F;
+        border: solid 20px #E38F66;
+      }
+    </style>
+
+</details>
