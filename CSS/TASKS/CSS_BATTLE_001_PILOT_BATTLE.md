@@ -290,79 +290,38 @@
 </details>
 
 <details>
-  <summary>#8 - Forking Crazy</summary>
+  <summary>#9 - Tesseract</summary>
 
-  [Task](https://cssbattle.dev/play/8)
+  [Task](https://cssbattle.dev/play/9)
 
-    <div class="bg">
-      <div class="upward-circle"></div>
-      <div class="upward-circle left-margin"></div>
-      <div class="upward-circle left-margin"></div>
-      <div class="upward-circle left-margin"></div>
-    </div>
-    <div id="striped"></div>
-    <div class="bg darker">
-      <div class="downward-circle left-margin"></div>
-      <div class="downward-circle left-margin"></div>
-      <div class="downward-circle left-margin"></div>
-    </div>
-    <div id="bottom"></div>
-    <div id="stick"></div>
-
+    <p a><p b><p c>
     <style>
+      * {
+        margin: 0;
+        position: absolute
+      }
       body {
-        padding: 42px 122px 0;
-        background: #6592CF;
+        background: #222730
       }
-      .bg {
-        font-size: 0;
-        width: 140px;
-        height: 20px;
+      p {
+        background:#4CAAB3;
+        height:150;
       }
-      .darker {
-        background: #060F55;
+      [a] {
+        width: 400;
+        top: 75;
       }
-      .left-margin {
-        margin-left: 20px;
+      [b] {
+        width: 150;
+        transform: rotate(45deg);
+        margin: 75+125;box-shadow:0+0+0+50px#222730;
       }
-      #striped {
-        width: 140px;
-        height: 70px;
-        background: repeating-linear-gradient(
-          to right,
-          #060F55 0px,
-          #060F55 20px,
-          #6592CF 20px,
-          #6592CF 40px);
-      }
-      #bottom {
-        width: 140px;
-        height: 90px;
-        background: #060F55;
-        border-radius: 0 0 100px 100px;
-      }
-      .upward-circle {
-        width: 20px;
-        height: 20px;
-        background: #060F55;
-        border-radius: 20px 20px 0 0;
-        display: inline-block;
-      }
-      .downward-circle {
-        width: 20px;
-        height: 20px;
-        background: #6592CF;
-        border-radius: 0 0 20px 20px;
-        display: inline-block;
-      }
-      #stick {
-        width: 20px;
-        height: 60px;
-        z-index: 1;
-        position: relative;
-        top: -10px;
-        background: #060F55;
-        margin-left: 60px;
+      [c] {
+        height:50;
+        width:50;
+        background:#393E46;
+        border-radius:50%;
+        margin:125+175;
       }
     </style>
 
