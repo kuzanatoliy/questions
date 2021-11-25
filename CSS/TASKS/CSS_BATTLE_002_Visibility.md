@@ -60,7 +60,7 @@
 </details>
 
 <details>
-  <summary>#14 - Overlap</summary>
+  <summary>#15 - Overlap</summary>
 
   [Task](https://cssbattle.dev/play/15)
 
@@ -78,6 +78,28 @@
         height: 150px;
         border-radius: 50%;
         box-shadow: 100px 0px #E78481, inset 100px 0px #7B3F61;
+      }
+    </style>
+
+</details>
+
+<details>
+  <summary>#16 - Eye of the Tiger</summary>
+
+  [Task](https://cssbattle.dev/play/16)
+
+    <p>
+    <style>
+      * {
+        background: #0B2429;
+      }
+      p {
+        width: 200px;
+        height: 200px;
+        margin: 50px 92px;
+        background: radial-gradient(#0b2429 25px,0,#f3ac3c 70px,0,#0b2429 90px,0,#998235);
+        border-radius: 50% 0;
+        transform: rotate(45deg);
       }
     </style>
 
