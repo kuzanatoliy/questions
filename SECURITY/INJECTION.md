@@ -256,7 +256,7 @@
 </details>
 
 <details>
-  <summary>How understand what backend database uses (Union Exploitation Techniques)?</summary>
+  <summary>How understand what backend database uses (Union Exploitation Technique)?</summary>
 
   The UNION operator is used in SQL injections to join a query, purposely forged by the tester, to the original one. It allows obtaining values from other tables. Look at the following example:
 
@@ -296,7 +296,7 @@
 </details>
 
 <details>
-  <summary>How understand what backend database uses (Boolean Exploitation Techniques)?</summary>
+  <summary>How understand what backend database uses (Boolean Exploitation Technique)?</summary>
 
   The technique is well during blind SQL Injection if the tester cannot get information about a database from an outcome. For example, if a programmer has created a custom error page that does not provide information from a database.
 
@@ -339,5 +339,30 @@
   `SELECT field1, field2, field3 FROM Users WHERE Id='1' AND LENGTH(username)=N AND '1' = '1'`
 
   The blind SQL injection attack needs a high volume of queries. The tester may need an automatic tool to exploit the vulnerability.
+
+</details>
+
+<details>
+  <summary>How understand what backend database uses (Error Based Exploitation Technique)?</summary>
+
+  The technique could be used by a tester when he cannot use one of the other techniques. The point is data extraction from the database by error messages.
+
+  Consider the following SQL query:
+
+  `SELECT * FROM products WHERE id_product=$id_product`
+
+  Consider also the request to a script that executes the query above:
+
+  `http://www.example.com/product.php?id=10`
+
+  The malicious request would be (e.g. Oracle 10g):
+
+  `http://www.example.com/product.php?id=10||UTL_INADDR.GET_HOST_NAME( (SELECT user FROM DUAL) )--`
+
+  In this example, the tester is concatenating the value 10 with the result of the function UTL_INADDR.GET_HOST_NAME. This Oracle function will try to return the hostname of the parameter passed to it, which is another query, the name of the user. When the database looks for a hostname with the user database name, it will fail and return an error message like:
+
+  `ORA-292257: host SCOTT unknown`
+
+  Then the tester can manipulate the parameter passed to GET_HOST_NAME() function and the result will be shown in the error message.
 
 </details>
