@@ -2,7 +2,9 @@
 
 [CSS battle #1 (Pilot battle)](CSS_BATTLE_001_PILOT_BATTLE.md)
 
-[CSS battle #2 (Visibility)](CSS_BATTLE_002_Visibility.md)
+[CSS battle #2 (Visibility)](CSS_BATTLE_002_VISIBILITY.md)
+
+[CSS battle #3 (Cube)](CSS_BATTLE_003_CUBE.md)
 
 [CSS Diner](CSS_DINER.md)
 
