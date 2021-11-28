@@ -6,6 +6,8 @@
 
 [CSS battle #3 (Cube)](CSS_BATTLE_003_CUBE.md)
 
+[CSS battle #4 (Display)](CSS_BATTLE_004_DISPLAY.md)
+
 [CSS Diner](CSS_DINER.md)
 
 [Flexbox defense](FLEXBOX_DEFENSE.md)
