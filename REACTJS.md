@@ -269,3 +269,13 @@
     };
 
 </details>
+
+<details>
+  <summary>What difference between useRef and useState?</summary>
+
+  * Both of the hooks preserve data during render cycles and UI updates. But useState return updater that causes rerenders;
+  * useRef returns an object with a property that contains an actual value (current). useState returns array that contains value and updater;
+  * The ref object contains mutable property. The state is immutable;
+  * Only useRef could be used in another field of an application. For example: gaining direct access to React components or DOM.
+
+</details>
