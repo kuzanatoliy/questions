@@ -387,3 +387,24 @@
   UTL_HTTP.request function will try to connect to the fake server and make an HTTP GET request containing the return from the query: SELECT user FROM DUAL.
 
 </details>
+
+<details>
+  <summary>How understand what backend database uses (Time Delay Exploitation Technique)?</summary>
+
+  The technique consists in sending an injected query. If the conditional was true, the tester would monitor the server response time. 
+
+  Consider the following SQL query:
+
+  `SELECT * FROM products WHERE id_product=$id_product`
+
+  Consider also the request to a script that executes the query above:
+
+  `http://www.example.com/product.php?id=10`
+
+  The malicious request would be (e.g. MySql 5.x):
+
+  `http://www.example.com/product.php?id=10 AND IF(version() like ‘5%’, sleep(10), ‘false’))--`
+
+  In this example the tester checks whether the MySql version is 5.x or not, making the server sleep for 10 seconds. The tester can increase the delay time and monitor the responses.
+
+</details>
