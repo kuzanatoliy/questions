@@ -7,6 +7,8 @@
 
 [DAST](https://owasp.org/www-community/Vulnerability_Scanning_Tools)
 
+[Testing for SQL Injection](https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/07-Input_Validation_Testing/05-Testing_for_SQL_Injection)
+
 ## Questions
 
 <details>
@@ -406,5 +408,31 @@
   `http://www.example.com/product.php?id=10 AND IF(version() like ‘5%’, sleep(10), ‘false’))--`
 
   In this example the tester checks whether the MySql version is 5.x or not, making the server sleep for 10 seconds. The tester can increase the delay time and monitor the responses.
+
+</details>
+
+<details>
+  <summary>What is a stored procedure injection?</summary>
+
+  When using dynamic SQL within a stored procedure, the application must properly sanitize the user input to eliminate the risk of code injection. If not sanitized, the user could enter malicious SQL that will be executed within the stored procedure.
+  
+  Consider the following SQL Server Stored Procedure:
+  
+    Create procedure user_login @username varchar(20), @passwd varchar(20)
+    As
+    Declare @sqlstring varchar(250)
+    Set @sqlstring  = ‘
+    Select 1 from users
+    Where username = ‘ + @username + ‘ and passwd = ‘ + @passwd
+    exec(@sqlstring)
+    Go
+  
+  User input:
+  
+  `anyusername or 1=1'`
+  
+  `anypassword`
+  
+  This procedure does not sanitize the input and allow the return value to show an existing record with these parameters.
 
 </details>
