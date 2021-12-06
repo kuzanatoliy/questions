@@ -8,6 +8,8 @@
 
 [CSS battle #4 (Display)](CSS_BATTLE_004_DISPLAY.md)
 
+[CSS battle #5 (Inline)](CSS_BATTLE_005_INLINE.md)
+
 [CSS Diner](CSS_DINER.md)
 
 [Flexbox defense](FLEXBOX_DEFENSE.md)
