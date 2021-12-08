@@ -10,7 +10,7 @@
 
 [CSS battle #5 (Inline)](CSS_BATTLE_005_INLINE.md)
 
-[CSS battle #6 (Equals)](CSS_BATTLE_006_EQUALS.md)
+[CSS battle #6 (Equals)](CSS_BATTLE_006_CONIC.md)
 
 [CSS Diner](CSS_DINER.md)
 
