@@ -1,4 +1,4 @@
-# CSS battle 004 Equals
+# CSS battle 006 Conic
 
 ## Links
 [source](https://cssbattle.dev/battle/6)
