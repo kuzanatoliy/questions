@@ -12,6 +12,8 @@
 
 [CSS battle #6 (Equals)](CSS_BATTLE_006_CONIC.md)
 
+[CSS battle #7 (Backface)](CSS_BATTLE_007_BACKFACE.md)
+
 [CSS Diner](CSS_DINER.md)
 
 [Flexbox defense](FLEXBOX_DEFENSE.md)
