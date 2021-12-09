@@ -438,3 +438,10 @@
   This procedure does not sanitize the input and allow the return value to show an existing record with these parameters.
 
 </details>
+
+<details>
+  <summary>What is OS command injection?</summary>
+
+  OS command injection is a technique used via a web interface to execute OS commands on a web server. Any web interface that does not sanitize data is subject to this exploit.
+
+</details>
