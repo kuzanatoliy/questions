@@ -445,3 +445,20 @@
   OS command injection is a technique used via a web interface to execute OS commands on a web server. Any web interface that does not sanitize data is subject to this exploit.
 
 </details>
+
+<details>
+  <summary>How to test command injection?</summary>
+
+  When viewing a file in a web application, often the filename is in the URL. Perl allows piping data from a process into an open statement. The user can append the Pipe symbol | onto the end of the filename.
+
+  Example URL before alteration:
+
+  `http://sensitive/cgi-bin/userData.pl?doc=user1.txt`
+
+  Example URL modified:
+
+  `http://sensitive/cgi-bin/userData.pl?doc=/bin/ls|`
+
+  It would execute the command /bin/ls.
+
+</details>
