@@ -82,7 +82,9 @@
 </details>
 
 <details>
-  <summary>#34 - Ice Cream</summary>
+  <summary>#35 - Ice Cream</summary>
+
+  [Task](https://cssbattle.dev/play/35)
 
     <p a><p b><p c>
     <style>
@@ -107,6 +109,35 @@
         height: 40px;
         border-radius: 0 0 10px 10px;
         background: #FE5F55;
+      }
+    </style>
+
+</details>
+
+<details>
+  <summary>#36 - Interleaved</summary>
+
+  [Task](https://cssbattle.dev/play/36)
+
+    <p a><p><p a><p><p a>
+    <style>
+      body {
+        margin: 0 25px;
+        background: #1A4341;
+        display: flex;
+        justify-content: space-between;
+      }
+      p {
+        margin: 0;
+        width: 50px;
+        height: 200px;
+        background: #998235;
+        border-radius: 0 0 50px 50px;
+      }
+      [a] {
+        align-self: flex-end;
+        transform: rotateX(180deg);
+        background: #F3AC3C;
       }
     </style>
 
