@@ -137,3 +137,10 @@
   * Async / Await is syntax sugar that provides a more comfortable way to work with promises.
 
 <details>
+
+<details>
+  <summary>Is it possible to add new methods into standard classes?</summary>
+
+  It is possible, but it is not good practice. 
+
+<details>
