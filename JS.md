@@ -117,3 +117,12 @@
   * NaN only one variable that is not equal itself.
 
 <details>
+
+<details>
+  <summary>What is the difference between var, let and const?</summary>
+
+  * var has a function visibility area and pops up
+  * let, const has a block visibility area and not pop up
+  * const cannot be reset
+
+<details>
