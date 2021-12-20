@@ -126,3 +126,14 @@
   * const cannot be reset
 
 <details>
+
+<details>
+  <summary>What is the difference between callbacks, promises, async / await?</summary>
+
+  All of them are ways for working with async functionality.
+  
+  * Callback allows putting function that will run with the result of the async operation.
+  * Promises is a modern way of working with async functionality. A promise is an object that contains its state and is a microtask.
+  * Async / Await is syntax sugar that provides a more comfortable way to work with promises.
+
+<details>
