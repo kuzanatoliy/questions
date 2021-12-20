@@ -108,3 +108,12 @@
   But they have a difference in behaviour. The global isFinite try to turn the string value into a number.
 
 <details>
+
+<details>
+  <summary>How to check that a variable is NaN?</summary>
+
+  * isNaN - return true for NaN and undefined.
+  * Number.isNaN - return true only for NaN.
+  * NaN only one variable that is not equal itself.
+
+<details>
