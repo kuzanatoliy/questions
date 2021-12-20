@@ -101,3 +101,10 @@
   It is possible to check that object is an array by Array.isArray method or duck typing.
 
 <details>
+
+<details>
+  <summary>How to check if a number is finite?</summary>
+
+  But they have a difference in behaviour. The global isFinite try to turn the string value into a number.
+
+<details>
