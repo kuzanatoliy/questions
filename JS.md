@@ -95,27 +95,9 @@
 
 <details>
 
-How to check that the object is an array?
-It is possible to check that object is an array by Array.isArray method or duck typing.
+<details>
+  <summary>How to check that the object is an array?</summary>
 
-How to check if a number is finite?
-It is possible to use two isFinite functions: the global isFinite or the isFinite of the Number class. But they have a difference in behaviour. The global isFinite try to turn the string value into a number.
+  It is possible to check that object is an array by Array.isArray method or duck typing.
 
-How to check that a variable is NaN?
-* isNaN - return true for NaN and undefined.
-* Number.isNaN - return true only for NaN.
-* NaN only one variable that is not equal itself.
-
-What is the difference between var, let and const?
-* var has a function visibility area and pops up
-* let, const has a block visibility area and not pop up
-* const cannot be reset
-
-What is the difference between callbacks, promises, async / await?
-All of them are ways for working with async functionality.
-* Callback allows putting function that will run with the result of the async operation.
-* Promises is a modern way of working with async functionality. A promise is an object that contains its state and is a microtask.
-* Async / Await is syntax sugar that provides a more comfortable way to work with promises.
-
-Is it possible to add new methods into standard classes?
-It is possible, but it is not good practice. 
+<details>
