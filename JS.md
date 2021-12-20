@@ -86,3 +86,61 @@
   The setInterval method will continue calling the function until the interval would be active.
 
 <details>
+
+<details>
+  <summary>What data types are in JavaScript?</summary>
+
+  The JavaScript language has two groups of data types: primitive data types and referential data types. The difference between the groups in access type. Primitive gets by value. Referential gets by link.
+  The data types: Number, BigInt, String, Boolean, null, undefined, Object, Symbol.
+
+<details>
+
+<details>
+  <summary>How to check that the object is an array?</summary>
+
+  It is possible to check that object is an array by Array.isArray method or duck typing.
+
+<details>
+
+<details>
+  <summary>How to check if a number is finite?</summary>
+
+  But they have a difference in behaviour. The global isFinite try to turn the string value into a number.
+
+<details>
+
+<details>
+  <summary>How to check that a variable is NaN?</summary>
+
+  * isNaN - return true for NaN and undefined.
+  * Number.isNaN - return true only for NaN.
+  * NaN only one variable that is not equal itself.
+
+<details>
+
+<details>
+  <summary>What is the difference between var, let and const?</summary>
+
+  * var has a function visibility area and pops up
+  * let, const has a block visibility area and not pop up
+  * const cannot be reset
+
+<details>
+
+<details>
+  <summary>What is the difference between callbacks, promises, async / await?</summary>
+
+  All of them are ways for working with async functionality.
+  
+  * Callback allows putting function that will run with the result of the async operation.
+  * Promises is a modern way of working with async functionality. A promise is an object that contains its state and is a microtask.
+  * Async / Await is syntax sugar that provides a more comfortable way to work with promises.
+
+<details>
+
+<details>
+  <summary>Is it possible to add new methods into standard classes?</summary>
+
+  It is possible, but it is not good practice. 
+
+<details>
