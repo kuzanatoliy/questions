@@ -18,3 +18,20 @@
   The non-functional requirements specify how a system performs functions. In other words, they will describe how a system should behave and what limits there are on its functionality.
 
 </details>
+
+<details>
+  <summary>Give examples of functional and non-functional requirements.</summary>
+
+  Functional Requirements Example:
+
+  1. Authentication of a user when he tries to log into the system;
+  2. A system shutdown in the case of a cyber-attack;
+  3. A verification email is sent to a user whenever he registers for the first time on some software system.
+
+  Non-functional Requirements Example:
+
+  1. A system should send emails with a latency of no greater than 12 hours;
+  2. It should process each request within 10 seconds;
+  3. The site should load in 3 seconds when the number of simultaneous users is> 10000.
+
+</details>
