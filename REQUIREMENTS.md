@@ -48,3 +48,10 @@
   Supportability.
 
 </details>
+
+<details>
+  <summary>What Are Requirements Gathering?</summary>
+
+  Requirements gathering is an exploratory process that involves researching and documenting the exact requirements from start to finish.
+  
+</details>
