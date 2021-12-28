@@ -35,3 +35,16 @@
   3. The site should load in 3 seconds when the number of simultaneous users is> 10000.
 
 </details>
+
+<details>
+  <summary>Give examples of non-functional requirements groups.</summary>
+
+  Usability - prioritize the functions of the system based on usage patterns.
+
+  Reliability - define the trust in the system after using it for some time.
+
+  Performance.
+
+  Supportability.
+
+</details>
