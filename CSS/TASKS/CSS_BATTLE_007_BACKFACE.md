@@ -253,6 +253,7 @@
     </style>
 
 </details>
+
 <details>
   <summary>#40 - Letter B</summary>
 
@@ -275,6 +276,44 @@
         height: 100px;
         margin: 0 50px;
         background: #6592CF;
+      }
+    </style>
+
+</details>
+
+<details>
+  <summary>#41 - Fox Head</summary>
+
+  [Task](https://cssbattle.dev/play/41)
+
+    <p a><p a><p b><p b>
+    <style>
+      * {
+        margin: 0;
+        background: #293462;
+      }
+      body {
+        margin: 80px 150px;
+      }
+      [b] {
+        position: fixed;
+        width: 30px;
+        height: 30px;
+        border-radius: 50%;
+        margin: 60px 15px;
+      }
+      [b] + [b] {
+        left: 190px;
+      }
+      [a] {
+        width: 50%;
+        height: 100%;
+        float: left;
+        border-radius: 0 40px 0 0;
+        box-shadow: inset 0 100px #FE5F55;
+      }
+      [a] + [a] {
+        transform: rotateY(180deg);
       }
     </style>
 
