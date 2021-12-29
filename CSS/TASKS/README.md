@@ -14,6 +14,8 @@
 
 [CSS battle #7 (Backface)](CSS_BATTLE_007_BACKFACE.md)
 
+[CSS battle #8 (Transition)](CSS_BATTLE_008_TRANSITION.md)
+
 [CSS Diner](CSS_DINER.md)
 
 [Flexbox defense](FLEXBOX_DEFENSE.md)
