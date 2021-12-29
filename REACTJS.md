@@ -279,3 +279,19 @@
   * Only useRef could be used in another field of an application. For example: gaining direct access to React components or DOM.
 
 </details>
+
+<details>
+  <summary>Explain reconciliation in React.</summary>
+
+  The React uses the O(n) algorithm for a component rerendering that has two assumptions:
+
+  1. Two elements of different types will produce not the same trees.
+  2. The developer can hint at which child elements may be stable across renders by keys.
+
+  Behaviour:
+
+  1. If old and new elements have different types, React will build a new tree.
+  2. For the same element with different attributes, React change only attributes. And when updating style, React also update only the properties that changed.
+  3. The recursing on children. By default, when recursing on the children of a DOM node, React just iterates over both lists of children and generates a mutation whenever there is a difference. If children have keys, React will use them for matching elements.
+
+</details>
