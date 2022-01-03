@@ -480,3 +480,10 @@
   * <(cmd): <(ls)
 
 </details>
+
+<details>
+  <summary>What is ORM injection?</summary>
+
+  Object-relational mapping (ORM) Injection use SQL Injection in ORM generated data access object model.
+
+</details>
