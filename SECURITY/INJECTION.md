@@ -487,3 +487,10 @@
   Object-relational mapping (ORM) Injection use SQL Injection in ORM generated data access object model.
 
 </details>
+
+<details>
+  <summary>How to test ORM injection?</summary>
+
+  ORM layers can be prone to vulnerabilities as they extend the surface of the attack. Instead of directly targeting the application with SQL queries, you’d be focusing on abusing the ORM layer to send malicious SQL queries.
+
+</details>
