@@ -16,6 +16,8 @@
 
 [CSS battle #8 (Transition)](CSS_BATTLE_008_TRANSITION.md)
 
+[CSS battle #9 (Margin)](CSS_BATTLE_009_MARGIN.md)
+
 [CSS Diner](CSS_DINER.md)
 
 [Flexbox defense](FLEXBOX_DEFENSE.md)
