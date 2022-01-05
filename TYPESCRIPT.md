@@ -36,3 +36,10 @@
   4. Polymorphism.
 
 </details>
+
+<details>
+  <summary>What are generic types?</summary>
+
+  The generics types allow developing functionality that could work with different static types. So, it is possible to decrease code duplications.
+
+</details>
