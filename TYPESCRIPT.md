@@ -64,3 +64,10 @@
   The files contain information that allows matching TypeScript with built JavaScript. For example, a programmer or dev tools could use it for debugging.
 
 </details>
+
+<details>
+  <summary>What are getters/setters in TypeScript?</summary>
+
+  They are functions that control access to class properties.
+
+</details>
