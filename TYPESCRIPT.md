@@ -11,13 +11,10 @@
 
   Pros:
 
-  Typescript allows using new features from ECMAScript and compiling them into older versions.
-
-  It allows using static types and manipulating them (logic operation, using of generics, etc.).
-
-  IDEs improve workflow due to getting information from the typescript compiler in real-time.
-
-  Corporate support.
+  1. Typescript allows using new features from ECMAScript and compiling them into older versions.
+  2. It allows using static types and manipulating them (logic operation, using of generics, etc.).
+  3. IDEs improve workflow due to getting information from the typescript compiler in real-time.
+  4. Corporate support.
 
 </details>
 
@@ -25,5 +22,17 @@
   <summary>What are generic types?</summary>
 
   The generics types allow developing functionality that could work with different static types. So, it is possible to decrease code duplications.
+
+</details>
+
+<details>
+  <summary>Does typescript support OOP principles?</summary>
+
+  Yes, it does. The typescript language supports the following principles:
+  
+  1. Incapsulation;
+  2. Inheritance;
+  3. Abstraction;
+  4. Polymorphism.
 
 </details>
