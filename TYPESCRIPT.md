@@ -50,3 +50,10 @@
   It is possible to use conditions the same as in JavaScript.
 
 </details>
+
+<details>
+  <summary>Is it possible to use permanent properties in JavaScript?</summary>
+
+  Generally, it is not possible. But read-only types allows blocking access to properties. Moreover, it is possible to use getters/setters with private properties.
+
+</details>
