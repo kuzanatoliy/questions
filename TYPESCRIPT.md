@@ -71,3 +71,10 @@
   They are functions that control access to class properties.
 
 </details>
+
+<details>
+  <summary>Is it possible to use TypeScript in back-end development?</summary>
+
+  Yes. It is possible to use TypeScript for developing applications on NodeJS.
+
+</details>
