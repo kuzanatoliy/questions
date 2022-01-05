@@ -21,3 +21,5 @@
 [ReactJS](REACTJS.md)
 
 [Requirements](REQUIREMENTS.md)
+
+[TypeScript](TYPESCRIPT.md)
