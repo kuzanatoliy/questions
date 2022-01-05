@@ -43,3 +43,10 @@
   The generics types allow developing functionality that could work with different static types. So, it is possible to decrease code duplications.
 
 </details>
+
+<details>
+  <summary>How is it possible to check null or undefined values in typescript?</summary>
+
+  It is possible to use conditions the same as in JavaScript.
+
+</details>
