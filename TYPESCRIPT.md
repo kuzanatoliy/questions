@@ -99,5 +99,12 @@
   <summary>Is it possible to use typed functions in TypeScript?</summary>
 
   Yes, it is. TypeScript allows to create function type and pass a function as a variable.
-  
+
+</details>
+
+<details>
+  <summary>Is it possible to get access to the inner module's classes?</summary>
+
+  It is possible to use the export keyword.
+
 </details>
