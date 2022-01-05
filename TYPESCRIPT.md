@@ -94,3 +94,10 @@
   Decorator is a TypeScript opportunity that allows composing general functionality and decorating a class or its methods.
 
 </details>
+
+<details>
+  <summary>Is it possible to use typed functions in TypeScript?</summary>
+
+  Yes, it is. TypeScript allows to create function type and pass a function as a variable.
+  
+</details>
