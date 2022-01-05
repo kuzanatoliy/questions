@@ -78,3 +78,12 @@
   Yes. It is possible to use TypeScript for developing applications on NodeJS.
 
 </details>
+
+<details>
+  <summary>What are the main TypeScript components?</summary>
+
+  1. Programming Language.
+  2. Compilator. Allow turning TypeScriont into JavaScript.
+  3. Tools.
+
+</details>
