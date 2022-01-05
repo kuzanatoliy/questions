@@ -57,3 +57,10 @@
   Generally, it is not possible. But read-only types allows blocking access to properties. Moreover, it is possible to use getters/setters with private properties.
 
 </details>
+
+<details>
+  <summary>What are map files in TypeScript?</summary>
+
+  The files contain information that allows matching TypeScript with built JavaScript. For example, a programmer or dev tools could use it for debugging.
+
+</details>
