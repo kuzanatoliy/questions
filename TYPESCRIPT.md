@@ -87,3 +87,10 @@
   3. Tools.
 
 </details>
+
+<details>
+  <summary>What are decorators in TypeScript?</summary>
+
+  Decorator is a TypeScript opportunity that allows composing general functionality and decorating a class or its methods.
+
+</details>
