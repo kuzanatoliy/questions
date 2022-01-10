@@ -122,6 +122,23 @@
 </details>
 
 <details>
+  <summary>What are the types of Defenses?</summary>
+
+  Primary Defenses:
+  
+  1. Use of Prepared Statements (with Parameterized Queries);
+  2. Use of Stored Procedures;
+  3. Allow-list Input Validation;
+  4. Escaping All User Supplied Input.
+  
+  Additional Defenses:
+  
+  1. Enforcing Least Privilege;
+  2. Performing Allow-list Input Validation as a Secondary.
+
+</details>
+
+<details>
   <summary>What are detection techniques?</summary>
 
   Firstly need to understand when the application interacts with a DB Server to access some data. Typical examples:
