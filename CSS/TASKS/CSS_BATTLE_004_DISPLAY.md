@@ -1,9 +1,9 @@
 # CSS battle 004 Display
 
-## Links
+### Links
 [source](https://cssbattle.dev/battle/4)
 
-## Tasks
+### Tasks
 
 <details>
   <summary>#21 - SitePoint Logo</summary>

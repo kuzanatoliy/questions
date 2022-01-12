@@ -1,9 +1,9 @@
 # CSS battle 001 Pilot battle
 
-## Links
+### Links
 [source](https://cssbattle.dev/battle/1)
 
-## Tasks
+### Tasks
 
 <details>
   <summary>#1 - Simply Square</summary>

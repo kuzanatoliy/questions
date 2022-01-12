@@ -1,9 +1,9 @@
 # CSS battle 008 Transition
 
-## Links
+### Links
 [source](https://cssbattle.dev/battle/8)
 
-## Tasks
+### Tasks
 
 <details>
   <summary>#42 - Baby</summary>

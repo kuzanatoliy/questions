@@ -1,6 +1,6 @@
 # Flexbox layout
 
-## Links
+### Links
 [docs](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ## Questions

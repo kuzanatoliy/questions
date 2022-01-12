@@ -1,8 +1,8 @@
 # HTTP
 
-## Links
+### Links
 
-## Questions
+### Questions
 
 <details>
   <summary>What are HTTP methods? What methods do you know?</summary>

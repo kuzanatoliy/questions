@@ -1,8 +1,8 @@
 # CSS
 
-## Links
+### Links
 
-## Questions
+### Questions
 
 <details>
   <summary>Is it possible to use non-blocking CSS?</summary>

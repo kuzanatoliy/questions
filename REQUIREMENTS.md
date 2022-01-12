@@ -1,6 +1,6 @@
 # Requirements
 
-## Links
+### Links
 [Functional vs non-functional requirements](https://reqtest.com/requirements-blog/functional-vs-non-functional-requirements/)
 
 ### Questions

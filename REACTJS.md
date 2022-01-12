@@ -1,6 +1,6 @@
 # ReactJS
 
-## Links
+### Links
 [Misconceptions about Virtual DOM](https://itnext.io/misconceptions-about-virtual-dom-35ec60b87086)
 
 ### Questions

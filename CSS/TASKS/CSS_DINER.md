@@ -1,9 +1,9 @@
 # CSS Diner
 
-## Links
+### Links
 [source](https://flukeout.github.io)
 
-## Tasks
+### Tasks
 
 <details>
   <summary>Level 1</summary>

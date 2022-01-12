@@ -1,6 +1,6 @@
 # PostgreSQL and layered architecture
 
-## Links
+### Links
 
 ## Layered Style Guides. Back-End Patterns
 

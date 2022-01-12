@@ -1,6 +1,6 @@
 # CORS (Cross-Origin Resource Sharing)
 
-## Links
+### Links
 
 ### Questions
 

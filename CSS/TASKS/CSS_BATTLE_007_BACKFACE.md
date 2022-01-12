@@ -1,9 +1,9 @@
 # CSS battle 007 Backface
 
-## Links
+### Links
 [source](https://cssbattle.dev/battle/7)
 
-## Tasks
+### Tasks
 
 <details>
   <summary>#33 - Birdie</summary>

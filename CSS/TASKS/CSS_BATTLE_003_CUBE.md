@@ -1,9 +1,9 @@
 # CSS battle 003 Cube
 
-## Links
+### Links
 [source](https://cssbattle.dev/battle/3)
 
-## Tasks
+### Tasks
 
 <details>
   <summary>#19 - Cube</summary>

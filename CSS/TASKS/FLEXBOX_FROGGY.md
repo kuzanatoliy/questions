@@ -1,6 +1,6 @@
 # Flexbox froggy
 
-## Links
+### Links
 [source](https://flexboxfroggy.com)
 
 ## Tasks

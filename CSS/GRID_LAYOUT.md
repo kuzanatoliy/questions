@@ -1,9 +1,9 @@
 # Grid layout
 
-## Links
+### Links
 [docs](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
-## Questions
+### Questions
 
 <details>
   <summary>What is a grid container?</summary>

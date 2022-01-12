@@ -1,9 +1,9 @@
 # CSS battle 006 Conic
 
-## Links
+### Links
 [source](https://cssbattle.dev/battle/6)
 
-## Tasks
+### Tasks
 
 <details>
   <summary>#31 - Equals</summary>
