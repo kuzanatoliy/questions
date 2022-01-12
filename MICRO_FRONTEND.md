@@ -23,3 +23,11 @@
   * Fault tolerance. One of the benefits of micro frontend architecture is reliability. One broken micro-app doesn't affect the whole application.
 
 </details>
+
+<details>
+  <summary>What are the ways of implementing micro frontend architecture?</summary>
+
+  * Micro frontend as a component.
+  * Micro frontend as a page.
+
+</details>
