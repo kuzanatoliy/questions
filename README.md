@@ -16,6 +16,8 @@
 
 [JS](JS.md)
 
+[Micro frontend](MICRO_FRONTEND.md)
+
 [Principles and patterns](PRINCIPLES_AND_PATTERNS.md)
 
 [ReactJS](REACTJS.md)

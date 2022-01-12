@@ -45,6 +45,10 @@
   <summary>What is Virtual DOM?</summary>
 
   The virtual DOM is an in-memory representation of Real DOM. React creates an in-memory data structure cache, computes the resulting differences, and then updates the browser's displayed DOM efficiently. It allows the programmer to write code as if the entire page is rendered on each change, while the React libraries only render subcomponents that change.
+  
+  Also, Virtual DOM allows avoiding unnecessary re-renders. All mounted React components decide whether they have to re-render due to possible changes in props.
+  
+  Moreover, it is possible to highlight that each component has personal local Virtual dom.
 
 </details>
 
