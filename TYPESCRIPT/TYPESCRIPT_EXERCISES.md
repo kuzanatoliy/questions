@@ -23,3 +23,18 @@
     export type Person = User | Admin;
 
 </details>
+
+<details>
+  <summary>Task 3</summary>
+
+    export function logPerson(person: Person) {
+      let additionalInformation: string;
+      if ('role' in person) {
+        additionalInformation = person.role;
+      } else {
+        additionalInformation = person.oc cupation;
+      }
+      console.log(` - ${person.name}, ${person.age}, ${additionalInformation}`);
+    }
+
+</details>
