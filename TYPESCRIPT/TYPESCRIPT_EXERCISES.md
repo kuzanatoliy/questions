@@ -118,3 +118,24 @@
     };
 
 </details>
+
+<details>
+  <summary>Task 10</summary>
+
+    type PCallbackFn<T> = (response: ApiResponse<T>) => void;
+    type PResultFn<T> = () => Promise<T>;
+
+    export function promisify<T>(fn: (callback: PCallbackFn<T>) => void): PResultFn<T> {
+      return () => {
+        return new Promise((resolve, reject) => fn((response) => {
+          if(response.status === 'success') {
+            return Promise.resolve(response.data);
+          }
+          else {
+            return Promise.reject(response.error);
+          }
+        }));
+      }
+    }
+
+</details>
