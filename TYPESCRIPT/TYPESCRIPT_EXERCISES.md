@@ -16,3 +16,10 @@
     }
 
 </details>
+
+<details>
+  <summary>Task 2</summary>
+
+    export type Person = User | Admin;
+
+</details>
