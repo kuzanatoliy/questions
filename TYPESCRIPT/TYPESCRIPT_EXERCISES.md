@@ -94,3 +94,14 @@
     }
 
 </details>
+
+<details>
+  <summary>Task 8</summary>
+
+    type OmitType<T> = Omit<T, 'type'>;
+
+    interface PowerUser extends OmitType<User>, OmitType<Admin> {
+      type: 'powerUser',
+    }
+
+</details>
