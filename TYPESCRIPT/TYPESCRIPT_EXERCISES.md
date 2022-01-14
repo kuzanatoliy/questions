@@ -105,3 +105,16 @@
     }
 
 </details>
+
+<details>
+  <summary>Task 9</summary>
+
+    export type ApiResponse<T> = {
+      status: 'success';
+      data: T;
+    } | {
+      status: 'error';
+      error: string;
+    };
+
+</details>
