@@ -38,3 +38,16 @@
     }
 
 </details>
+
+<details>
+  <summary>Task 4</summary>
+
+    export function isAdmin(person: Person): person is Admin {
+      return person.type === 'admin';
+    }
+
+    export function isUser(person: Person): person is User {
+      return person.type === 'user';
+    }
+
+</details>
