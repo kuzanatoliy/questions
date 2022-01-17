@@ -193,3 +193,16 @@
     }
 
 </details>
+
+<details>
+  <summary>Task 14</summary>
+
+    export function map<T, R>(mapper: (arg: T) => R, input: Array<T>) { ... }
+    export function filter<T, R>(filterer: (arg: T) => R, input: Array<T>) { ... }
+    export function reduce<T,>(reducer: (curr: T, prev: T) => T, initialValue: T, input: Array<T>) { ... }
+    export function add(a: number, b: number) { ... }
+    export function subtract(a: number, b: number) { ... }
+    export function prop<T extends {}, K extends keyof T>(obj: T, propName: K) { ... }
+    export function pipe<T>(...functions: Array<(...arg: Array<T>) => T >) { ... }
+
+</details>
