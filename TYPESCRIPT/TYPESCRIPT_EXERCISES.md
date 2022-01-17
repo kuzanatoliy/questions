@@ -174,3 +174,22 @@
     }
 
 </details>
+
+<details>
+  <summary>Task 13</summary>
+
+    import 'date-wizard';
+
+    declare module 'date-wizard' {
+      const pad: (val: number) => string;
+
+      interface DateDetails {
+        year: number;
+        month: number;
+        hours: number;
+        minutes: number;
+        seconds: number;
+      }
+    }
+
+</details>
