@@ -6,6 +6,8 @@
 
 [SECURITY](SECURITY/README.md)
 
+[TypeScript](TYPESCRIPT/README.md)
+
 [Angular](ANGULAR.md)
 
 [CLOUD](CLOUD.md)
@@ -25,5 +27,3 @@
 [ReactJS](REACTJS.md)
 
 [Requirements](REQUIREMENTS.md)
-
-[TypeScript](TYPESCRIPT.md)
