@@ -1,6 +1,7 @@
 # CSS battle 003 Cube
 
 ### Links
+
 [source](https://cssbattle.dev/battle/3)
 
 ### Tasks
@@ -8,7 +9,7 @@
 <details>
   <summary>#19 - Cube</summary>
 
-  [Task](https://cssbattle.dev/play/19)
+[Task](https://cssbattle.dev/play/19)
 
     <p a><p b><p c>
     <style>
@@ -47,7 +48,7 @@
 <details>
   <summary>#20 - Ticket</summary>
 
-  [Task](https://cssbattle.dev/play/20)
+[Task](https://cssbattle.dev/play/20)
 
     <p a><p b><p c><p d><p e><p f>
     <style>

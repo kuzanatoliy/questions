@@ -1,6 +1,7 @@
 # CSS battle 001 Pilot battle
 
 ### Links
+
 [source](https://cssbattle.dev/battle/1)
 
 ### Tasks
@@ -8,7 +9,7 @@
 <details>
   <summary>#1 - Simply Square</summary>
 
-  [Task](https://cssbattle.dev/play/1)
+[Task](https://cssbattle.dev/play/1)
 
     <div></div>
     <style>
@@ -26,7 +27,7 @@
 <details>
   <summary>#2 - Carrom</summary>
 
-  [Task](https://cssbattle.dev/play/2)
+[Task](https://cssbattle.dev/play/2)
 
     <div></div><div></div><div></div><div></div>
     <style>
@@ -51,7 +52,7 @@
 <details>
   <summary>#3 - Push Button</summary>
 
-  [Task](https://cssbattle.dev/play/3)
+[Task](https://cssbattle.dev/play/3)
 
     <div><div>
     <style>
@@ -80,7 +81,7 @@
 <details>
   <summary>#4 - Ups n Downs</summary>
 
-  [Task](https://cssbattle.dev/play/4)
+[Task](https://cssbattle.dev/play/4)
 
     <div></div><div></div><div></div><div></div><div></div><div>
     <style>
@@ -108,7 +109,7 @@
 <details>
   <summary>#5 - Acid Rain</summary>
 
-  [Task](https://cssbattle.dev/play/5)
+[Task](https://cssbattle.dev/play/5)
 
     <div></div><div></div><div></div>
     <style>
@@ -145,7 +146,7 @@
 <details>
   <summary>#6 - Missing Slice</summary>
 
-  [Task](https://cssbattle.dev/play/6)
+[Task](https://cssbattle.dev/play/6)
 
     <div class=a></div><div class=b></div><div class=c></div>
     <style>
@@ -179,7 +180,7 @@
 <details>
   <summary>#7 - Leafy Trail</summary>
 
-  [Task](https://cssbattle.dev/play/7)
+[Task](https://cssbattle.dev/play/7)
 
     <div class=a></div><div class=b></div><div class=c></div>
     <style>
@@ -213,7 +214,7 @@
 <details>
   <summary>#8 - Forking Crazy</summary>
 
-  [Task](https://cssbattle.dev/play/8)
+[Task](https://cssbattle.dev/play/8)
 
     <div class="bg">
       <div class="upward-circle"></div>
@@ -292,7 +293,7 @@
 <details>
   <summary>#9 - Tesseract</summary>
 
-  [Task](https://cssbattle.dev/play/9)
+[Task](https://cssbattle.dev/play/9)
 
     <p a><p b><p c>
     <style>
@@ -330,10 +331,10 @@
 <details>
   <summary>#10 - Cloaked Spirits</summary>
 
-  [Task](https://cssbattle.dev/play/10)
+[Task](https://cssbattle.dev/play/10)
 
     <p a><i></i></p><p b><i></i></p><p a><i></i></p>
-    <style>	
+    <style>
       body {
         margin: 0 50;
         background: #62306D
@@ -370,7 +371,7 @@
 <details>
   <summary>#11 - Eye of Sauron</summary>
 
-  [Task](https://cssbattle.dev/play/11)
+[Task](https://cssbattle.dev/play/11)
 
     <div id="l"></div><div id="c"></div><div id="r"></div>
     <style>
@@ -415,7 +416,7 @@
 <details>
   <summary>#12 - Wiggly Moustache</summary>
 
-  [Task](https://cssbattle.dev/play/12)
+[Task](https://cssbattle.dev/play/12)
 
     <div id="l"></div>
     <div id="c"></div>

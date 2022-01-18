@@ -1,6 +1,7 @@
 # CSS battle 006 Conic
 
 ### Links
+
 [source](https://cssbattle.dev/battle/6)
 
 ### Tasks
@@ -8,7 +9,7 @@
 <details>
   <summary>#31 - Equals</summary>
 
-  [Task](https://cssbattle.dev/play/31)
+[Task](https://cssbattle.dev/play/31)
 
     <p><p>
     <style>
@@ -36,7 +37,7 @@
 <details>
   <summary>#32 - Band-aid</summary>
 
-  [Task](https://cssbattle.dev/play/32)
+[Task](https://cssbattle.dev/play/32)
 
     <p><p>
     <style>

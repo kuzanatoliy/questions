@@ -1,14 +1,15 @@
 # CSS battle 002 Visibility
 
-## Links
+### Links
+
 [source](https://cssbattle.dev/battle/2)
 
-## Tasks
+### Tasks
 
 <details>
   <summary>#13 - Totally Triangle</summary>
 
-  [Task](https://cssbattle.dev/play/13)
+[Task](https://cssbattle.dev/play/13)
 
     <p>
     <style>
@@ -29,7 +30,7 @@
 <details>
   <summary>#14 - Web Maker Logo</summary>
 
-  [Task](https://cssbattle.dev/play/14)
+[Task](https://cssbattle.dev/play/14)
 
     <p t1><p t2>
     <style>
@@ -62,7 +63,7 @@
 <details>
   <summary>#15 - Overlap</summary>
 
-  [Task](https://cssbattle.dev/play/15)
+[Task](https://cssbattle.dev/play/15)
 
     <p>
     <style>
@@ -86,7 +87,7 @@
 <details>
   <summary>#16 - Eye of the Tiger</summary>
 
-  [Task](https://cssbattle.dev/play/16)
+[Task](https://cssbattle.dev/play/16)
 
     <p>
     <style>
@@ -108,7 +109,7 @@
 <details>
   <summary>#17 - Fidget Spinner</summary>
 
-  [Task](https://cssbattle.dev/play/17)
+[Task](https://cssbattle.dev/play/17)
 
     <p t><p a><p b><p c><p d>
     <style>
