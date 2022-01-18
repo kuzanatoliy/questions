@@ -1,6 +1,7 @@
 # CSS battle 004 Display
 
 ### Links
+
 [source](https://cssbattle.dev/battle/5)
 
 ### Tasks
@@ -8,7 +9,7 @@
 <details>
   <summary>#29 - Suffocate</summary>
 
-  [Task](https://cssbattle.dev/play/29)
+[Task](https://cssbattle.dev/play/29)
 
     <p a><p b><p c><p d>
     <style>
@@ -41,7 +42,7 @@
 <details>
   <summary>#30 - Horizon</summary>
 
-  [Task](https://cssbattle.dev/play/30)
+[Task](https://cssbattle.dev/play/30)
 
     <style>
       body {

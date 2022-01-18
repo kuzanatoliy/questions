@@ -1,6 +1,7 @@
 # CSS battle 008 Transition
 
 ### Links
+
 [source](https://cssbattle.dev/battle/8)
 
 ### Tasks
@@ -8,7 +9,7 @@
 <details>
   <summary>#42 - Baby</summary>
 
-  [Task](https://cssbattle.dev/play/42)
+[Task](https://cssbattle.dev/play/42)
 
     <div><p a><p a><p b>
     <style>
@@ -52,7 +53,7 @@
 <details>
   <summary>#43 - Wrench</summary>
 
-  [Task](https://cssbattle.dev/play/43)
+[Task](https://cssbattle.dev/play/43)
 
     <p><p>
     <style>
@@ -80,7 +81,7 @@
 <details>
   <summary>#44 - Stripes</summary>
 
-  [Task](https://cssbattle.dev/play/44)
+[Task](https://cssbattle.dev/play/44)
 
     <p a><p b><p b>
     <style>

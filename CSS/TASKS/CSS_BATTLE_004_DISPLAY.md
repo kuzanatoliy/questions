@@ -1,6 +1,7 @@
 # CSS battle 004 Display
 
 ### Links
+
 [source](https://cssbattle.dev/battle/4)
 
 ### Tasks
@@ -8,7 +9,7 @@
 <details>
   <summary>#21 - SitePoint Logo</summary>
 
-  [Task](https://cssbattle.dev/play/21)
+[Task](https://cssbattle.dev/play/21)
 
     <div a><p/><p/></div><div b><p/><p/></div>
     <style>
@@ -53,7 +54,7 @@
 <details>
   <summary>#22 - Cloud</summary>
 
-  [Task](https://cssbattle.dev/play/22)
+[Task](https://cssbattle.dev/play/22)
 
     <p a><p b><p c>
     <style>
@@ -89,7 +90,7 @@
 <details>
   <summary>#23 - Boxception</summary>
 
-  [Task](https://cssbattle.dev/play/23)
+[Task](https://cssbattle.dev/play/23)
 
     <div>
     <style>
@@ -111,7 +112,7 @@
 <details>
   <summary>#24 - Switches</summary>
 
-  [Task](https://cssbattle.dev/play/24)
+[Task](https://cssbattle.dev/play/24)
 
     <p a><p b><p c><p d>
     <style>
@@ -149,7 +150,7 @@
 <details>
   <summary>#25 - Blossom</summary>
 
-  [Task](https://cssbattle.dev/play/25)
+[Task](https://cssbattle.dev/play/25)
 
     <div><p><p></div><div><p><p></div>
     <style>
@@ -182,7 +183,7 @@
 <details>
   <summary>#26 - Smiley</summary>
 
-  [Task](https://cssbattle.dev/play/26)
+[Task](https://cssbattle.dev/play/26)
 
     <p><p a><p>
     <style>
@@ -213,7 +214,7 @@
 <details>
   <summary>#27 - Lock Up</summary>
 
-  [Task](https://cssbattle.dev/play/27)
+[Task](https://cssbattle.dev/play/27)
 
     <p><p a><p b><p c>
     <style>
@@ -251,7 +252,7 @@
 <details>
   <summary>#28 - Cups & Balls</summary>
 
-  [Task](https://cssbattle.dev/play/28)
+[Task](https://cssbattle.dev/play/28)
 
     <p a><p c b><p b><p c a><p c d><p a><p c a><p d>
     <style>

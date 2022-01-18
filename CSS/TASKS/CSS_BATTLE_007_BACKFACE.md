@@ -1,6 +1,7 @@
 # CSS battle 007 Backface
 
 ### Links
+
 [source](https://cssbattle.dev/battle/7)
 
 ### Tasks
@@ -8,7 +9,7 @@
 <details>
   <summary>#33 - Birdie</summary>
 
-  [Task](https://cssbattle.dev/play/33)
+[Task](https://cssbattle.dev/play/33)
 
     <p><p><p a>
     <style>
@@ -48,7 +49,7 @@
 <details>
   <summary>#34 - Chrismas Tree</summary>
 
-  [Task](https://cssbattle.dev/play/34)
+[Task](https://cssbattle.dev/play/34)
 
     <p><p a><p b>
     <style>
@@ -84,7 +85,7 @@
 <details>
   <summary>#35 - Ice Cream</summary>
 
-  [Task](https://cssbattle.dev/play/35)
+[Task](https://cssbattle.dev/play/35)
 
     <p a><p b><p c>
     <style>
@@ -117,7 +118,7 @@
 <details>
   <summary>#36 - Interleaved</summary>
 
-  [Task](https://cssbattle.dev/play/36)
+[Task](https://cssbattle.dev/play/36)
 
     <p a><p><p a><p><p a>
     <style>
@@ -146,7 +147,7 @@
 <details>
   <summary>#37 - Tunnel</summary>
 
-  [Task](https://cssbattle.dev/play/37)
+[Task](https://cssbattle.dev/play/37)
 
     <div><div a>
     <style>
@@ -184,7 +185,7 @@
 <details>
   <summary>#38 - Not Simply Square</summary>
 
-  [Task](https://cssbattle.dev/play/38)
+[Task](https://cssbattle.dev/play/38)
 
     <p><p a><p b>
     <style>
@@ -219,7 +220,7 @@
 <details>
   <summary>#39 - Sunset</summary>
 
-  [Task](https://cssbattle.dev/play/39)
+[Task](https://cssbattle.dev/play/39)
 
     <div><p><div>
     <style>
@@ -257,7 +258,7 @@
 <details>
   <summary>#40 - Letter B</summary>
 
-  [Task](https://cssbattle.dev/play/40)
+[Task](https://cssbattle.dev/play/40)
 
     <div><p>
     <style>
@@ -284,7 +285,7 @@
 <details>
   <summary>#41 - Fox Head</summary>
 
-  [Task](https://cssbattle.dev/play/41)
+[Task](https://cssbattle.dev/play/41)
 
     <p a><p a><p b><p b>
     <style>
