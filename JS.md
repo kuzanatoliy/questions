@@ -153,3 +153,12 @@ It is possible, but it is not good practice.
 A promise is an object that stores its state (pending, fulfilled, rejected). It is a more high-tech functionality for working with async code in JavaScript.
 
 <details>
+
+<details>
+  <summary>What states does the Promise have?</summary>
+
+* pending: initial state, neither fulfilled nor rejected.
+* fulfilled: meaning that the operation was successful.
+* rejected: meaning that the operation failed.
+
+<details>
