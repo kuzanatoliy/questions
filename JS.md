@@ -162,3 +162,15 @@ A promise is an object that stores its state (pending, fulfilled, rejected). It 
 * rejected: meaning that the operation failed.
 
 <details>
+
+<details>
+  <summary>What are methods from the Promise class?</summary>
+
+* .resolve - cover value into success promise.
+* .reject - cover value into error handler.
+* .all - wait for all success promises or reject them if one has an error.
+* .allSettled - returns all resolved and rejected Promises.
+* .race - returns first success of failure promise.
+* .any - returns any successful promise.
+
+<details>
