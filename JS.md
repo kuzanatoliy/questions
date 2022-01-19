@@ -146,3 +146,10 @@ All of them are ways for working with async functionality.
 It is possible, but it is not good practice. 
 
 <details>
+
+<details>
+  <summary>What is the Promise in JavaScript?</summary>
+
+A promise is an object that stores its state (pending, fulfilled, rejected). It is a more high-tech functionality for working with async code in JavaScript.
+
+<details>
