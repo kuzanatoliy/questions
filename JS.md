@@ -174,3 +174,12 @@ A promise is an object that stores its state (pending, fulfilled, rejected). It 
 * .any - returns any successful promise.
 
 <details>
+
+<details>
+  <summary>What are the methods from the Promise prototype?</summary>
+
+* then - set success and error handler.
+* .catch - set error handler.
+* .finaly - set a handler that is not dependent on the result (error or success).
+
+<details>
