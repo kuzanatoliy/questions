@@ -302,3 +302,10 @@ Behaviour:
 3. The recursing on children. By default, when recursing on the children of a DOM node, React just iterates over both lists of children and generates a mutation whenever there is a difference. If children have keys, React will use them for matching elements.
 
 </details>
+
+<details>
+  <summary>What are FC and VFC in react?</summary>
+
+FC and VFC are provided by React utility types and describe functional components. They add properties such as propTypes, contextTypes, defaultProps, displayName, children(only FC).
+
+</details>
