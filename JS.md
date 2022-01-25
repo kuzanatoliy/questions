@@ -3,6 +3,7 @@
 ### Links
 
 [Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+[Stages of the TC39 Process](https://nitayneeman.com/posts/introducing-all-stages-of-the-tc39-process-in-ecmascript/)
 
 ### Questions
 
@@ -87,7 +88,7 @@ The setTimeout method evaluates an expression or calls a function after a specif
 
 The setInterval method will continue calling the function until the interval would be active.
 
-<details>
+</details>
 
 <details>
   <summary>What data types are in JavaScript?</summary>
@@ -95,21 +96,21 @@ The setInterval method will continue calling the function until the interval wou
 The JavaScript language has two groups of data types: primitive data types and referential data types. The difference between the groups in access type. Primitive gets by value. Referential gets by link.
 The data types: Number, BigInt, String, Boolean, null, undefined, Object, Symbol.
 
-<details>
+</details>
 
 <details>
   <summary>How to check that the object is an array?</summary>
 
 It is possible to check that object is an array by Array.isArray method or duck typing.
 
-<details>
+</details>
 
 <details>
   <summary>How to check if a number is finite?</summary>
 
 But they have a difference in behaviour. The global isFinite try to turn the string value into a number.
 
-<details>
+</details>
 
 <details>
   <summary>How to check that a variable is NaN?</summary>
@@ -118,7 +119,7 @@ But they have a difference in behaviour. The global isFinite try to turn the str
 * Number.isNaN - return true only for NaN.
 * NaN only one variable that is not equal itself.
 
-<details>
+</details>
 
 <details>
   <summary>What is the difference between var, let and const?</summary>
@@ -127,7 +128,7 @@ But they have a difference in behaviour. The global isFinite try to turn the str
 * let, const has a block visibility area and not pop up
 * const cannot be reset
 
-<details>
+</details>
 
 <details>
   <summary>What is the difference between callbacks, promises, async / await?</summary>
@@ -138,21 +139,21 @@ All of them are ways for working with async functionality.
 * Promises is a modern way of working with async functionality. A promise is an object that contains its state and is a microtask.
 * Async / Await is syntax sugar that provides a more comfortable way to work with promises.
 
-<details>
+</details>
 
 <details>
   <summary>Is it possible to add new methods into standard classes?</summary>
 
 It is possible, but it is not good practice. 
 
-<details>
+</details>
 
 <details>
   <summary>What is the Promise in JavaScript?</summary>
 
 A promise is an object that stores its state (pending, fulfilled, rejected). It is a more high-tech functionality for working with async code in JavaScript.
 
-<details>
+</details>
 
 <details>
   <summary>What states does the Promise have?</summary>
@@ -161,7 +162,7 @@ A promise is an object that stores its state (pending, fulfilled, rejected). It 
 * fulfilled: meaning that the operation was successful.
 * rejected: meaning that the operation failed.
 
-<details>
+</details>
 
 <details>
   <summary>What are methods from the Promise class?</summary>
@@ -173,7 +174,7 @@ A promise is an object that stores its state (pending, fulfilled, rejected). It 
 * .race - returns first success of failure promise.
 * .any - returns any successful promise.
 
-<details>
+</details>
 
 <details>
   <summary>What are the methods from the Promise prototype?</summary>
@@ -182,4 +183,21 @@ A promise is an object that stores its state (pending, fulfilled, rejected). It 
 * .catch - set error handler.
 * .finaly - set a handler that is not dependent on the result (error or success).
 
+</details>
+
 <details>
+  <summary>Explain TC39 Process?</summary>
+
+This process is built from five stages, starting with stage zero. Any proposal for a change in the specification goes through these stages.
+* Stage 0 (Strawperson):
+It represents an initial idea for adding or changing the specification.
+* Stage 1 (Proposal):
+It describes a discrete problem or general need, suggests a shape of the solution and points out potential challenges.
+* Stage 2 (Draft):
+It describes the syntax, semantics and APIs, although it can have 'todo' comments or placeholders. An experimental implementation should be runnable by a browser or a build-time transpiler.
+* Stage 3 (Candidate):
+It is ready for feedback and refinements from implementations and users.
+* Stage 4 (Finished):
+It indicates that the proposal is ready to be included in the latest draft of the specification - and be delivered with its next edition.
+
+</details>
