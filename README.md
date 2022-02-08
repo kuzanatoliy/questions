@@ -6,6 +6,8 @@
 
 [SECURITY](SECURITY/README.md)
 
+[SOFT SKILLS](SOFT/README.md)
+
 [TypeScript](TYPESCRIPT/README.md)
 
 [Angular](ANGULAR.md)
