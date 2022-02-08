@@ -1,3 +1,3 @@
 # Soft Skills
 
-[Mentoring](mentoring.md)
+[Mentoring](MENTORING.md)
