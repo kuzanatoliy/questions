@@ -58,3 +58,13 @@ The mentor is the person who is the most instrumental in stimulating the learnin
 * Mentees check each other's tasks and give feedback.
 
 </details>
+
+<details>
+  <summary>How prepared to be a Mentor?</summary>
+
+* review all program materials
+* collect additional materials and tests
+* prepare cases from your own work experience
+* add mentoring to your schedule
+
+</details>
