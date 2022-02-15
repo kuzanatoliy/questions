@@ -49,3 +49,12 @@ The mentor is the person who is the most instrumental in stimulating the learnin
 * mentor checks tasks and gives short written feedback.
 
 </details>
+
+<details>
+  <summary>Describe characteristics of peer mentoring.</summary>
+
+* 1-2 experts per group (10-15) mentees check each other's tasks and give feedback.
+* Group Q&A sessions to discuss questions.
+* Mentees check each other's tasks and give feedback.
+
+</details>
