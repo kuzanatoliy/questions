@@ -31,3 +31,12 @@ Mentoring is an off-line help from one person to another in making significant t
 The mentor is the person who is the most instrumental in stimulating the learning and development of another individual within a mentoring relationship.
 
 </details>
+
+<details>
+  <summary>Describe characteristics of an individual mentoring.</summary>
+
+* one mentor, one mentee;
+* meet with a mentor to discuss questions and cases;
+* mentor checks tasks and gives feedback.
+
+</details>
