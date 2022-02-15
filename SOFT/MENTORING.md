@@ -40,3 +40,12 @@ The mentor is the person who is the most instrumental in stimulating the learnin
 * mentor checks tasks and gives feedback.
 
 </details>
+
+<details>
+  <summary>Describe characteristics of group mentoring.</summary>
+
+* one mentor, 3 - 7 mentees;
+* group Q&A sessions to discuss questions;
+* mentor checks tasks and gives short written feedback.
+
+</details>
