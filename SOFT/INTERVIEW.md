@@ -31,3 +31,12 @@
 * Ask about the candidate's ambitions and desired role.
 
 </details>
+
+<details>
+  <summary>Describe actions on the tech background check?</summary>
+
+* Customize the questions that will help to discover the depth of the candidate's knowledge;
+* Check the high-priority skills thoroughly;
+* Give practical tasks related to high-priority skills.
+
+</details>
