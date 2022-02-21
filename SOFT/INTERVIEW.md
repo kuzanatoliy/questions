@@ -50,3 +50,12 @@
 * If you cannot answer, tell the candidate that it is possible to discuss it with a responsible recruiter.
 
 </details>
+
+<details>
+  <summary>Describe actions on the conclusion step?</summary>
+
+* Explain the following steps;
+* Thank the candidate for taking the time to attend the interview;
+* Be kind even if the person did not do well.
+
+</details>
