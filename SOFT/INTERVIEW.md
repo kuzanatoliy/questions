@@ -40,3 +40,13 @@
 * Give practical tasks related to high-priority skills.
 
 </details>
+
+<details>
+  <summary>Describe actions on the Q&A step?</summary>
+
+* Ask if the candidate has any questions;
+* Be ready to answer the candidate's questions on technologies;
+* Be prepared for questions about the company philosophy, mission, values, performance criteria, etc.;
+* If you cannot answer, tell the candidate that it is possible to discuss it with a responsible recruiter.
+
+</details>
