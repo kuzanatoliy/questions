@@ -59,3 +59,13 @@
 * Be kind even if the person did not do well.
 
 </details>
+
+<details>
+  <summary>What is a recruiter responsible for checking during cv pre-screening and profile analysis?</summary>
+
+* Facts about the candidate's background;
+* The candidate's motivation and readiness for further cooperation;
+* The candidate's availability to start working on a project;
+* The candidate's level of English.
+
+</details>
