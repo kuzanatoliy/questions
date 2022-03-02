@@ -69,3 +69,14 @@
 * The candidate's level of English.
 
 </details>
+
+<details>
+  <summary>What are the best practices for practical tasks?</summary>
+
+* Make it short and understandable;
+* Make it close to real work;
+* Make it adaptable to any candidate's level;
+* Make it correlated with and interview flow;
+* Don't let it take more than 15 minutes.
+
+</details>
