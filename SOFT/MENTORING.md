@@ -31,3 +31,40 @@ Mentoring is an off-line help from one person to another in making significant t
 The mentor is the person who is the most instrumental in stimulating the learning and development of another individual within a mentoring relationship.
 
 </details>
+
+<details>
+  <summary>Describe characteristics of an individual mentoring.</summary>
+
+* one mentor, one mentee;
+* meet with a mentor to discuss questions and cases;
+* mentor checks tasks and gives feedback.
+
+</details>
+
+<details>
+  <summary>Describe characteristics of group mentoring.</summary>
+
+* one mentor, 3 - 7 mentees;
+* group Q&A sessions to discuss questions;
+* mentor checks tasks and gives short written feedback.
+
+</details>
+
+<details>
+  <summary>Describe characteristics of peer mentoring.</summary>
+
+* 1-2 experts per group (10-15) mentees check each other's tasks and give feedback.
+* Group Q&A sessions to discuss questions.
+* Mentees check each other's tasks and give feedback.
+
+</details>
+
+<details>
+  <summary>How prepared to be a Mentor?</summary>
+
+* review all program materials
+* collect additional materials and tests
+* prepare cases from your own work experience
+* add mentoring to your schedule
+
+</details>
