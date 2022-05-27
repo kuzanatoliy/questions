@@ -26,3 +26,10 @@ In my opinion, the main point for me and my team members are motivation. I prefe
 Additionally, teamlead role is not right for me because I don't have good emphaty but I try playing an active role during design and solving new features. For TechLead the best role in the feature.
 
 </details>
+
+<details>
+  <summary>What was the most painful moment in your career that caused serious consequences for your professional life? Maybe, a serious bug in the code or mistaken estimations. How did you handle that painful moment or failure?</summary>
+
+Generally, I have rich working experience as a result I have many mistakes during my career path. I cannot say that I have something special. Ofcourse, I had mistakes in the estimation process and I had serious bugs. It could be solved. For example, I had one situation when I was involved in the migration of one application to AWS stack our management forgot about the part of the client gets information through proxy server that cut part of the custom HTTP headers. As a result, we cannot meet deadlines and should make addition investigations and development.
+
+</details>
