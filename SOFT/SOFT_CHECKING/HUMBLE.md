@@ -33,3 +33,10 @@ Additionally, teamlead role is not right for me because I don't have good emph
 Generally, I have rich working experience as a result I have many mistakes during my career path. I cannot say that I have something special. Ofcourse, I had mistakes in the estimation process and I had serious bugs. It could be solved. For example, I had one situation when I was involved in the migration of one application to AWS stack our management forgot about the part of the client gets information through proxy server that cut part of the custom HTTP headers. As a result, we cannot meet deadlines and should make addition investigations and development.
 
 </details>
+
+<details>
+  <summary>What would you like to change about yourself, or better yet, what would your best friends say you should work on?</summary>
+
+It is a little bit difficult question because I can find many points for growing and I pay attention to it. In my opinion, one of the most important is emphaty. I must understand people more, especially their mood and feel. This should allow me to build a more effective team in the future.
+
+</details>
