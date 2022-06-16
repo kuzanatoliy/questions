@@ -1,23 +1,5 @@
 # CSS tasks
 
-[CSS battle #1 (Pilot battle)](CSS_BATTLE_001_PILOT_BATTLE.md)
-
-[CSS battle #2 (Visibility)](CSS_BATTLE_002_VISIBILITY.md)
-
-[CSS battle #3 (Cube)](CSS_BATTLE_003_CUBE.md)
-
-[CSS battle #4 (Display)](CSS_BATTLE_004_DISPLAY.md)
-
-[CSS battle #5 (Inline)](CSS_BATTLE_005_INLINE.md)
-
-[CSS battle #6 (Equals)](CSS_BATTLE_006_CONIC.md)
-
-[CSS battle #7 (Backface)](CSS_BATTLE_007_BACKFACE.md)
-
-[CSS battle #8 (Transition)](CSS_BATTLE_008_TRANSITION.md)
-
-[CSS battle #9 (Margin)](CSS_BATTLE_009_MARGIN.md)
-
 [CSS Diner](CSS_DINER.md)
 
 [Flexbox defense](FLEXBOX_DEFENSE.md)
