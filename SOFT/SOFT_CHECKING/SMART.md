@@ -17,3 +17,14 @@ This depends on the cost of the idea. If the team has capacity and the idea is
 Generally, you or someone else could find something special that could be annoying. It is something general and it is impossible to avoid it. What could be annoying in my life. If I had to choose, I would choose black humor. The majority of the people don't like black humor.
 
 </details>
+
+<details>
+  <summary>What three things about your personality do you think are important for us to know?</summary>
+
+First, I don't  give up. If I don't know how I can solve some problems, I will find a solution.
+
+Second, I really like a complicated problem. When I must solve something complicated, I could be enthusiastic.
+
+Third, I like sport.
+
+</details>
