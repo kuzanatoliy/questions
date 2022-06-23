@@ -1,5 +1,5 @@
 # Principles and patterns
 
-[Design patterns](PATTERNS.md)
+[Design patterns](DESIGN_PATTERNS.md)
 
 [Principles](PRINCIPLES.md)
