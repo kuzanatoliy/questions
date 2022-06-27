@@ -42,3 +42,10 @@ Generally, it is impossible to avoid problems with colleagues. I'm not sure that
 Ok, maybe you know some people who like to talk a lot but really don't want to do anything. Generally, it is really complicated to work with them. This is just because it is not easy to get results from them. Unfortunately, I don't know the pill from the illness.
 
 </details>
+
+<details>
+  <summary>How do you best communicate with your colleagues?</summary>
+
+I'm not sure about communication. Ofcourse it would be nice if we had not formal communication (team buildings, out of work activities). In my opinion, it allows us to build better relationships. But if we speak only about communication on work place. This would be enough if I can ask and get an answer.
+
+</details>
