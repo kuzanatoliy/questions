@@ -28,3 +28,10 @@ Second, I really like a complicated problem. When I must solve something complic
 Third, I like sport.
 
 </details>
+
+<details>
+  <summary>Tell us about time when you had to work with a difficult colleague or boss to complete a project or task. How did you handle interactions with that person? What was the outcome?</summary>
+
+Generally, it is impossible to avoid problems with colleagues. I'm not sure that I have a difficult colleague or a boss. But I can remember one case when I had PO who didn't want to do anything. Moreover, he cannot take a responsibility. So it was really difficult to catch him. Because the employee was from the customer side, we didn't have an effective way to solve the problem. And only one way that I found was an escalation to high-level management.
+
+</details>
