@@ -35,3 +35,10 @@ Third, I like sport.
 Generally, it is impossible to avoid problems with colleagues. I'm not sure that I have a difficult colleague or a boss. But I can remember one case when I had PO who didn't want to do anything. Moreover, he cannot take a responsibility. So it was really difficult to catch him. Because the employee was from the customer side, we didn't have an effective way to solve the problem. And only one way that I found was an escalation to high-level management.
 
 </details>
+
+<details>
+  <summary>What kind of person annoy you the most, and how do you deal with him?</summary>
+
+Ok, maybe you know some people who like to talk a lot but really don't want to do anything. Generally, it is really complicated to work with them. This is just because it is not easy to get results from them. Unfortunately, I don't know the pill from the illness.
+
+</details>
