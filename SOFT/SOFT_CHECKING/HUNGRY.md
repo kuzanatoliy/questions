@@ -17,3 +17,10 @@ I cannot say that an end justifies the means. Unfortunately, from time to time,
 I don't like tedious work ofcourse. From time to time, the work is necessary and I do it. Besides, my experience tells me that it is not a success type of work and employees would be nice if someone take it.
 
 </details>
+
+<details>
+  <summary>What kinds of your hours do you generally work? How do you define your ideal schedule?</summary>
+
+Generally, I cannot say that I have some schedule for work and rest because I cannot say that my self-projects mentoring programs aren't work and it is overtime activity that requires some times. On the other hand, for customers I work about eight hours and it is enough. Also I cannot mention that I have an ideal schedule. Maybe having a flexible working day is important for me because from time to time it could be useful to start work late or increase lunch time. That is all.
+
+</details>
