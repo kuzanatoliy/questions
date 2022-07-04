@@ -2,4 +2,4 @@
 
 [Theory](THEORY.md)
 
-[TypeScript Exercises](TASKS/README.md)
+[TypeScript Exercises](TYPESCRIPT_EXERCISES.md)
