@@ -542,7 +542,7 @@ Cons:
 <details>
   <summary>What is the Template Method?</summary>
 
-Template Method is a behavioural design pattern that defines the skeleton of an algorithm in the superclass but lets subclasses override specific steps of the algorithm without changing its structure.
+Template Method is a behavioural design pattern that defines the skeleton of an algorithm in the superclass but lets subclasses override specific steps of the algorithm without changing its structure. Also could be useful for the Open-Close principle.
 
 Applicability:
 
