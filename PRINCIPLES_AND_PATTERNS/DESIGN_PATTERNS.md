@@ -515,7 +515,7 @@ Cons:
 <details>
   <summary>What is Strategy?</summary>
 
-Strategy is a behavioural design pattern that lets you define a family of algorithms, but each of them into a separate class, and make their objects interchangeable.
+Strategy is a behavioural design pattern that lets you define a family of algorithms, but each of them into a separate class, and make their objects interchangeable. The pattern could be useful for Open-Close principle because allows to add new functionality by new strategy.
 
 Applicability:
 
