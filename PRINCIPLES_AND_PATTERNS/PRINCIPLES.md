@@ -5,15 +5,17 @@
 <details>
   <summary>What is SOLID?</summary>
 
-The single responsibility principle - each class should have only one reason to change. Everything within a class should do one thing, so there is only one reason for the class to change. If you are thinking about the responsibilities of a class and adding “and” to describe them, it means that the class may have several reasons to change in the future when you need to scale or update your application. Creating classes that focus on one purpose each, however, will make your code easier to understand and maintain.
+- The single responsibility principle - each class should have only one reason to change. Everything within a class should do one thing, so there is only one reason for the class to change. If you are thinking about the responsibilities of a class and adding “and” to describe them, it means that the class may have several reasons to change in the future when you need to scale or update your application. Creating classes that focus on one purpose each, however, will make your code easier to understand and maintain.
 
-The open-closed principle - each entity should be open for expansion and be closed for modification.
+- The open-closed principle - each entity should be open for expansion and be closed for modification.
+  Open for extension means that the behavior of the module can be extended. As the requirements of the application change, we are able to extend the module with new behaviors that satisfy those changes. In other words, we are able to change what the module does.”
+  Closed for modification means that the extending the behavior of a module does not result in changes to the source or binary code of the module. The binary executable version of the module, whether in a linkable library, a DLL, or a Java .jar, remains untouched.
 
-The Liskov substitution principle - any subclass should supplement the parent class but not change it.
+- The Liskov substitution principle - any subclass should supplement the parent class but not change it.
 
-The interface segregation principle - a few separate interfaces are better than one combined interface.
+- The interface segregation principle - a few separate interfaces are better than one combined interface.
 
-The dependency inversion principle - dependencies should be only on abstractions.
+- The dependency inversion principle - dependencies should be only on abstractions.
 
 </details>
 
