@@ -18,6 +18,7 @@
   While you can add a new method to an existing interface, if the new method implements a different responsibility, it’s best to separate it into a new interface. Implementing new methods without considering potential effects can lead to unintended and undesirable results, so it’s best to adhere to this principle from the start.
 
 - The dependency inversion principle - dependencies should be only on abstractions.
+  Applying the DIP prevents changes to low-level modules from impacting and forcing changes to high-level modules. It also guarantees that abstractions do not depend on details since these dependencies can also force unnecessary code changes.
 
 </details>
 
