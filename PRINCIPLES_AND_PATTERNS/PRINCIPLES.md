@@ -11,7 +11,7 @@
   Open for extension means that the behavior of the module can be extended. As the requirements of the application change, we are able to extend the module with new behaviors that satisfy those changes. In other words, we are able to change what the module does.”
   Closed for modification means that the extending the behavior of a module does not result in changes to the source or binary code of the module. The binary executable version of the module, whether in a linkable library, a DLL, or a Java .jar, remains untouched.
 
-- The Liskov substitution principle - any subclass should supplement the parent class but not change it.
+- The Liskov substitution principle - any subclass should supplement the parent class but not change it. It extends the second SOLID principle—the OCP—by focusing on the behavior of a supertype—which is a base or parent class—and its subtypes—which are derived or child classes.
 
 - The interface segregation principle - a few separate interfaces are better than one combined interface.
 
