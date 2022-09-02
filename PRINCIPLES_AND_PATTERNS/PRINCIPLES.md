@@ -31,6 +31,17 @@ The Tell, Don't Ask Principle relies on a basic object-oriented foundation: to d
 
 </details>
 
+## Law of Demeter
+
+<details>
+  <summary>What is Law of Demeter?</summary>
+
+The Law of Demeter (LoD), also known as the Principle of Least Knowledge, is a set of object-oriented programming rules that puts restrictions on interactions between program modules.
+
+The LoD helps you avoid a major problem that can arise when you try to create a chaining method: a knot of dependencies. When you have a knot of dependencies, it means that a change in one object in the code will force you to verify/recompile/redeploy the module with the object and all other modules that depend on it.
+
+</details>
+
 ## KISS
 
 <details>
