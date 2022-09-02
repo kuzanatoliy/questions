@@ -19,6 +19,13 @@
 
 </details>
 
+<details>
+  <summary>What is the Tell, Don’t Ask Principle?</summary>
+
+The Tell, Don't Ask Principle relies on a basic object-oriented foundation: to delegate an action to an object instead of asking an object for data.
+
+</details>
+
 ## KISS
 
 <details>
