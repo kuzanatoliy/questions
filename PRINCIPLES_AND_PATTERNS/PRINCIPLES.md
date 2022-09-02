@@ -22,6 +22,8 @@
 
 </details>
 
+## Don’t Ask Principle
+
 <details>
   <summary>What is the Tell, Don’t Ask Principle?</summary>
 
