@@ -14,6 +14,8 @@
 - The Liskov substitution principle - any subclass should supplement the parent class but not change it. It extends the second SOLID principle—the OCP—by focusing on the behavior of a supertype—which is a base or parent class—and its subtypes—which are derived or child classes.
 
 - The interface segregation principle - a few separate interfaces are better than one combined interface.
+  These benefits demonstrate why the ISP helps you develop interfaces that are effectively designed and minimize the impact of modifications.
+  While you can add a new method to an existing interface, if the new method implements a different responsibility, it’s best to separate it into a new interface. Implementing new methods without considering potential effects can lead to unintended and undesirable results, so it’s best to adhere to this principle from the start.
 
 - The dependency inversion principle - dependencies should be only on abstractions.
 
