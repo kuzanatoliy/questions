@@ -26,6 +26,8 @@
 
 [Micro frontend](MICRO_FRONTEND.md)
 
+[Other](OTHER.md)
+
 [ReactJS](REACTJS.md)
 
 [Requirements](REQUIREMENTS.md)
