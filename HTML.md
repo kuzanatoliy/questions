@@ -140,3 +140,11 @@ WebP is a modern image format that provides superior lossless and lossy compress
 [Support](https://caniuse.com/webp)
 
 </details>
+
+<details>
+  <summary>What is AVIF image format?</summary>
+
+A modern image format based on the AV1 video format. AVIF generally has better compression than WebP, JPEG, PNG and GIF and is designed to supersede them.
+[Support](https://caniuse.com/avif)
+
+</details>
