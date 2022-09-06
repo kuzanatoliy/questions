@@ -3,6 +3,7 @@
 ### Links
 
 [Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+
 [Stages of the TC39 Process](https://nitayneeman.com/posts/introducing-all-stages-of-the-tc39-process-in-ecmascript/)
 
 ### Questions
@@ -115,18 +116,18 @@ But they have a difference in behaviour. The global isFinite try to turn the str
 <details>
   <summary>How to check that a variable is NaN?</summary>
 
-* isNaN - return true for NaN and undefined.
-* Number.isNaN - return true only for NaN.
-* NaN only one variable that is not equal itself.
+- isNaN - return true for NaN and undefined.
+- Number.isNaN - return true only for NaN.
+- NaN only one variable that is not equal itself.
 
 </details>
 
 <details>
   <summary>What is the difference between var, let and const?</summary>
 
-* var has a function visibility area and pops up
-* let, const has a block visibility area and not pop up
-* const cannot be reset
+- var has a function visibility area and pops up
+- let, const has a block visibility area and not pop up
+- const cannot be reset
 
 </details>
 
@@ -135,16 +136,16 @@ But they have a difference in behaviour. The global isFinite try to turn the str
 
 All of them are ways for working with async functionality.
 
-* Callback allows putting function that will run with the result of the async operation.
-* Promises is a modern way of working with async functionality. A promise is an object that contains its state and is a microtask.
-* Async / Await is syntax sugar that provides a more comfortable way to work with promises.
+- Callback allows putting function that will run with the result of the async operation.
+- Promises is a modern way of working with async functionality. A promise is an object that contains its state and is a microtask.
+- Async / Await is syntax sugar that provides a more comfortable way to work with promises.
 
 </details>
 
 <details>
   <summary>Is it possible to add new methods into standard classes?</summary>
 
-It is possible, but it is not good practice. 
+It is possible, but it is not good practice.
 
 </details>
 
@@ -158,30 +159,30 @@ A promise is an object that stores its state (pending, fulfilled, rejected). It 
 <details>
   <summary>What states does the Promise have?</summary>
 
-* pending: initial state, neither fulfilled nor rejected.
-* fulfilled: meaning that the operation was successful.
-* rejected: meaning that the operation failed.
+- pending: initial state, neither fulfilled nor rejected.
+- fulfilled: meaning that the operation was successful.
+- rejected: meaning that the operation failed.
 
 </details>
 
 <details>
   <summary>What are methods from the Promise class?</summary>
 
-* .resolve - cover value into success promise.
-* .reject - cover value into error handler.
-* .all - wait for all success promises or reject them if one has an error.
-* .allSettled - returns all resolved and rejected Promises.
-* .race - returns first success of failure promise.
-* .any - returns any successful promise.
+- .resolve - cover value into success promise.
+- .reject - cover value into error handler.
+- .all - wait for all success promises or reject them if one has an error.
+- .allSettled - returns all resolved and rejected Promises.
+- .race - returns first success of failure promise.
+- .any - returns any successful promise.
 
 </details>
 
 <details>
   <summary>What are the methods from the Promise prototype?</summary>
 
-* then - set success and error handler.
-* .catch - set error handler.
-* .finaly - set a handler that is not dependent on the result (error or success).
+- then - set success and error handler.
+- .catch - set error handler.
+- .finaly - set a handler that is not dependent on the result (error or success).
 
 </details>
 
@@ -189,15 +190,16 @@ A promise is an object that stores its state (pending, fulfilled, rejected). It 
   <summary>Explain TC39 Process?</summary>
 
 This process is built from five stages, starting with stage zero. Any proposal for a change in the specification goes through these stages.
-* Stage 0 (Strawperson):
-It represents an initial idea for adding or changing the specification.
-* Stage 1 (Proposal):
-It describes a discrete problem or general need, suggests a shape of the solution and points out potential challenges.
-* Stage 2 (Draft):
-It describes the syntax, semantics and APIs, although it can have 'todo' comments or placeholders. An experimental implementation should be runnable by a browser or a build-time transpiler.
-* Stage 3 (Candidate):
-It is ready for feedback and refinements from implementations and users.
-* Stage 4 (Finished):
-It indicates that the proposal is ready to be included in the latest draft of the specification - and be delivered with its next edition.
+
+- Stage 0 (Strawperson):
+  It represents an initial idea for adding or changing the specification.
+- Stage 1 (Proposal):
+  It describes a discrete problem or general need, suggests a shape of the solution and points out potential challenges.
+- Stage 2 (Draft):
+  It describes the syntax, semantics and APIs, although it can have 'todo' comments or placeholders. An experimental implementation should be runnable by a browser or a build-time transpiler.
+- Stage 3 (Candidate):
+  It is ready for feedback and refinements from implementations and users.
+- Stage 4 (Finished):
+  It indicates that the proposal is ready to be included in the latest draft of the specification - and be delivered with its next edition.
 
 </details>
