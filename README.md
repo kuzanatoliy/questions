@@ -12,6 +12,8 @@
 
 [TypeScript](TYPESCRIPT/README.md)
 
+[Algorithm and Data Structures](ALGORITHM_AND_DATA_STRUCTURES.md)
+
 [Angular](ANGULAR.md)
 
 [CLOUD](CLOUD.md)
