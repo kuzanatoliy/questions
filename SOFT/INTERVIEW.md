@@ -116,3 +116,11 @@ At a behavioral interview, the candidate's experience of interacting with collea
 6. If there are no errors left in the code, the interviewer can ask an additional question or move on to the next task.
 
 </details>
+
+<details>
+  <summary>What are criterias of a successful algorithm interview?</summary>
+
+- **Without the using of external sources**
+  During an interview, a candidate cannot use external sources as books or internet and should find solution by himself.
+
+</details>
