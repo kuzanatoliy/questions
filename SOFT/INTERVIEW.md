@@ -128,5 +128,7 @@ At a behavioral interview, the candidate's experience of interacting with collea
   Communication with an interviewer is important. Firstly, because it allows the candidate to solve the problem more effective. Moreover, solo development is not common.
 - **In a real programming language**
   It would be better to use a real programming language. It would be better to choose the programming language that a candidate knows better.
+- **Quite productive**
+  It is important to provide productive solution. However, it shouldn't be the best solution.
 
 </details>
