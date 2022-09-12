@@ -104,7 +104,7 @@ At a behavioral interview, the candidate's experience of interacting with collea
 </details>
 
 <details>
-  <summary>What is structure of an algorithm interview?</summary>
+  <summary>What is structure of an algorithmic interview?</summary>
 
 **The Yandex version:**
 
@@ -118,7 +118,7 @@ At a behavioral interview, the candidate's experience of interacting with collea
 </details>
 
 <details>
-  <summary>What are criterias of a successful algorithm interview?</summary>
+  <summary>What are criterias of a successful algorithmic interview?</summary>
 
 - **Without the using of external sources**
   During an interview, a candidate cannot use external sources as books or internet and should find solution by himself.
@@ -134,5 +134,18 @@ At a behavioral interview, the candidate's experience of interacting with collea
   A code should work correctly on valid input data: the correct answer is given in the right time, no run-time errors occur.
 - **Not being able to run the code**
   The solution is written on the board or in an online editor that does not allow you to run the code.
+
+</details>
+
+<details>
+  <summary>What algorithmic interview allows to check?</summary>
+
+- Soft skills
+- How clearly the candidate thinks and expresses his thoughts.
+- To what extent the candidate is able to evaluate the algorithmic and spatial complexity of the code.
+- To what extent the candidate is fluent in the programming language that he knows best.
+- Can the candidate read code?
+- To what extent the candidate is able to test his code.
+- Finally, an algorithmic interview allows you to show how capable the candidate is of understanding the cause of the bug and fixing the code.
 
 </details>
