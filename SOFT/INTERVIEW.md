@@ -149,3 +149,13 @@ At a behavioral interview, the candidate's experience of interacting with collea
 - Finally, an algorithmic interview allows you to show how capable the candidate is of understanding the cause of the bug and fixing the code.
 
 </details>
+
+<details>
+  <summary>What cons of the algorithmic interview?</summary>
+
+- It does not check how well the candidate can work with a large code base.
+- The ability to use design patterns and popular tools is not checked: utilities, libraries, frameworks.
+- Algorithmic interviews need to be prepared, as this is rarely seen in the day-to-day work of a developer.
+- Sometimes companies abuse them.
+
+</details>
