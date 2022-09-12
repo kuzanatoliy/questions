@@ -87,3 +87,11 @@
 HR screening. This is the recruiter's meeting with the candidate. As a rule, it is necessary for the recruiter to evaluate the experience of the candidate and offer the most relevant vacancies.
 
 </details>
+
+<details>
+  <summary>What is at the architectural interview?</summary>
+
+At the architectural interview, it is necessary to design the architecture of a high-load service. There are two types: system design interview and product design interview.
+The candidate needs to find out the requirements, propose a set of components to solve the problem, and also select a storage system for each component and describe the process of working with it. In addition to the fact that the solution must be working, it must scale horizontally.
+
+</details>
