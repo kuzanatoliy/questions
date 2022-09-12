@@ -132,5 +132,7 @@ At a behavioral interview, the candidate's experience of interacting with collea
   It is important to provide productive solution. However, it shouldn't be the best solution.
 - **No logical errors**
   A code should work correctly on valid input data: the correct answer is given in the right time, no run-time errors occur.
+- **Not being able to run the code**
+  The solution is written on the board or in an online editor that does not allow you to run the code.
 
 </details>
