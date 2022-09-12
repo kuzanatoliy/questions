@@ -124,5 +124,7 @@ At a behavioral interview, the candidate's experience of interacting with collea
   During an interview, a candidate cannot use external sources as books or internet and should find solution by himself.
 - **For a certain time**
   Unfortunately, it is not possible to know how much time solving requires. Different criterias could effect on the solving process. Just imagine that it is needed to solve the same problem that you solved on the previous week. It is ideal, but if you don't remember solution well it will require more time.
+- **Discuss and Write**
+  Communication with an interviewer is important. Firstly, because it allows the candidate to solve the problem more effective. Moreover, solo development is not common.
 
 </details>
