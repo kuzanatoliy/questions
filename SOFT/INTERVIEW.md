@@ -126,5 +126,7 @@ At a behavioral interview, the candidate's experience of interacting with collea
   Unfortunately, it is not possible to know how much time solving requires. Different criterias could effect on the solving process. Just imagine that it is needed to solve the same problem that you solved on the previous week. It is ideal, but if you don't remember solution well it will require more time.
 - **Discuss and Write**
   Communication with an interviewer is important. Firstly, because it allows the candidate to solve the problem more effective. Moreover, solo development is not common.
+- **In a real programming language**
+  It would be better to use a real programming language. It would be better to choose the programming language that a candidate knows better.
 
 </details>
