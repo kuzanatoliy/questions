@@ -116,3 +116,23 @@ At a behavioral interview, the candidate's experience of interacting with collea
 6. If there are no errors left in the code, the interviewer can ask an additional question or move on to the next task.
 
 </details>
+
+<details>
+  <summary>What are criterias of a successful algorithm interview?</summary>
+
+- **Without the using of external sources**
+  During an interview, a candidate cannot use external sources as books or internet and should find solution by himself.
+- **For a certain time**
+  Unfortunately, it is not possible to know how much time solving requires. Different criterias could effect on the solving process. Just imagine that it is needed to solve the same problem that you solved on the previous week. It is ideal, but if you don't remember solution well it will require more time.
+- **Discuss and Write**
+  Communication with an interviewer is important. Firstly, because it allows the candidate to solve the problem more effective. Moreover, solo development is not common.
+- **In a real programming language**
+  It would be better to use a real programming language. It would be better to choose the programming language that a candidate knows better.
+- **Quite productive**
+  It is important to provide productive solution. However, it shouldn't be the best solution.
+- **No logical errors**
+  A code should work correctly on valid input data: the correct answer is given in the right time, no run-time errors occur.
+- **Not being able to run the code**
+  The solution is written on the board or in an online editor that does not allow you to run the code.
+
+</details>
