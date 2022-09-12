@@ -102,3 +102,17 @@ The candidate needs to find out the requirements, propose a set of components to
 At a behavioral interview, the candidate's experience of interacting with colleagues and members of other teams is discussed.
 
 </details>
+
+<details>
+  <summary>What is structure of an algorithm interview?</summary>
+
+**The Yandex version:**
+
+1. The interviewer tells the condition of the problem. It may deliberately omit important introductory information because the candidate is expected to notice and ask.
+2. The candidate discusses the solution ideas with the interviewer. From the first time, the decision may be wrong or slow - this is normal, the interviewer will point out this and offer to think more. Will give hints if needed.
+3. When the candidate voices the correct solution, you can start writing code. Usually the code is written on a whiteboard or in an online editor without the ability to run the code.
+4. The next important step is self-testing and bug fixing. Often, applicants miss the right test case or make the wrong correction. We will talk about how to do it right and avoid such mistakes in the next lessons.
+5. The candidate and the interviewer check the code for correctness and eliminate errors.
+6. If there are no errors left in the code, the interviewer can ask an additional question or move on to the next task.
+
+</details>
