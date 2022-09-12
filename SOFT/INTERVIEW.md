@@ -130,5 +130,7 @@ At a behavioral interview, the candidate's experience of interacting with collea
   It would be better to use a real programming language. It would be better to choose the programming language that a candidate knows better.
 - **Quite productive**
   It is important to provide productive solution. However, it shouldn't be the best solution.
+- **No logical errors**
+  A code should work correctly on valid input data: the correct answer is given in the right time, no run-time errors occur.
 
 </details>
