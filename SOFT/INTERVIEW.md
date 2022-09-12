@@ -95,3 +95,10 @@ At the architectural interview, it is necessary to design the architecture of a 
 The candidate needs to find out the requirements, propose a set of components to solve the problem, and also select a storage system for each component and describe the process of working with it. In addition to the fact that the solution must be working, it must scale horizontally.
 
 </details>
+
+<details>
+  <summary>What is a behavioral interview?</summary>
+
+At a behavioral interview, the candidate's experience of interacting with colleagues and members of other teams is discussed.
+
+</details>
