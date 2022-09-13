@@ -28,3 +28,10 @@
   ``TRACE`` - to request test a message from a server.
 
 </details>
+
+<details>
+  <summary>What is JavaScript Object Notation(JSON)?</summary>
+
+It is a text format that is based on JavaScript but it is not depended and it can be used in any program languages. The main sphere is REST requests.
+
+</details>
