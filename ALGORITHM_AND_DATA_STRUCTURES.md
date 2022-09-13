@@ -26,3 +26,13 @@ First, determine what blocks, independent in terms of operations, the program co
 For a block, count the number of operations of different types and the cost of each type of operation. The cost is clear: as a rule, it depends on the data structures with which the interaction takes place.
 
 </details>
+
+<details>
+  <summary>What is off-by-one error?</summary>
+
+It is error in index (+1). It could happen:
+
+- during calculation of the array index
+- if mix strong and not strong comparison
+
+</details>
