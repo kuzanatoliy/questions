@@ -43,3 +43,10 @@ It is error in index (+1). It could happen:
 Binary search, also known as half-interval search, logarithmic search, or binary chop, is a search algorithm that finds the position of a target value within a sorted array.
 
 </details>
+
+<details>
+  <summary>What is recursion?</summary>
+
+Recursion is when a function calls itself. Recursion is not a specific algorithm, but a technique that allows algorithms to be implemented.
+
+</details>
