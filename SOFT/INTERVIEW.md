@@ -159,3 +159,16 @@ At a behavioral interview, the candidate's experience of interacting with collea
 - Sometimes companies abuse them.
 
 </details>
+
+<details>
+  <summary>What steps of the algorithmic interview?</summary>
+
+1. Smalltalk
+2. Task Formulation
+3. Coming up with a solution
+4. Detail work
+5. Code writing
+6. Checking the Solution and Troubleshooting
+7. Conclusions
+
+</details>
