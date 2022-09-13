@@ -35,3 +35,16 @@
 It is a text format that is based on JavaScript but it is not depended and it can be used in any program languages. The main sphere is REST requests.
 
 </details>
+
+<details>
+  <summary>What is BSON?</summary>
+
+BSON (or Binary JSON) is protocol for binary serilization JSON-similar data.
+
+Pros:
+
+- Сompactness: Generally BSON requires less spaces than JSON.
+- Data Types: BSON provides more data types as Date and BinData.
+- Metadata: Additional data that helps to search parts of them.
+
+</details>
