@@ -17,3 +17,12 @@ An algorithm is an instruction that describes the order in which actions are to 
 A data structure is a software unit that allows storing and processing data of the same type and/or logically related data.
 
 </details>
+
+<details>
+  <summary>What is time complexity?</summary>
+
+In general, the complexity is estimated as follows:
+First, determine what blocks, independent in terms of operations, the program consists of. Calculate the execution time for each. The resulting time will be the maximum of these values.
+For a block, count the number of operations of different types and the cost of each type of operation. The cost is clear: as a rule, it depends on the data structures with which the interaction takes place.
+
+</details>
