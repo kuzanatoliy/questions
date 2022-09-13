@@ -50,3 +50,14 @@ Binary search, also known as half-interval search, logarithmic search, or binary
 Recursion is when a function calls itself. Recursion is not a specific algorithm, but a technique that allows algorithms to be implemented.
 
 </details>
+
+<details>
+  <summary>What is divide and conquer method?</summary>
+
+It is possible to provide follow work flow:
+
+1. The source data is divided into several parts.
+2. For each part, the function is called recursively.
+3. The results of recursive calls are merged.
+
+</details>
