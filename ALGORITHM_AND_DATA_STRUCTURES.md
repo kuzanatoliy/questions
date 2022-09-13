@@ -36,3 +36,10 @@ It is error in index (+1). It could happen:
 - if mix strong and not strong comparison
 
 </details>
+
+<details>
+  <summary>What is binary search?</summary>
+
+Binary search, also known as half-interval search, logarithmic search, or binary chop, is a search algorithm that finds the position of a target value within a sorted array.
+
+</details>
