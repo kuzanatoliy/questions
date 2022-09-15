@@ -61,3 +61,10 @@ It is possible to provide follow work flow:
 3. The results of recursive calls are merged.
 
 </details>
+
+<details>
+  <summary>What is Insertion sort?</summary>
+
+Insertion sort is a simple sorting algorithm that builds the final sorted array (or list) one item at a time.
+
+</details>
