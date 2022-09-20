@@ -24,6 +24,8 @@
 
 [HTTP](HTTP.md)
 
+[HTTP-3](HTTP-3.md)
+
 [JS](JS.md)
 
 [Micro frontend](MICRO_FRONTEND.md)
