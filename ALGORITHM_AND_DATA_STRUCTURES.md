@@ -131,3 +131,10 @@ A greedy algorithm is one in which a locally optimal solution is chosen at each 
 Implementation tasks are not algorithms in the usual sense, but they are common, so we also need to talk about them.
 
 </details>
+
+<details>
+  <summary>What is dynamic array?</summary>
+
+A dynamic array is the simplest data structure. It performs the same tasks as ordinary arrays, only it allows you to change its size at runtime.
+
+</details>
