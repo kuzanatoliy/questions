@@ -75,3 +75,10 @@ Insertion sort is a simple sorting algorithm that builds the final sorted array 
 Quicksort is an in-place sorting algorithm. Developed by British computer scientist Tony Hoare in 1959 and published in 1961, it is still a commonly used algorithm for sorting. When implemented well, it can be somewhat faster than merge sort and about two or three times faster than heapsort.
 
 </details>
+
+<details>
+  <summary>What is Merge sort?</summary>
+
+Merge is an efficient, general-purpose, and comparison-based sorting algorithm. Most implementations produce a stable sort, which means that the order of equal elements is the same in the input and output.
+
+</details>
