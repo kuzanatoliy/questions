@@ -107,3 +107,13 @@ In computer science, heapsort is a comparison-based sorting algorithm. Heapsort 
 - Postorder: Consider all subtrees of the current node, then visit it.
 
 </details>
+
+<details>
+  <summary>What is dynamic programming?</summary>
+
+Dynamic programming is not a specific algorithm, but a technique that allows you to quickly solve a fairly wide class of problems. These questions often come up in interviews. In this tutorial we have chosen:
+
+- about the basic idea of dynamic programming,
+- about the types of tasks in interviews.
+
+</details>
