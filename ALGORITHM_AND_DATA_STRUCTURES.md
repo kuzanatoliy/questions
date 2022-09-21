@@ -117,3 +117,10 @@ Dynamic programming is not a specific algorithm, but a technique that allows you
 - about the types of tasks in interviews.
 
 </details>
+
+<details>
+  <summary>What is greedy algorithm?</summary>
+
+A greedy algorithm is one in which a locally optimal solution is chosen at each step.
+
+</details>
