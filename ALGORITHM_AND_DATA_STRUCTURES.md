@@ -138,3 +138,10 @@ Implementation tasks are not algorithms in the usual sense, but they are common,
 A dynamic array is the simplest data structure. It performs the same tasks as ordinary arrays, only it allows you to change its size at runtime.
 
 </details>
+
+<details>
+  <summary>What is stack?</summary>
+
+A stack is a data structure that allows you to quickly add an element to the end and quickly get the last element. In general, other operations may either not be supported or performed inefficiently.
+
+</details>
