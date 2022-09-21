@@ -98,3 +98,12 @@ In computer science, heapsort is a comparison-based sorting algorithm. Heapsort 
 - By the presence of cycles: cyclic and acyclic
 
 </details>
+
+<details>
+  <summary>What ways of bypassing trees are?</summary>
+
+- Preorder: visit the current node first, then look at its subtrees.
+- Inorder: look at the left subtree, visit the current node, and then look at the right subtree. Applicable only to binary trees.
+- Postorder: Consider all subtrees of the current node, then visit it.
+
+</details>
