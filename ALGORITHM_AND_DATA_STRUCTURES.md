@@ -68,3 +68,10 @@ It is possible to provide follow work flow:
 Insertion sort is a simple sorting algorithm that builds the final sorted array (or list) one item at a time.
 
 </details>
+
+<details>
+  <summary>What is Quick sort?</summary>
+
+Quicksort is an in-place sorting algorithm. Developed by British computer scientist Tony Hoare in 1959 and published in 1961, it is still a commonly used algorithm for sorting. When implemented well, it can be somewhat faster than merge sort and about two or three times faster than heapsort.
+
+</details>
