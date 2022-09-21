@@ -124,3 +124,10 @@ Dynamic programming is not a specific algorithm, but a technique that allows you
 A greedy algorithm is one in which a locally optimal solution is chosen at each step.
 
 </details>
+
+<details>
+  <summary>What are implementation tasks?</summary>
+
+Implementation tasks are not algorithms in the usual sense, but they are common, so we also need to talk about them.
+
+</details>
