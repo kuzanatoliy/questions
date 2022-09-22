@@ -145,3 +145,10 @@ A dynamic array is the simplest data structure. It performs the same tasks as or
 A stack is a data structure that allows you to quickly add an element to the end and quickly get the last element. In general, other operations may either not be supported or performed inefficiently.
 
 </details>
+
+<details>
+  <summary>What is queue?</summary>
+
+In computer science, a queue is a collection of entities that are maintained in a sequence and can be modified by the addition of entities at one end of the sequence and the removal of entities from the other end of the sequence. By convention, the end of the sequence at which elements are added is called the back, tail, or rear of the queue, and the end at which elements are removed is called the head or front of the queue, analogously to the words used when people line up to wait for goods or services.
+
+</details>
