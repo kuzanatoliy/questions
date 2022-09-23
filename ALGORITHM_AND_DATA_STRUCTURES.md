@@ -131,3 +131,38 @@ A greedy algorithm is one in which a locally optimal solution is chosen at each 
 Implementation tasks are not algorithms in the usual sense, but they are common, so we also need to talk about them.
 
 </details>
+
+<details>
+  <summary>What is dynamic array?</summary>
+
+A dynamic array is the simplest data structure. It performs the same tasks as ordinary arrays, only it allows you to change its size at runtime.
+
+</details>
+
+<details>
+  <summary>What is stack?</summary>
+
+A stack is a data structure that allows you to quickly add an element to the end and quickly get the last element. In general, other operations may either not be supported or performed inefficiently.
+
+</details>
+
+<details>
+  <summary>What is queue?</summary>
+
+In computer science, a queue is a collection of entities that are maintained in a sequence and can be modified by the addition of entities at one end of the sequence and the removal of entities from the other end of the sequence. By convention, the end of the sequence at which elements are added is called the back, tail, or rear of the queue, and the end at which elements are removed is called the head or front of the queue, analogously to the words used when people line up to wait for goods or services.
+
+</details>
+
+<details>
+  <summary>What is Linked list?</summary>
+
+In computer science, a linked list is a linear collection of data elements whose order is not given by their physical placement in memory. Instead, each element points to the next. It is a data structure consisting of a collection of nodes which together represent a sequence. In its most basic form, each node contains: data, and a reference (in other words, a link) to the next node in the sequence. This structure allows for efficient insertion or removal of elements from any position in the sequence during iteration. More complex variants add additional links, allowing more efficient insertion or removal of nodes at arbitrary positions.
+
+</details>
+
+<details>
+  <summary>What is hash table?</summary>
+
+A hash table is a lookup data structure. It allows you to quickly add, search, and remove items. Based on it, the set and dictionary containers are implemented.
+
+</details>
