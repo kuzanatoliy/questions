@@ -70,6 +70,13 @@ Insertion sort is a simple sorting algorithm that builds the final sorted array 
 </details>
 
 <details>
+  <summary>What is Bubble sort?</summary>
+
+Bubble sort, sometimes referred to as sinking sort, is a simple sorting algorithm that repeatedly steps through the input list element by element, comparing the current element with the one after it, swapping their values if needed. These passes through the list are repeated until no swaps had to be performed during a pass, meaning that the list has become fully sorted. The algorithm, which is a comparison sort, is named for the way the larger elements "bubble" up to the top of the list.
+
+</details>
+
+<details>
   <summary>What is Quick sort?</summary>
 
 Quicksort is an in-place sorting algorithm. Developed by British computer scientist Tony Hoare in 1959 and published in 1961, it is still a commonly used algorithm for sorting. When implemented well, it can be somewhat faster than merge sort and about two or three times faster than heapsort.
