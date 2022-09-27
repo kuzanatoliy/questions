@@ -84,6 +84,13 @@ Cocktail shaker sort, also known as bidirectional bubble sort, cocktail sort, sh
 </details>
 
 <details>
+  <summary>What is Comb sort?</summary>
+
+Comb sort is a relatively simple sorting algorithm originally designed by Włodzimierz Dobosiewicz and Artur Borowy in 1980, later rediscovered (and given the name "Combsort") by Stephen Lacey and Richard Box in 1991. Comb sort improves on bubble sort in the same way that Shellsort improves on insertion sort.
+
+</details>
+
+<details>
   <summary>What is Quick sort?</summary>
 
 Quicksort is an in-place sorting algorithm. Developed by British computer scientist Tony Hoare in 1959 and published in 1961, it is still a commonly used algorithm for sorting. When implemented well, it can be somewhat faster than merge sort and about two or three times faster than heapsort.
