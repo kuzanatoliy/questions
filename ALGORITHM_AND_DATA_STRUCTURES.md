@@ -77,6 +77,13 @@ Bubble sort, sometimes referred to as sinking sort, is a simple sorting algorith
 </details>
 
 <details>
+  <summary>What is Cocktail sort?</summary>
+
+Cocktail shaker sort, also known as bidirectional bubble sort, cocktail sort, shaker sort (which can also refer to a variant of selection sort), ripple sort, shuffle sort, or shuttle sort, is an extension of bubble sort. The algorithm extends bubble sort by operating in two directions. While it improves on bubble sort by more quickly moving items to the beginning of the list, it provides only marginal performance improvements.
+
+</details>
+
+<details>
   <summary>What is Quick sort?</summary>
 
 Quicksort is an in-place sorting algorithm. Developed by British computer scientist Tony Hoare in 1959 and published in 1961, it is still a commonly used algorithm for sorting. When implemented well, it can be somewhat faster than merge sort and about two or three times faster than heapsort.
