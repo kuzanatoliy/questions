@@ -1,6 +1,23 @@
 # Product development strategies
 
 <details>
+  <summary>What are the stages of product development?</summary>
+
+Product development includes all aspects of producing innovation, from thinking of a concept to delivering the product to customers. When modifying an existing product to create new interest, these stages verify the potential success of the modifications at generating business. The seven stages of product development are:
+
+1. Idea development: Idea development involves brainstorming for new products and ways to make existing products more relevant.
+2. Editing and selection: During the selection process, the product development team determines which ideas have the most potential to do well in the market.
+3. Prototype creation: Once an idea has been selected, the company must create a prototype or draft version of its proposed product. This prototype can be used to determine if the product functions as intended and appeals to your target audience.
+4. Analysis: At the analysis stage of product development, the company studies market research and evaluates the possible problems with the product.
+5. Product creation: After incorporating notes from the analysis into the prototype, the finished product can be created.
+6. Market testing: Before releasing the product to a wider audience, products are often released to a smaller market or focus group. The market testing phase includes evaluating customer feedback and the effectiveness of the product's marketing.
+7. Commercialization: The final stage of product development occurs when adjustments are made based on market testing and the product is released to the full market.
+
+[More >>>](https://www.indeed.com/career-advice/career-development/product-development-strategy)
+
+</details>
+
+<details>
   <summary>What is a minimum viable project?</summary>
 
 A minimum viable product (MVP) is a version of a product with just enough features to be usable by early customers who can then provide feedback for future product development.
