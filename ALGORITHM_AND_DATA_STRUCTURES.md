@@ -113,6 +113,15 @@ Quicksort is an in-place sorting algorithm. Developed by British computer scient
 </details>
 
 <details>
+  <summary>What is Selection sort?</summary>
+
+In computer science, selection sort is an in-place comparison sorting algorithm. Selection sort is noted for its simplicity and has performance advantages over more complicated algorithms in certain situations, particularly where auxiliary memory is limited.
+
+[More >>](https://en.wikipedia.org/wiki/Selection_sort)
+
+</details>
+
+<details>
   <summary>What is Merge sort?</summary>
 
 Merge is an efficient, general-purpose, and comparison-based sorting algorithm. Most implementations produce a stable sort, which means that the order of equal elements is the same in the input and output.
