@@ -95,6 +95,15 @@ Comb sort is a relatively simple sorting algorithm originally designed by Włodz
 </details>
 
 <details>
+  <summary>What is gnome sort?</summary>
+
+Gnome sort (nicknamed stupid sort) is a variation of the insertion sort sorting algorithm that does not use nested loops. Gnome sort was originally proposed by Iranian computer scientist Hamid Sarbazi-Azad (professor of Computer Science and Engineering at Sharif University of Technology) in 2000. The sort was first called stupid sort (not to be confused with bogosort), and then later described by Dick Grune and named gnome sort.
+
+[More >>](https://en.wikipedia.org/wiki/Gnome_sort)
+
+</details>
+
+<details>
   <summary>What is Quick sort?</summary>
 
 Quicksort is an in-place sorting algorithm. Developed by British computer scientist Tony Hoare in 1959 and published in 1961, it is still a commonly used algorithm for sorting. When implemented well, it can be somewhat faster than merge sort and about two or three times faster than heapsort.
