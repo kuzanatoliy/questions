@@ -203,3 +203,13 @@ This process is built from five stages, starting with stage zero. Any proposal f
   It indicates that the proposal is ready to be included in the latest draft of the specification - and be delivered with its next edition.
 
 </details>
+
+<details>
+  <summary>What data collections are in JavaScript?</summary>
+
+- The Map object holds key-value pairs and remembers the original insertion order of the keys.
+- The WeakMap holds key/value pairs whose keys must be objects, with values of any arbitrary JavaScript type, and which does not create strong references to its keys.
+- The Set object is collection of values. You can iterate its elements in insertion order. A value in a Set may only occur once; it is unique in the Set's collection.
+- The WeekSet object is collection of objects. An object in the WeakSet may only occur once. It is unique in the WeakSet's collection, and objects are not enumerable.
+
+</details>
