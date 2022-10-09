@@ -24,3 +24,16 @@ These policies could be used together and if they were in one response both of t
 Certificate Transparency is an open framework designed to protect against and monitor for certificate mis-issuances. It's defined in [RFC 9162](https://www.rfc-editor.org/rfc/rfc9162). With certificate transparency, newly-issued certificates are 'logged' to publicly-run, often independent CT logs — which maintain an append-only, cryptographically-assured record of issued TLS certificates.
 
 </details>
+
+<details>
+  <summary>What is Strict transport security?</summary>
+
+The HTTP Strict-Transport-Security response header (often abbreviated as HSTS) informs browsers that the site should only be accessed using HTTPS, and that any future attempts to access it using HTTP should automatically be converted to HTTPS.
+
+Example:
+
+    Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Strict-Transport-Security)
+
+</details>
