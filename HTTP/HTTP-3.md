@@ -1,8 +1,4 @@
-# HTTP
-
-### Links
-
-### Questions
+# HTTP/3
 
 <details>
   <summary>What properties should have QUIC?</summary>

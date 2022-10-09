@@ -22,9 +22,7 @@
 
 [HTML](HTML.md)
 
-[HTTP](HTTP.md)
-
-[HTTP-3](HTTP-3.md)
+[HTTP](HTTP/README.md)
 
 [JS](JS.md)
 
