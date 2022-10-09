@@ -46,3 +46,17 @@ The X-Content-Type-Options response HTTP header is a marker used by the server t
 [More >>](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Content-Type-Options)
 
 </details>
+
+<details>
+  <summary>What is X-Frame-Options?</summary>
+
+The X-Frame-Options HTTP response header can be used to indicate whether or not a browser should be allowed to render a page in a frame, iframe, embed or object. Sites can use this to avoid click-jacking attacks, by ensuring that their content is not embedded into other sites.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Frame-Options)
+
+Examples:
+
+    X-Frame-Options: DENY
+    X-Frame-Options: SAMEORIGIN
+
+</details>
