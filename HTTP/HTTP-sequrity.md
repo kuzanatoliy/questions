@@ -37,3 +37,12 @@ Example:
 [More >>](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Strict-Transport-Security)
 
 </details>
+
+<details>
+  <summary>What is X-Content-Type-Options?</summary>
+
+The X-Content-Type-Options response HTTP header is a marker used by the server to indicate that the MIME types advertised in the Content-Type headers should be followed and not be changed.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Content-Type-Options)
+
+</details>
