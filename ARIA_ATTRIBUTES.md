@@ -16,3 +16,15 @@ Example:
     </div>
 
 </details>
+
+<details>
+  <summary>What is aria-atomic attribute?</summary>
+
+Live regions are sections of a web page that are updated, whether by user interaction or not, when user focus is elsewhere. As they update outside the user's focus, assistive technologies such as screen readers may not "see" the update to report it to the user.
+
+Values:
+
+- false (default) - present only the changed node or nodes.
+- true - present the entire changed region as a whole, including the author-defined label if one exists.
+
+</details>
