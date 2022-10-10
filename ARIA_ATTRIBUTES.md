@@ -89,3 +89,14 @@ Example:
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-brailleroledescription)
 
 </details>
+
+<details>
+  <summary>What is aria-busy attribute?</summary>
+
+Used in ARIA live regions, the global aria-busy state indicates an element is being modified and that assistive technologies may want to wait until the changes are complete before informing the user about the update.
+
+When multiple parts of a live region need to be loaded before changes are announced to the user, set aria-busy="true" until loading is complete. Then set to aria-busy="false". This prevents assistive technologies from announcing changes before updates are done.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-busy)
+
+</details>
