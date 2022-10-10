@@ -55,3 +55,18 @@ Example:
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-autocomplete)
 
 </details>
+
+<details>
+  <summary>What is aria-braillelabel attribute?</summary>
+
+The global aria-braillelabel attribute is similar to the global aria-label in that it defines a string value that labels the current element. While aria-label is read by the screen reader, the contents of the aria-braillelabel attribute are converted into Braille; providing the user with a recognizable name of the object in Braille.
+
+Example:
+
+    <button aria-braillelabel="***">
+      <img alt="3 out of 5 stars" src="three_stars.png" />
+    </button>
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-braillelabel)
+
+</details>
