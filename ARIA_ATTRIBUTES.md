@@ -70,3 +70,22 @@ Example:
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-braillelabel)
 
 </details>
+
+<details>
+  <summary>What is aria-brailleroledescription attribute?</summary>
+
+The global aria-brailleroledescription attribute defines a human-readable, author-localized abbreviated description for the role of an element intended to be converted into Braille.
+
+Example:
+
+    <article
+      aria-roledescription="slide"
+      aria-brailleroledescription="sld"
+      aria-labelledby="slide1heading">
+      <h1 id="slide1heading">Welcome to my talk</h1>
+      <img alt="Me" src="images/me.jpg" />
+    </article>
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-brailleroledescription)
+
+</details>
