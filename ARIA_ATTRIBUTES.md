@@ -15,6 +15,8 @@ Example:
       <img src="btnpaste.png" id="button3" role="button" alt="paste" />
     </div>
 
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-activedescendant)
+
 </details>
 
 <details>
@@ -26,5 +28,30 @@ Values:
 
 - false (default) - present only the changed node or nodes.
 - true - present the entire changed region as a whole, including the author-defined label if one exists.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-atomic)
+
+</details>
+
+<details>
+  <summary>What is aria-autocomplete attribute?</summary>
+
+The aria-autocomplete attribute indicates whether inputting text could trigger display of one or more predictions of the user's intended value for a combobox, searchbox, or textbox and specifies how predictions will be presented if they are made.
+
+- none (default) - When a user is providing input, not automatic suggestion is displayed.
+- inline - aria-autocomplete="inline" text suggesting one way to complete the provided input may be dynamically inserted after the caret.
+- list - aria-autocomplete="list" When a user is providing input, an element containing a collection of values that could complete the provided input may be displayed.
+- both - aria-autocomplete="both" an input to offer both models at the same time. When a user is providing input, an element containing a collection of values that could complete the provided input may be displayed. If displayed, one value in the collection is automatically selected, and the text needed to complete the automatically selected value appears after the caret in the input.
+
+Example:
+
+    <input id="cb1-edit" class="cb_edit" type="text" tabindex="0" role="combobox" aria-autocomplete="inline" aria-owns="list" />
+    <ul id="list" tabindex="-1" role="listbox" aria-expanded="true">
+      <li id ​​= "cb1-opt1" role = "option"> Qingchuan </ li>
+      <li id ​​= "cb1-opt2" role = "option"> Цзин Цю </ li>
+      <li id ​​= "cb1-opt3" role = "option"> Хуан Сяосянь </ li>
+    </ul>
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-autocomplete)
 
 </details>
