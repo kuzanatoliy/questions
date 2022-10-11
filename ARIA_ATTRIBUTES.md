@@ -203,3 +203,44 @@ Example:
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-controls)
 
 </details>
+
+<details>
+  <summary>What is aria-current attribute?</summary>
+
+When you have a group of related elements, such as several links in a breadcrumb or steps in a multi-step flow, with one element in the group styled differently from the others to indicate to the sighted user that this is the current element within its group, the aria-current should be used to inform the assistive technology user what has been indicated via styling.
+
+Values:
+
+- page - Represents the current page within a set of pages such as the link to the current document in a breadcrumb.
+- step - Represents the current step within a process such as the current step in an enumerated multi step checkout flow .
+- location - Represents the current location within an environment or context such as the image that is visually highlighted as the current component of a flow chart.
+- date - Represents the current date within a collection of dates such as the current date within a calendar.
+- time - Represents the current time within a set of times such as the current time within a timetable.
+- true - Represents the current item within a set.
+- false (default) - Does not represent the current item within a set.
+
+Examples:
+
+    <nav aria-label="Breadcrumb" class="breadcrumb">
+      <ol>
+        <li>
+          <a href="../../../../../"> Web technology for developers </a>
+        </li>
+        <li>
+          <a href="../../../../"> Accessibility </a>
+        </li>
+        <li>
+          <a href="../../../"> ARIA </a>
+        </li>
+        <li>
+          <a href="../../"> ARIA States and Properties </a>
+        </li>
+        <li>
+          <a href="./" aria-current="page"> ARIA: `aria-current` attribute </a>
+        </li>
+      </ol>
+    </nav>
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-current)
+
+</details>
