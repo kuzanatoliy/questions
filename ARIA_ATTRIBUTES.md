@@ -244,3 +244,19 @@ Examples:
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-current)
 
 </details>
+
+<details>
+  <summary>What is aria-describedby attribute?</summary>
+
+The aria-describedby attribute lists the ids of the elements that describe the object. It is used to establish a relationship between widgets or groups and the text that describes them.
+
+Example:
+
+    <button aria-describedby="trash-desc">Move to trash</button>
+    …
+
+    <p id="trash-desc">
+      Items in the trash will be permanently removed after 30 days.
+    </p>
+
+</details>
