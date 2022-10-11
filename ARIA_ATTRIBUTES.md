@@ -38,6 +38,8 @@ Values:
 
 The aria-autocomplete attribute indicates whether inputting text could trigger display of one or more predictions of the user's intended value for a combobox, searchbox, or textbox and specifies how predictions will be presented if they are made.
 
+Values:
+
 - none (default) - When a user is providing input, not automatic suggestion is displayed.
 - inline - aria-autocomplete="inline" text suggesting one way to complete the provided input may be dynamically inserted after the caret.
 - list - aria-autocomplete="list" When a user is providing input, an element containing a collection of values that could complete the provided input may be displayed.
@@ -98,5 +100,31 @@ Used in ARIA live regions, the global aria-busy state indicates an element is be
 When multiple parts of a live region need to be loaded before changes are announced to the user, set aria-busy="true" until loading is complete. Then set to aria-busy="false". This prevents assistive technologies from announcing changes before updates are done.
 
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-busy)
+
+</details>
+
+<details>
+  <summary>What is aria-checked attribute?</summary>
+
+The aria-checked attribute indicates the current "checked" state of checkboxes, radio buttons, and other widgets.
+
+Values:
+
+- false - the element supports being checked but is not currently checked.
+- true - the element is checked.
+- mixed - for checkbox and menuitemcheckbox only, equivalent to indeterminate, indicating a mixed mode value of neither checked nor unchecked.
+- undefined (default) - the element does not support being checked.
+
+Example:
+
+    <span
+      role="checkbox"
+      id="checkBoxInput"
+      aria-checked="false"
+      tabindex="0"
+      aria-labelledby="chk15-label"></span>
+    <label id="chk15-label">Subscribe to the newsletter</label>
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-checked)
 
 </details>
