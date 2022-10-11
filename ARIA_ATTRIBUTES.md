@@ -128,3 +128,34 @@ Example:
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-checked)
 
 </details>
+
+<details>
+  <summary>What is aria-colcount attribute?</summary>
+
+The aria-colcount attribute defines the total number of columns in a table, grid, or treegrid when not all columns are present in the DOM.
+
+Example:
+
+    <div role="grid" aria-colcount="6">
+      <div role="rowgroup">
+        <div role="row">
+          <div role="columnheader" aria-colindex="1">First name</div>
+          <div role="columnheader" aria-colindex="2">Last name</div>
+          <div role="columnheader" aria-colindex="5">City</div>
+          <div role="columnheader" aria-colindex="6">Zip</div>
+        </div>
+      </div>
+      <div role="rowgroup">
+        <div role="row">
+          <div role="gridcell" aria-colindex="1">Debra</div>
+          <div role="gridcell" aria-colindex="2">Burks</div>
+          <div role="gridcell" aria-colindex="5">New York</div>
+          <div role="gridcell" aria-colindex="6">14127</div>
+        </div>
+      </div>
+      …
+    </div>
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-colcount)
+
+</details>
