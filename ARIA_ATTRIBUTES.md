@@ -177,3 +177,12 @@ The aria-colindextext attribute defines a human readable text alternative of the
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-colindextext)
 
 </details>
+
+<details>
+  <summary>What is aria-colspan attribute?</summary>
+
+The aria-colspan attribute defines the number of columns spanned by a cell or gridcell within a table, grid, or treegrid.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-colspan)
+
+</details>
