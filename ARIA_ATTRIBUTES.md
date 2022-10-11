@@ -168,3 +168,12 @@ The aria-colindex attribute defines an element's column index or position with r
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-colindex)
 
 </details>
+
+<details>
+  <summary>What is aria-colindextext attribute?</summary>
+
+The aria-colindextext attribute defines a human readable text alternative of the numeric aria-colindex.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-colindextext)
+
+</details>
