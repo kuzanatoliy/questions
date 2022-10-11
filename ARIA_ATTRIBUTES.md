@@ -281,3 +281,34 @@ Example:
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-description)
 
 </details>
+
+<details>
+  <summary>What is aria-details attribute?</summary>
+
+The aria-details attribute can be used to provide additional information or complex descriptions to an object. It is used to inform assistive technology users about the content by providing more in-depth information, whether that content is within the current document or a link to additional assets.
+
+Example:
+
+    <p>The <strong>cubic-bezier()<strong> functional notation defines a cubic
+      <span role="term" aria-details="bezier bezImg">Bézier curve</span>. As
+      these curves are continuous, they are often used to smooth down the start and
+      end of the curve and are therefore sometimes called easing functions.
+    </p>
+
+    <p role="definition" id="bezier">A <strong>Bézier curve</strong>,
+    (Pronounced \ ˈbe-zē-ˌā \)
+    <i aria-description="English pronunciation">BEH-zee-ay</i>) is a mathematically
+    described curve used in computer graphics and animation. The curve is defined
+    by a set of control points with a minimum of two. Web related graphics
+    and animations use Cubic Béziers, which are curves with four control
+    points P<sub>0</sub>, P<sub>1</sub>, P<sub>2</sub>, and P<sub>3</sub>.
+    </p>
+
+    <a href="bezierExplanation.html" id="bezImg"
+      aria-label="Explanation of Bézier curve in CSS timing functions">
+      <img alt="Animated Bézier curve showing 4 control points." src="bezier.gif">
+    </a>
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-details)
+
+</details>
