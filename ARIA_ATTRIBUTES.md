@@ -259,4 +259,25 @@ Example:
       Items in the trash will be permanently removed after 30 days.
     </p>
 
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-describedby)
+
+</details>
+
+<details>
+  <summary>What is aria-description attribute?</summary>
+
+The global aria-description attribute provides a mechanism for the developer to describe or annotate the current element providing greater context for assistive technology users.
+
+Example:
+
+    <div
+      role="application"
+      aria-label="calendar"
+      aria-description="Game schedule for the Boston Red Sox 2021 Season">
+      <h1>Red Sox 2021</h1>
+      <div role="grid">…</div>
+    </div>
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-description)
+
 </details>
