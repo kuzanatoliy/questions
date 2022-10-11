@@ -159,3 +159,12 @@ Example:
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-colcount)
 
 </details>
+
+<details>
+  <summary>What is aria-colindex attribute?</summary>
+
+The aria-colindex attribute defines an element's column index or position with respect to the total number of columns within a table, grid, or treegrid.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-colindex)
+
+</details>
