@@ -186,3 +186,20 @@ The aria-colspan attribute defines the number of columns spanned by a cell or gr
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-colspan)
 
 </details>
+
+<details>
+  <summary>What is aria-controls attribute?</summary>
+
+When an interactive or input control, be it a checkbox, radio button, tab panel, icon, toggles, or other, has an impact on another element in a document or application, the aria-controls attribute should be included to indicate which element or elements the user interface widget controls. The aria-controls attribute identifies the element (or elements) whose contents or presence are controlled by the element on which the attribute is set, regardless of what type of interaction initiates the impacted behavior.
+
+Example:
+
+    <h3 id="tab1" aria-selected="true" aria-controls="panel1" aria-extended = "true" role = "tab" tabindex = "0"> Девушки </ h3>
+
+    <div id="panel1" aria-labelledby="tab1" aria-hidden="false" role="tabpanel">
+      <h3 tabindex = "0"> Пожалуйста, выберите свою любимую красавицу ... </ h3>
+    </div>
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-controls)
+
+</details>
