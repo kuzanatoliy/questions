@@ -332,3 +332,25 @@ Example:
     </p>
 
 </details>
+
+<details>
+  <summary>What is aria-expanded element</summary>
+
+There are several widgets that can be expanded and collapsed, including menus, dialogs, and accordion panels. Each of these objects, in turn, has an interactive element that controls their opening and closing. The aria-expanded attribute is applied to this focusable, interactive control that toggles the visibility of the object.
+
+Example:
+
+    <label for="username">Username</label>
+    <input id="username" name="username" aria-describedby="username-desc" />
+    <button
+      aria-expanded="false"
+      aria-controls="username-desc"
+      aria-label="Help about username"
+      type="button">
+      <span aria-hidden="true">?</span>
+    </button>
+    <p id="username-desc" hidden>
+      Your username is the name that you use to log in to this service.
+    </p>
+
+</details>
