@@ -312,3 +312,23 @@ Example:
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-details)
 
 </details>
+
+<details>
+  <summary>What is aria-errormessage attribute?</summary>
+
+When there is a user-created error, you want to let them know it exists and tell them how to fix it. There are two attributes you need to use: set aria-invalid="true" to define the object as being in an error state, then add the aria-errormessage attribute with the value being the id of the element containing the error message text for that object.
+
+Example:
+
+    <p>
+      <label for="email">Email address:</label>
+      <input
+        type="email"
+        name="email"
+        id="email"
+        aria-invalid="true"
+        aria-errormessage="err1" />
+      <span id="err1" class="errormessage">Error: Enter a valid email address</span>
+    </p>
+
+</details>
