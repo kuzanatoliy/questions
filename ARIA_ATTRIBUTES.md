@@ -354,3 +354,10 @@ Example:
     </p>
 
 </details>
+
+<details>
+  <summary>What is aria-flowto attribute?</summary>
+
+The global aria-flowto attribute identifies the next element (or elements) in an alternate reading order of content. This allows assistive technology to override the general default of reading in document source order at the user's discretion.
+
+</details>
