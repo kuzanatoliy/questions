@@ -545,3 +545,12 @@ A section of content is "modal" means navigation is limited to the area itself a
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-modal)
 
 </details>
+
+<details>
+  <summary>What is aria-multiline attribute?</summary>
+
+The aria-multiline attribute indicates whether a textbox accepts multiple lines of input or only a single line.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-multiline)
+
+</details>
