@@ -563,3 +563,18 @@ The default behavior of selection lists, such as <select>, is to be able to choo
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-multiselectable)
 
 </details>
+
+<details>
+  <summary>What is aria-orientation attribute?</summary>
+
+It may be important for the user to know the orientation to know how to navigate certain widgets, as orientation impacts the expected behaviors of the left, right, up and down arrows. The aria-orientation attribute is used to indicate to assistive technology users whether an element's orientation is horizontal or vertical, or undefined.
+
+Values:
+
+- horizontal - The element is oriented horizontally.
+- undefined (default) - The element's orientation is unknown/ambiguous.
+- vertical - The element is oriented vertically.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-orientation)
+
+</details>
