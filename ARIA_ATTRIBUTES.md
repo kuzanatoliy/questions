@@ -663,3 +663,20 @@ Values:
 - additions text (default) - Element nodes are added to the accessibility tree within the live region AND text content or a text alternative is added to any descendant in the accessibility tree of the live region.
 
 </details>
+
+<details>
+  <summary>What is aria-required attribute?</summary>
+
+The aria-required attribute indicates that user input is required on the element before a form may be submitted.
+
+Example:
+
+    <div id="tbLabel">Email Address *</div>
+    <div
+      role="textbox"
+      contenteditable
+      aria-labelledby="tblabel"
+      aria-required="true"
+      id="email1"></div>
+
+</details>
