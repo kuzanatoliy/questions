@@ -662,6 +662,8 @@ Values:
 - text - Text content or a text alternative is added to any descendant in the accessibility tree of the live region.
 - additions text (default) - Element nodes are added to the accessibility tree within the live region AND text content or a text alternative is added to any descendant in the accessibility tree of the live region.
 
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-relevant)
+
 </details>
 
 <details>
@@ -678,5 +680,27 @@ Example:
       aria-labelledby="tblabel"
       aria-required="true"
       id="email1"></div>
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-required)
+
+</details>
+
+<details>
+  <summary>What is aria-roledescription attribute?</summary>
+
+The aria-roledescription attribute defines a human-readable, author-localized description for the role of an element.
+
+Example:
+
+    <div
+      role="article"
+      aria-roledescription="slide"
+      id="slide"
+      aria-labelledby="slideheading">
+      <h1 id="slideheading">Quarterly Report</h1>
+      <!-- remaining slide contents -->
+    </div>
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-roledescription)
 
 </details>
