@@ -444,3 +444,10 @@ Example:
     <a href="#content" aria-keyshortcuts="Alt+Shift+A">Skip to content</a>
 
 </details>
+
+<details>
+  <summary>What is aria-lable attribute?</summary>
+
+Sometimes the default accessible name of an element is missing, or does not accurately describe its contents, and there is no content visible in the DOM that can be associated with the object to give it meaning. A common example is a button containing an SVG or icon font (which you shouldn't be using) without any text.
+
+</details>
