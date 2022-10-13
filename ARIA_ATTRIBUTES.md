@@ -554,3 +554,12 @@ The aria-multiline attribute indicates whether a textbox accepts multiple lines 
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-multiline)
 
 </details>
+
+<details>
+  <summary>What is aria-multiselectable attribute?</summary>
+
+The default behavior of selection lists, such as <select>, is to be able to choose only one item or option. By default or by convention, when a user is presented with list from which they must select an item, they assume they can only select a single item unless otherwise notified. The aria-multiselectable attribute is the way to inform assistive technology users that they may select more than one item from the current selectable items if they so choose. Lists and trees are examples of roles that might allow users to select more than one item at a time.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-multiselectable)
+
+</details>
