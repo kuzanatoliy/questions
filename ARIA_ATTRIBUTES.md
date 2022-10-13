@@ -424,3 +424,23 @@ Example:
     </ul>
 
 </details>
+
+<details>
+  <summary>What is aria-keyshortcuts attribute?</summary>
+
+A keyboard shortcut is a series of one or several keys that tells software to perform a pre-programmed action. Keyboard shortcuts enable keyboard users to invoke commands using the keyboard that would otherwise require accessing a menu or using touch or a mouse. The aria-keyshortcuts property defines the keyboard keys that have been implemented to activate or give focus to the element on which the attribute is set.
+
+Value examples:
+
+    aria-keyshortcuts="A"
+    aria-keyshortcuts="Shift+Space"
+    aria-keyshortcuts="Control+Alt+."
+    aria-keyshortcuts="Control+Shift+&#39;"
+    aria-keyshortcuts="alt+shift+p control+f"
+    aria-keyshortcuts="Meta+C Meta+Shift+C"
+
+Example:
+
+    <a href="#content" aria-keyshortcuts="Alt+Shift+A">Skip to content</a>
+
+</details>
