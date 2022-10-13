@@ -636,4 +636,15 @@ Example:
 
     <button aria-pressed="false">Pause</button>
 
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-pressed)
+
+</details>
+
+<details>
+  <summary>What is aria-readonly attribute?</summary>
+
+When you want to indicate that an interactive element works but is not editable, set aria-readonly="true". This indicates to the user that an interactive element that would normally be focusable and copyable has been placed in a read-only (not disabled) state.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-readonly)
+
 </details>
