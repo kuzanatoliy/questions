@@ -467,3 +467,12 @@ Example:
     <span id="tac">I agree to the Terms and Conditions.</span>
 
 </details>
+
+<details>
+  <summary>What is aria-level attribute?</summary>
+
+Levels of hierarchy appear in headings, trees, nested grid, nested tablists, and more. If the DOM ancestry does not accurately represent the level, the aria-level attribute should be used to define the hierarchical level elements within their hierarchical structures. Levels increase with depth. The value for aria-level is an integer greater than or equal to 1.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-level)
+
+</details>
