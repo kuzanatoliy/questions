@@ -648,3 +648,18 @@ When you want to indicate that an interactive element works but is not editable,
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-readonly)
 
 </details>
+
+<details>
+  <summary>What is aria-relevant attribute?</summary>
+
+Used in ARIA live regions, the global aria-relevant attribute indicates what notifications the user agent will trigger when the accessibility tree within a live region is modified.
+
+Values:
+
+- additions - Element nodes are added to the accessibility tree within the live region.
+- all - Shorthand for additions removals text.
+- removals - Text content, a text alternative, or an element node within the live region is removed from the accessibility tree.
+- text - Text content or a text alternative is added to any descendant in the accessibility tree of the live region.
+- additions text (default) - Element nodes are added to the accessibility tree within the live region AND text content or a text alternative is added to any descendant in the accessibility tree of the live region.
+
+</details>
