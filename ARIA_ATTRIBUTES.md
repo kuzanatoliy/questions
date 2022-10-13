@@ -361,3 +361,18 @@ Example:
 The global aria-flowto attribute identifies the next element (or elements) in an alternate reading order of content. This allows assistive technology to override the general default of reading in document source order at the user's discretion.
 
 </details>
+
+<details>
+  <summary>What is aria-haspopup attribute?</summary>
+
+In ARIA, interactive menus, listboxes, trees, grids, and dialogs that appear on top of other content when triggered to appear are considered "popups". These popups are triggered by one or more interactive elements on the page. The availability and type of popup the interactive element will trigger should be identified with the aria-haspopup state.
+
+- false (default) - The element does not have a popup.
+- true - The popup is a menu.
+- menu - The popup is a menu.
+- listbox - The popup is a listbox.
+- tree - The popup is a tree.
+- grid - The popup is a grid.
+- dialog - The popup is a dialog.
+
+</details>
