@@ -387,3 +387,40 @@ The aria-hidden state indicates whether the element is exposed to an accessibili
 - undefined (default) - The element's hidden state is determined by the user agent based on whether it is rendered.
 
 </details>
+
+<details>
+  <summary>What is aria-invalid attribute?</summary>
+
+The aria-invalid attribute is used to indicate that the value entered into an input field is not in a format or a value the application will accept. This may include formats such as email addresses or telephone numbers. aria-invalid can also be used to indicate that a required field is empty.
+
+- grammar - A grammatical error was detected.
+- false (default) - There are no detected errors in the value.
+- spelling - A spelling error was detected.
+- true - The value entered by the user has failed validation.
+
+Example:
+
+    <ul>
+      <li>
+        <label for="name">Full Name</label>
+        <input
+          type="text"
+          name="name"
+          id="name"
+          aria-required="true"
+          aria-invalid="false"
+          onblur="checkValidity('name', ' ', 'Invalid name entered (requires both first and last name)');" />
+      </li>
+      <li>
+        <label for="email">Email Address</label>
+        <input
+          type="email"
+          name="email"
+          id="email"
+          aria-required="true"
+          aria-invalid="false"
+          onblur="checkValidity('email', '@', 'Invalid e-mail address');" />
+      </li>
+    </ul>
+
+</details>
