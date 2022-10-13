@@ -451,3 +451,19 @@ Example:
 Sometimes the default accessible name of an element is missing, or does not accurately describe its contents, and there is no content visible in the DOM that can be associated with the object to give it meaning. A common example is a button containing an SVG or icon font (which you shouldn't be using) without any text.
 
 </details>
+
+<details>
+  <summary>What is aria-labelledby attribute?</summary>
+
+The aria-labelledby property enables authors to reference other elements on the page to define an accessible name. This is useful when using elements that don't have native support for associating elements to provide an accessible name.
+
+Example:
+
+    <span
+      role="checkbox"
+      aria-checked="false"
+      tabindex="0"
+      aria-labelledby="tac"></span>
+    <span id="tac">I agree to the Terms and Conditions.</span>
+
+</details>
