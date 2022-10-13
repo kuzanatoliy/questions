@@ -587,3 +587,23 @@ The aria-owns attribute identifies an element (or elements) in order to define a
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-owns)
 
 </details>
+
+<details>
+  <summary>What is aria-placeholder attribute?</summary>
+
+The aria-placeholder attribute defines a short hint (a word or short phrase) intended to help the user with data entry when a form control has no value. The hint can be a sample value or a brief description of the expected format.
+
+Example:
+
+    <span id="date-of-birth">Birthday</span>
+    <div
+      contenteditable
+      role="textbox"
+      aria-labelledby="date-of-birth"
+      aria-placeholder="MM-DD-YYYY">
+      MM-DD-YYYY
+    </div>
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-placeholder)
+
+</details>
