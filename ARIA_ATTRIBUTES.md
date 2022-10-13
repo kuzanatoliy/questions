@@ -607,3 +607,22 @@ Example:
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-placeholder)
 
 </details>
+
+<details>
+  <summary>What is aria-posinset attribute?</summary>
+
+The aria-posinset attribute defines an element's number or position in the current set of listitems or treeitems when not all items are present in the DOM.
+
+Example:
+
+    <h2 id="periodictable">Periodic table of chemical elements</h2>
+    <ul role="listbox" aria-labelledby="periodictable">
+      <li role="option" aria-setsize="118" aria-posinset="1">Hydrogen</li>
+      <li role="option" aria-setsize="118" aria-posinset="3">Lithium</li>
+      <li role="option" aria-setsize="118" aria-posinset="11">Sodium</li>
+      <li role="option" aria-setsize="118" aria-posinset="19">Potassium</li>
+    </ul>
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-posinset)
+
+</details>
