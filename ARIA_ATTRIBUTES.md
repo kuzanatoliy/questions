@@ -331,6 +331,8 @@ Example:
       <span id="err1" class="errormessage">Error: Enter a valid email address</span>
     </p>
 
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-errormessage)
+
 </details>
 
 <details>
@@ -353,12 +355,16 @@ Example:
       Your username is the name that you use to log in to this service.
     </p>
 
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-expanded)
+
 </details>
 
 <details>
   <summary>What is aria-flowto attribute?</summary>
 
 The global aria-flowto attribute identifies the next element (or elements) in an alternate reading order of content. This allows assistive technology to override the general default of reading in document source order at the user's discretion.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-flowto)
 
 </details>
 
@@ -375,6 +381,8 @@ In ARIA, interactive menus, listboxes, trees, grids, and dialogs that appear on 
 - grid - The popup is a grid.
 - dialog - The popup is a dialog.
 
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-haspopup)
+
 </details>
 
 <details>
@@ -385,6 +393,8 @@ The aria-hidden state indicates whether the element is exposed to an accessibili
 - false - The element is exposed to the accessibility API as if it was rendered.
 - true - The element is hidden from the accessibility API.
 - undefined (default) - The element's hidden state is determined by the user agent based on whether it is rendered.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-hidden)
 
 </details>
 
@@ -423,6 +433,8 @@ Example:
       </li>
     </ul>
 
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-invalid)
+
 </details>
 
 <details>
@@ -443,12 +455,16 @@ Example:
 
     <a href="#content" aria-keyshortcuts="Alt+Shift+A">Skip to content</a>
 
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-keyshortcuts)
+
 </details>
 
 <details>
   <summary>What is aria-lable attribute?</summary>
 
 Sometimes the default accessible name of an element is missing, or does not accurately describe its contents, and there is no content visible in the DOM that can be associated with the object to give it meaning. A common example is a button containing an SVG or icon font (which you shouldn't be using) without any text.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-label)
 
 </details>
 
@@ -465,6 +481,8 @@ Example:
       tabindex="0"
       aria-labelledby="tac"></span>
     <span id="tac">I agree to the Terms and Conditions.</span>
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-labelledby)
 
 </details>
 
