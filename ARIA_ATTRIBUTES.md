@@ -514,4 +514,34 @@ Examples:
       <p>This message is announced.</p>
     </div>
 
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-live)
+
+</details>
+
+<details>
+  <summary>What is aria-modal attribute?</summary>
+
+A section of content is "modal" means navigation is limited to the area itself and the background (the ancestors and siblings of the modal) is hidden. Setting aria-modal="true" on dialog and alertdialog role containers indicates the presence of a "modal" element to users of assistive technology, but does not actually make the element modal. The features that make the element actually modal must be implemented by the developer.
+
+    <div id="backdrop" class="no-scroll">
+      <div
+        role="alertdialog"
+        aria-modal="true"
+        aria-labelledby="dialog_label"
+        aria-describedby="dialog_desc">
+        <h2 id="dialog_label">Confirmation</h2>
+        <div id="dialog_desc">
+          <p>Are you sure you want to delete this file?</p>
+        </div>
+        <button type="button" onclick="closeDialog(this)">
+          No. Close this popup.
+        </button>
+        <button type="button" onclick="deleteFile(this)">
+          Yes. Delete the file.
+        </button>
+      </div>
+    </div>
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-modal)
+
 </details>
