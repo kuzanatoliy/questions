@@ -626,3 +626,14 @@ Example:
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-posinset)
 
 </details>
+
+<details>
+  <summary>What is aria-pressed attribute?</summary>
+
+Adding aria-pressed to an element with a role of button turns the button into a toggle button. The aria-pressed attribute is only relevant for toggle buttons. It represents the button's current "pressed" state.
+
+Example:
+
+    <button aria-pressed="false">Pause</button>
+
+</details>
