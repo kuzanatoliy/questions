@@ -376,3 +376,14 @@ In ARIA, interactive menus, listboxes, trees, grids, and dialogs that appear on 
 - dialog - The popup is a dialog.
 
 </details>
+
+<details>
+  <summary>What is aria-hidden attribute?</summary>
+
+The aria-hidden state indicates whether the element is exposed to an accessibility API.
+
+- false - The element is exposed to the accessibility API as if it was rendered.
+- true - The element is hidden from the accessibility API.
+- undefined (default) - The element's hidden state is determined by the user agent based on whether it is rendered.
+
+</details>
