@@ -795,3 +795,12 @@ When you have a very long table or when you purposefully want to display just a 
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-rowindextext)
 
 </details>
+
+<details>
+  <summary>What is aria-rowspan attribute?</summary>
+
+The aria-rowspan attribute defines the number of rows spanned by a cell or gridcell within a table, grid, or treegrid.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-rowspan)
+
+</details>
