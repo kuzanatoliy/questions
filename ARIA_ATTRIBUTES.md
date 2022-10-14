@@ -786,3 +786,12 @@ Example:
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-rowindex)
 
 </details>
+
+<details>
+  <summary>What is aria-rowindextext attribute?</summary>
+
+When you have a very long table or when you purposefully want to display just a section of a table, not all rows may be present in the DOM. When this happens, we use the aria-rowcount with an integer value to define how many rows the table (or grid) would have if all the rows were present and add the aria-rowindex property on each row and spanning cell to provide information on the row index within that larger table. When the value of aria-rowindex is not meaningful or does not reflect the displayed index, we can also add the aria-rowindextext to provide a human readable text alternative to the aria-rowindex integer value.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-rowindextext)
+
+</details>
