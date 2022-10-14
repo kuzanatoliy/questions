@@ -704,3 +704,39 @@ Example:
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-roledescription)
 
 </details>
+
+<details>
+  <summary>What is aria-rowcount attribute?</summary>
+
+Some tables have hundreds, even millions, of rows. Even for tables with fewer rows, loading only a subsection of rows may be a design requirement, improve performance, or improve user experience. When only a subset of rows are loaded, you do need to let all users know that only a subset of the data is being displayed. The aria-rowcount attribute is used to define the total number of rows in a table, grid, or treegrid.
+
+Example:
+
+    <div role="grid" aria-rowcount="24">
+      <div role="rowgroup">
+        <div role="row" aria-rowindex="1">
+          <span role="columnheader">First Name</span>
+          <span role="columnheader">Last Name</span>
+          <span role="columnheader">Position</span>
+        </div>
+      </div>
+      <div role="rowgroup">
+        <div role="row" aria-rowindex="7">
+          <span role="gridcell">Morgan</span>
+          <span role="gridcell">Brian</span>
+          <span role="gridcell">Midfielder</span>
+        </div>
+        <div role="row" aria-rowindex="8">
+          <span role="gridcell">Abby</span>
+          <span role="gridcell">Dahlkemper</span>
+          <span role="gridcell">Defender</span>
+        </div>
+        <div role="row" aria-rowindex="9">
+          <span role="gridcell">Ashlyn</span>
+          <span role="gridcell">Harris</span>
+          <span role="gridcell">Goalkeeper</span>
+        </div>
+      </div>
+    </div>
+
+</details>
