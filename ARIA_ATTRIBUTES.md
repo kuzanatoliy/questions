@@ -853,3 +853,22 @@ Example:
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-selected)
 
 </details>
+
+<details>
+  <summary>What is aria-setsize attribute?</summary>
+
+The aria-setsize attribute defines the number of items in the current set of listitems or treeitems when not all items in the set are present in the DOM.
+
+Example:
+
+    <h2 id="label_fruit">Available Fruit</h2>
+    <ul role="listbox" aria-labelledby="label_fruit">
+      <li role="option" aria-setsize="16" aria-posinset="5">apples</li>
+      <li role="option" aria-setsize="16" aria-posinset="6">bananas</li>
+      <li role="option" aria-setsize="16" aria-posinset="7">cantaloupes</li>
+      <li role="option" aria-setsize="16" aria-posinset="8">dates</li>
+    </ul>
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-setsize)
+
+</details>
