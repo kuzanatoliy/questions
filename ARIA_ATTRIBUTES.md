@@ -804,3 +804,52 @@ The aria-rowspan attribute defines the number of rows spanned by a cell or gridc
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-rowspan)
 
 </details>
+
+<details>
+  <summary>What is aria-selected attribute?</summary>
+
+The aria-selected attribute indicates the current "selected" state for gridcell, option, row and tab roles.
+
+Example:
+
+    <div class="tab-interface">
+      <div role="tablist" aria-label="Sample Tabs">
+        <span
+          role="tab"
+          aria-selected="true"
+          aria-controls="panel-1"
+          id="tab-1"
+          tabindex="0">
+          First Tab
+        </span>
+        <span
+          role="tab"
+          aria-selected="false"
+          aria-controls="panel-2"
+          id="tab-2"
+          tabindex="-1">
+          Second Tab
+        </span>
+        <span
+          role="tab"
+          aria-selected="false"
+          aria-controls="panel-3"
+          id="tab-3"
+          tabindex="-1">
+          Third Tab
+        </span>
+      </div>
+      <div id="panel-1" role="tabpanel" tabindex="0" aria-labelledby="tab-1">
+        <p>Content for the first panel</p>
+      </div>
+      <div id="panel-2" role="tabpanel" tabindex="0" aria-labelledby="tab-2" hidden>
+        <p>Content for the second panel</p>
+      </div>
+      <div id="panel-3" role="tabpanel" tabindex="0" aria-labelledby="tab-3" hidden>
+        <p>Content for the third panel</p>
+      </div>
+    </div>
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-selected)
+
+</details>
