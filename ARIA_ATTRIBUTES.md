@@ -904,3 +904,10 @@ Example:
       id="dimes"></div>
 
 </details>
+
+<details>
+  <summary>What is aria-valuemin attribute?</summary>
+
+The aria-valuemin attribute defines the minimum allowed value for a range widget.
+
+</details>
