@@ -886,3 +886,21 @@ The aria-sort attribute indicates if items in a table or grid are sorted in asce
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-sort)
 
 </details>
+
+<details>
+  <summary>What is aria-valuemax attribute?</summary>
+
+The aria-valuemax attribute defines the maximum allowed value for a range widget.
+
+Example:
+
+    <div id="dimesLabel">Dimes</div>
+    <div
+      role="slider"
+      aria-valuenow="0"
+      aria-valuemin="0"
+      aria-valuemax="9"
+      aria-labelledby="dimesLabel"
+      id="dimes"></div>
+
+</details>
