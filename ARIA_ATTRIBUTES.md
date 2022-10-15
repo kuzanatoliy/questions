@@ -872,3 +872,17 @@ Example:
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-setsize)
 
 </details>
+
+<details>
+  <summary>What is aria-sort attribute?</summary>
+
+The aria-sort attribute indicates if items in a table or grid are sorted in ascending or descending order.
+
+- ascending - Items are sorted in ascending order by this column.
+- descending - Items are sorted in descending order by this column.
+- none (default) - There is no defined sort applied to the column.
+- other - A sorting algorithm other than ascending or descending has been applied.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-sort)
+
+</details>
