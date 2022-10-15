@@ -911,3 +911,10 @@ Example:
 The aria-valuemin attribute defines the minimum allowed value for a range widget.
 
 </details>
+
+<details>
+  <summary>What is aria-valuenow attribute?</summary>
+
+The aria-valuenow attribute defines the current value for a range widget.
+
+</details>
