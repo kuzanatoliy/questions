@@ -903,6 +903,8 @@ Example:
       aria-labelledby="dimesLabel"
       id="dimes"></div>
 
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-valuemax)
+
 </details>
 
 <details>
@@ -910,11 +912,24 @@ Example:
 
 The aria-valuemin attribute defines the minimum allowed value for a range widget.
 
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-valuemin)
+
 </details>
 
 <details>
   <summary>What is aria-valuenow attribute?</summary>
 
 The aria-valuenow attribute defines the current value for a range widget.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-valuenow)
+
+</details>
+
+<details>
+  <summary>What is aria-valuetext attribute?</summary>
+
+The aria-valuetext attribute defines the human readable text alternative of aria-valuenow for a range widget.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-valuetext)
 
 </details>
