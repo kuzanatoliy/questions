@@ -1,6 +1,13 @@
 # Aria Attributes
 
 <details>
+  <summary>What is aria?</summary>
+
+The ARIA modifies the accessibility tree, modifying how assistive technology presents the content to your users. ARIA doesn't change anything about an element's function or behavior. When not using semantic HTML elements for their intended purpose and default functionality, you must use JavaScript to manage behavior, focus, and ARIA states.
+
+</details>
+
+<details>
   <summary>What is aria-activedescendant attribute?</summary>
 
 The aria-activedescendant property provides a method of managing focus for assistive technologies on interactive elements when they contain multiple focusable descendants, such as menus, grids, and toolbars. Instead of the screen reader moving focus between owned elements, aria-activedescendant can be used on container elements to refer to the currently active element, informing assistive technology users of the currently active element when focused.
