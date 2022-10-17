@@ -1,11 +1,20 @@
 # HTTP
 
 <details>
-  <summary>What is safe http method?</summary>
+  <summary>What is a safe http method?</summary>
 
 An HTTP method is safe if it doesn't alter the state of the server. In other words, a method is safe if it leads to a read-only operation. Several common HTTP methods are safe: GET, HEAD, or OPTIONS. All safe methods are also idempotent, but not all idempotent methods are safe. For example, PUT and DELETE are both idempotent but unsafe.
 
 [More >>](https://developer.mozilla.org/en-US/docs/Glossary/Safe/HTTP)
+
+</details>
+
+<details>
+  <summary>What is an idempotent method?</summary>
+
+An HTTP method is idempotent if an identical request can be made once or several times in a row with the same effect while leaving the server in the same state. In other words, an idempotent method should not have any side effects — unless those side effects are also idempotent. Implemented correctly, the GET, HEAD, PUT, and DELETE methods are idempotent, but not the POST method. All safe methods are also idempotent.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Glossary/Idempotent)
 
 </details>
 
