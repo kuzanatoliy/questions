@@ -53,3 +53,19 @@ HTTP describes a set of request methods that demonstrate what action is needed. 
 [More >>](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
 
 </details>
+
+<details>
+  <summary>What is GET method?</summary>
+
+The HTTP GET method requests a representation of the specified resource.
+
+| Option                       | Value |
+| ---------------------------- | ----- |
+| Request has body             | No    |
+| Successful response has body | Yes   |
+| Safe                         | Yes   |
+| Idempotent                   | Yes   |
+| Cacheable                    | Yes   |
+| Allowed in HTML forms        | Yes   |
+
+</details>
