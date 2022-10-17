@@ -50,4 +50,6 @@ HTTP describes a set of request methods that demonstrate what action is needed. 
 
 `TRACE` - to request test a message from a server.
 
+[More >>](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
+
 </details>
