@@ -19,6 +19,15 @@ An HTTP method is idempotent if an identical request can be made once or several
 </details>
 
 <details>
+  <summary>What is a cacheable http method?</summary>
+
+A cacheable response is an HTTP response that can be cached, that is stored to be retrieved and used later, saving a new request to the server.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Glossary/cacheable)
+
+</details>
+
+<details>
   <summary>What are HTTP methods? What methods do you know?</summary>
 
 HTTP describes a set of request methods that demonstrate what action is needed. There are the following methods:
