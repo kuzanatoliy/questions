@@ -2,8 +2,8 @@
 
 [HTTP/3](HTTP-3.md)
 
-[HTTP sequrity](HTTP-sequrity.md)
+[HTTP methods](HTTP-methods.md)
 
-[HTTP](HTTP.md)
+[HTTP sequrity](HTTP-sequrity.md)
 
 [Transport layer protocols](TRANSPORT_LAYER_PROTOCOLS.md)

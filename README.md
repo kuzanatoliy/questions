@@ -28,6 +28,8 @@
 
 [JS](JS.md)
 
+[JSON](JSON.md)
+
 [Micro frontend](MICRO_FRONTEND.md)
 
 [Other](OTHER.md)
