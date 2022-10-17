@@ -24,7 +24,7 @@
 
 [HTML](HTML.md)
 
-[HTTP](HTTP/README.md)
+[NETWORK](NETWORK/README.md)
 
 [JS](JS.md)
 
