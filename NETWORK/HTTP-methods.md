@@ -68,4 +68,24 @@ The HTTP GET method requests a representation of the specified resource.
 | Cacheable                    | Yes   |
 | Allowed in HTML forms        | Yes   |
 
+[More >>](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/GET)
+
+</details>
+
+<details>
+  <summary>What is HEAD method?</summary>
+
+The HTTP HEAD method requests the headers that would be returned if the HEAD request's URL was instead requested with the HTTP GET method. For example, if a URL might produce a large download, a HEAD request could read its Content-Length header to check the filesize without actually downloading the file.
+
+| Option                       | Value |
+| ---------------------------- | ----- |
+| Request has body             | No    |
+| Successful response has body | No    |
+| Safe                         | Yes   |
+| Idempotent                   | Yes   |
+| Cacheable                    | Yes   |
+| Allowed in HTML forms        | No    |
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/HEAD)
+
 </details>
