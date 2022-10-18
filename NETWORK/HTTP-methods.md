@@ -194,6 +194,24 @@ The HTTP OPTIONS method requests permitted communication options for a given URL
 | Cacheable                    | No    |
 | Allowed in HTML forms        | No    |
 
+[More >>](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/OPTIONS)
+
+</details>
+
+<details>
+  <summary>What is TRACE method?</summary>
+
+The HTTP TRACE method performs a message loop-back test along the path to the target resource, providing a useful debugging mechanism.
+
+| Option                       | Value |
+| ---------------------------- | ----- |
+| Request has body             | No    |
+| Successful response has body | No    |
+| Safe                         | Yes   |
+| Idempotent                   | Yes   |
+| Cacheable                    | No    |
+| Allowed in HTML forms        | No    |
+
 [More >>](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/CONNECT)
 
 </details>
