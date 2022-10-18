@@ -143,3 +143,21 @@ The HTTP DELETE request method deletes the specified resource.
 [More >>](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/DELETE)
 
 </details>
+
+<details>
+  <summary>What is DELETE method?</summary>
+
+The HTTP DELETE request method deletes the specified resource.
+
+| Option                       | Value |
+| ---------------------------- | ----- |
+| Request has body             | May   |
+| Successful response has body | May   |
+| Safe                         | No    |
+| Idempotent                   | Yes   |
+| Cacheable                    | No    |
+| Allowed in HTML forms        | No    |
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/DELETE)
+
+</details>
