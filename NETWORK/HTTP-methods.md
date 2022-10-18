@@ -212,6 +212,24 @@ The HTTP TRACE method performs a message loop-back test along the path to the ta
 | Cacheable                    | No    |
 | Allowed in HTML forms        | No    |
 
+[More >>](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/TRACE)
+
+</details>
+
+<details>
+  <summary>What is PATCH method?</summary>
+
+The HTTP PATCH request method applies partial modifications to a resource.
+
+| Option                       | Value |
+| ---------------------------- | ----- |
+| Request has body             | Yes   |
+| Successful response has body | Yes   |
+| Safe                         | No    |
+| Idempotent                   | No    |
+| Cacheable                    | No    |
+| Allowed in HTML forms        | No    |
+
 [More >>](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/CONNECT)
 
 </details>
