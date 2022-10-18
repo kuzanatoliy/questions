@@ -161,3 +161,21 @@ The HTTP DELETE request method deletes the specified resource.
 [More >>](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/DELETE)
 
 </details>
+
+<details>
+  <summary>What is CONNECT method?</summary>
+
+The HTTP CONNECT method starts two-way communications with the requested resource. It can be used to open a tunnel.
+
+| Option                       | Value |
+| ---------------------------- | ----- |
+| Request has body             | No    |
+| Successful response has body | Yes   |
+| Safe                         | No    |
+| Idempotent                   | No    |
+| Cacheable                    | No    |
+| Allowed in HTML forms        | No    |
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/CONNECT)
+
+</details>
