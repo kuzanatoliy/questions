@@ -89,3 +89,21 @@ The HTTP HEAD method requests the headers that would be returned if the HEAD req
 [More >>](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/HEAD)
 
 </details>
+
+<details>
+  <summary>What is POST method?</summary>
+
+The HTTP POST method sends data to the server. The type of the body of the request is indicated by the Content-Type header.
+
+| Option                       | Value                                     |
+| ---------------------------- | ----------------------------------------- |
+| Request has body             | Yes                                       |
+| Successful response has body | Yes                                       |
+| Safe                         | No                                        |
+| Idempotent                   | No                                        |
+| Cacheable                    | Only if freshness information is included |
+| Allowed in HTML forms        | Yes                                       |
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/POST)
+
+</details>
