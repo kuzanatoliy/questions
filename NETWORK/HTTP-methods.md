@@ -107,3 +107,21 @@ The HTTP POST method sends data to the server. The type of the body of the reque
 [More >>](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/POST)
 
 </details>
+
+<details>
+  <summary>What is PUT method?</summary>
+
+The HTTP PUT request method creates a new resource or replaces a representation of the target resource with the request payload.
+
+| Option                       | Value |
+| ---------------------------- | ----- |
+| Request has body             | Yes   |
+| Successful response has body | May   |
+| Safe                         | No    |
+| Idempotent                   | Yes   |
+| Cacheable                    | No    |
+| Allowed in HTML forms        | No    |
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/PUT)
+
+</details>
