@@ -179,3 +179,21 @@ The HTTP CONNECT method starts two-way communications with the requested resourc
 [More >>](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/CONNECT)
 
 </details>
+
+<details>
+  <summary>What is OPTIONS method?</summary>
+
+The HTTP OPTIONS method requests permitted communication options for a given URL or server. A client can specify a URL with this method, or an asterisk (\*) to refer to the entire server.
+
+| Option                       | Value |
+| ---------------------------- | ----- |
+| Request has body             | No    |
+| Successful response has body | Yes   |
+| Safe                         | Yes   |
+| Idempotent                   | Yes   |
+| Cacheable                    | No    |
+| Allowed in HTML forms        | No    |
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/CONNECT)
+
+</details>
