@@ -2,7 +2,7 @@
 
 [Aria](ARIA/README.md)
 
-[AWS](AWS/README.md)
+[CLOUD](CLOUDS/README.md)
 
 [CSS](CSS/README.md)
 
@@ -20,7 +20,7 @@
 
 [Angular](ANGULAR.md)
 
-[CLOUD](CLOUD.md)
+[Aria Attributes](ARIA_ATTRIBUTES.md)
 
 [CORS](CORS.md)
 
