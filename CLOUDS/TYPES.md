@@ -71,3 +71,33 @@ The private cloud exclusive offers its services to an individual, business, or o
 - OpenStack
 
 </details>
+
+<details>
+  <summary>What is hybrid cloud?</summary>
+
+A hybrid cloud, as the name suggests, is an amalgamation of the two main cloud deployment models (public and private) combined with the on-premises infrastructure and methods for an integrated solution for businesses and organizations.
+
+**Pros:**
+
+- Reliability
+- Scalability
+- Agility
+
+**Cons:**
+
+- Investment
+- Security
+
+**Pricing:**
+
+- Combine the pricing models of both private and public clouds.
+
+**Providers:**
+
+- Microsoft Azure
+- VMWare
+- Rackspace
+- IBM
+- CISCO
+
+</details>
