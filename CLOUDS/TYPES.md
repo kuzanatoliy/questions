@@ -1,6 +1,6 @@
 # Types
 
-## Links
+### Links
 
 [Public cloud vs private cloud vs hybrid cloud](https://www.cloudways.com/blog/public-vs-private-vs-hybrid-cloud/)
 
@@ -99,5 +99,23 @@ A hybrid cloud, as the name suggests, is an amalgamation of the two main cloud d
 - Rackspace
 - IBM
 - CISCO
+
+</details>
+
+<details>
+  <summary>What is community cloud?</summary>
+
+Community clouds are not as popular as the other cloud deployment models, but they follow a cloud infrastructure that allows organizations to access the services to share information. They may be operated and owned by the organizations or by third parties, or in some cases, by both parties.
+
+**Pros:**
+
+- Openness
+- Reliability
+- Added control
+
+**Cons:**
+
+- Expensive
+- Fixed amount of data storage and bandwidth
 
 </details>
