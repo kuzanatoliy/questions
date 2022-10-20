@@ -1,1 +1,3 @@
 # Clouds
+
+[Types](TYPES.md)
