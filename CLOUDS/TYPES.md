@@ -37,3 +37,37 @@ A public cloud uses the cloud computing models to ensure the remote availability
 - Linode
 
 </details>
+
+<details>
+  <summary>What is private cloud?</summary>
+
+The private cloud exclusive offers its services to an individual, business, or organization. Anyone utilizing the private cloud service won’t have to share their resources with anyone; they can enjoy their dedicated access for better overall security & performance.
+
+**Pros:**
+
+- Added security
+- Improved performance
+- Increased availability
+- Better control
+- Flexibility
+
+**Cons:**
+
+- Expensive
+- High maintenance cost
+- Too many options – can be difficult to make the right choice
+
+**Pricing:**
+
+- Fairly expensive
+- Scaling is costly
+- Pays off in the long term
+
+**Providers:**
+
+- Amazon Web Services (AWS)
+- Google Cloud
+- Microsoft Azure
+- OpenStack
+
+</details>
