@@ -33,3 +33,12 @@ A timer specifies the threshold after which a provided callback may be executed 
 [More >>](https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/#timers)
 
 </details>
+
+<details>
+  <summary>What pending callbacks phase is?</summary>
+
+This phase executes callbacks for some system operations such as types of TCP errors. For example if a TCP socket receives ECONNREFUSED when attempting to connect, some \*nix systems want to wait to report the error. This will be queued to execute in the pending callbacks phase.
+
+[More >>](https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/#pending-callbacks)
+
+</details>
