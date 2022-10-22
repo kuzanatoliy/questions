@@ -22,6 +22,18 @@
 
 </details>
 
+
+## Principles of Component Cohesion
+
+<details>
+  <summary>What is the Reuse/Release Equivalence Principle (REP)?</summary>
+
+The granular of reuse is the granular of release.
+
+REP states that the granule of reuse, a component, can be no smaller than the granule of release. Anything that we reuse must also be released and tracked. It is not realistic for a developer to simply write a class and then claim that it is reusable. Reusability comes only after a tracking system is in place and offers the guarantees of notification, safety, and support that the potential reusers will need. REP gives us our first hint at how to partition our design into components. Since reusability must be based on components, reusable components must contain reusable classes. So, at least some components should comprise reusable sets of classes.
+
+</details>
+
 ## Don’t Ask Principle
 
 <details>
