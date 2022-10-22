@@ -72,3 +72,13 @@ If a socket or handle is closed abruptly (e.g. socket.destroy()), the 'close' ev
 [More >>](https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/#close-callbacks)
 
 </details>
+
+<details>
+  <summary>Why use process.nextTick()?</summary>
+
+There are two main reasons:
+
+1. Allow users to handle errors, cleanup any then unneeded resources, or perhaps try the request again before the event loop continues.
+2. At times it's necessary to allow a callback to run after the call stack has unwound but before the event loop continues.
+
+</details>
