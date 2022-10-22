@@ -42,3 +42,15 @@ This phase executes callbacks for some system operations such as types of TCP er
 [More >>](https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/#pending-callbacks)
 
 </details>
+
+<details>
+  <summary>What pool phase is?</summary>
+
+The poll phase has two main functions:
+
+1. Calculating how long it should block and poll for I/O, then.
+2. Processing events in the poll queue.
+
+[More >>](https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/#poll)
+
+</details>
