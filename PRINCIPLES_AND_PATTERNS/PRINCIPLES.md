@@ -43,6 +43,15 @@ This principle helps us to decide which classes should be placed into a componen
 
 </details>
 
+<details>
+  <summary>What is the Common Closure Principle (CCP)?</summary>
+
+The classes in a component should be closed together against the same kinds of changes. A change that affects a component affects all the classes in that component and no other components.
+
+This is the Single-Responsibility Principle (SRP) restated for components. Just as SRP says that a class should not contain multiple reasons to change, CCP says that a component should not have multiple reasons to change. In most applications, maintainability is more important that reusability. If the code in an application must change, you would prefer the changes to occur all in one component rather than being distributed through many components. If changes are focused into a single component, we need redeploy only the one changed component. Other components that don’t depend on the changed component do not need to be revalidated or redeployed.
+
+</details>
+
 ## Don’t Ask Principle
 
 <details>
