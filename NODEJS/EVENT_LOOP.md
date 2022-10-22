@@ -63,3 +63,12 @@ This phase allows a person to execute callbacks immediately after the poll phase
 [More >>](https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/#check)
 
 </details>
+
+<details>
+  <summary>What close callbacks phase is?</summary>
+
+If a socket or handle is closed abruptly (e.g. socket.destroy()), the 'close' event will be emitted in this phase. Otherwise it will be emitted via process.nextTick().
+
+[More >>](https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/#close-callbacks)
+
+</details>
