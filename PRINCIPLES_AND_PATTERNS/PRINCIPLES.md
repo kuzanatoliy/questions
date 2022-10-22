@@ -70,6 +70,14 @@ Depend in the direction of stability.
 
 Designs cannot be completely static. Some volatility is necessary if the design is to be maintained. We accomplish this by conforming to CCP. Using this principle, we create components that are sensitive to certain kinds of changes. These components are designed to be volatile; we expect them to change. Any component that we expect to be volatile should not be depended on by a component that is difficult to change! Otherwise, the volatile component will also be difficult to change. It is the perversity of software that a module that you have designed to be easy to change can be made difficult to change by someone else simply hanging a dependency upon it. Not a line of source code in your module need change, and yet your module will suddenly be difficult to change. By conforming to SDP, we ensure that modules that are intended to be easy to change are not depended on by modules that are more difficult to change than they are.
 
+</details>
+
+<details>
+  <summary>What is the Stable-Abstractions Principle (SAP)?</summary>
+
+A component should be as abstract as it is stable.
+
+This principle sets up a relationship between stability and abstractness. It says that a stable component should also be abstract so that its stability does not prevent it from being extended. On the other hand, it says that an instable component should be concrete, since its instability allows the concrete code within it to be easily changed. Thus, if a component is to be stable, it should also consist of abstract classes so that it can be extended. Stable components that are extensible
 
 </details>
 
