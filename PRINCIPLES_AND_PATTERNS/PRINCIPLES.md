@@ -34,6 +34,15 @@ REP states that the granule of reuse, a component, can be no smaller than the gr
 
 </details>
 
+<details>
+  <summary>What is the Common Reuse Principle (CRP)?</summary>
+
+The classes in a component are reused together. If you reuse one of the classes in a component, you reuse them all.
+
+This principle helps us to decide which classes should be placed into a component. CRP states that classes that tend to be reused together belong in the same component. Classes are seldom reused in isolation. Generally, reusable classes collaborate with other classes that are part of the reusable abstraction. CRP states that these classes belong together in the same component. In such a component, we would expect to see classes that have lots of dependencies on each other. A simple example might be a container class and its associated iterators. These classes are reused together because they are tightly coupled. Thus, they ought to be in the same component.
+
+</details>
+
 ## Don’t Ask Principle
 
 <details>
