@@ -52,6 +52,17 @@ This is the Single-Responsibility Principle (SRP) restated for components. Just 
 
 </details>
 
+## Principles of Component Coupling
+
+<details>
+  <summary>What is the Acyclic Dependencies Principle (ADP)?</summary>
+
+Allow no cycles in the component dependency graph.
+
+The dependency structure must always be monitored for cycles. When cycles occur, they must be broken somehow. Sometimes, this will mean creating a new component, making the dependency structure grow.
+
+</details>
+
 ## Don’t Ask Principle
 
 <details>
