@@ -24,3 +24,12 @@ Since most modern kernels are multi-threaded, they can handle multiple operation
 - **close callbacks**: some close callbacks, e.g. socket.on('close', ...).
 
 </details>
+
+<details>
+  <summary>What timer phase is?</summary>
+
+A timer specifies the threshold after which a provided callback may be executed rather than the exact time a person wants it to be executed. Timers callbacks will run as early as they can be scheduled after the specified amount of time has passed; however, Operating System scheduling or the running of other callbacks may delay them.
+
+[More >>](https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/#timers)
+
+</details>
