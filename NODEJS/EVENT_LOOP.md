@@ -54,3 +54,12 @@ The poll phase has two main functions:
 [More >>](https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/#poll)
 
 </details>
+
+<details>
+  <summary>What check phase is?</summary>
+
+This phase allows a person to execute callbacks immediately after the poll phase has completed. If the poll phase becomes idle and scripts have been queued with setImmediate(), the event loop may continue to the check phase rather than waiting.
+
+[More >>](https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/#check)
+
+</details>
