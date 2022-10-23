@@ -58,3 +58,20 @@ Platform as a service (PaaS) is a complete development and deployment environmen
 [More >>](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-paas/)
 
 </details>
+
+<details>
+  <summary>What is software as a service (SaaS)?</summary>
+
+Software as a service (SaaS) allows users to connect to and use cloud-based apps over the Internet. Common examples are email, calendaring, and office tools (such as Microsoft Office 365).
+
+**Advantages of PaaS**
+
+- Gain access to sophisticated applications.
+- Pay only for what you use.
+- Use free client software.
+- Mobilize your workforce easily.
+- Access app data from anywhere.
+
+[More >>](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-saas/)
+
+</details>
