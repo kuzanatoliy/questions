@@ -34,3 +34,27 @@ Infrastructure as a service (IaaS) is a type of cloud computing service that off
 [More >>](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-iaas/)
 
 </details>
+
+<details>
+  <summary>What is platform as a service (PaaS)?</summary>
+
+Platform as a service (PaaS) is a complete development and deployment environment in the cloud, with resources that enable you to deliver everything from simple cloud-based apps to sophisticated, cloud-enabled enterprise applications. You purchase the resources you need from a cloud service provider on a pay-as-you-go basis and access them over a secure Internet connection.
+
+**Common PaaS business scenarios**
+
+- Development framework.
+- Analytics or business intelligence.
+- Additional services.
+
+**Advantages of PaaS**
+
+- Cut coding time.
+- Add development capabilities without adding staff.
+- Develop for multiple platforms—including mobile—more easily.
+- Use sophisticated tools affordably.
+- Support geographically distributed development teams.
+- Efficiently manage the application lifecycle.
+
+[More >>](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-paas/)
+
+</details>
