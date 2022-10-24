@@ -32,3 +32,18 @@ AWS Local Zones are a type of infrastructure deployment that places compute, sto
 [More >>](https://aws.amazon.com/about-aws/global-infrastructure/localzones/)
 
 </details>
+
+<details>
+  <summary>What is AWS Wavelength Zones?</summary>
+
+AWS Wavelength embeds AWS compute and storage services within 5G networks, providing mobile edge computing infrastructure for developing, deploying, and scaling ultra-low-latency applications.
+
+**User cases:**
+
+- Build media and entertainment applications
+- Accelerate ML inference at the edge
+- Develop connected vehicle applications
+
+[More >>](https://aws.amazon.com/wavelength/)
+
+</details>
