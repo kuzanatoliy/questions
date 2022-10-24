@@ -1,0 +1,3 @@
+# AWS
+
+[Regions](REGIONS.md)
