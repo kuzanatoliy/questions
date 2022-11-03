@@ -21,3 +21,10 @@ The alert role should only be used for information that requires the user's imme
 **Note** It is possible to use aria-live="alert" instead of the role.
 
 </details>
+
+<details>
+  <summary>What is alertdialog role?</summary>
+
+The alertdialog role is used to notify users of urgent information that demands the user's immediate attention. Including role="alertdialog" on the element containing the dialog helps assistive technology identify the content as being grouped and separated from the rest of the page content. Examples include error messages that require confirmation and other action confirmation prompts.
+
+</details>
