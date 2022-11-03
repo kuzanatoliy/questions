@@ -20,12 +20,16 @@ The alert role should only be used for information that requires the user's imme
 
 **Note** It is possible to use aria-live="alert" instead of the role.
 
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/alert_role)
+
 </details>
 
 <details>
   <summary>What is an alertdialog role?</summary>
 
 The alertdialog role is used to notify users of urgent information that demands the user's immediate attention. Including role="alertdialog" on the element containing the dialog helps assistive technology identify the content as being grouped and separated from the rest of the page content. Examples include error messages that require confirmation and other action confirmation prompts.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/alertdialog_role)
 
 </details>
 
@@ -37,5 +41,7 @@ The application document structure role, indicates to assistive technologies tha
 In this mode, the web author is completely responsible for handling any and all keyboard input, focus management, and other interactions and cannot assume assistive technologies would do any processing on their end.
 
 If the web application encompassed by the application role contains parts that should be treated like normal web content, a role of document or article should be used to contain such content.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/application_role)
 
 </details>
