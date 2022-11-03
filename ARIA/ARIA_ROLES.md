@@ -45,3 +45,14 @@ If the web application encompassed by the application role contains parts that s
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/application_role)
 
 </details>
+
+<details>
+  <summary>What is an article role?</summary>
+
+The article document structure role denotes a section of a document, page, or site that, if it were standing on its own, could be viewed as a complete document, page or site. The aim of a set of article sections is to indicate their relationship to one another.
+
+**Note** It is possible to use article tag instead of the role.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/article_role)
+
+</details>
