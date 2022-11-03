@@ -67,3 +67,12 @@ A banner landmark role overwrites the implicit ARIA role of the container elemen
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/banner_role)
 
 </details>
+
+<details>
+  <summary>What is a button role?</summary>
+
+The button role identifies an element as a button to assistive technology such as screen readers. A button is a widget used to perform actions such as submitting a form, opening a dialog, canceling an action, or performing a command such as inserting a new record or displaying information. Adding role="button" tells assistive technology that the element is a button but provides no button functionality. Use <button> or <input> with type="button" instead.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/button_role)
+
+</details>
