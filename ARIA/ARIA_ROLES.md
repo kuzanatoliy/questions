@@ -8,7 +8,7 @@ ARIA roles provide semantic meaning to content, allowing screen readers and othe
 </details>
 
 <details>
-  <summary>What is alert role?</summary>
+  <summary>What is an alert role?</summary>
 
 The alert role is used to communicate an important and usually time-sensitive message to the user. When this role is added to an element, the browser will send out an accessible alert event to assistive technology products which can then notify the user.
 
@@ -23,8 +23,19 @@ The alert role should only be used for information that requires the user's imme
 </details>
 
 <details>
-  <summary>What is alertdialog role?</summary>
+  <summary>What is an alertdialog role?</summary>
 
 The alertdialog role is used to notify users of urgent information that demands the user's immediate attention. Including role="alertdialog" on the element containing the dialog helps assistive technology identify the content as being grouped and separated from the rest of the page content. Examples include error messages that require confirmation and other action confirmation prompts.
+
+</details>
+
+<details>
+  <summary>What is an application role?</summary>
+
+The application document structure role, indicates to assistive technologies that this part of the web content contains elements that do not conform to any other known HTML element or WAI-ARIA widget. Any sort of special interpretation of HTML structures and widgets should be suspended, and control should be completely handed over to the browser and web application to handle mouse, keyboard, or touch interaction.
+
+In this mode, the web author is completely responsible for handling any and all keyboard input, focus management, and other interactions and cannot assume assistive technologies would do any processing on their end.
+
+If the web application encompassed by the application role contains parts that should be treated like normal web content, a role of document or article should be used to contain such content.
 
 </details>
