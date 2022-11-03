@@ -56,3 +56,14 @@ The article document structure role denotes a section of a document, page, or si
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/article_role)
 
 </details>
+
+<details>
+  <summary>What is a banner role?</summary>
+
+A banner landmark role overwrites the implicit ARIA role of the container element upon which it is applied. It should be reserved for globally repeating site-wide content that is generally located at the top of every page.
+
+**Note** It is possible to use header tag instead of the role.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/banner_role)
+
+</details>
