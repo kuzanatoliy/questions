@@ -103,3 +103,12 @@ The developer is required to change the value of the aria-checked attribute dyna
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/checkbox_role)
 
 </details>
+
+<details>
+  <summary>What is columnheader role?</summary>
+
+An element with role="columnheader" nested as a descendant for an element with role="row", is a static tabular structure of a column header cell in a tabular container, either a table or grid, or other chart that needs to show data relationships. To be supported, the columnheader must be nested in an element with the role of row.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/columnheader_role)
+
+</details>
