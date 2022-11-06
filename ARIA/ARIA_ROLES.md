@@ -87,5 +87,19 @@ Each element with role="cell" MUST be nested in a container element with role="r
 A cell can contain a number of property attributes clarifying the cell's position within the tabular data structure, including aria-colindex, aria-colspan, aria-rowindex, and aria-rowspan.
 
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/cell_role)
+.
+
+</details>
+
+<details>
+  <summary>What is a checkbox role?</summary>
+
+The native HTML checkbox form control had two states ("checked" or "not checked"), with an indeterminate state settable via JavaScript. Similarly, an element with role="checkbox" can expose three states through the aria-checked attribute: true, false, or mixed.
+
+Since a checkbox is an interactive control, it must be focusable and keyboard accessible. If the role is applied to a non-focusable element, use the tabindex attribute to change this. The expected keyboard shortcut for activating a checkbox is the Space key.
+
+The developer is required to change the value of the aria-checked attribute dynamically when the checkbox is activated.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/checkbox_role)
 
 </details>
