@@ -76,3 +76,16 @@ The button role identifies an element as a button to assistive technology such a
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/button_role)
 
 </details>
+
+<details>
+  <summary>What is a ceil role?</summary>
+
+The element with role="cell" is a cell within a row, optionally within a rowgroup, within a table. If the cell is in a grid or treegrid, opt for gridcell. Using native HTML td elements, whenever possible, is strongly encouraged.
+
+Each element with role="cell" MUST be nested in a container element with role="row". That row, in turn, can be nested within an element with role="rowgroup", and should be nested within a grid, table or treegrid. If a cell contains column or row header information, use the columnheader or rowheader roles, respectively. If the cell does not contain header information and is nested in a grid or treegrid, the role of gridcell may be more appropriate.
+
+A cell can contain a number of property attributes clarifying the cell's position within the tabular data structure, including aria-colindex, aria-colspan, aria-rowindex, and aria-rowspan.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/cell_role)
+
+</details>
