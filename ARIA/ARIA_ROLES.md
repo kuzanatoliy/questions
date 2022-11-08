@@ -123,3 +123,14 @@ The combobox role is set on input that controls another element, such as a listb
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/combobox_role)
 
 </details>
+
+<details>
+  <summary>What is a command role?</summary>
+
+The command role defines a widget that performs an action but does not receive input data.
+
+**note** don't use it.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/command_role)
+
+</details>
