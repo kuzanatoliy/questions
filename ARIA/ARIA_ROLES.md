@@ -163,3 +163,14 @@ The composite abstract role indicates a widget that may contain navigable descen
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/composite_role)
 
 </details>
+
+<details>
+  <summary>What is a contentinfo role?</summary>
+
+The contentinfo role defines a footer, containing identifying information such as copyright information, navigation links, and privacy statements, found on every document within a site. This section is commonly called a footer.
+
+**note** don't use it.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/contentinfo_role)
+
+</details>
