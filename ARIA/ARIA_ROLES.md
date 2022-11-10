@@ -169,8 +169,17 @@ The composite abstract role indicates a widget that may contain navigable descen
 
 The contentinfo role defines a footer, containing identifying information such as copyright information, navigation links, and privacy statements, found on every document within a site. This section is commonly called a footer.
 
-**note** don't use it.
+**note** use footer tag instead of the contentinfo role
 
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/contentinfo_role)
+
+</details>
+
+<details>
+  <summary>What is a definition role?</summary>
+
+The definition ARIA role can be included an element that is a definition of a term or concept, similar to the native dfn element. To associate the definition with the term being defined, and to provide an accessible name, reference the term being defined with role="term", using aria-labelledby.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/definition_role)
 
 </details>
