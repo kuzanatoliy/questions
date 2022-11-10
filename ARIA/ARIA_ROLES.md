@@ -134,3 +134,12 @@ The command role defines a widget that performs an action but does not receive i
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/command_role)
 
 </details>
+
+<details>
+  <summary>What is a comment role?</summary>
+
+The comment landmark role semantically denotes a comment/reaction to some content on the page, or to a previous comment.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/comment_role)
+
+</details>
