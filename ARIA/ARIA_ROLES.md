@@ -152,3 +152,14 @@ The complementary landmark role is used to designate a supporting section that r
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/complementary_role)
 
 </details>
+
+<details>
+  <summary>What is a composite role?</summary>
+
+The composite abstract role indicates a widget that may contain navigable descendants or owned children.
+
+**note** don't use it.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/composite_role)
+
+</details>
