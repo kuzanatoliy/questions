@@ -143,3 +143,12 @@ The comment landmark role semantically denotes a comment/reaction to some conten
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/comment_role)
 
 </details>
+
+<details>
+  <summary>What is a complementary role?</summary>
+
+The complementary landmark role is used to designate a supporting section that relates to the main content, yet can stand alone when separated. These sections are frequently presented as sidebars or call-out boxes. If possible, use the HTML aside element instead.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/complementary_role)
+
+</details>
