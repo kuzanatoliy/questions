@@ -392,3 +392,12 @@ A landmark is an important subsection of a page. The landmark role is an abstrac
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/landmark_role)
 
 </details>
+
+<details>
+  <summary>What is a link role?</summary>
+
+A link widget provides an interactive reference to a resource. The target resource can be either external or local; i.e., either outside or within the current page or application.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/link_role)
+
+</details>
