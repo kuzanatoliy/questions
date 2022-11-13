@@ -347,3 +347,12 @@ The group role identifies a set of user interface objects that is not intended t
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/group_role)
 
 </details>
+
+<details>
+  <summary>What is a heading role?</summary>
+
+The heading role defines this element as a heading to a page or section, with the aria-level attribute providing for more structure.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/heading_role)
+
+</details>
