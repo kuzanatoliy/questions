@@ -401,3 +401,12 @@ A link widget provides an interactive reference to a resource. The target resour
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/link_role)
 
 </details>
+
+<details>
+  <summary>What is a list role?</summary>
+
+Any content that consists of an outer container with a list of elements inside it can be identified to assistive technologies using the list and listitem containers respectively. A list must have one or more listitem children, or, alternatively, have one or more groups as children, with each group having one or more listitems as children.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/list_role)
+
+</details>
