@@ -313,3 +313,12 @@ Example:
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/grid_role)
 
 </details>
+
+<details>
+  <summary>What is a gridcell role?</summary>
+
+The gridcell role is used to make a cell in a grid or treegrid. It is intended to mimic the functionality of the HTML <td> element for table-style grouping of information.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/gridcell_role)
+
+</details>
