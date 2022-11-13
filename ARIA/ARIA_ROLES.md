@@ -245,3 +245,18 @@ Example:
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/figure_role)
 
 </details>
+
+<details>
+  <summary>What is a form role?</summary>
+
+The form role can be used to identify a group of elements on a page that provide equivalent functionality to an HTML form.
+
+Example:
+
+    <div role="form" id="contact-info" aria-label="Contact information">
+      <!-- form content -->
+    </div>
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/form_role)
+
+</details>
