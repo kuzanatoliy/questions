@@ -471,3 +471,18 @@ The marquee role defines an area as a type of live region that presents non-esse
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/marquee_role)
 
 </details>
+
+<details>
+  <summary>What is a math role?</summary>
+
+The math role indicates that the content represents a mathematical expression.
+
+Examples:
+
+    <div role="math" aria-label="a^{2} + b^{2} = c^{2}">
+      a<sup>2</sup> + b<sup>2</sup> = c<sup>2</sup>
+    </div>
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/math_role)
+
+</details>
