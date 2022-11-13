@@ -495,3 +495,12 @@ A menu generally represents a grouping of common actions or functions that the u
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/menu_role)
 
 </details>
+
+<details>
+  <summary>What is a menubar role?</summary>
+
+The menubar role is used to create a menu bar similar to those found near the top of the window in many desktop applications, visually persistent, typically horizontal, bar of menu items offering the user quick access to a consistent set of commands.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/menubar_role)
+
+</details>
