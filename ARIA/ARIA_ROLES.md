@@ -372,3 +372,14 @@ Example:
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/img_role)
 
 </details>
+
+<details>
+  <summary>What is an input role?</summary>
+
+The input role is an abstract role. It must not be used by web authors. It is the superclass for input widgets that provide for user input, including checkbox, radio, and textbox. For all three, consider using the input element of type checkbox, radio and text, respectively.
+
+**Note** Don't use it.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/input_role)
+
+</details>
