@@ -210,3 +210,22 @@ Structural ARIA roles were originally created as a bridge to inform assistive te
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/structural_roles)
 
 </details>
+
+<details>
+  <summary>What is a feed role?</summary>
+
+A feed is a dynamic scrollable list of articles in which articles are added to or removed from either end of the list as the user scrolls. A feed enables screen readers to use the browse mode reading cursor to both read and scroll through a stream of rich content that may continue scrolling infinitely by loading more content as the user reads.
+
+Example:
+
+    <section role="feed" aria-busy="false">
+      …
+      <article aria-posinset="427" aria-setsize="-1">…</article>
+      <article aria-posinset="428" aria-setsize="-1">…</article>
+      <article aria-posinset="429" aria-setsize="-1">…</article>
+      …
+    </section>
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/feed_role)
+
+</details>
