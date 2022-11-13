@@ -322,3 +322,28 @@ The gridcell role is used to make a cell in a grid or treegrid. It is intended t
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/gridcell_role)
 
 </details>
+
+<details>
+  <summary>What is a group role?</summary>
+
+The group role identifies a set of user interface objects that is not intended to be included in a page summary or table of contents by assistive technologies.
+
+    <div role="menu">
+      <ul role="group">
+        <li role="menuitem">Inbox</li>
+        <li role="menuitem">Archive</li>
+        <li role="menuitem">Trash</li>
+      </ul>
+      <ul role="group">
+        <li role="menuitem">Custom Folder 1</li>
+        <li role="menuitem">Custom Folder 2</li>
+        <li role="menuitem">Custom Folder 3</li>
+      </ul>
+      <ul role="group">
+        <li role="menuitem">New Folder</li>
+      </ul>
+    </div>
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/group_role)
+
+</details>
