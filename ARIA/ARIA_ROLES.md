@@ -192,3 +192,12 @@ The dialog role is used to mark up an HTML based application dialog or window th
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/dialog_role)
 
 </details>
+
+<details>
+  <summary>What is a document role?</summary>
+
+The document role is for the top container containing content that assistive technology users may want to browse in a reading mode. Only useful on focusable sections within complex composite widgets or applications, the document role inform assistive technologies to the reading context back to a reading mode: The document role tells assistive technologies with reading or browse modes to use the document mode to read the content contained within this element.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/document_role)
+
+<details>
