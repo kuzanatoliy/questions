@@ -419,3 +419,12 @@ The listbox role is used to identify an element that creates a list from which a
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/listbox_role)
 
 </details>
+
+<details>
+  <summary>what is a listitem role?</summary>
+
+Any content that consists of an outer container with a list of elements inside it can be identified to assistive technologies using the list and listitem containers respectively.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/listitem_role)
+
+</details>
