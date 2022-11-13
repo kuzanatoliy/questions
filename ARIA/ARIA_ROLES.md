@@ -260,3 +260,12 @@ Example:
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/form_role)
 
 </details>
+
+<details>
+  <summary>What is a generic role?</summary>
+
+While ARIA is primarily used to express semantics, there are some elements that shouldn't expose a semantic name to assistive technologies. The generic role indicates an element's role is equivalent to that of the non-semantic div and span elements.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/generic_role)
+
+</details>
