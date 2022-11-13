@@ -453,3 +453,12 @@ This is the main section of a document that discusses avocados. Subsections of t
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/main_role)
 
 </details>
+
+<details>
+  <summary>What is a mark role?</summary>
+
+The mark role semantically denotes HTML elements containing text that is marked/highlighted for reference purposes. This is semantically equivalent to the HTML mark element. If possible, you should use this element instead.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/mark_role)
+
+</details>
