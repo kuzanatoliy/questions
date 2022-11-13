@@ -356,3 +356,19 @@ The heading role defines this element as a heading to a page or section, with th
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/heading_role)
 
 </details>
+
+<details>
+  <summary>What is an img role?</summary>
+
+The ARIA img role can be used to identify multiple elements inside page content that should be considered as a single image. These elements could be images, code snippets, text, emojis, or other content that can be combined to deliver information in a visual manner.
+
+Example:
+
+    <div role="img" aria-label="Description of the overall image">
+      <img src="graphic1.png" alt="" />
+      <img src="graphic2.png" />
+    </div>
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/img_role)
+
+</details>
