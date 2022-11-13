@@ -229,3 +229,19 @@ Example:
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/feed_role)
 
 </details>
+
+<details>
+  <summary>What is a figure role?</summary>
+
+A figure is a perceivable section of content that typically contains a graphical document, images, code snippets, or example text. The parts of a figure MAY be user-navigable. Any content that should be grouped together and consumed as a figure (which could include images, video, audio, code snippets, or other content) can be identified as a figure using role="figure".
+
+Example:
+
+    <div role="figure" aria-labelledby="caption">
+      <img src="image.png" alt="put image description here" />
+      <p id="caption">Figure 1: The caption</p>
+    </div>
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/figure_role)
+
+</details>
