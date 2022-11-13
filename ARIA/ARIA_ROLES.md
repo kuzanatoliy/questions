@@ -410,3 +410,12 @@ Any content that consists of an outer container with a list of elements inside i
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/list_role)
 
 </details>
+
+<details>
+  <summary>What is a listbox role?</summary>
+
+The listbox role is used to identify an element that creates a list from which a user may select one or more static items, similar to the HTML select element. Unlike select, a listbox can contain images. Each child of a listbox should have a role of option.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/listbox_role)
+
+</details>
