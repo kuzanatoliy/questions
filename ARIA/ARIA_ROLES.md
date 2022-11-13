@@ -201,3 +201,12 @@ The document role is for the top container containing content that assistive tec
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/document_role)
 
 <details>
+
+<details>
+  <summary>Waht are structural roles?</summary>
+
+Structural ARIA roles were originally created as a bridge to inform assistive technologies of HTML5 elements that were not yet fully supported in browsers. Some roles, like presentation, toolbar and tooltip, provide information on the document structure to assistive technologies in cases where equivalent native HTML elements don't exist. Other roles, including those listed in the table below, are not needed, as there are semantic HTML elements with the same meanings. In many cases, these equivalent HTML elements have always been supported.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/structural_roles)
+
+</details>
