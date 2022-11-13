@@ -383,3 +383,12 @@ The input role is an abstract role. It must not be used by web authors. It is th
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/input_role)
 
 </details>
+
+<details>
+  <summary>What is a landmark role?</summary>
+
+A landmark is an important subsection of a page. The landmark role is an abstract superclass for the aria role values for sections of content that are important enough that users will likely want to be able to navigate directly to them.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/landmark_role)
+
+</details>
