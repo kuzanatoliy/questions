@@ -183,3 +183,12 @@ The definition ARIA role can be included an element that is a definition of a te
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/definition_role)
 
 </details>
+
+<details>
+  <summary>What is a dialog role?</summary>
+
+The dialog role is used to mark up an HTML based application dialog or window that separates content or UI from the rest of the web application or page. Dialogs are generally placed on top of the rest of the page content using an overlay. Dialogs can be either non-modal (it's still possible to interact with content outside of the dialog) or modal (only the content in the dialog can be interacted with).
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/dialog_role)
+
+</details>
