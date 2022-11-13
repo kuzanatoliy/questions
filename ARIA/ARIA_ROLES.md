@@ -269,3 +269,47 @@ While ARIA is primarily used to express semantics, there are some elements that 
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/generic_role)
 
 </details>
+
+<details>
+  <summary>What is a grid role?</summary>
+
+The grid role is a composite widget containing a collection of one or more rows with one or more cells where some or all cells in the grid are focusable by using methods of two-dimensional navigation, such as directional arrow keys.
+
+Example:
+
+    <table role="grid" aria-labelledby="id-select-your-seat">
+      <caption id="id-select-your-seat">
+        Select your seat
+      </caption>
+      <tbody role="presentation">
+        <tr role="presentation">
+          <td></td>
+          <th>Row A</th>
+          <th>Row B</th>
+        </tr>
+        <tr>
+          <th scope="row">Aisle 1</th>
+          <td tabindex="0">
+            <button id="1a" tabindex="-1">1A</button>
+          </td>
+          <td tabindex="-1">
+            <button id="1b" tabindex="-1">1B</button>
+          </td>
+          <!-- More Columns -->
+        </tr>
+        <tr>
+          <th scope="row">Aisle 2</th>
+          <td tabindex="-1">
+            <button id="2a" tabindex="-1">2A</button>
+          </td>
+          <td tabindex="-1">
+            <button id="2b" tabindex="-1">2B</button>
+          </td>
+          <!-- More Columns -->
+        </tr>
+      </tbody>
+    </table>
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/grid_role)
+
+</details>
