@@ -462,3 +462,12 @@ The mark role semantically denotes HTML elements containing text that is marked/
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/mark_role)
 
 </details>
+
+<details>
+  <summary>What is a marquee role?</summary>
+
+The marquee role defines an area as a type of live region that presents non-essential information that changes frequently. Examples of marquees include stock tickers and ad banners; information that is not necessarily sought out by the user that may be presented in any order. The main difference between a marquee and a log is that log information is presented in a meaningful order such as a by date.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/marquee_role)
+
+</details>
