@@ -437,3 +437,19 @@ The log role is used to identify an element that creates a live region where new
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/log_role)
 
 </details>
+
+<details>
+  <summary>What is a main role?</summary>
+
+The main landmark role is used to indicate the primary content of a document. The main content area consists of content that is directly related to or expands upon the central topic of a document, or the main function of an application.
+
+    <div id="main" role="main">
+      <h1>Avocados</h1>
+      <!-- main section content -->
+    </div>
+
+This is the main section of a document that discusses avocados. Subsections of this document could discuss their history, the different types, regions where they grow, etc.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/main_role)
+
+</details>
