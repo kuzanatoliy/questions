@@ -504,3 +504,12 @@ The menubar role is used to create a menu bar similar to those found near the to
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/menubar_role)
 
 </details>
+
+<details>
+  <summary>What is a menuitem role?</summary>
+
+A menuitem is one of the three types of options in a set of choices contained by a menu or menubar; the other two being menuitemcheckbox and menuitemradio. The menuitem is only found as a descendant of, or owned by, elements with role menu or menubar, optionally nested within an element with role group that is contained in, or owned by, a menu.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/menuitem_role)
+
+</details>
