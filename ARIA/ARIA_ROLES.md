@@ -486,3 +486,12 @@ Examples:
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/math_role)
 
 </details>
+
+<details>
+  <summary>What is a menu role?</summary>
+
+A menu generally represents a grouping of common actions or functions that the user can invoke. The menu role is appropriate when a list of menu items is presented in a manner similar to a menu on a desktop application. Submenus, also known as pop-up menus, also have the role menu.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/menu_role)
+
+</details>
