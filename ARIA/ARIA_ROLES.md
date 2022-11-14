@@ -578,3 +578,16 @@ The note role can be added to parenthetic or ancillary content if no other nativ
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/note_role)
 
 </details>
+
+<details>
+  <summary>What is an option role?</summary>
+
+The option role is used to identify selections a user can make in a listbox. These options are similar to the option elements in a select element, but they can contain images.
+
+All selectable options should have aria-selected match their state, true when selected and false when not. If an option is not selectable, aria-selected can be omitted. A disabled option can have aria-disabled="true" and aria-selected="false" to communicate to the user that the option is present, albeit disabled.
+
+The option role is for identifying selectable choices of a listbox. Options must be provided an accessible name. Generally, the accessible name for an option should come from the element's descendant content.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/option_role)
+
+</details>
