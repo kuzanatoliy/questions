@@ -513,3 +513,12 @@ A menuitem is one of the three types of options in a set of choices contained by
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/menuitem_role)
 
 </details>
+
+<details>
+  <summary>What is a menuitemcheckbox role?</summary>
+
+A menuitemcheckbox is a menuitem with a checkable state whose possible values are true, false, or mixed.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/menuitemcheckbox_role)
+
+</details>
