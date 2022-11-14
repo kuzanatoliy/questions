@@ -646,3 +646,21 @@ The range abstract role is a generic type of structure role representing a range
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/range_role)
 
 </details>
+
+<details>
+  <summary>What is a region role?</summary>
+
+The region role is an ARIA landmark role. The region role should be reserved for sections of content sufficiently important that users will likely want to navigate to the section easily and to have it listed in a summary of the page. A region role is a more generic term, and should only be used if the section needing to be identified is not accurately described by one of the other landmark roles, such as banner, main, contentinfo, complementary, or navigation.
+
+Example:
+
+    <div role="region" aria-labelledby="region-heading">
+      <h2 id="region-heading">
+        This heading's `id` attribute helps this region have an accessible name
+      </h2>
+      <!-- region content -->
+    </div>
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/region_role)
+
+</details>
