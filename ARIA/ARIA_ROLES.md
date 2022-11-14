@@ -569,3 +569,12 @@ The none role is a synonym for the presentation role; they both remove an elemen
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/none_role)
 
 </details>
+
+<details>
+  <summary>What is a note role?</summary>
+
+The note role can be added to parenthetic or ancillary content if no other native element or other role fits the purpose.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/note_role)
+
+</details>
