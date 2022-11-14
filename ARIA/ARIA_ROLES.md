@@ -522,3 +522,12 @@ A menuitemcheckbox is a menuitem with a checkable state whose possible values ar
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/menuitemcheckbox_role)
 
 </details>
+
+<details>
+  <summary>What is a menuitemradio role?</summary>
+
+A menuitemradio is checkable menuitem in a set of elements with the same role, only one of which can be checked at a time.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/menuitemradio_role)
+
+</details>
