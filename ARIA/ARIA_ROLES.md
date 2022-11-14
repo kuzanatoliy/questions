@@ -675,3 +675,12 @@ The roletype role's properties describe the structural and functional purpose of
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/roletype_role)
 
 </details>
+
+<details>
+  <summary>What is a row role?</summary>
+
+An element with role="row" is a row of cells within a tabular structure. A row contains one or more cells, grid cells or column headers, and possibly a row header, within a grid, table or treegrid, and optionally within a rowgroup.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/row_role)
+
+</details>
