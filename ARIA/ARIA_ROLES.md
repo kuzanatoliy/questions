@@ -626,3 +626,12 @@ The radio role is one of a group of checkable radio buttons, in a radiogroup, wh
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/radio_role)
 
 </details>
+
+<details>
+  <summary>What is a radiogroup role?</summary>
+
+Radio groups are collections describing a set of related radio options. A radiogroup is a type of select list that can only have a single entry, or radio, checked at any one time.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/radiogroup_role)
+
+</details>
