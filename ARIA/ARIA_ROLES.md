@@ -702,3 +702,12 @@ An element with role="rowheader" is a cell containing header information for a r
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/rowheader_role)
 
 </details>
+
+<details>
+  <summary>What is a scrollbar role?</summary>
+
+A scrollbar is a range that controls what part of a viewport's content is currently visible in the viewport's frame; whether the viewport is a full browser size, an iframe, or any element's block formatting context.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/scrollbar_role)
+
+</details>
