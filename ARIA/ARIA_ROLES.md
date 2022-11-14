@@ -602,3 +602,18 @@ The content of the element will still be available to assistive technologies; it
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/presentation_role)
 
 </details>
+
+<details>
+  <summary>What is an progress role?</summary>
+
+The progressbar role defines an element that displays the progress status for tasks that take a long time.
+
+Example:
+
+    <div role="progressbar">
+      <h3 role="presentation">Title of my progressbar</h3>
+    </div>
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/progress_role)
+
+</details>
