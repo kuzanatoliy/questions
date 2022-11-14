@@ -531,3 +531,17 @@ A menuitemradio is checkable menuitem in a set of elements with the same role, o
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/menuitemradio_role)
 
 </details>
+
+<details>
+  <summary>What is a meter role?</summary>
+
+A meter is a graphical display of a numeric value within a defined range. For example, showing battery percentage. A meter is not appropriate for values that do not have a meaningful maximum limit. Meters should not be used to indicate progress (for example loading), this should be communicated with the progress element.
+
+Each element with role="meter" must also have one of the following:
+
+An aria-label attribute.
+An aria-labelledby attribute pointing to an element with text that describes the meter.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/meter_role)
+
+</details>
