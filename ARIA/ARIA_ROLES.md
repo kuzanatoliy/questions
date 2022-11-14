@@ -664,3 +664,14 @@ Example:
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/region_role)
 
 </details>
+
+<details>
+  <summary>What is a roletype role?</summary>
+
+The roletype role's properties describe the structural and functional purpose of objects that are assigned this role, or "instances". A role is a concept that can be used to understand and operate instances.
+
+**Note** Don't use it
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/roletype_role)
+
+</details>
