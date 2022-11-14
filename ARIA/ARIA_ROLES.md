@@ -545,3 +545,16 @@ An aria-labelledby attribute pointing to an element with text that describes the
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/meter_role)
 
 </details>
+
+<details>
+  <summary>What is a navigation role?</summary>
+
+The navigation role is used to identify major groups of links used for navigating through a website or page content.
+
+    <div role="navigation" aria-label="Main">
+      <!-- list of links to main website locations -->
+    </div>
+
+This is a website's main navigation.
+
+</details>
