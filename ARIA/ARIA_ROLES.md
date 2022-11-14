@@ -724,3 +724,12 @@ The search role is used to identify the search functionality; the section of the
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/serch_role)
 
 </details>
+
+<details>
+  <summary>What is a serchbox role?</summary>
+
+The searchbox role indicates an element is a type of textbox intended for specifying search criteria.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/serchbox_role)
+
+</details>
