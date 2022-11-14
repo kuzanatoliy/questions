@@ -711,3 +711,16 @@ A scrollbar is a range that controls what part of a viewport's content is curren
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/scrollbar_role)
 
 </details>
+
+<details>
+  <summary>What is a serch role?</summary>
+
+The search role is used to identify the search functionality; the section of the page used to search the page, site, or collection of sites.
+
+    <form role="search">
+      <!-- search input -->
+    </form>
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/serch_role)
+
+</details>
