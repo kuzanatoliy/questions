@@ -635,3 +635,14 @@ Radio groups are collections describing a set of related radio options. A radiog
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/radiogroup_role)
 
 </details>
+
+<details>
+  <summary>What is a range role?</summary>
+
+The range abstract role is a generic type of structure role representing a range of values.
+
+**Note** Don't use it.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/range_role)
+
+</details>
