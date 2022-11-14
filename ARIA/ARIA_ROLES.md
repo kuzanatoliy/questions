@@ -557,4 +557,15 @@ The navigation role is used to identify major groups of links used for navigatin
 
 This is a website's main navigation.
 
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/navigation_role)
+
+</details>
+
+<details>
+  <summary>What is a none role?</summary>
+
+The none role is a synonym for the presentation role; they both remove an element's implicit ARIA semantics from being exposed to the accessibility tree.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/none_role)
+
 </details>
