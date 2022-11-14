@@ -593,7 +593,7 @@ The option role is for identifying selectable choices of a listbox. Options must
 </details>
 
 <details>
-  <summary>What is an presentation role?</summary>
+  <summary>What is a presentation role?</summary>
 
 The presentation role and its synonym none remove an element's implicit ARIA semantics from being exposed to the accessibility tree.
 
@@ -604,7 +604,7 @@ The content of the element will still be available to assistive technologies; it
 </details>
 
 <details>
-  <summary>What is an progress role?</summary>
+  <summary>What is a progress role?</summary>
 
 The progressbar role defines an element that displays the progress status for tasks that take a long time.
 
@@ -615,5 +615,14 @@ Example:
     </div>
 
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/progress_role)
+
+</details>
+
+<details>
+  <summary>What is a radio role?</summary>
+
+The radio role is one of a group of checkable radio buttons, in a radiogroup, where no more than a single radio button can be checked at a time.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/radio_role)
 
 </details>
