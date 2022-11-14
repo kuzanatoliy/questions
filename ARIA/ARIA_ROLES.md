@@ -693,3 +693,12 @@ An element with role="rowgroup" is a group of rows within a tabular structure. A
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/rowgroup_role)
 
 </details>
+
+<details>
+  <summary>What is a rowheader role?</summary>
+
+An element with role="rowheader" is a cell containing header information for a row within a tabular structure of a grid, table or treegrid.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/rowheader_role)
+
+</details>
