@@ -591,3 +591,14 @@ The option role is for identifying selectable choices of a listbox. Options must
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/option_role)
 
 </details>
+
+<details>
+  <summary>What is an presentation role?</summary>
+
+The presentation role and its synonym none remove an element's implicit ARIA semantics from being exposed to the accessibility tree.
+
+The content of the element will still be available to assistive technologies; it is only the semantics of the container — and in some instance, required associated descendants — which will no longer expose their mappings to the accessibility API.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/presentation_role)
+
+</details>
