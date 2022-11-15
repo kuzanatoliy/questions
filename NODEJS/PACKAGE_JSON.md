@@ -19,3 +19,10 @@ Rules:
 - The name ends up being part of a URL, an argument on the command line, and a folder name. Therefore, the name can't contain any non-URL-safe characters.
 
 </details>
+
+<details>
+  <summary>What is a version property?</summary>
+
+The version property contains version of a package. It is option for private projects, but it is required for public projects. Version must be parseable by node-semver, which is bundled with npm as a dependency.
+
+</details>
