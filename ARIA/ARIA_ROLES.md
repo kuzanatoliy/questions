@@ -755,3 +755,14 @@ The sectionhead role, an abstract role, is superclass role for labels or summari
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/sectionhead_role)
 
 </details>
+
+<details>
+  <summary>What is a select role?</summary>
+
+The select role, an abstract role, is superclass role for form widgets that allows the user to make selections from a set of choices.
+
+**Note** Don't use it
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/select_role)
+
+</details>
