@@ -784,3 +784,28 @@ The slider role is for range input widgets where the user selects a value from w
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/slider_role)
 
 </details>
+
+<details>
+  <summary>What is a spinbutton role?</summary>
+
+The spinbutton role indicates that the element is an input widget that restricts its value to a set or range of discrete values. The role also comes with increment and decrement functionality. For example, in a widget that enables users to choose an amount to bet in a game of Texas Holdem, the spinbutton role can allow users to select a number between the minimum and maximum bets in increments, as allowed by the current game rules.
+
+Example:
+
+    <p id="day">Enter the day of the month</p>
+    <button type="button" tabindex="-1" aria-label="previous day">˱</button>
+    <div
+      role="spinbutton"
+      tabindex="0"
+      aria-valuenow="1"
+      aria-valuetext="first"
+      aria-valuemin="1"
+      aria-valuemax="31"
+      aria-labelledby="day">
+      1
+    </div>
+    <button type="button" tabindex="-1" aria-label="next day">˲</button>
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/spinbutton_role)
+
+</details>
