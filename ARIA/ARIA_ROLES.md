@@ -966,3 +966,12 @@ This defines this div element as a timer with no remaining time.
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/timer_role)
 
 </details>
+
+<details>
+  <summary>What is a toolbar role?</summary>
+
+A toolbar is a collection of commonly used controls, such as buttons or checkboxes, grouped together in a compact visual form. The toolbar role can be used to communicate the presence and purpose of such a grouping to screen reader users and can help reduce the number of tab stops for keyboard users. Only use the toolbar role to group 3 or more controls.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/toolbar_role)
+
+</details>
