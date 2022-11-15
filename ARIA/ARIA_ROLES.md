@@ -1027,3 +1027,14 @@ A tree is a hierarchical list with parent and child nodes that can expand and co
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/treeitem_role)
 
 </details>
+
+<details>
+  <summary>What is a widget role?</summary>
+
+The widget role, an abstract role, is an interactive component of a graphical user interface (GUI).
+
+**Note** Don't use it
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/widget_role)
+
+</details>
