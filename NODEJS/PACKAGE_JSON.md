@@ -33,3 +33,10 @@ The version property contains version of a package. It is option for private pro
 Put a description in it. It's a string. This helps people discover your package, as it's listed in npm search.
 
 </details>
+
+<details>
+  <summary>What is a keywords property?</summary>
+
+Put keywords in it. It's an array of strings. This helps people discover your package as it's listed in npm search.
+
+</details>
