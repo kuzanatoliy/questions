@@ -766,3 +766,12 @@ The select role, an abstract role, is superclass role for form widgets that allo
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/select_role)
 
 </details>
+
+<details>
+  <summary>What is a separator role?</summary>
+
+The separator role indicates the element is a divider that separates and distinguishes sections of content or groups of menuitems. The implicit ARIA role the native thematic break hr element is separator.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/separator_role)
+
+</details>
