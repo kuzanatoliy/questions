@@ -848,3 +848,12 @@ Example:
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/suggestion_role)
 
 </details>
+
+<details>
+  <summary>What is a switch role?</summary>
+
+The ARIA switch role is functionally identical to the checkbox role, except that instead of representing "checked" and "unchecked" states, which are fairly generic in meaning, the switch role represents the states "on" and "off."
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/suggestion_role)
+
+</details>
