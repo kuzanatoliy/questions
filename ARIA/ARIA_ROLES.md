@@ -906,3 +906,12 @@ Example:
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/suggestion_role)
 
 </details>
+
+<details>
+  <summary>What is a table role?</summary>
+
+The table value of the ARIA role attribute identifies the element containing the role as having a non-interactive table structure containing data arranged in rows and columns, similar to the native table HTML element.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/table_role)
+
+</details>
