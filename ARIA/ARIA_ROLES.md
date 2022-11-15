@@ -775,3 +775,12 @@ The separator role indicates the element is a divider that separates and disting
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/separator_role)
 
 </details>
+
+<details>
+  <summary>What is a slider role?</summary>
+
+The slider role is for range input widgets where the user selects a value from within given minimum and maximum values.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/slider_role)
+
+</details>
