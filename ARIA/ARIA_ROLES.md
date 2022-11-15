@@ -1000,3 +1000,12 @@ Example:
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/tooltip_role)
 
 </details>
+
+<details>
+  <summary>What is a tree role?</summary>
+
+A tree is a widget that allows the user to select one or more items from a hierarchically organized collection.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/tree_role)
+
+</details>
