@@ -975,3 +975,28 @@ A toolbar is a collection of commonly used controls, such as buttons or checkbox
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/toolbar_role)
 
 </details>
+
+<details>
+  <summary>What is a tooltip role?</summary>
+
+A tooltip is a contextual text bubble that displays a description for an element that appears on pointer hover or keyboard focus.
+
+Example:
+
+    <label for="password">Password:</label>
+    <input aria-describedby="passwordrules" id="password" type="password" />
+    <div role="tooltip" id="passwordrules">
+      <p>Password Rules:</p>
+      <ul>
+        <li>Minimum of 8 characters</li>
+        <li>
+          Include at least one lowercase letter, one uppercase letter, one number
+          and one special character
+        </li>
+        <li>Unique to this website</li>
+      </ul>
+    </div>
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/tooltip_role)
+
+</details>
