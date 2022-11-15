@@ -924,3 +924,23 @@ The tablist role identifies the element that serves as the container for a set o
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/tablist_role)
 
 </details>
+
+<details>
+  <summary>What is a term role?</summary>
+
+The term role can be used for a word or phrase with an optional corresponding definition.
+
+Example:
+
+    <p>
+      <span role="term">Mansplaining</span>,
+      <span role="definition"
+        >a portmanteau of "man" and "explain", is the patronizing act of explaining
+        without being asked to do so, to someone already learned on the topic, often
+        after someone has already explained it</span
+      >.
+    </p>
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/term_role)
+
+</details>
