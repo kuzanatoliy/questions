@@ -1018,3 +1018,12 @@ The treegrid role identifies an element as being grid whose rows can be expanded
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/treegrid_role)
 
 </details>
+
+<details>
+  <summary>What is a treeitem role?</summary>
+
+A tree is a hierarchical list with parent and child nodes that can expand and collapse. A treeitem is a node in a tree. The root of the tree is tree, but all tree nodes are treeitem elements, even if they themselves have nested treeitem nodes.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/treeitem_role)
+
+</details>
