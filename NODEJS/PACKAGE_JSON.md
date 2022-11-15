@@ -26,3 +26,10 @@ Rules:
 The version property contains version of a package. It is option for private projects, but it is required for public projects. Version must be parseable by node-semver, which is bundled with npm as a dependency.
 
 </details>
+
+<details>
+  <summary>What is a description property?</summary>
+
+Put a description in it. It's a string. This helps people discover your package, as it's listed in npm search.
+
+</details>
