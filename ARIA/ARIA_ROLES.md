@@ -1038,3 +1038,14 @@ The widget role, an abstract role, is an interactive component of a graphical us
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/widget_role)
 
 </details>
+
+<details>
+  <summary>What is a window role?</summary>
+
+The window role, an abstract role, is a superclass for roles defining a browser or app window. The sub-class roles, currently only the dialog role, have a window-like GUI, or graphical user interface, whether it's a full native window or just a section of a document styled to look like a window, where role="dialog" would be appropriate.
+
+**Note** Don't use it
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/window_role)
+
+</details>
