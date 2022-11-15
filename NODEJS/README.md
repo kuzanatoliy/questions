@@ -10,6 +10,8 @@
 
 [Logging and error handling](LOGGING_AND_ERROR_HANDLING.md)
 
+[Package json](PACKAGE_JSON.md)
+
 [PostgreSQL and layered architecture](POSTGRE_SQL_AND_LAYERED_ARCHITECTURE.md)
 
 [Second entity and many to many relationships](SECOND_ENTITY_AND_MANY_TO_MANY_RELATIONSHIPS.md)
