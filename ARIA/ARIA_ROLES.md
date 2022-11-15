@@ -809,3 +809,12 @@ Example:
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/spinbutton_role)
 
 </details>
+
+<details>
+  <summary>What is a status role?</summary>
+
+The status role defines a live region containing advisory information for the user that is not important enough to be an alert.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/status_role)
+
+</details>
