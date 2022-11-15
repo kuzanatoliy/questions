@@ -915,3 +915,12 @@ The table value of the ARIA role attribute identifies the element containing the
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/table_role)
 
 </details>
+
+<details>
+  <summary>What is a tablist role?</summary>
+
+The tablist role identifies the element that serves as the container for a set of tabs. The tab content are referred to as tabpanel elements.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/tablist_role)
+
+</details>
