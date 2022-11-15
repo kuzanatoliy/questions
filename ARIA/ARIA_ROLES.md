@@ -1009,3 +1009,12 @@ A tree is a widget that allows the user to select one or more items from a hiera
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/tree_role)
 
 </details>
+
+<details>
+  <summary>What is a treegrid role?</summary>
+
+The treegrid role identifies an element as being grid whose rows can be expanded and collapsed in the same manner as for a tree.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/treegrid_role)
+
+</details>
