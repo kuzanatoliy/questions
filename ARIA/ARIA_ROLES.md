@@ -857,3 +857,52 @@ The ARIA switch role is functionally identical to the checkbox role, except that
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/suggestion_role)
 
 </details>
+
+<details>
+  <summary>What is a tab role?</summary>
+
+An element with the tab role controls the visibility of an associated element with the tabpanel role. The common user experience pattern is a group of visual tabs above, or to the side of, a content area, and selecting a different tab changes the content and makes the selected tab more prominent than the other tabs.
+
+Example:
+
+    <div class="tabs">
+      <div role="tablist" aria-label="Sample Tabs">
+        <button
+          role="tab"
+          aria-selected="true"
+          aria-controls="panel-1"
+          id="tab-1"
+          tabindex="0">
+          First Tab
+        </button>
+        <button
+          role="tab"
+          aria-selected="false"
+          aria-controls="panel-2"
+          id="tab-2"
+          tabindex="-1">
+          Second Tab
+        </button>
+        <button
+          role="tab"
+          aria-selected="false"
+          aria-controls="panel-3"
+          id="tab-3"
+          tabindex="-1">
+          Third Tab
+        </button>
+      </div>
+      <div id="panel-1" role="tabpanel" tabindex="0" aria-labelledby="tab-1">
+        <p>Content for the first panel</p>
+      </div>
+      <div id="panel-2" role="tabpanel" tabindex="0" aria-labelledby="tab-2" hidden>
+        <p>Content for the second panel</p>
+      </div>
+      <div id="panel-3" role="tabpanel" tabindex="0" aria-labelledby="tab-3" hidden>
+        <p>Content for the third panel</p>
+      </div>
+    </div>
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/suggestion_role)
+
+</details>
