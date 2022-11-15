@@ -40,3 +40,14 @@ Put a description in it. It's a string. This helps people discover your package,
 Put keywords in it. It's an array of strings. This helps people discover your package as it's listed in npm search.
 
 </details>
+
+<details>
+  <summary>What is a homepage property?</summary>
+
+The url to the project homepage.
+
+Example:
+
+    "homepage": "https://github.com/owner/project#readme"
+
+</details>
