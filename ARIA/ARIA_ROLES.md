@@ -733,3 +733,14 @@ The searchbox role indicates an element is a type of textbox intended for specif
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/serchbox_role)
 
 </details>
+
+<details>
+  <summary>What is a section role?</summary>
+
+The section role, an abstract role, is superclass role for renderable structural containment components.
+
+**Note** Don't use it
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/section_role)
+
+</details>
