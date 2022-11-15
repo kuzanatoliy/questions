@@ -1,11 +1,5 @@
 # Package json
 
-### Link
-
-[docs](https://docs.npmjs.com/cli/v9/configuring-npm/package-json#dependencies)
-
-### Questions
-
 <details>
   <summary>What is a name property?</summary>
 
@@ -18,12 +12,16 @@ Rules:
 - New packages must not have uppercase letters in the name.
 - The name ends up being part of a URL, an argument on the command line, and a folder name. Therefore, the name can't contain any non-URL-safe characters.
 
+[More >>](https://docs.npmjs.com/cli/v9/configuring-npm/package-json#name)
+
 </details>
 
 <details>
   <summary>What is a version property?</summary>
 
 The version property contains version of a package. It is option for private projects, but it is required for public projects. Version must be parseable by node-semver, which is bundled with npm as a dependency.
+
+[More >>](https://docs.npmjs.com/cli/v9/configuring-npm/package-json#version)
 
 </details>
 
@@ -32,12 +30,16 @@ The version property contains version of a package. It is option for private pro
 
 Put a description in it. It's a string. This helps people discover your package, as it's listed in npm search.
 
+[More >>](https://docs.npmjs.com/cli/v9/configuring-npm/package-json#description)
+
 </details>
 
 <details>
   <summary>What is a keywords property?</summary>
 
 Put keywords in it. It's an array of strings. This helps people discover your package as it's listed in npm search.
+
+[More >>](https://docs.npmjs.com/cli/v9/configuring-npm/package-json#keywords)
 
 </details>
 
@@ -49,6 +51,8 @@ The url to the project homepage.
 Example:
 
     "homepage": "https://github.com/owner/project#readme"
+
+[More >>](https://docs.npmjs.com/cli/v9/configuring-npm/package-json#homepage)
 
 </details>
 
@@ -63,5 +67,7 @@ Example:
       "url" : "https://github.com/owner/project/issues",
       "email" : "project@hostname.com"
     }
+
+[More >>](https://docs.npmjs.com/cli/v9/configuring-npm/package-json#bugs)
 
 </details>
