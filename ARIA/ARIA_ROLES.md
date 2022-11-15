@@ -829,3 +829,22 @@ Structure is a superclass abstract role for document structures, like as documen
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/structure_role)
 
 </details>
+
+<details>
+  <summary>What is a suggestion role?</summary>
+
+When you've got a content change that involves an insertion and a deletion, there is no way for a screen reader user to work out if the two are related or not. This is the job of role="suggestion", which should be set on an element wrapping both of them like so:
+
+Example:
+
+    <p>
+      Freida's pet is a
+      <span role="suggestion">
+        <span role="deletion">black Cat called Luna</span>
+        <span role="insertion">purple T. Rex called Tiny</span>
+      </span>.
+    </p>
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/suggestion_role)
+
+</details>
