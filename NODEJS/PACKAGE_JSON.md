@@ -51,3 +51,17 @@ Example:
     "homepage": "https://github.com/owner/project#readme"
 
 </details>
+
+<details>
+  <summary>What is a bugs property?</summary>
+
+The url to your project's issue tracker and / or the email address to which issues should be reported.
+
+Example:
+
+    {
+      "url" : "https://github.com/owner/project/issues",
+      "email" : "project@hostname.com"
+    }
+
+</details>
