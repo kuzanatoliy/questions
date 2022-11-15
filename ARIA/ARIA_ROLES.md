@@ -953,3 +953,16 @@ The textbox role is used to identify an element that allows the input of free-fo
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/textbox_role)
 
 </details>
+
+<details>
+  <summary>What is a timer role?</summary>
+
+The timer role indicates to assistive technologies that an element is a numerical counter listing the amount of elapsed time from a starting point or the remaining time until an end point. Assistive technologies will not announce updates to a timer as it has an implicit aria-live value of off.
+
+    <div role="timer" id="eggtimer">0</div>
+
+This defines this div element as a timer with no remaining time.
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/timer_role)
+
+</details>
