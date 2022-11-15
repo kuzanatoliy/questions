@@ -744,3 +744,14 @@ The section role, an abstract role, is superclass role for renderable structural
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/section_role)
 
 </details>
+
+<details>
+  <summary>What is a sectionhead role?</summary>
+
+The sectionhead role, an abstract role, is superclass role for labels or summaries of the topic of its related section.
+
+**Note** Don't use it
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/sectionhead_role)
+
+</details>
