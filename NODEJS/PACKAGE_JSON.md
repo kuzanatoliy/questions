@@ -93,3 +93,24 @@ Examples:
 [More >>](https://docs.npmjs.com/cli/v9/configuring-npm/package-json#license)
 
 </details>
+
+<details>
+  <summary>What are an author and a contributors properties?</summary>
+
+The "author" is one person. "contributors" is an array of people. A "person" is an object with a "name" field and optionally "url" and "email", like this:
+
+    {
+      "name" : "Barney Rubble",
+      "email" : "b@rubble.com",
+      "url" : "http://barnyrubble.tumblr.com/"
+    }
+
+Or you can shorten that all into a single string, and npm will parse it for you:
+
+    {
+      "author": "Barney Rubble <b@rubble.com> (http://barnyrubble.tumblr.com/)"
+    }
+
+[More >>](https://docs.npmjs.com/cli/v9/configuring-npm/package-json#people-fields-author-contributors)
+
+</details>
