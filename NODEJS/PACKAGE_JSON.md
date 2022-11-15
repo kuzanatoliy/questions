@@ -71,3 +71,25 @@ Example:
 [More >>](https://docs.npmjs.com/cli/v9/configuring-npm/package-json#bugs)
 
 </details>
+
+<details>
+  <summary>What is a license property?</summary>
+
+You should specify a license for your package so that people know how they are permitted to use it, and any restrictions you're placing on it.
+
+Examples:
+
+    {
+      "license" : "BSD-3-Clause"
+    }
+
+    {
+      "license" : {
+        "type" : "ISC",
+        "url" : "https://opensource.org/licenses/ISC"
+      }
+    }
+
+[More >>](https://docs.npmjs.com/cli/v9/configuring-npm/package-json#license)
+
+</details>
