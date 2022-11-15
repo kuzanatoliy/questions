@@ -818,3 +818,14 @@ The status role defines a live region containing advisory information for the us
 [More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/status_role)
 
 </details>
+
+<details>
+  <summary>What is a structure role?</summary>
+
+Structure is a superclass abstract role for document structures, like as document, rowgroup, and sectionhead, that support the accessibility of dynamic web content by helping assistive technologies determine active content versus static document content. Some subclass roles, like section role, are in turn superclasses of other roles.
+
+**Note** Don't use it. Do use HTML and subclass structure roles
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/structure_role)
+
+</details>
