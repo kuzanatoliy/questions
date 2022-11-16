@@ -299,3 +299,12 @@ In cases where you need to preserve npm packages locally or have them available 
 [More >>](https://docs.npmjs.com/cli/v9/configuring-npm/package-json#bundledependencies)
 
 </details>
+
+<details>
+  <summary>What is a optionalDependencies property?</summary>
+
+This is a map of package name to version or url, just like the dependencies object. The difference is that build failures do not cause installation to fail. Running npm install --omit=optional will prevent these dependencies from being installed.
+
+[More >>](https://docs.npmjs.com/cli/v9/configuring-npm/package-json#optionaldependencies)
+
+</details>
