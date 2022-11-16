@@ -225,3 +225,12 @@ Do it like this:
 [More >>](https://docs.npmjs.com/cli/v9/configuring-npm/package-json#repository)
 
 </details>
+
+<details>
+  <summary>What is a scripts property?</summary>
+
+The "scripts" property is a dictionary containing script commands that are run at various times in the lifecycle of your package. The key is the lifecycle event, and the value is the command to run at that point.
+
+[More >>](https://docs.npmjs.com/cli/v9/configuring-npm/package-json#scripts)
+
+</details>
