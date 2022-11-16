@@ -261,3 +261,12 @@ Dependencies are specified in a simple object that maps a package name to a vers
 [More >>](https://docs.npmjs.com/cli/v9/configuring-npm/package-json#dependencies)
 
 </details>
+
+<details>
+  <summary>What is a devDependencies property?</summary>
+
+If someone is planning on downloading and using a module in their program, then they probably don't want or need to download and build the external test or documentation framework that you use. In this case, it's best to map these additional items in a devDependencies object.
+
+[More >>](https://docs.npmjs.com/cli/v9/configuring-npm/package-json#devdependencies)
+
+</details>
