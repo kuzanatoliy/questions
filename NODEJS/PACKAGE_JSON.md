@@ -153,3 +153,12 @@ The main field is a module ID that is the primary entry point to your program. I
 [More >>](https://docs.npmjs.com/cli/v9/configuring-npm/package-json#main)
 
 </details>
+
+<details>
+  <summary>What is a browser property?</summary>
+
+If a module is meant to be used client-side the browser field should be used instead of the main field. This is helpful to hint users that it might rely on primitives that aren't available in Node.js modules.
+
+[More >>](https://docs.npmjs.com/cli/v9/configuring-npm/package-json#browser)
+
+</details>
