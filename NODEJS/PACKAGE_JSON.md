@@ -179,3 +179,22 @@ For example, myapp could have this:
 [More >>](https://docs.npmjs.com/cli/v9/configuring-npm/package-json#bin)
 
 </details>
+
+<details>
+  <summary>What is a man property?</summary>
+
+Specify either a single file or an array of filenames to put in place for the man program to find.
+
+If only a single file is provided, then it's installed such that it is the result from man pkgname, regardless of its actual filename. For example:
+
+    {
+      "name": "foo",
+      "version": "1.2.3",
+      "description": "A packaged foo fooer for fooing foos",
+      "main": "foo.js",
+      "man": "./man/doc.1"
+    }
+
+[More >>](https://docs.npmjs.com/cli/v9/configuring-npm/package-json#man)
+
+</details>
