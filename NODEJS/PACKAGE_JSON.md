@@ -288,3 +288,14 @@ When a user installs your package, npm will emit warnings if packages specified 
 [More >>](https://docs.npmjs.com/cli/v9/configuring-npm/package-json#peerdependenciesmeta)
 
 </details>
+
+<details>
+  <summary>What is a bundleDependencies property?</summary>
+
+This defines an array of package names that will be bundled when publishing the package.
+
+In cases where you need to preserve npm packages locally or have them available through a single file download, you can bundle the packages in a tarball file by specifying the package names in the bundleDependencies array and executing npm pack.
+
+[More >>](https://docs.npmjs.com/cli/v9/configuring-npm/package-json#bundledependencies)
+
+</details>
