@@ -308,3 +308,12 @@ This is a map of package name to version or url, just like the dependencies obje
 [More >>](https://docs.npmjs.com/cli/v9/configuring-npm/package-json#optionaldependencies)
 
 </details>
+
+<details>
+  <summary>What is an overrides property?</summary>
+
+Overrides provide a way to replace a package in your dependency tree with another version, or another package entirely. These changes can be scoped as specific or as vague as desired.
+
+[More >>](https://docs.npmjs.com/cli/v9/configuring-npm/package-json#overrides)
+
+</details>
