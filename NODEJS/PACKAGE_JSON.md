@@ -270,3 +270,12 @@ If someone is planning on downloading and using a module in their program, then 
 [More >>](https://docs.npmjs.com/cli/v9/configuring-npm/package-json#devdependencies)
 
 </details>
+
+<details>
+  <summary>What is a peerDependenciesMeta property?</summary>
+
+When a user installs your package, npm will emit warnings if packages specified in peerDependencies are not already installed. The peerDependenciesMeta field serves to provide npm more information on how your peer dependencies are to be used. Specifically, it allows peer dependencies to be marked as optional.
+
+[More >>](https://docs.npmjs.com/cli/v9/configuring-npm/package-json#peerdependenciesmeta)
+
+</details>
