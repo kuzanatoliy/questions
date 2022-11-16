@@ -252,3 +252,12 @@ It could also have a "start" command that referenced the npm_package_config_port
 [More >>](https://docs.npmjs.com/cli/v9/configuring-npm/package-json#config)
 
 </details>
+
+<details>
+  <summary>What is a dependencies property?</summary>
+
+Dependencies are specified in a simple object that maps a package name to a version range. The version range is a string which has one or more space-separated descriptors. Dependencies can also be identified with a tarball or git URL.
+
+[More >>](https://docs.npmjs.com/cli/v9/configuring-npm/package-json#dependencies)
+
+</details>
