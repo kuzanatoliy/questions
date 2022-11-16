@@ -373,3 +373,12 @@ If you set "private": true in your package.json, then npm will refuse to publish
 [More >>](https://docs.npmjs.com/cli/v9/configuring-npm/package-json#private)
 
 </details>
+
+<details>
+  <summary>What is a publishConfig property?</summary>
+
+This is a set of config values that will be used at publish-time. It's especially handy if you want to set the tag, registry or access, so that you can ensure that a given package is not tagged with "latest", published to the global public registry or that a scoped module is private by default.
+
+[More >>](https://docs.npmjs.com/cli/v9/configuring-npm/package-json#publishconfig)
+
+</details>
