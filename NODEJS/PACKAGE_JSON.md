@@ -332,3 +332,19 @@ You can specify the version of node that your stuff works on:
 [More >>](https://docs.npmjs.com/cli/v9/configuring-npm/package-json#engines)
 
 </details>
+
+<details>
+  <summary>What is an os property?</summary>
+
+You can specify which operating systems your module will run on:
+
+    {
+      "os": [
+        "darwin",
+        "linux"
+      ]
+    }
+
+[More >>](https://docs.npmjs.com/cli/v9/configuring-npm/package-json#os)
+
+</details>
