@@ -114,3 +114,24 @@ Or you can shorten that all into a single string, and npm will parse it for you:
 [More >>](https://docs.npmjs.com/cli/v9/configuring-npm/package-json#people-fields-author-contributors)
 
 </details>
+
+<details>
+  <summary>What is a funding property?</summary>
+
+It is possible to specify an object containing a URL that provides up-to-date information about ways to help fund development of your package, or a string URL, or an array of these:
+
+    "funding": [
+      {
+        "type" : "individual",
+        "url" : "http://example.com/donate"
+      },
+      "http://example.com/donateAlso",
+      {
+        "type" : "patreon",
+        "url" : "https://www.patreon.com/my-account"
+      }
+    ]
+
+[More >>](https://docs.npmjs.com/cli/v9/configuring-npm/package-json#funding)
+
+</details>
