@@ -317,3 +317,18 @@ Overrides provide a way to replace a package in your dependency tree with anothe
 [More >>](https://docs.npmjs.com/cli/v9/configuring-npm/package-json#overrides)
 
 </details>
+
+<details>
+  <summary>What is an engines property?</summary>
+
+You can specify the version of node that your stuff works on:
+
+    {
+      "engines": {
+        "node": ">=0.10.3 <15"
+      }
+    }
+
+[More >>](https://docs.npmjs.com/cli/v9/configuring-npm/package-json#engines)
+
+</details>
