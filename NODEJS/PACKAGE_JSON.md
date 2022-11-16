@@ -382,3 +382,12 @@ This is a set of config values that will be used at publish-time. It's especiall
 [More >>](https://docs.npmjs.com/cli/v9/configuring-npm/package-json#publishconfig)
 
 </details>
+
+<details>
+  <summary>What is a workspaces property?</summary>
+
+The optional workspaces field is an array of file patterns that describes locations within the local file system that the install client should look up to find each workspace that needs to be symlinked to the top level node_modules folder.
+
+[More >>](https://docs.npmjs.com/cli/v9/configuring-npm/package-json#workspaces)
+
+</details>
