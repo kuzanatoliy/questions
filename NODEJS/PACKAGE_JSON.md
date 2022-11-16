@@ -207,3 +207,21 @@ The CommonJS Packages spec details a few ways that you can indicate the structur
 [More >>](https://docs.npmjs.com/cli/v9/configuring-npm/package-json#directories)
 
 </details>
+
+<details>
+  <summary>What is a repository property?</summary>
+
+Specify the place where your code lives. This is helpful for people who want to contribute. If the git repo is on GitHub, then the npm docs command will be able to find you.
+
+Do it like this:
+
+    {
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/npm/cli.git"
+      }
+    }
+
+[More >>](https://docs.npmjs.com/cli/v9/configuring-npm/package-json#repository)
+
+</details>
