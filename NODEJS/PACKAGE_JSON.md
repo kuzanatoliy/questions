@@ -198,3 +198,12 @@ If only a single file is provided, then it's installed such that it is the resul
 [More >>](https://docs.npmjs.com/cli/v9/configuring-npm/package-json#man)
 
 </details>
+
+<details>
+  <summary>What is a directories property?</summary>
+
+The CommonJS Packages spec details a few ways that you can indicate the structure of your package using a directories object. If you look at npm's package.json, you'll see that it has directories for doc, lib, and man.
+
+[More >>](https://docs.npmjs.com/cli/v9/configuring-npm/package-json#directories)
+
+</details>
