@@ -144,3 +144,12 @@ The optional files field is an array of file patterns that describes the entries
 [More >>](https://docs.npmjs.com/cli/v9/configuring-npm/package-json#files)
 
 </details>
+
+<details>
+  <summary>What is a main property?</summary>
+
+The main field is a module ID that is the primary entry point to your program. If main is not set it defaults to index.js in the package's root folder.
+
+[More >>](https://docs.npmjs.com/cli/v9/configuring-npm/package-json#main)
+
+</details>
