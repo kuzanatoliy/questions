@@ -135,3 +135,12 @@ It is possible to specify an object containing a URL that provides up-to-date in
 [More >>](https://docs.npmjs.com/cli/v9/configuring-npm/package-json#funding)
 
 </details>
+
+<details>
+  <summary>What is a files property?</summary>
+
+The optional files field is an array of file patterns that describes the entries to be included when your package is installed as a dependency. File patterns follow a similar syntax to .gitignore, but reversed: including a file, directory, or glob pattern (*, **/*, and such) will make it so that file is included in the tarball when it's packed. Omitting the field will make it default to ["*"], which means it will include all files.
+
+[More >>](https://docs.npmjs.com/cli/v9/configuring-npm/package-json#files)
+
+</details>
