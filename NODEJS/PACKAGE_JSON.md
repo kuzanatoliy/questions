@@ -364,3 +364,12 @@ If your code only runs on certain cpu architectures, you can specify which ones.
 [More >>](https://docs.npmjs.com/cli/v9/configuring-npm/package-json#cpu)
 
 </details>
+
+<details>
+  <summary>What is a private property?</summary>
+
+If you set "private": true in your package.json, then npm will refuse to publish it.
+
+[More >>](https://docs.npmjs.com/cli/v9/configuring-npm/package-json#private)
+
+</details>
