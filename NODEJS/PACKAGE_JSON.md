@@ -162,3 +162,20 @@ If a module is meant to be used client-side the browser field should be used ins
 [More >>](https://docs.npmjs.com/cli/v9/configuring-npm/package-json#browser)
 
 </details>
+
+<details>
+  <summary>What is a bin property?</summary>
+
+To use this, supply a bin field in your package.json which is a map of command name to local file name. When this package is installed globally, that file will be either linked inside the global bins directory or a cmd (Windows Command File) will be created which executes the specified file in the bin field, so it is available to run by name or name.cmd (on Windows PowerShell). When this package is installed as a dependency in another package, the file will be linked where it will be available to that package either directly by npm exec or by name in other scripts when invoking them via npm run-script.
+
+For example, myapp could have this:
+
+    {
+      "bin": {
+        "myapp": "./cli.js"
+      }
+    }
+
+[More >>](https://docs.npmjs.com/cli/v9/configuring-npm/package-json#bin)
+
+</details>
