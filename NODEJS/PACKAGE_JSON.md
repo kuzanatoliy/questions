@@ -272,6 +272,15 @@ If someone is planning on downloading and using a module in their program, then 
 </details>
 
 <details>
+  <summary>What is a peerDependencies property?</summary>
+
+In some cases, you want to express the compatibility of your package with a host tool or library, while not necessarily doing a require of this host. This is usually referred to as a plugin. Notably, your module may be exposing a specific interface, expected and specified by the host documentation.
+
+[More >>](https://docs.npmjs.com/cli/v9/configuring-npm/package-json#peerdependencies)
+
+</details>
+
+<details>
   <summary>What is a peerDependenciesMeta property?</summary>
 
 When a user installs your package, npm will emit warnings if packages specified in peerDependencies are not already installed. The peerDependenciesMeta field serves to provide npm more information on how your peer dependencies are to be used. Specifically, it allows peer dependencies to be marked as optional.
