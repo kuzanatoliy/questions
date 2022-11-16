@@ -234,3 +234,21 @@ The "scripts" property is a dictionary containing script commands that are run a
 [More >>](https://docs.npmjs.com/cli/v9/configuring-npm/package-json#scripts)
 
 </details>
+
+<details>
+  <summary>What is a config property?</summary>
+
+A "config" object can be used to set configuration parameters used in package scripts that persist across upgrades. For instance, if a package had the following:
+
+    {
+      "name": "foo",
+      "config": {
+        "port": "8080"
+      }
+    }
+
+It could also have a "start" command that referenced the npm_package_config_port environment variable.
+
+[More >>](https://docs.npmjs.com/cli/v9/configuring-npm/package-json#config)
+
+</details>
