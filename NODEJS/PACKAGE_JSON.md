@@ -348,3 +348,19 @@ You can specify which operating systems your module will run on:
 [More >>](https://docs.npmjs.com/cli/v9/configuring-npm/package-json#os)
 
 </details>
+
+<details>
+  <summary>What is a cpu property?</summary>
+
+If your code only runs on certain cpu architectures, you can specify which ones.
+
+    {
+      "cpu": [
+        "x64",
+        "ia32"
+      ]
+    }
+
+[More >>](https://docs.npmjs.com/cli/v9/configuring-npm/package-json#cpu)
+
+</details>
