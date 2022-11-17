@@ -1,16 +1,13 @@
 ## Design patterns
 
-### Links
-
-[What’s a design pattern?](https://refactoring.guru/design-patterns/what-is-pattern)
-[Why should I learn patterns?](https://refactoring.guru/design-patterns/why-learn-patterns)
-
 ### Questions
 
 <details>
   <summary>What are design patterns?</summary>
 
 Design patterns are standard solutions to common problems in a software design. Each design pattern provides a customized blueprint for exacting problems. As a result, you cannot copy a pattern in your program, but you can use it as a design solution to your problem. The design patterns could be confused with algorithms because both concepts describe standard solutions to some known targets. But while an algorithm has always defined a clear set of actions, a pattern is a more high-level description of a solution.
+
+[More >>](https://refactoring.guru/design-patterns/what-is-pattern)
 
 </details>
 
@@ -25,19 +22,11 @@ There are a few reasons:
 
 2. Secondly, design patterns are a common language that allows having more effective communication.
 
+[More >>](https://refactoring.guru/design-patterns/why-learn-patterns)
+
 </details>
 
 ### Creational patterns
-
-#### Links
-
-[Factory Method](https://refactoring.guru/design-patterns/factory-method)
-[Abstract Factory](https://refactoring.guru/design-patterns/abstract-factory)
-[Builder](https://refactoring.guru/design-patterns/builder)
-[Prototype](https://refactoring.guru/design-patterns/prototype)
-[Singleton](https://refactoring.guru/design-patterns/singleton)
-
-#### Questions
 
 <details>
   <summary>What is Factory Method?</summary>
@@ -60,6 +49,8 @@ Cons:
 
 - Each new subclass increases the code complexity. The best-case scenario is when introducing the pattern into an existing hierarchy of creator classes.
 
+[More >>](https://refactoring.guru/design-patterns/factory-method)
+
 </details>
 
 <details>
@@ -81,6 +72,8 @@ Pros:
 Cons:
 
 - Each new interface or class increases the complexity of the code.
+
+[More >>](https://refactoring.guru/design-patterns/abstract-factory)
 
 </details>
 
@@ -105,6 +98,8 @@ Cons:
 
 - The overall complexity of the code increases since the pattern requires creating multiple new classes.
 
+[More >>](https://refactoring.guru/design-patterns/builder)
+
 </details>
 
 <details>
@@ -127,6 +122,8 @@ Pros:
 Cons:
 
 - Cloning complex objects that have circular references might be very tricky.
+
+[More >>](https://refactoring.guru/design-patterns/prototype)
 
 </details>
 
@@ -153,21 +150,11 @@ Cons:
 - The pattern requires special treatment in a multithreaded environment so that multiple threads cannot create a singleton object several times.
 - It may be difficult to unit test the client code because many test frameworks rely on inheritance when producing mock objects. Since the constructor of the singleton class is private and overriding static methods is impossible in most languages, you will need to think of a creative way to mock the singleton.
 
+[More >>](https://refactoring.guru/design-patterns/singleton)
+
 </details>
 
 ### Structural patterns
-
-#### Links
-
-[Adapter](https://refactoring.guru/design-patterns/adapter)
-[Bridge](https://refactoring.guru/design-patterns/bridge)
-[Composite](https://refactoring.guru/design-patterns/composite)
-[Decorator](https://refactoring.guru/design-patterns/decorator)
-[Facade](https://refactoring.guru/design-patterns/facade)
-[Flyweight](https://refactoring.guru/design-patterns/flyweight)
-[Proxy](https://refactoring.guru/design-patterns/proxy)
-
-#### Questions
 
 <details>
   <summary>What is Adapter?</summary>
@@ -187,6 +174,8 @@ Prons:
 Cons:
 
 - The overall complexity of the code increases because it requires introducing a set of new interfaces and classes. From time to time, changing into service is an easier way.
+
+[More >>](https://refactoring.guru/design-patterns/adapter)
 
 </details>
 
@@ -212,6 +201,8 @@ Cons:
 
 - You might make the code more complicated by applying the pattern to a highly cohesive class.
 
+[More >>](https://refactoring.guru/design-patterns/bridge)
+
 </details>
 
 <details>
@@ -232,6 +223,8 @@ Prons:
 Cons:
 
 - It is difficult to provide a shared interface for classes whose functionality differs too much. In base scenarios, there is possible to overgeneralize the component interface, making it harder to comprehend.
+
+[More >>](https://refactoring.guru/design-patterns/composite)
 
 </details>
 
@@ -258,6 +251,8 @@ Cons:
 - It is hard to implement a decorator with independent behaviour from the stack.
 - The initial configuration code of layers might look pretty ugly.
 
+[More >>](https://refactoring.guru/design-patterns/decorator)
+
 </details>
 
 <details>
@@ -275,6 +270,8 @@ Prons:
 - It is possible to isolate your code from the complexity of a subsystem.
   Cons:
 - A facade can become a god object coupled to all classes of an app.
+
+[More >>](https://refactoring.guru/design-patterns/facade)
 
 </details>
 
@@ -295,6 +292,8 @@ Cons:
 
 - It is possible to trade RAM over CPU cycles when some context data needs recalculation each time somebody calls a flyweight method.
 - The code becomes much more complicated. New team members will always be wondering about the state.
+
+[More >>](https://refactoring.guru/design-patterns/flyweight)
 
 </details>
 
@@ -322,24 +321,11 @@ Cons:
 
 - The code may become more complicated since you need to introduce a lot of new classes.
 
+[More >>](https://refactoring.guru/design-patterns/proxy)
+
 </details>
 
 ### Behavioral patterns
-
-#### Links
-
-[Chain of responsibility](https://refactoring.guru/design-patterns/chain-of-responsibility)
-[Command](https://refactoring.guru/design-patterns/command)
-[Iterator](https://refactoring.guru/design-patterns/iterator)
-[Mediator](https://refactoring.guru/design-patterns/mediator)
-[Memento](https://refactoring.guru/design-patterns/memento)
-[Observer](https://refactoring.guru/design-patterns/observer)
-[State](https://refactoring.guru/design-patterns/state)
-[Strategy](https://refactoring.guru/design-patterns/strategy)
-[Template method](https://refactoring.guru/design-patterns/template-method)
-[Visitor](https://refactoring.guru/design-patterns/visitor)
-
-#### Questions
 
 <details>
   <summary>What is Plugin Architecture Pattern?</summary>
@@ -369,6 +355,8 @@ Cons:
 
 - Some requests may end up unhandled.
 
+[More >>](https://refactoring.guru/design-patterns/chain-of-responsibility)
+
 </details>
 
 <details>
@@ -393,6 +381,8 @@ Prons:
 Cons:
 
 - The code may become more complicated since introducing a whole new layer between senders and receivers.
+
+[More >>](https://refactoring.guru/design-patterns/command)
 
 </details>
 
@@ -419,6 +409,8 @@ Cons:
 - Applying the pattern can be overkill if your app only works with simple collections.
 - Using an iterator may be less efficient than going through elements of some specialized structure.
 
+[More >>](https://refactoring.guru/design-patterns/iterator)
+
 </details>
 
 <details>
@@ -443,6 +435,8 @@ Cons:
 
 - Over time a mediator can evolve into a God Object.
 
+[More >>](https://refactoring.guru/design-patterns/mediator)
+
 </details>
 
 <details>
@@ -466,6 +460,8 @@ Cons:
 - Caretakers should track the lifecycle to be able to destroy obsolete mementoes.
 - Most dynamic programming languages, such as PHP, Python and JavaScript, don't guarantee that the state within the Memento stays untouched.
 
+[More >>](https://refactoring.guru/design-patterns/memento)
+
 </details>
 
 <details>
@@ -486,6 +482,8 @@ Prons:
 Cons:
 
 - Subscribers get notifications in random order.
+
+[More >>](https://refactoring.guru/design-patterns/observer)
 
 </details>
 
@@ -509,6 +507,8 @@ Prons:
 Cons:
 
 - Applying the pattern can be overkill if a state machine has only a few states or rarely changes.
+
+[More >>](https://refactoring.guru/design-patterns/state)
 
 </details>
 
@@ -537,6 +537,8 @@ Cons:
 - Clients must be aware of the differences between strategies to be able to select a proper one.
 - Many modern programming languages have functional type support that lets you implement different versions of an algorithm inside a set of anonymous functions.
 
+[More >>](https://refactoring.guru/design-patterns/strategy)
+
 </details>
 
 <details>
@@ -558,6 +560,8 @@ Cons:
 
 - You might violate the Liskov Substitution Principle by suppressing a default step implementation via a subclass.
   Template methods tend to be harder to maintain the more steps they have.
+
+[More >>](https://refactoring.guru/design-patterns/template-method)
 
 </details>
 
@@ -582,5 +586,7 @@ Cons:
 
 - You need to update all visitors each time a class gets added to or removed from the element hierarchy.
 - Visitors might lack the necessary access to the private fields and methods of the elements
+
+[More >>](https://refactoring.guru/design-patterns/visitor)
 
 </details>
