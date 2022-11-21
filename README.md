@@ -39,3 +39,5 @@
 [Product development strategies](PRODUCT_DEVELOPMENT_STRATEGIES.md)
 
 [Requirements](REQUIREMENTS.md)
+
+[Single page application](SINGLE_PAGE_APPLICATION.md)
