@@ -8,3 +8,14 @@ An SPA (Single-page application) is a web app implementation that loads only a s
 [More >>](https://developer.mozilla.org/en-US/docs/Glossary/SPA)
 
 </details>
+
+<details>
+  <summary>What are pros of single page applications?</summary>
+
+1. An SPA feels much faster to the user
+2. The server will consume less resources
+3. Build a mobile app
+4. Single Page Applications are easy to transform into Progressive Web Apps
+5. SPAs are great when working in teams
+
+</details>
