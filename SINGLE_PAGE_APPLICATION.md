@@ -19,3 +19,12 @@ An SPA (Single-page application) is a web app implementation that loads only a s
 5. SPAs are great when working in teams
 
 </details>
+
+<details>
+  <summary>What are cons of single page applications?</summary>
+
+1. Search engine optimization
+2. Single Page Apps rely heavily on JavaScript
+3. It doesn't works if JavaScript will be disabled
+
+</details>
