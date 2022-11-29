@@ -17,3 +17,12 @@ In computing (specifically data transmission and data storage), a block, sometim
 [More >>](https://en.wikipedia.org/wiki/Block_(data_storage))
 
 </details>
+
+<details>
+  <summary>What is a POSIX File System?</summary>
+
+Released in the late 1980s, POSIX (Portable Operating System Interface) is a family of standards created to make sure that applications developed on one UNIX flavor can run on other UNIXes. The POSIX standard describes how system calls must behave.
+
+[More >>](https://www.quobyte.com/storage-explained/posix-filesystem/#:~:text=Released%20in%20the%20late%201980s,how%20system%20calls%20must%20behave.)
+
+</details>
