@@ -27,3 +27,10 @@ A picture of the world is a subjective representation of a person about the worl
 An inadequate picture of the world is a measure of the unexpected that you encounter in negotiations.
 
 </details>
+
+<details>
+  <summary>What is an adequate picture of the world?</summary>
+
+An adequate picture of the world means that during the negotiations you were ready for different scenarios.
+
+</details>
