@@ -13,3 +13,10 @@ Negotiation is a dialogue between two or more people or parties to reach the des
 The subject of negotiations may be the terms of the transaction or agreement on the deadline for the implementation of a particular task, the conditions for the implementation of this task. It may be some other agreements that are important for both one and the other side.
 
 </details>
+
+<details>
+  <summary>What is a picture of the world?</summary>
+
+A picture of the world is a subjective representation of a person about the world, a particular situation, the behavior or values of other people in it.
+
+</details>
