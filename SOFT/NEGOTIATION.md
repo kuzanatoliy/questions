@@ -46,3 +46,16 @@ An adequate picture of the world means that during the negotiations you were rea
 4. If you are missing information from the other party, start your meeting with the necessary questions.
 
 </details>
+
+<details>
+  <summary>What are the layers of the picture of the world?</summary>
+
+1. Factual
+2. Technological
+3. Normative
+4. Economic
+5. Ethical
+6. Aesthetic
+7. Psychological
+
+</details>
