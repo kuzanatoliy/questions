@@ -20,3 +20,10 @@ The subject of negotiations may be the terms of the transaction or agreement on 
 A picture of the world is a subjective representation of a person about the world, a particular situation, the behavior or values of other people in it.
 
 </details>
+
+<details>
+  <summary>What is an inadequate picture of the world?</summary>
+
+An inadequate picture of the world is a measure of the unexpected that you encounter in negotiations.
+
+</details>
