@@ -7,6 +7,7 @@
 * Strategic forecast
 * Goal settings
 * Сhecking the target for feasibility
+* Movement plan
 
 </details>
 
@@ -41,5 +42,13 @@
 
 * Is it possible to make the goals?
 * What is depended on my actions?
+
+</details>
+
+<details>
+  <summary>What questions should be asked on the movement plan step?</summary>
+
+* How I will move to the target?
+* What are steps allow me to get a wish result?
 
 </details>
