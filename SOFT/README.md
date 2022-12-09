@@ -18,8 +18,6 @@
 
 [Performance development](PERFORMANCE_DEVELOPMENT.md)
 
-[Negotiation](NEGOTIATION.md)
-
 [Program testing](PROGRAM_TESTING.md)
 
 [Recognition](RECOGNITION.md)
