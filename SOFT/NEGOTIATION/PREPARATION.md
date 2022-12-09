@@ -6,7 +6,7 @@
 * Assessment of positions and interests
 * Strategic forecast
 * Goal settings
-
+* Сhecking the target for feasibility
 
 </details>
 
@@ -33,5 +33,13 @@
 
 * Where I want to go?
 * What I want to get or do?
+
+</details>
+
+<details>
+  <summary>What questions should be asked on the checking the target for feasibility step?</summary>
+
+* Is it possible to make the goals?
+* What is depended on my actions?
 
 </details>
