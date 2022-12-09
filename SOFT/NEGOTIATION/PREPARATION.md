@@ -5,6 +5,7 @@
 
 * Assessment of positions and interests
 * Strategic forecast
+* Goal settings
 
 
 </details>
@@ -20,9 +21,17 @@
 </details>
 
 <details>
-  <summary>What questions should be asked on the strategic forecast?</summary>
+  <summary>What questions should be asked on the strategic forecast step?</summary>
 
 * Who am I for the second side?
 * How a partner sees me?
+
+</details>
+
+<details>
+  <summary>What questions should be asked on the goal setting step?</summary>
+
+* Where I want to go?
+* What I want to get or do?
 
 </details>
