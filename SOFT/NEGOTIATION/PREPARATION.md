@@ -97,3 +97,16 @@
 * See common interests
 
 </details>
+
+<details>
+  <summary>What is a strategic forecast?</summary>
+
+It is an attempt to see yourself by a partner's eyes. Astimate vectors of strategic importance and difficulty getting a replacement.
+
+Types:
+* Lever
+* Partner
+* Shop
+* Opportunity
+
+</details>
