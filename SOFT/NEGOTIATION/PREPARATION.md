@@ -8,6 +8,7 @@
 * Goal settings
 * Сhecking the target for feasibility
 * Movement plan
+* Thinking through alternatives
 
 </details>
 
@@ -50,5 +51,15 @@
 
 * How I will move to the target?
 * What are steps allow me to get a wish result?
+
+</details>
+
+<details>
+  <summary>What questions should be asked on the thinking through alternatives step?</summary>
+
+What a result of a negotiation will be optimal for me?
+What a result of a negotiation will be bad for me?
+What is a minimal available result?
+Where is a border after which a negotiation doesn't have sence?
 
 </details>
