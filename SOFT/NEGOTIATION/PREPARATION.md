@@ -10,6 +10,7 @@
 * Movement plan
 * Thinking through alternatives
 * Plan for a positive decision
+* Plan for a negative decision
 
 </details>
 
@@ -70,5 +71,13 @@ Where is a border after which a negotiation doesn't have sence?
 
 What is next?
 What will I do if we agree to my terms?
+
+</details>
+
+<details>
+  <summary>What questions should be asked on the plan for a negative decision step?</summary>
+
+What is next?
+What will I do if we disagree to my terms?
 
 </details>
