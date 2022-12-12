@@ -65,25 +65,35 @@
 <details>
   <summary>What questions should be asked on the thinking through alternatives step?</summary>
 
-What a result of a negotiation will be optimal for me?
-What a result of a negotiation will be bad for me?
-What is a minimal available result?
-Where is a border after which a negotiation doesn't have sence?
+* What a result of a negotiation will be optimal for me?
+* What a result of a negotiation will be bad for me?
+* What is a minimal available result?
+* Where is a border after which a negotiation doesn't have sence?
 
 </details>
 
 <details>
   <summary>What questions should be asked on the plan for a positive decision step?</summary>
 
-What is next?
-What will I do if we agree to my terms?
+* What is next?
+* What will I do if we agree to my terms?
 
 </details>
 
 <details>
   <summary>What questions should be asked on the plan for a negative decision step?</summary>
 
-What is next?
-What will I do if we disagree to my terms?
+* What is next?
+* What will I do if we disagree to my terms?
+
+</details>
+
+<details>
+  <summary>What steps are included in assesment of a positions and interests?</summary>
+
+* Evaluation of a relationship history (constructive and unconstructive moments)
+* Understand what strengthens and weakens your position
+* Understand what the other side wants
+* See common interests
 
 </details>
