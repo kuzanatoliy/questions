@@ -9,6 +9,7 @@
 * Сhecking the target for feasibility
 * Movement plan
 * Thinking through alternatives
+* Plan for a positive decision
 
 </details>
 
@@ -61,5 +62,13 @@ What a result of a negotiation will be optimal for me?
 What a result of a negotiation will be bad for me?
 What is a minimal available result?
 Where is a border after which a negotiation doesn't have sence?
+
+</details>
+
+<details>
+  <summary>What questions should be asked on the plan for a positive decision step?</summary>
+
+What is next?
+What will I do if we agree to my terms?
 
 </details>
