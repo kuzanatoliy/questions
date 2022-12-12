@@ -1,5 +1,11 @@
 # Preparation
 
+### Links
+
+[Preparation plan](Plan_podgotovki_k_peregovoram.pdf)
+
+### Questions
+
 <details>
   <summary>What are steps of the negatiation preparation?</summary>
 
