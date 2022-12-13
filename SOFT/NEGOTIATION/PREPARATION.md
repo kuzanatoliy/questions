@@ -136,3 +136,10 @@ Each ambition purpose might not to be reach through one step, and it is not alwa
 * Profitable - the purpose should be profitable for you and company and partners. 
 
 </details>
+
+<details>
+  <summary>What is a red line?</summary>
+
+The smallest purpose from acceptable targets. When a discussion is lower than a value of the red line, a participant understand that negotiation doesn't make sense and will be better to save status quo.
+
+</details>
