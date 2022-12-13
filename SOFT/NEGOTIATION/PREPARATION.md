@@ -110,3 +110,13 @@ Types:
 * Opportunity
 
 </details>
+
+<details>
+  <summary>What is a control method?</summary>
+
+It is needed to recognize what you can control.
+
+* Model they (or world) - it is targets, that are outsiede the control zone.
+* Model I - it is targets, that are inside the control zone.
+
+</details>
