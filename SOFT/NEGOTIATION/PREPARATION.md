@@ -127,3 +127,12 @@ It is needed to recognize what you can control.
 Each ambition purpose might not to be reach through one step, and it is not always possible to move in a straight line. Think about control points that are included into the target.
 
 </details>
+
+<details>
+  <summary>What is a want-may-profitable method?</summary>
+
+* Whant - your wishe and motivation to work for a purpose.
+* May - resources that are available for reaching a purpose.
+* Profitable - the purpose should be profitable for you and company and partners. 
+
+</details>
