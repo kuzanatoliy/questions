@@ -120,3 +120,10 @@ It is needed to recognize what you can control.
 * Model I - it is targets, that are inside the control zone.
 
 </details>
+
+<details>
+  <summary>What is control point method?</summary>
+
+Each ambition purpose might not to be reach through one step, and it is not always possible to move in a straight line. Think about control points that are included into the target.
+
+</details>
