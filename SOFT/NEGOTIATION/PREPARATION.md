@@ -143,3 +143,10 @@ Each ambition purpose might not to be reach through one step, and it is not alwa
 The smallest purpose from acceptable targets. When a discussion is lower than a value of the red line, a participant understand that negotiation doesn't make sense and will be better to save status quo.
 
 </details>
+
+<details>
+  <summary>What is a wished position?</summary>
+
+It is that is real purpose that you want to get.
+
+</details>
