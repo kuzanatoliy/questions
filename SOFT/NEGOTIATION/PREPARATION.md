@@ -150,3 +150,10 @@ The smallest purpose from acceptable targets. When a discussion is lower than a 
 It is that is real purpose that you want to get.
 
 </details>
+
+<details>
+  <summary>What is a declared position?</summary>
+
+It is a started position on beginning of a negotiations. It might be higher than wished position.
+
+</details>
