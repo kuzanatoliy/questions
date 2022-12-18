@@ -29,7 +29,7 @@ It is not only global variable. It is possible to change global variable from ot
 <details>
   <summary>What is a Singleton's Applicability?</summary>S
 
-- When an application should contain only one instance for some functionality that is available for all clients.
+- When an application should contain only one instance for some functionality that is available for all clients;
 - When it is needed to get more control for global variables.
 
 </details>
@@ -37,22 +37,22 @@ It is not only global variable. It is possible to change global variable from ot
 <details>
   <summary>What are pros of a Singleton pattern?</summary>
 
-- Guarantee that exist only one instance
-- Provide a global access point
-- Implements lazy initialization of a singleton object
+- Guarantee that exist only one instance;
+- Provide a global access point;
+- Implements lazy initialization of a singleton object.
 
 </details>
 
 <details>
   <summary>What are cons of a Singleton pattern?</summary>
 
-- Break a single responsibility principle. The pattern solves two problems at the time
-- Mask unluck design, for instance, when the program components know too much about each other
-- Multithreading. Multiple threads shouldn't  create a singleton object several times
-- Require a permanent creation of the mock-objects during unit-testing process
+- Break a single responsibility principle. The pattern solves two problems at the time;
+- Mask unluck design, for instance, when the program components know too much about each other;
+- Multithreading. Multiple threads shouldn't  create a singleton object several times;
+- Require a permanent creation of the mock-objects during unit-testing process.
 
 </details>
 
 ### Connections
 
-[Facade](../STRUCTURAL_PATTERNS/FACADE.md), [Flyweight](../STRUCTURAL_PATTERNS/FLYWEIGHT.md), [Abstract factory](ABSTRACT_FACTORY.md), [Builder](Builder.md), [Prototype](PROTOTYPE.md) might be implemented like Singleton
+[Facade](../STRUCTURAL_PATTERNS/FACADE.md), [Flyweight](../STRUCTURAL_PATTERNS/FLYWEIGHT.md), [Abstract factory](ABSTRACT_FACTORY.md), [Builder](Builder.md), [Prototype](PROTOTYPE.md) might be implemented like **Singleton**.
