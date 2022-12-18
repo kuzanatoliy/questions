@@ -3,6 +3,13 @@
 <details>
   <summary>What is Singleton?</summary>
 
+Singleton is a creational design pattern that guarantee that a class or an entity has only one instance and provide global access point.
+
+</details>
+
+<details>
+  <summary>What is Singleton?</summary>
+
 Singleton is a creational design pattern that lets you ensure that a class has only one instance while providing a global access point to this instance.
 
 Applicability:
