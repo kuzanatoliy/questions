@@ -55,4 +55,4 @@ It is not only global variable. It is possible to change global variable from ot
 
 ### Connections
 
-[Facade](../STRUCTURAL_PATTERNS/FACADE.md), [Flyweight](../STRUCTURAL_PATTERNS/FLYWEIGHT.md), [Abstract factory](ABSTRACT_FACTORY.md), [Builder](Builder.md), [Prototype](PROTOTYPE.md) might be implemented like **Singleton**.
+A [Facade](../STRUCTURAL_PATTERNS/FACADE.md), a [Flyweight](../STRUCTURAL_PATTERNS/FLYWEIGHT.md), an [Abstract factory](ABSTRACT_FACTORY.md), a [Builder](Builder.md), a [Prototype](PROTOTYPE.md) might be implemented like **Singleton**.

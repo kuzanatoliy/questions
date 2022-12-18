@@ -36,3 +36,12 @@ Abstract Factory is a creational design pattern that lets you produce families o
 - Requires all types into each variant.
 
 </details>
+
+### Connections
+
+- A [Factory method](FACTORY_METHOD.md) could evolve into the **Abstract factory**, a [Prototype](PROTOTYPE.md), a [Builder](BUILDER.md);
+- A [Builder](BUILDER.md) concentrate on building complecated objects step by step. The **Abstract factory** concentrates on producing families;
+- The **Abstract factory** could be implemented by the [Factory method](FACTORY_METHOD.md) or the [Prototype](PROTOTYPE.md);
+- The **Abstract factory** could be used instead of a [Facade](../STRUCTURAL_PATTERNS/FACADE.md);
+- The **Abstract factory** could be used with a [Bridge](../STRUCTURAL_PATTERNS/BRIDGE.md);
+- The [Facade](../STRUCTURAL_PATTERNS/FACADE.md), a [Flyweight](../STRUCTURAL_PATTERNS/FLYWEIGHT.md), **Abstract factory**, the [Builder](Builder.md), the [Prototype](PROTOTYPE.md) might be implemented like **Singleton**.
