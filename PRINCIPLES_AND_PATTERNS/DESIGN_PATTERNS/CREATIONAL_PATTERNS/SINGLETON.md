@@ -21,6 +21,14 @@ It is not only global variable. It is possible to change global variable from ot
 </details>
 
 <details>
+  <summary>What is a Singleton's Applicability?</summary>S
+
+- When an application should contain only one instance for some functionality that is available for all clients.
+- When it is needed to get more control for global variables.
+
+</details>
+
+<details>
   <summary>What is Singleton?</summary>
 
 Singleton is a creational design pattern that lets you ensure that a class has only one instance while providing a global access point to this instance.
