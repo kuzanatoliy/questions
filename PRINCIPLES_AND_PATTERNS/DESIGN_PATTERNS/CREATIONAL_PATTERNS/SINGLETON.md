@@ -52,3 +52,7 @@ It is not only global variable. It is possible to change global variable from ot
 - Require a permanent creation of the mock-objects during unit-testing process
 
 </details>
+
+### Connections
+
+[Facade](../STRUCTURAL_PATTERNS/FACADE.md), [Flyweight](../STRUCTURAL_PATTERNS/FLYWEIGHT.md), [Abstract factory](ABSTRACT_FACTORY.md), [Builder](Builder.md), [Prototype](PROTOTYPE.md) might be implemented like Singleton
