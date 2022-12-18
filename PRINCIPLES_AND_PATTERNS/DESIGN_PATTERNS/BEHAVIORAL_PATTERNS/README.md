@@ -1,0 +1,265 @@
+# Behavioral patterns
+
+<details>
+  <summary>What is Plugin Architecture Pattern?</summary>
+
+The Plugin Architecture Pattern allows to increase system functionality by plugins. It is possible to replace and combine plugins without necessitating new relations. The system uses plugins through the abstraction layer of extension points. When you implement plugin architecture, you need to make room for new features. It should be easy to add new functionality as a plugin.
+
+</details>
+
+<details>
+  <summary>What is Chain of Responsibility?</summary>
+
+Cin of Responsibility is a behavioural design pattern that lets you pass requests along a chain of handlers. Each handler decides thao process the request or move it on to the next handler in the chain.
+
+Applicability:
+
+- Use the Chain of Responsibility pattern when an expected program process different kinds of requests in various ways, but the exact types of requests and their sequences are unknown beforehand.
+- Use it when it is essential to execute several handlers in a particular order.
+- Use the CoR pattern when the set of handlers and their order are supposed to change at runtime.
+
+Prons:
+
+- You can control the order of request handling.
+- Single Responsibility Principle. It is possible to decouple classes that invoke operations from them.
+- Open/Closed Principle. You can introduce new handlers into the app without breaking the existing client code.
+
+Cons:
+
+- Some requests may end up unhandled.
+
+[More >>](https://refactoring.guru/design-patterns/chain-of-responsibility)
+
+</details>
+
+<details>
+  <summary>What is Command?</summary>
+
+It is a behavioural design pattern that turns a request into a stand-alone object that contains all information about it. This transformation lets you pass requests to method arguments, delay or queue a request execution, and support undoable operations.
+
+Applicability:
+
+- Use the Command pattern when you want to parametrize objects with operations.
+- Use the Command pattern when you want to queue operations, schedule their execution, or execute them remotely.
+- Use the Command pattern when an application can reverse operations.
+
+Prons:
+
+- Single Responsibility Principle. It is possible to decouple classes that invoke operations from them that perform these operations.
+- Open/Closed Principle. You can introduce new commands into the app without breaking existing client code.
+- You can implement undo/redo.
+- You can implement deferred execution of operations.
+- You can assemble a set of simple commands into a complex one.
+
+Cons:
+
+- The code may become more complicated since introducing a whole new layer between senders and receivers.
+
+[More >>](https://refactoring.guru/design-patterns/command)
+
+</details>
+
+<details>
+  <summary>What is Iterator?</summary>
+
+Iterator is a behavioural design pattern that lets you traverse elements of a collection without exposing its underlying representation (list, stack, tree, etc.).
+
+Applicability:
+
+- Use the Iterator pattern when element collection has a complex data structure under the hood, but you want to hide its complexity from clients (either for convenience or security reasons).
+- Use the pattern to reduce duplication of the traversal code across your app.
+- Use the Iterator when it is possible to traverse different data structures or when types of these structures are unknown beforehand.
+
+Prons:
+
+- Single Responsibility Principle. You can clean up the client code and the collections by extracting bulky traversal algorithms into separate classes.
+- Open/Closed Principle. You can implement new types of collections and iterators and pass them to existing code without breaking anything.
+- It is possible to iterate over the same collection in parallel because each iterative object contains its iteration state.
+- For the same reason, it is possible to delay an iteration and continue it when needed.
+
+Cons:
+
+- Applying the pattern can be overkill if your app only works with simple collections.
+- Using an iterator may be less efficient than going through elements of some specialized structure.
+
+[More >>](https://refactoring.guru/design-patterns/iterator)
+
+</details>
+
+<details>
+  <summary>What is Mediator?</summary>
+
+The Mediator is a behavioural design pattern that lets to reduce chaotic dependencies between objects. It restricts direct communications between exemplars and forces those to collaborate only via a mediator.
+
+Applicability:
+
+- Use the Mediator pattern when it is hard to change some of the classes.
+- Use it when it is possible to reuse a component in a different program.
+- Use the Mediator when you find yourself creating tons of component subclasses.
+
+Prons:
+
+- Single Responsibility Principle. It is possible to extract the communications between various components into a single place, making it easier to comprehend and maintain.
+- Open/Closed Principle. It is possible to introduce new mediators without having to change the components.
+- It is possible to reduce coupling between various components of a program.
+- It is possible to reuse individual components easier.
+
+Cons:
+
+- Over time a mediator can evolve into a God Object.
+
+[More >>](https://refactoring.guru/design-patterns/mediator)
+
+</details>
+
+<details>
+  <summary>What is Memento?</summary>
+
+Memento is a behavioural design pattern that lets you save and restore the previous state of an object without revealing the details of its implementation.
+
+Applicability:
+
+- Use the Memento pattern when you want to produce snapshots of the object state for the ability to restore a previous state of the object.
+- Use it when direct access to the object fields/getters/setters violates its encapsulation.
+
+Prons:
+
+- It is possible to produce snapshots of the state without violating its encapsulation.
+- It is possible to simplify the code by letting the caretaker maintain the history of the state.
+
+Cons:
+
+- The app might consume lots of RAM if clients create mementoes too often.
+- Caretakers should track the lifecycle to be able to destroy obsolete mementoes.
+- Most dynamic programming languages, such as PHP, Python and JavaScript, don't guarantee that the state within the Memento stays untouched.
+
+[More >>](https://refactoring.guru/design-patterns/memento)
+
+</details>
+
+<details>
+  <summary>What is Observer?</summary>
+
+It is a behavioural design pattern that lets you define a subscription mechanism to notify multiple objects about any events.
+
+Applicability:
+
+- Use the Observer pattern when changes to the state of one object may require changing other ones, and the set of the object is unknown beforehand or changes dynamically.
+- Use the pattern when some parts in an app must observe others, but only for a limited time or in specific cases.
+
+Prons:
+
+- Open/Closed Principle. You can introduce new subscriber classes without changing the code (and vice versa if there is a publisher interface).
+- You can establish relations between objects at runtime.
+
+Cons:
+
+- Subscribers get notifications in random order.
+
+[More >>](https://refactoring.guru/design-patterns/observer)
+
+</details>
+
+<details>
+  <summary>What is State?</summary>
+
+It is a behavioural design pattern that lets an object alter its behaviour when its internal state changes.
+
+Applicability:
+
+- Use the State pattern when you have an object that behaves differently depending on its current one, the number of states is enormous, and the state-specific code changes frequently.
+- Use the pattern when you have a class polluted with massive conditionals that alter how the class behaves according to the current values of the class fields.
+- Use State when you have a lot of duplicate code across similar states and transitions of a condition-based state machine.
+
+Prons:
+
+- Single Responsibility Principle. Organize the code related to particular states into separate classes.
+- Open/Closed Principle. Introduce new states without changing existing state classes or the context.
+- Simplify the code of the context by eliminating bulky state machine conditionals.
+
+Cons:
+
+- Applying the pattern can be overkill if a state machine has only a few states or rarely changes.
+
+[More >>](https://refactoring.guru/design-patterns/state)
+
+</details>
+
+<details>
+  <summary>What is Strategy?</summary>
+
+Strategy is a behavioural design pattern that lets you define a family of algorithms, but each of them into a separate class, and make their objects interchangeable. The pattern could be useful for Open-Close principle because allows to add new functionality by new strategy.
+
+Applicability:
+
+- Use the Strategy pattern when you want to use different variants of an algorithm within an object and switch from one algorithm to another during runtime.
+- Use the Strategy when you have a lot of similar classes that only differ in executing some behaviour.
+- Use the pattern to isolate the business logic from the implementation details of algorithms that may not be as important.
+- Use it when your class has a massive conditional operator that switches between different variants of the same algorithm.
+
+Prons:
+
+- You can swap algorithms used inside an object at runtime.
+- You can isolate the implementation details of an algorithm from the code that uses it.
+- You can replace inheritance with composition.
+- Open/Closed Principle. You can introduce new strategies without having to change the context.
+
+Cons:
+
+- If you only have a couple of algorithms and they rarely change, there is no real reason to overcomplicate the program with new classes and interfaces that come along with the pattern.
+- Clients must be aware of the differences between strategies to be able to select a proper one.
+- Many modern programming languages have functional type support that lets you implement different versions of an algorithm inside a set of anonymous functions.
+
+[More >>](https://refactoring.guru/design-patterns/strategy)
+
+</details>
+
+<details>
+  <summary>What is the Template Method?</summary>
+
+Template Method is a behavioural design pattern that defines the skeleton of an algorithm in the superclass but lets subclasses override specific steps of the algorithm without changing its structure. Also could be useful for the Open-Close principle.
+
+Applicability:
+
+- Use the Template Method pattern when you want to let clients extend only steps of an algorithm, but not the whole algorithm or its structure.
+- Use the pattern when you have several classes that contain almost identical algorithms with some minor differences. As a result, you might need to modify all when the algorithm changes.
+
+Prons:
+
+- You can let clients override only certain parts of a large algorithm, making them less affected by changes into other parts of the algorithm.
+- You can pull the duplicate code into a superclass.
+
+Cons:
+
+- You might violate the Liskov Substitution Principle by suppressing a default step implementation via a subclass.
+  Template methods tend to be harder to maintain the more steps they have.
+
+[More >>](https://refactoring.guru/design-patterns/template-method)
+
+</details>
+
+<details>
+  <summary>What is Visitor?</summary>
+
+It is a behavioural design pattern that lets you separate algorithms from the objects on which they operate.
+
+Applicability:
+
+- Use the Visitor when you need to operate on all elements of a complex object structure (for example, an object tree).
+- Use the Visitor to clean up the business logic of auxiliary behaviours.
+- Use the pattern when a behaviour makes sense only in some classes of a class hierarchy, but not in others.
+
+Prons:
+
+- Open/Closed Principle. You can introduce a new behaviour that can work with objects of different classes without changing these classes.
+- Single Responsibility Principle. You can move multiple versions of the same behaviour into the same class.
+- A visitor object can accumulate some information while working with various. It might be handy when you want to traverse some complex object structure, such as an object tree, and apply one to each object of this structure.
+
+Cons:
+
+- You need to update all visitors each time a class gets added to or removed from the element hierarchy.
+- Visitors might lack the necessary access to the private fields and methods of the elements
+
+[More >>](https://refactoring.guru/design-patterns/visitor)
+
+</details>

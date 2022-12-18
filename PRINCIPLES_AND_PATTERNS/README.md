@@ -1,6 +1,6 @@
 # Principles and patterns
 
-[Design patterns](DESIGN_PATTERNS.md)
+[Design patterns](DESIGN_PATTERNS/README.md)
 
 [JavaScript patterns](JAVA_SCRIPT_PATTERNS.md)
 
