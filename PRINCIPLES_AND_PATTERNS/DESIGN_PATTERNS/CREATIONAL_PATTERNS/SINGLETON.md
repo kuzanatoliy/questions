@@ -1,9 +1,22 @@
 # Singleton
 
 <details>
-  <summary>What is Singleton?</summary>
+  <summary>What is a Singleton?</summary>
 
 Singleton is a creational design pattern that guarantee that a class or an entity has only one instance and provide global access point.
+
+</details>
+
+<details>
+  <summary>What problems does a Singleton solve?</summary>
+
+1. Guarantee that exist only one instance
+
+For example, it could be useful for getting access to common source like a data base
+
+2. Provide a global access point
+
+It is not only global variable. It is possible to change global variable from other part of the code base.
 
 </details>
 
