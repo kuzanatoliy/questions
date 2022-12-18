@@ -36,3 +36,11 @@ Builder is a creational design pattern that lets you construct complex objects s
 - The clients will be bind with specific classes.
 
 </details>
+
+### Connections
+
+- A [Factory method](FACTORY_METHOD.md) could evolve into an [Abstract factory](ABSTRACT_FACTORY.md), a [Prototype](PROTOTYPE.md), a **Builder**;
+- The **Builder** concentrate on building complecated objects step by step. The [Abstract factory](ABSTRACT_FACTORY.md) concentrates on producing families;
+- The **Builder** allows to build a [Composite](../STRUCTURAL_PATTERNS/COMPOSITE.md) step-by-step;
+- The **Builder** could be implemented like a [Bridge](../STRUCTURAL_PATTERNS/BRIDGE.md);
+- The [Facade](../STRUCTURAL_PATTERNS/FACADE.md), a [Flyweight](../STRUCTURAL_PATTERNS/FLYWEIGHT.md), [Abstract factory](ABSTRACT_FACTORY.md), the **Builder**, the [Prototype](PROTOTYPE.md) might be implemented like a [Singleton](SINGLETON.md).
