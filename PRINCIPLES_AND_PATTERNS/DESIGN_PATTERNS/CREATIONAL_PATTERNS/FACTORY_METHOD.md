@@ -37,10 +37,3 @@ Factory Method is a creational design pattern that provides an interface for cre
 - Each new subclass increases the code complexity. The best-case scenario is when introducing the pattern into an existing hierarchy of creator classes
 
 </details>
-
-### Connections
-
-- The **Factory method** could evolve into an [Abstract factory](ABSTRACT_FACTORY.md), a [Prototype](PROTOTYPE.md), a [Builder](BUILDER.md). Factory method doesn't require an initialisation and use an inheritance;
-- Classes of the [Abstract factory](ABSTRACT_FACTORY.md) could be implemented like **Factory method**, however could be used the [Prototype](PROTOTYPE.md) too;
-- **Factory method** could be used with an [Iterator](../BEHAVIORAL_PATTERNS/ITERATOR.md);
-- **Factory method** is a specialization of a [Template Method](../BEHAVIORAL_PATTERNS/TEMPLATE_METHOD.md). 
