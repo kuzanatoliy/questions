@@ -27,3 +27,13 @@
 **Contempt** - I compare a few apportunities that are good for my purposes.
 
 </details>
+
+<details>
+  <summary>What are steps of working to emotions?</summary>
+
+1. Take a pause;
+2. Name your emotion in the mind;
+3. Treat emotion as attitude;
+4. Analize emotion.
+
+</details>
