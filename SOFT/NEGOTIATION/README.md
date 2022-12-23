@@ -21,3 +21,5 @@ The subject of negotiations may be the terms of the transaction or agreement on 
 [The picture of the world](PICTURE_OF_THE_WORLD.md)
 
 [Preparation](PREPARATION.md)
+
+[Emotions](EMOTIONS.md)
