@@ -10,3 +10,20 @@
 **The reptilian brain** - It is the older part of the brain. Tasks are simple and automate.
 
 </details>
+
+<details>
+  <summary>What could emotions tell?</summary>
+
+**Anger** - I see obstacles on the way to my purpose, prepare to destroy them, prepare to fight.
+
+**Joy** - I am where I have to be, make or get what I like.
+
+**Fear** - I feal a threat, but I don't have resources to chose affective behavior.
+
+**Sadness** - I see to the past that I cannot get back.
+
+**Calmness** - I see to outside world without emotions or estimations.
+
+**Contempt** - I compare a few apportunities that are good for my purposes.
+
+</details>
