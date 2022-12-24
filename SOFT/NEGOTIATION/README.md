@@ -23,3 +23,5 @@ The subject of negotiations may be the terms of the transaction or agreement on 
 [Preparation](PREPARATION.md)
 
 [Emotions](EMOTIONS.md)
+
+[Negotiator types](NEGOTIATOR_TYPES/README.md)
