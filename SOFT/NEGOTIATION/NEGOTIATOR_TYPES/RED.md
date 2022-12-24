@@ -25,3 +25,13 @@ Focused on facts and active bihaviour - dominance type. They are born liders, th
 7. Oriented to the challenge, complex tasks.
 
 </details>
+
+<details>
+  <summary>Where are grow points of the red type?</summary>
+
+1. Often behave aggressively, stubbornly and impatiently;
+2. They may lose their sense of tact;
+3. They are not interested in building relationships: they behave inflexibly and non-diplomatically in negotiations;
+4. They can take on too much, too often, and too quickly.
+
+</details>
