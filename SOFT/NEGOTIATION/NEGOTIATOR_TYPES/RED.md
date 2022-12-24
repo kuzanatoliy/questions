@@ -12,3 +12,16 @@ Focused on facts and active bihaviour - dominance type. They are born liders, th
 **Style:** Directive.
 
 </details>
+
+<details>
+  <summary>What are strong sides of the red type?</summary>
+
+1. Are able to make decisions and take responsibility;
+2. Operate effectively and independently;
+3. Persistently see things through to the end;
+4. They are strong-willed individuals;
+5. They react quickly;
+6. They are able to organize a team and processes;
+7. Oriented to the challenge, complex tasks.
+
+</details>
