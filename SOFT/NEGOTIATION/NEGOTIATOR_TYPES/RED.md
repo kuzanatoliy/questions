@@ -47,3 +47,12 @@ Focused on facts and active bihaviour - dominance type. They are born liders, th
 6. Be prepared for tricky questions: this is a sign of interest in your offer.
 
 </details>
+
+<details>
+  <summary>How to get negotiations back on track?</summary>
+
+1. Give Red back control of the situation (all or part of it);
+2. Take a break from negotiations;
+3. Make an interim solution together.
+
+</details>
