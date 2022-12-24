@@ -35,3 +35,15 @@ Focused on facts and active bihaviour - dominance type. They are born liders, th
 4. They can take on too much, too often, and too quickly.
 
 </details>
+
+<details>
+  <summary>How to negotiate with the Reds?</summary>
+
+1. Be structured, reasoned, clear, concise and to the point;
+2. Talk about problems directly;
+3. Be professional and confident;
+4. Respond calmly to harsh comments;
+5. Answer questions quickly and briefly;
+6. Be prepared for tricky questions: this is a sign of interest in your offer.
+
+</details>
