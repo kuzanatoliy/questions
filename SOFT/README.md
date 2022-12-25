@@ -1,5 +1,7 @@
 # Soft Skills
 
+[Negotiation](NEGOTIATION/README.md)
+
 [Assessment](ASSESSMENT.md)
 
 [Interview](INTERVIEW.md)

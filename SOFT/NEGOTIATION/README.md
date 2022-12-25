@@ -1,0 +1,3 @@
+# Negotiation
+
+[Errors](ERRORS.md)
