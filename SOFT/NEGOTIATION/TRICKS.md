@@ -20,3 +20,11 @@ About 70% decisions of the negotiations are base on the loosing fear instead of 
 When need to reject something and want to smooth out reaction it is possible to add argument that suggestion would be possible if something happens.
 
 </details>
+
+<details>
+  <summary>How to use a visualisation?</summary>
+
+The majority of the people perceive information better
+by eyes. As result provide visual examples, try to use eyes.
+
+</details>
