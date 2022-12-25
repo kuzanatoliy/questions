@@ -17,3 +17,12 @@ The "identity" aspect of AWS Identity and Access Management (IAM) helps you with
 [More >>](https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction_identity-management.html)
 
 </details>
+
+<details>
+  <summary>What is a connection between policies and users or groups?</summary>
+
+IAM users are identities in the service. When you create an IAM user, they can't access anything in your account until you give them permission. You give permissions to a user by creating an identity-based policy, which is a policy that is attached to the user or a group to which the user belongs.
+
+[More >>](https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction_access-management.html)
+
+</details>
