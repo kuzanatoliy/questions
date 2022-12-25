@@ -26,3 +26,17 @@ IAM users are identities in the service. When you create an IAM user, they can't
 [More >>](https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction_access-management.html)
 
 </details>
+
+<details>
+  <summary>What is an Attribute-based access control (ABAC)?</summary>
+
+Attribute-based access control (ABAC) is an authorization strategy that defines permissions based on attributes. In AWS, these attributes are called tags. You can attach tags to IAM resources, including IAM entities (users or roles) and to AWS resources. You can create a single ABAC policy or small set of policies for your IAM principals. These ABAC policies can be designed to allow operations when the principal's tag matches the resource tag. ABAC is helpful in environments that are growing rapidly and helps with situations where policy management becomes cumbersome.
+
+</details>
+
+<details>
+  <summary>What is a role-based access control (RBAC)?</summary>
+
+The traditional authorization model used in IAM is called role-based access control (RBAC). RBAC defines permissions based on a person's job function, known outside of AWS as a role. Within AWS a role usually refers to an IAM role, which is an identity in IAM that you can assume.
+
+</details>
