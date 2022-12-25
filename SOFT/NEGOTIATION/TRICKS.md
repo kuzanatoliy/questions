@@ -28,3 +28,10 @@ The majority of the people perceive information better
 by eyes. As result provide visual examples, try to use eyes.
 
 </details>
+
+<details>
+  <summary>How to use a 'because' trick?</summary>
+
+In order to convince a person, show him causal chain. Explain to your opponent, why should he act in such a way, and not just make demands on him. This trick makes a person think and accept the right decision.
+
+</details>
