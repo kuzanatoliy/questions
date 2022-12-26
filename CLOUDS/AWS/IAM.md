@@ -49,3 +49,12 @@ IAM roles are a secure way to grant permissions to entities you trust. Roles are
 [More >>](https://docs.aws.amazon.com/IAM/latest/UserGuide/getting-started.html)
 
 </details>
+
+<details>
+  <summary>What types of policies could be attached to role?</summary>
+
+**Trust policy** – Policy which defines which identities can assume the role. Creating a role with the IAM console automatically creates a default trust policy that you can customize. A role can have only one trust policy.
+
+**Permissions policy** – Policy which defines which AWS resources a role can access and the actions it can perform on those resources. Permissions policies can be AWS managed policies, customer managed policies, or inline policies attached directly to the role. You can attach multiple permissions policies to an IAM role.
+
+</details>
