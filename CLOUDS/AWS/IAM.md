@@ -40,3 +40,12 @@ Attribute-based access control (ABAC) is an authorization strategy that defines 
 The traditional authorization model used in IAM is called role-based access control (RBAC). RBAC defines permissions based on a person's job function, known outside of AWS as a role. Within AWS a role usually refers to an IAM role, which is an identity in IAM that you can assume.
 
 </details>
+
+<details>
+  <summary>What are IAM roles?</summary>
+
+IAM roles are a secure way to grant permissions to entities you trust. Roles are an IAM identity that you can create in your account that has specific permissions. An IAM role has some similarities to an IAM user. Roles and users are both AWS identities with permissions policies that determine what the identity can and cannot do in AWS. However, instead of being uniquely associated with one person, a role is intended to be assumable by anyone who needs it.
+
+[More >>](https://docs.aws.amazon.com/IAM/latest/UserGuide/getting-started.html)
+
+</details>
