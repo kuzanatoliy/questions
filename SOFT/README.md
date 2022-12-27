@@ -11,3 +11,5 @@
 [Soft checking](SOFT_CHECKING/README.md)
 
 [Program testing](PROGRAM_TESTING.md)
+
+[Resource management](RESOURCE_MANAGEMENT.md)
