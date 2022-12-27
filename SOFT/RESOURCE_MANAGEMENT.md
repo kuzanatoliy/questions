@@ -15,3 +15,12 @@
 - Help subordinates to solve administratie issues
 
 </details>
+
+<details>
+  <summary>What are RM's responsibilities during collaboration with PM/AM?</summary>
+
+- Communicate with PM/PC/TL/AM regarding subordinates progress
+- Effective project staffing
+- Succession/planning/rotation/relocation
+
+</details>
