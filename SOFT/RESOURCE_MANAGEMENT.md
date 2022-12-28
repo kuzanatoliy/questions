@@ -24,3 +24,14 @@
 - Succession/planning/rotation/relocation
 
 </details>
+
+<details>
+  <summary>What are RM's responsibilities during an organization development?</summary>
+
+- support interactions between resource groups / units
+- build an effective organizational and managerial structure
+- develop technological and managerial expertise
+- bench management
+- long-term planning according to the GDO/BU/SP strategy
+
+</details>
