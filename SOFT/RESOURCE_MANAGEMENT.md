@@ -69,3 +69,17 @@
 - influence on other employees careers.
 
 </details>
+
+<details>
+  <summary>What are benefits for the company?</summary>
+
+- flexibility, agility and manageability of the company;
+- transmission of mission and values to employees;
+- attention to each employee;
+- develop sense of belonging to the company;
+- manageable KPIs;
+- effective hiring;
+- proactive staffing;
+- operational management.
+
+</details>
