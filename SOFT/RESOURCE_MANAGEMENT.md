@@ -56,3 +56,16 @@
 - build the team you want to work in.
 
 </details>
+
+<details>
+  <summary>What are RM's benefits?</summary>
+
+- improve and practice people management and soft skills;
+- additional career opportunities;
+- access to more important and valuable information;
+- understand company processes and influence on them;
+- more recognition opportunities;
+- build your own dream team;
+- influence on other employees careers.
+
+</details>
