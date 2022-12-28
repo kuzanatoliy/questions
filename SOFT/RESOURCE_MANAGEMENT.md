@@ -45,3 +45,14 @@
 - working with KPIs.
 
 </details>
+
+<details>
+  <summary>Why should RM be interested?</summary>
+
+- career opportunities;
+- access to imformation;
+- ability to influence company development;
+- grow people;
+- build the team you want to work in.
+
+</details>
