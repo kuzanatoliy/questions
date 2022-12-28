@@ -83,3 +83,17 @@
 - operational management.
 
 </details>
+
+<details>
+  <summary>What should RM do?</summary>
+
+- understand the demand and follow its trends;
+- keep yourself and your unit up-to-date on company vision and strategy;
+- be an example;
+- acqure people (hiring, adaptation, work environment, opportunities for growth);
+- motivate and retain people (assignment, professional growth, motivation, retention, compenstation, work environment, org issues);
+- build profitable team ( find assignment, convince the project, somethimes rotate first, but still assign);
+- drive the company processes;
+- repeat.
+
+</details>
