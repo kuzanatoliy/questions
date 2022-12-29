@@ -1,17 +1,14 @@
 # Mentoring
 
-### Links
-
-### Questions
-
 <details>
   <summary>Why is mentoring so popular today?</summary>
 
 Business impact:
-* Retention rates are higher for both mentors and mentees;
-* Mentors and Mentees have more promotions than other employees;
-* Mentees experience higher career satisfaction;
-* Early identification of top talent.
+
+- Retention rates are higher for both mentors and mentees;
+- Mentors and Mentees have more promotions than other employees;
+- Mentees experience higher career satisfaction;
+- Early identification of top talent.
 
 Need:
 Mentorship is the number one request by millennials worldwide.
@@ -35,36 +32,36 @@ The mentor is the person who is the most instrumental in stimulating the learnin
 <details>
   <summary>Describe characteristics of an individual mentoring.</summary>
 
-* one mentor, one mentee;
-* meet with a mentor to discuss questions and cases;
-* mentor checks tasks and gives feedback.
+- one mentor, one mentee;
+- meet with a mentor to discuss questions and cases;
+- mentor checks tasks and gives feedback.
 
 </details>
 
 <details>
   <summary>Describe characteristics of group mentoring.</summary>
 
-* one mentor, 3 - 7 mentees;
-* group Q&A sessions to discuss questions;
-* mentor checks tasks and gives short written feedback.
+- one mentor, 3 - 7 mentees;
+- group Q&A sessions to discuss questions;
+- mentor checks tasks and gives short written feedback.
 
 </details>
 
 <details>
   <summary>Describe characteristics of peer mentoring.</summary>
 
-* 1-2 experts per group (10-15) mentees check each other's tasks and give feedback.
-* Group Q&A sessions to discuss questions.
-* Mentees check each other's tasks and give feedback.
+- 1-2 experts per group (10-15) mentees check each other's tasks and give feedback.
+- Group Q&A sessions to discuss questions.
+- Mentees check each other's tasks and give feedback.
 
 </details>
 
 <details>
   <summary>How prepared to be a Mentor?</summary>
 
-* review all program materials
-* collect additional materials and tests
-* prepare cases from your own work experience
-* add mentoring to your schedule
+- review all program materials
+- collect additional materials and tests
+- prepare cases from your own work experience
+- add mentoring to your schedule
 
 </details>

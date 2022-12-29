@@ -1,9 +1,5 @@
 # Hungry
 
-### Links
-
-### Questions
-
 <details>
   <summary>Give us an example of a time you had to make a person sacrifice to get the job done? Was the sacrifice worth it and why?</summary>
 

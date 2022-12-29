@@ -1,9 +1,5 @@
 # Program testing
 
-### Links
-
-### Questions
-
 <details>
   <summary>What are whitebox and blackbox testing?</summary>
 

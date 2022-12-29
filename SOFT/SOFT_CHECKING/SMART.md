@@ -1,9 +1,5 @@
 # Smart
 
-### Links
-
-### Questions
-
 <details>
   <summary>Imagine that during a meeting, one of your team members brought up and idea that you thought was unreasonable. Surprisingly, the rest of the team seemed just as enthusiastic about the idea. How would you handle this situation?</summary>
 

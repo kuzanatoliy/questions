@@ -1,9 +1,5 @@
 # Humble
 
-### Links
-
-### Questions
-
 <details>
   <summary>Tell me about the most important accomplishments of your career. You've obviously accomplished a great deal. To what do you attribute that success?</summary>
 
