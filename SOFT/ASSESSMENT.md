@@ -1,9 +1,5 @@
 # Assessment
 
-### Links
-
-### Questions
-
 <details>
   <summary>What is Assessment?</summary>
 

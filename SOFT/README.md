@@ -10,6 +10,8 @@
 
 [Soft checking](SOFT_CHECKING/README.md)
 
+[Onboarding process](ONBOARDING_PROCESS.md)
+
 [Program testing](PROGRAM_TESTING.md)
 
 [Resource management](RESOURCE_MANAGEMENT.md)
