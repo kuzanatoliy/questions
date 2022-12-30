@@ -97,3 +97,20 @@
 - repeat.
 
 </details>
+
+<details>
+  <summary>What RM can do in hiring process?</summary>
+
+**Analyze Demand** - Regularly check Radar and/or their project's resource plan;
+
+**Open Requisitions** - If demand can be closed with external candidates, then RM can open requisition, so TA can start searchning for candidates.
+
+**Interviewing** - Or delegating that to trusted interviewers.
+
+**Propose candidates** - In case of match, RM can propose candidate (with help of recruiter) to opened positions.
+
+**Make Hiring Decisions** - Collect all necessary input to decide and proceed with JO issuing.
+
+**Monitor External Candidate's Staffing** - Communication with Demand Owners on position status, priorities, candidate's interview status, engagement conditions, etc.
+
+</details>
