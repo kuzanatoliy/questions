@@ -38,11 +38,19 @@
 </details>
 
 <details>
-  <summary>What are Supply Coordinators's responsibilities?</summary>
+  <summary>What are Supply Coordinator's responsibilities?</summary>
 
 - **Track** new relevant demand & validate its requirements;
 - **Check** candidate's availability;
 - **Propose** the most relevant candidates for each position;
 - **Initiate** hiring from market if needed and confirmed by DO.
+
+</details>
+
+<details>
+  <summary>What are Supply Owner's responsibilities?</summary>
+
+- **Manage and plan** capacity within respective pool (e.g., location, solution practice, resource pool, etc);
+- **Ensure** the quality and relevance of candidates' profiles (UPSA/CVs). Check availability of candidates.
 
 </details>
