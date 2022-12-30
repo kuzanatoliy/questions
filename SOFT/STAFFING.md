@@ -36,3 +36,13 @@
 - **Assist** DO to keep information in Staffing Tools up to date.
 
 </details>
+
+<details>
+  <summary>What are Supply Coordinators's responsibilities?</summary>
+
+- **Track** new relevant demand & validate its requirements;
+- **Check** candidate's availability;
+- **Propose** the most relevant candidates for each position;
+- **Initiate** hiring from market if needed and confirmed by DO.
+
+</details>
