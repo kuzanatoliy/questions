@@ -54,3 +54,10 @@
 - **Ensure** the quality and relevance of candidates' profiles (UPSA/CVs). Check availability of candidates.
 
 </details>
+
+<details>
+  <summary>What is a staffing priority?</summary>
+
+Staffing prioritization is a mechanism that arranges positions in order of necessary attention and helps focus on the most critical positions.
+
+</details>
