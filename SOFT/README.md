@@ -15,3 +15,5 @@
 [Program testing](PROGRAM_TESTING.md)
 
 [Resource management](RESOURCE_MANAGEMENT.md)
+
+[Staffing](STAFFING.md)
