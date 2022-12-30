@@ -24,3 +24,15 @@
 - **Make** prompt decisions on proposed candidates.
 
 </details>
+
+<details>
+  <summary>What are Demand Coordinator's responsibilities?</summary>
+
+- **Track** new relevant demand & validate its requirements;
+- **Align** positions prioritization & facilitate location landing strategy if needed;
+- **Engage** all existing staffing channels and relevant SpCs timely;
+- **Oversee** the continuous resources delivery from Supply.
+- **Facilitate** DOs to provide timely decision on candidates and handle escalations on demand side;
+- **Assist** DO to keep information in Staffing Tools up to date.
+
+</details>
