@@ -12,3 +12,15 @@
 **Supply Owner** - Owns (validate/create) the supply within certain discipline, solution practice, competency, location or staffing channel.
 
 </details>
+
+<details>
+  <summary>What are Demand Owner's responsibilities?</summary>
+
+- **Clarify** the demand with client;
+- **Create** it in CRM and Staffing Desk;
+- **Keep** staffing requirements up to date in the Staffing Tools. Clafify them if needed;
+- **Confirm** staffing channels that can be used (hiring from market, Internal Mobility etc);
+- **Arrange** (or request arrange of) interviews for considered condidates (e.g., a technical interview, project manager talk, customer interview), back ground check, etc;
+- **Make** prompt decisions on proposed candidates.
+
+</details>
