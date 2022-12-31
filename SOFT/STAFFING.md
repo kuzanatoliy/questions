@@ -61,3 +61,12 @@
 Staffing prioritization is a mechanism that arranges positions in order of necessary attention and helps focus on the most critical positions.
 
 </details>
+
+<deatils>
+  <summary>What are staffing blockers and why it's important to resolve them timely?</summary>
+
+Blockers are the bottlenecks in the staffing process where there is no timely decision on the candidate in the pipeline for the current demand.
+
+Resolution of blockers increases the decision-making velocity on the proposed candidates. This ensures the timely projects’ start (revenue loss prevention) and no time wasted on bench (cost increase prevention).
+
+</details>
