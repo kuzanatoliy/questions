@@ -12,6 +12,8 @@
 
 [Onboarding process](ONBOARDING_PROCESS.md)
 
+[Performance development](PERFORMANCE_DEVELOPMENT.md)
+
 [Program testing](PROGRAM_TESTING.md)
 
 [Resource management](RESOURCE_MANAGEMENT.md)
