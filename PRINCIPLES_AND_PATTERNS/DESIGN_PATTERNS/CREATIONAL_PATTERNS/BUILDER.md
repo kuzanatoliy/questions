@@ -5,7 +5,7 @@
 [Refactoring guru / builder](https://refactoring.guru/design-patterns/builder)
 
 <details>
-  <summary>What is Builder?</summary>
+  <summary>What is a Builder?</summary>
 
 Builder is a creational design pattern that lets you construct complex objects step by step. The builder pattern allows producing different types and representations of an object using the same construction code.
 
