@@ -5,7 +5,7 @@
 [Refactoring guru / abstract factory](https://refactoring.guru/design-patterns/abstract-factory)
 
 <details>
-  <summary>What is Abstract Factory?</summary>
+  <summary>What is an Abstract Factory?</summary>
 
 Abstract Factory is a creational design pattern that lets you produce families of the related objects without specifying their concrete classes.
 

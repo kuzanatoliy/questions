@@ -1,24 +1,35 @@
 # Adapter
 
+### Links
+
+[Refactoring guru / adapter](https://refactoring.guru/design-patterns/adapter)
+
 <details>
-  <summary>What is Adapter?</summary>
+  <summary>What is an Adapter?</summary>
 
-The adapter is a structural design pattern that allows objects with incompatible interfaces to collaborate.
+Adapter is a structural design pattern that allows objects with incompatible interfaces to collaborate.
 
-Applicability:
+</details>
 
-- Use the adapter when you want to use some existing class, but its interface is not compatible with the rest of your code.
-- Use the pattern for reusing several existing subclasses that lack some functionality, and there is not possible to add it in the superclass.
+<details>
+  <summary>What is an Adapter's Applicability?</summary>
 
-Prons:
+- Use the Adapter class when you want to use some existing class, but its interface isn’t compatible with the rest of your code;
+- Use the pattern when you want to reuse several existing subclasses that lack some common functionality that can’t be added to the superclass.
 
-- Single Responsibility Principle. You can separate the interface or data conversion code from the primary business logic of the program.
-- Open/Closed Principle. You can introduce new types of adapters into the program without breaking the existing client code, as long as they work with the adapters through the client interface.
+</details>
 
-Cons:
+<details>
+  <summary>What are pros of an Adapter pattern?</summary>
 
-- The overall complexity of the code increases because it requires introducing a set of new interfaces and classes. From time to time, changing into service is an easier way.
+- It is possible to separate the interface or data conversion code from the primary business logic of the program (Single Responsibility Principle).
+- It is possible to introduce new types of adapters into the program without breaking the existing client code, as long as they work with the adapters through the client interface (Open/Closed Principle).
 
-[More >>](https://refactoring.guru/design-patterns/adapter)
+</details>
+
+<details>
+  <summary>What are cons of an Adapter pattern?</summary>
+
+- The overall complexity of the code increases because you need to introduce a set of new interfaces and classes. Sometimes it’s simpler just to change the service class so that it matches the rest of your code.
 
 </details>
