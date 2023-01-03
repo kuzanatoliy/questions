@@ -1,26 +1,39 @@
 # Prototype
 
+### Links
+
+[Refactoring guru / prototype](https://refactoring.guru/design-patterns/prototype)
+
+### Questions
+
 <details>
   <summary>What is a Prototype?</summary>
 
-A Prototype is a creational design pattern that lets you copy existing objects without making your code dependent on their classes.
+Prototype is a creational design pattern that lets you copy existing objects without making your code dependent on their classes.
 
-Applicability:
+</details>
 
-- Use the Prototype pattern when there isn't dependency from the concrete classes of copied objects in a code.
-- Use the pattern when you want to reduce the number of subclasses that only differ from the initialization of their respective objects. Somebody could have created these subclasses to be able to create a new one with a specific configuration.
+<details>
+  <summary>What is a Prototype's Applicability?</summary>S
 
-Pros:
+- Use the Prototype pattern when your code shouldn’t depend on the concrete classes of objects that you need to copy;
+- Use the pattern when you want to reduce the number of subclasses that only differ in the way they initialize their respective objects.
 
-- Clone objects without coupling to their concrete classes.
-- Get rid of repeated initialization code in favour of cloning pre-built prototypes.
-- Produce complex exemplars more conveniently.
-- Get an alternative to inheritance when dealing with configuration presets.
+</details>
 
-Cons:
+<details>
+  <summary>What are pros of a Prototype pattern?</summary>
+
+- You can clone objects without coupling to their concrete classes;
+- You can get rid of repeated initialization code in favor of cloning pre-built prototypes;
+- You can produce complex objects more conveniently;
+- You get an alternative to inheritance when dealing with configuration presets for complex objects.
+
+</details>
+
+<details>
+  <summary>What are cons of a Prototype pattern?</summary>
 
 - Cloning complex objects that have circular references might be very tricky.
-
-[More >>](https://refactoring.guru/design-patterns/prototype)
 
 </details>
