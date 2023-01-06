@@ -114,3 +114,30 @@
 **Monitor External Candidate's Staffing** - Communication with Demand Owners on position status, priorities, candidate's interview status, engagement conditions, etc.
 
 </details>
+
+<details>
+  <summary>What are RM's responsibilities during an assessment process?</summary>
+
+**Before session period**
+
+- Submit requests for your Candidates if required;
+- Consult your Candidates on how to prepare;
+- Contact Candidate's HR Contact and clarify if their help or precentce during the Assessment session is required;
+- Talk to the Committee Head about your Candidates' details if required.
+
+**During Session period**
+
+- Attend the session;
+- Support your Candidate.
+
+**After session period**
+
+- Wait for the final Committee recommendation;
+- Evaluate Committee Head;
+- Review summary feedback;
+- Make the promotion decision and provide justification for it;
+- Wait till your decision is verified byt B2+ manager or Reporter (depending on session result);
+- Communicate feedback and promotion decision to your Candidate after getting it verified;
+- Participate in the retrospective meeting.
+
+</details>
