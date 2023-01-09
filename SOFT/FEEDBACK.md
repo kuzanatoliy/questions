@@ -19,3 +19,14 @@ The feedback is a process in our company that helps EPAMers to get the feedback 
 **T**argeted for Success - Feedback needs to be on-going and followed up on. Success is a journey.
 
 </details>
+
+<details>
+  <summary>What is a start-stop-continue framework?</summary>
+
+**Start** - List of ideas to start doing;
+
+**Stop** - List of ideas to stop doing;
+
+**Continue** - List of ideas to adopt more widely.
+
+</details>
