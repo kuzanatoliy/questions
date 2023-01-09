@@ -30,3 +30,14 @@ The feedback is a process in our company that helps EPAMers to get the feedback 
 **Continue** - List of ideas to adopt more widely.
 
 </details>
+
+<details>
+  <summary>What is a situation-behaviour-impact framework?</summary>
+
+**Situation** - Describe the situation;
+
+**Behaviour** - Describe the behavior;
+
+**Inpact** - What was the impact of the behavior / situation?
+
+</details>
