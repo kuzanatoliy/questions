@@ -114,3 +114,12 @@ The second side gives information about their own interests, grades, etc. in ver
 **What to do:** emphasize common interests, identify joint risks if an agreement is not reached.
 
 </details>
+
+<details>
+  <summary>What is 'extortion' tactic?</summary>
+
+One of the parties unexpectedly puts forward new demands at the end of the negotiations. The side proceeds from the fact that its partner, being extremely interested in signing the reached agreements, will make concessions.
+
+**What to do:** use the tactics of partial agreement; say that the proposed options are feasible, but this is a topic for a separate conversation, so during the current meeting you will focus on existing agreements; be willing to withdraw from the agreement if your demands are not met.
+
+</details>
