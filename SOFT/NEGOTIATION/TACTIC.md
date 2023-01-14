@@ -39,3 +39,10 @@ By agreeing on individual aspects, you will quickly come to a compromise solutio
 To create a friendly environment, start with the issues that cause the least controversy. If you manage to avoid active confrontation at the very beginning, it will be easier for you to find a common language with your partner throughout the meeting.
 
 </details>
+
+<details>
+  <summary>What is 'emphasize commonality' tactic?</summary>
+
+Remind your partner that you have a lot in common: an interest in a positive outcome of the negotiations, the desire to avoid losses, long-term relationships. This way you will show that the overall benefit of the joint event is important to you, and not just your own benefit.
+
+</details>
