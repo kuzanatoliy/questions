@@ -27,3 +27,5 @@ The subject of negotiations may be the terms of the transaction or agreement on 
 [Negotiator types](NEGOTIATOR_TYPES/README.md)
 
 [Polyhedron of interests](POLYHEDRON_OF_INTERESTS.md)
+
+[Strategy](STRATEGY.md)
