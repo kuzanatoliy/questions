@@ -87,3 +87,12 @@ One of the parties puts forward a proposal, which is then withdrawn under variou
 **What to do:** ask about past agreements and why they no longer work.
 
 </details>
+
+<details>
+  <summary>What is 'false accents' tactic?</summary>
+
+The second party makes obviously inadequate or unacceptable proposals for you. In the future, they are removed, and the negotiator receives the necessary decision on another, more important issue for him.
+
+**What to do:** specify what is actually a priority for the second party; "bracket out" additional or minor details.
+
+</details>
