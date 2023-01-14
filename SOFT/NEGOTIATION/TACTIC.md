@@ -60,3 +60,10 @@ Point out the weaknesses of your firm and your offerings before your partner doe
 Return to the discussion of the problem if you notice that the partner was not satisfied with the outcome of the negotiations or that he did not understand any part of the contract. Your partner will be grateful for your participation and attention.
 
 </details>
+
+<details>
+  <summary>What is 'postpone negotiations' tactic?</summary>
+
+If it is needed to think about a proposal or agree on an issue with others, offer to defer consideration of this negotiation item. To prevent your partner from thinking that you are dragging out the negotiations, agree in advance the time when you will return to the discussion of the issue, and the reason why you cannot resolve all the contradictions at the moment.
+
+</details>
