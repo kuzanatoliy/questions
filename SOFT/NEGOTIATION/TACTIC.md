@@ -13,8 +13,15 @@
 ### Constructive tactics
 
 <details>
-  <summary>What is one cuts, the other chooses?</summary>
+  <summary>What is 'one cuts, the other chooses' tactic?</summary>
 
 If it is needed to share powers or functions, offer your partner this way out: he must share, and you will choose one of the two parts. Fearing to receive a smaller share, he will do everything so that the parts are equal, and will also imbue you with respect for the trust placed in him.
+
+</details>
+
+<details>
+  <summary>What is 'put controversial questions out of brackets' tactic?</summary>
+
+If it is not possible to reach agreement on all points of the agreement, the disputed issues are not considered.
 
 </details>
