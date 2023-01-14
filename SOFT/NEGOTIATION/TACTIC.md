@@ -32,3 +32,10 @@ If it is not possible to reach agreement on all points of the agreement, the dis
 By agreeing on individual aspects, you will quickly come to a compromise solution to the problem.
 
 </details>
+
+<details>
+  <summary>What is 'gradually increase the difficulty' tactic?</summary>
+
+To create a friendly environment, start with the issues that cause the least controversy. If you manage to avoid active confrontation at the very beginning, it will be easier for you to find a common language with your partner throughout the meeting.
+
+</details>
