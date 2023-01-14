@@ -25,3 +25,10 @@ If it is needed to share powers or functions, offer your partner this way out: h
 If it is not possible to reach agreement on all points of the agreement, the disputed issues are not considered.
 
 </details>
+
+<details>
+  <summary>What is 'divide the problem into parts' tactic?</summary>
+
+By agreeing on individual aspects, you will quickly come to a compromise solution to the problem.
+
+</details>
