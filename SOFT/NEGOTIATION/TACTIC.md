@@ -78,3 +78,12 @@ As the negotiations progress, one of the participants starts with small requests
 **What to do:** ask your partner what question is the most important for him.
 
 </details>
+
+<details>
+  <summary>What is 'refusal of own offers' tactic?</summary>
+
+One of the parties puts forward a proposal, which is then withdrawn under various pretexts. The goals of such tactics can be different: delaying negotiations; an attempt to bargain more, unwillingness to solve anything at all through negotiations, etc.
+
+**What to do:** ask about past agreements and why they no longer work.
+
+</details>
