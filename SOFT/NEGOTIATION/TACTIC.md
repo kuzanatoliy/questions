@@ -132,3 +132,12 @@ The negotiator, who usually has a strong position, immediately voices his demand
 **What to do:** accept the ultimatum as two possible solutions; look for alternative solutions.
 
 </details>
+
+<details>
+  <summary>What is 'double interpretation' tactic?</summary>
+
+One of the parties lays a double meaning in the wording of the documents. Subsequently, the party can interpret the agreement in their own interests, allegedly without violating it.
+
+**What to do:** open the position of the other side; show that you see a double message.
+
+</details>
