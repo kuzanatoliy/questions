@@ -30,4 +30,4 @@ The subject of negotiations may be the terms of the transaction or agreement on 
 
 [Strategy](STRATEGY.md)
 
-[Tactics](TACTICS.md)
+[Tactic](TACTIC.md)
