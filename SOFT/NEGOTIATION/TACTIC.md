@@ -46,3 +46,10 @@ To create a friendly environment, start with the issues that cause the least con
 Remind your partner that you have a lot in common: an interest in a positive outcome of the negotiations, the desire to avoid losses, long-term relationships. This way you will show that the overall benefit of the joint event is important to you, and not just your own benefit.
 
 </details>
+
+<details>
+  <summary>What is 'get ahead of the objections' tactic?</summary>
+
+Point out the weaknesses of your firm and your offerings before your partner does. By this you seem to show: "I want to avoid disputes! I admit my mistakes!" With this technique, you will demonstrate your objectivity.
+
+</details>
