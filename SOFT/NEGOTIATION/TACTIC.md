@@ -53,3 +53,10 @@ Remind your partner that you have a lot in common: an interest in a positive out
 Point out the weaknesses of your firm and your offerings before your partner does. By this you seem to show: "I want to avoid disputes! I admit my mistakes!" With this technique, you will demonstrate your objectivity.
 
 </details>
+
+<details>
+  <summary>What is 'return to discussion' tactic?</summary>
+
+Return to the discussion of the problem if you notice that the partner was not satisfied with the outcome of the negotiations or that he did not understand any part of the contract. Your partner will be grateful for your participation and attention.
+
+</details>
