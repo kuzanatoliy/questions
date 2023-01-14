@@ -123,3 +123,12 @@ One of the parties unexpectedly puts forward new demands at the end of the negot
 **What to do:** use the tactics of partial agreement; say that the proposed options are feasible, but this is a topic for a separate conversation, so during the current meeting you will focus on existing agreements; be willing to withdraw from the agreement if your demands are not met.
 
 </details>
+
+<details>
+  <summary>What is 'ultimatum' tactic?</summary>
+
+The negotiator, who usually has a strong position, immediately voices his demands in an ultimatum tone. All attempts to reach a compromise or mitigate the situation are not accepted.
+
+**What to do:** accept the ultimatum as two possible solutions; look for alternative solutions.
+
+</details>
