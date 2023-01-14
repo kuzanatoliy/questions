@@ -105,3 +105,12 @@ The second party provides deliberately false information. For example, a negotia
 **What to do:** request a "hard", i.e. facts and examples confirming the position of the other side.
 
 </details>
+
+<details>
+  <summary>What is 'salami' tactic?</summary>
+
+The second side gives information about their own interests, grades, etc. in very small portions - according to the principle of cutting salami sausage. The meaning of the reception is to force the partner to be the first to "reveal their cards" and choose a strategy of behavior depending on what they hear. The use of this technique turns into an artificial dragging out of negotiations to the detriment of the cause.
+
+**What to do:** emphasize common interests, identify joint risks if an agreement is not reached.
+
+</details>
