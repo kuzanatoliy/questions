@@ -29,3 +29,5 @@ The subject of negotiations may be the terms of the transaction or agreement on 
 [Polyhedron of interests](POLYHEDRON_OF_INTERESTS.md)
 
 [Strategy](STRATEGY.md)
+
+[Tactics](TACTICS.md)
