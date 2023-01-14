@@ -67,3 +67,14 @@ Return to the discussion of the problem if you notice that the partner was not s
 If it is needed to think about a proposal or agree on an issue with others, offer to defer consideration of this negotiation item. To prevent your partner from thinking that you are dragging out the negotiations, agree in advance the time when you will return to the discussion of the issue, and the reason why you cannot resolve all the contradictions at the moment.
 
 </details>
+
+### Destructive tactics
+
+<details>
+  <summary>What is 'increasing requirements' tactic?</summary>
+
+As the negotiations progress, one of the participants starts with small requests, gradually moving to more significant ones. This technique is sometimes referred to as "foot in the door". This tactic may arise as a misuse of the tactic of tackling "first the easy questions, then the harder ones."
+
+**What to do:** ask your partner what question is the most important for him.
+
+</details>
