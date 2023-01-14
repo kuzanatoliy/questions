@@ -96,3 +96,12 @@ The second party makes obviously inadequate or unacceptable proposals for you. I
 **What to do:** specify what is actually a priority for the second party; "bracket out" additional or minor details.
 
 </details>
+
+<details>
+  <summary>What is 'bluff' tactic?</summary>
+
+The second party provides deliberately false information. For example, a negotiator may describe their business as the best, with a great reputation, but is in fact bankrupt and struggling to get orders.
+
+**What to do:** request a "hard", i.e. facts and examples confirming the position of the other side.
+
+</details>
