@@ -20,4 +20,6 @@
 
 [Resource management](RESOURCE_MANAGEMENT.md)
 
+[Retention process](RETENTION_PROCESS.md)
+
 [Staffing](STAFFING.md)
