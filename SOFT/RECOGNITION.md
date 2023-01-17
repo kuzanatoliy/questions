@@ -20,3 +20,10 @@ Esteem needs are related to a person’s need to gain recognition, status, and f
 It is possible to recognize good performance, being proactive and going the extra mile on a project, and contributions to corporate processes/initiatives. It can be public or personal and for either teams or individuals. We may recognize iteratively or on an ongoing basis. Recognition can be peer-to-peer, manager-to-peer, or company-to-peer. The means of recognition can be both tangible and intangible.
 
 </details>
+
+<details>
+  <summary>What is multigenerational approach?</summary>
+
+Different generations are motivated by different things. For Generation X, it is autonomy; for Generation Y, it is development; and Generation Z is motivated by purpose. Involve your teams in appropriate initiatives, offer them relevant opportunities, and provide valuable communication.
+
+</details>
