@@ -1,28 +1,39 @@
 # Command
 
+### Links
+
+[Refactoring guru / command](https://refactoring.guru/design-patterns/command)
+
 <details>
-  <summary>What is Command?</summary>
+  <summary>What is a Command?</summary>
 
-It is a behavioural design pattern that turns a request into a stand-alone object that contains all information about it. This transformation lets you pass requests to method arguments, delay or queue a request execution, and support undoable operations.
+Command is a behavioral design pattern that turns a request into a stand-alone object that contains all information about the request. This transformation lets you pass requests as a method arguments, delay or queue a request’s execution, and support undoable operations.
 
-Applicability:
+</details>
 
-- Use the Command pattern when you want to parametrize objects with operations.
-- Use the Command pattern when you want to queue operations, schedule their execution, or execute them remotely.
-- Use the Command pattern when an application can reverse operations.
+<details>
+  <summary>What is a Command's Applicability?</summary>
 
-Prons:
+- Use the Command pattern when you want to parametrize objects with operations;
+- Use the Command pattern when you want to queue operations, schedule their execution, or execute them remotely;
+- Use the Command pattern when you want to implement reversible operations.
 
-- Single Responsibility Principle. It is possible to decouple classes that invoke operations from them that perform these operations.
-- Open/Closed Principle. You can introduce new commands into the app without breaking existing client code.
-- You can implement undo/redo.
-- You can implement deferred execution of operations.
-- You can assemble a set of simple commands into a complex one.
+</details>
 
-Cons:
+<details>
+  <summary>What are pros of a Command pattern?</summary>
 
-- The code may become more complicated since introducing a whole new layer between senders and receivers.
+- It is possitble to decouple classes that invoke operations from classes that perform these operations (Single Responsibility Principle);
+- It is possitble to introduce new commands into the app without breaking existing client code (Open/Closed Principle);
+- It is possitble to implement undo/redo;
+- It is possitble to implement deferred execution of operations;
+- It is possitble to assemble a set of simple commands into a complex one.
 
-[More >>](https://refactoring.guru/design-patterns/command)
+</details>
+
+<details>
+  <summary>What are cons of a Proxy pattern?</summary>
+
+- The code may become more complicated since you’re introducing a whole new layer between senders and receivers.
 
 </details>
