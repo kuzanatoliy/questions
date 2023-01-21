@@ -8,6 +8,8 @@
 
 [Interview](INTERVIEW.md)
 
+[Management](MANAGEMENT.md)
+
 [Mentoring](MENTORING.md)
 
 [Soft checking](SOFT_CHECKING/README.md)
