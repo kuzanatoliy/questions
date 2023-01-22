@@ -20,6 +20,8 @@
 
 [Program testing](PROGRAM_TESTING.md)
 
+[Recognition](RECOGNITION.md)
+
 [Resource management](RESOURCE_MANAGEMENT.md)
 
 [Retention process](RETENTION_PROCESS.md)
