@@ -1,24 +1,35 @@
 # Observer
 
+### Links
+
+[Refactoring guru / observer](https://refactoring.guru/design-patterns/observer)
+
 <details>
-  <summary>What is Observer?</summary>
+  <summary>What is an Observer?</summary>
 
-It is a behavioural design pattern that lets you define a subscription mechanism to notify multiple objects about any events.
+Observer is a behavioral design pattern that lets you define a subscription mechanism to notify multiple objects about any events that happen to the object they’re observing.
 
-Applicability:
+</details>
 
-- Use the Observer pattern when changes to the state of one object may require changing other ones, and the set of the object is unknown beforehand or changes dynamically.
-- Use the pattern when some parts in an app must observe others, but only for a limited time or in specific cases.
+<details>
+  <summary>What is an Observer's Applicability?</summary>
 
-Prons:
+- Use the Observer pattern when changes to the state of one object may require changing other objects, and the actual set of objects is unknown beforehand or changes dynamically;
+- Use the pattern when some objects in your app must observe others, but only for a limited time or in specific cases.
 
-- Open/Closed Principle. You can introduce new subscriber classes without changing the code (and vice versa if there is a publisher interface).
-- You can establish relations between objects at runtime.
+</details>
 
-Cons:
+<details>
+  <summary>What are pros of an Observer pattern?</summary>
 
-- Subscribers get notifications in random order.
+- It is possible to introduce new subscriber classes without having to change the publisher’s code (Open/Closed Principle);
+- It is possible to establish relations between objects at runtime.
 
-[More >>](https://refactoring.guru/design-patterns/observer)
+</details>
+
+<details>
+  <summary>What are cons of a Proxy pattern?</summary>
+
+- Subscribers are notified in random order.
 
 </details>
