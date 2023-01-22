@@ -23,10 +23,10 @@ Iterator is a behavioral design pattern that lets you traverse elements of a col
 <details>
   <summary>What are pros of a Iterator pattern?</summary>
 
-- It is possitble to clean up the client code and the collections by extracting bulky traversal algorithms into separate classes (Single Responsibility Principle);
-- It is possitble to implement new types of collections and iterators and pass them to existing code without breaking anything (Open/Closed Principle);
-- It is possitble to iterate over the same collection in parallel because each iterator object contains its own iteration state;
-- For the same reason, you can delay an iteration and continue it when needed.
+- It is possible to clean up the client code and the collections by extracting bulky traversal algorithms into separate classes (Single Responsibility Principle);
+- It is possible to implement new types of collections and iterators and pass them to existing code without breaking anything (Open/Closed Principle);
+- It is possible to iterate over the same collection in parallel because each iterator object contains its own iteration state;
+- It is possible delay an iteration and continue it when needed.
 
 </details>
 

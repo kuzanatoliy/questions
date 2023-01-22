@@ -22,7 +22,7 @@ Facade is a structural design pattern that provides a simplified interface to a 
 <details>
   <summary>What are pros of a Facade pattern?</summary>
 
-- It is possitble to isolate your code from the complexity of a subsystem.
+- It is possible to isolate your code from the complexity of a subsystem.
 
 </details>
 

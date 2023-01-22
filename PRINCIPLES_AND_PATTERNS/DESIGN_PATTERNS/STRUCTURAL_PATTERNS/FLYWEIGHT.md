@@ -21,7 +21,7 @@ Flyweight is a structural design pattern that lets you fit more objects into the
 <details>
   <summary>What are pros of a Flyweight pattern?</summary>
 
-- It is possitble to save lots of RAM, assuming your program has tons of similar objects.
+- It is possible to save lots of RAM, assuming your program has tons of similar objects.
 
 </details>
 

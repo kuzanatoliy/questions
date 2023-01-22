@@ -22,10 +22,10 @@ Decorator is a structural design pattern that lets you attach new behaviors to o
 <details>
   <summary>What are pros of a Decorator pattern?</summary>
 
-- It is possitble to extend an object’s behavior without making a new subclass;
-- It is possitble to add or remove responsibilities from an object at runtime;
-- It is possitble to combine several behaviors by wrapping an object into multiple decorators;
-- It is possitble to divide a monolithic class that implements many possible variants of behavior into several smaller classes (Single Responsibility Principle).
+- It is possible to extend an object’s behavior without making a new subclass;
+- It is possible to add or remove responsibilities from an object at runtime;
+- It is possible to combine several behaviors by wrapping an object into multiple decorators;
+- It is possible to divide a monolithic class that implements many possible variants of behavior into several smaller classes (Single Responsibility Principle).
 
 </details>
 

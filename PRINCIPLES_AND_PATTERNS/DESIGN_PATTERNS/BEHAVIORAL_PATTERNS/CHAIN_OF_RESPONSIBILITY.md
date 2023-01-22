@@ -23,9 +23,9 @@ Chain of Responsibility is a behavioral design pattern that lets you pass reques
 <details>
   <summary>What are pros of a Chain of Responsibility pattern?</summary>
 
-- It is possitble to control the order of request handling;
-- It is possitble to decouple classes that invoke operations from classes that perform operations (Single Responsibility Principle);
-- It is possitble to introduce new handlers into the app without breaking the existing client code (Open/Closed Principle).
+- It is possible to control the order of request handling;
+- It is possible to decouple classes that invoke operations from classes that perform operations (Single Responsibility Principle);
+- It is possible to introduce new handlers into the app without breaking the existing client code (Open/Closed Principle).
 
 </details>
 

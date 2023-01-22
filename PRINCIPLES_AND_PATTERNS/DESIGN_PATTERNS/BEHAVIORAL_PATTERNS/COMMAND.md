@@ -23,11 +23,11 @@ Command is a behavioral design pattern that turns a request into a stand-alone o
 <details>
   <summary>What are pros of a Command pattern?</summary>
 
-- It is possitble to decouple classes that invoke operations from classes that perform these operations (Single Responsibility Principle);
-- It is possitble to introduce new commands into the app without breaking existing client code (Open/Closed Principle);
-- It is possitble to implement undo/redo;
-- It is possitble to implement deferred execution of operations;
-- It is possitble to assemble a set of simple commands into a complex one.
+- It is possible to decouple classes that invoke operations from classes that perform these operations (Single Responsibility Principle);
+- It is possible to introduce new commands into the app without breaking existing client code (Open/Closed Principle);
+- It is possible to implement undo/redo;
+- It is possible to implement deferred execution of operations;
+- It is possible to assemble a set of simple commands into a complex one.
 
 </details>
 
