@@ -24,6 +24,6 @@ It is possible to recognize good performance, being proactive and going the extr
 <details>
   <summary>What is multigenerational approach?</summary>
 
-Different generations are motivated by different things. For Generation X, it is autonomy; for Generation Y, it is development; and Generation Z is motivated by purpose. Involve your teams in appropriate initiatives, offer them relevant opportunities, and provide valuable communication.
+A different generations are motivated by different things. For Generation X, it is autonomy; for Generation Y, it is development; and Generation Z is motivated by purpose. Involve your teams in appropriate initiatives, offer them relevant opportunities, and provide valuable communication.
 
 </details>
