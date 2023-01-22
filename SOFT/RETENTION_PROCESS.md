@@ -38,7 +38,7 @@
 - keep an eye on employees' work-life balance;
 - make employee's engagement possible;
 - make it a priority to help employees feel valued;
-- manage compensation proactively (not reactively);
+- manage compensation proactively;
 - manage change(s) - keep your team informed as much as you can to avoid rumors and make sure people are invited to ask their questions or discuss concerns.
 
 </details>
