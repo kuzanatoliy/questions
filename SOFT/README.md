@@ -4,6 +4,8 @@
 
 [Assessment](ASSESSMENT.md)
 
+[Exit process](EXIT_PROCESS.md)
+
 [Feedback](FEEDBACK.md)
 
 [Interview](INTERVIEW.md)
