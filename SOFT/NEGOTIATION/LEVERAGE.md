@@ -13,3 +13,14 @@ For example:
 * What I do always is true.
 
 </details>
+
+<details>
+  <summary>What are emotion leverages?</summary>
+
+**contrast effect** - a person might change his vision of a thing, when compare it with a new contrast object;
+
+**pendulum effect** - first, tension is artificially created (negative emotion, anxiety, problematic situation), and then it is slightly alleviated by the fact that a solution to the problem is offered;
+
+**self-fulfilling prophecy effect** - when person wait that something happen he uncontrolled make his actions for prophecy.
+
+</details>
