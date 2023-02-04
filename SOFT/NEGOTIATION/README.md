@@ -18,6 +18,8 @@ The subject of negotiations may be the terms of the transaction or agreement on 
 
 [Tricks](TRICKS.md)
 
+[Leverage](LEVERAGE.md)
+
 [The picture of the world](PICTURE_OF_THE_WORLD.md)
 
 [Preparation](PREPARATION.md)
