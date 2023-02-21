@@ -2,7 +2,11 @@
 
 [Negotiation](NEGOTIATION/README.md)
 
+[Soft checking](SOFT_CHECKING/README.md)
+
 [Assessment](ASSESSMENT.md)
+
+[Emotional intelligence](EMOTIONAL_INTELLIGENCE.md)
 
 [Exit process](EXIT_PROCESS.md)
 
@@ -13,8 +17,6 @@
 [Management](MANAGEMENT.md)
 
 [Mentoring](MENTORING.md)
-
-[Soft checking](SOFT_CHECKING/README.md)
 
 [Onboarding process](ONBOARDING_PROCESS.md)
 
