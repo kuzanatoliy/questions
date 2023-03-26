@@ -24,3 +24,12 @@ It is possible to mention three main differences between JSX and HTML that pre
 [More >>](https://www.solidjs.com/tutorial/introduction_jsx)
 
 </details>
+
+<details>
+  <summary>What is a Component?</summary>
+
+Components are functions that typically return JSX and other components can call them by JSX in other components.
+
+[More >>](https://www.solidjs.com/tutorial/introduction_components)
+
+</details>
