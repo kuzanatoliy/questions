@@ -51,3 +51,12 @@ An Effect is an observer that allows running side-effects that have dependenci
 [More >>](https://www.solidjs.com/tutorial/introduction_effects)
 
 </details>
+
+<details>
+  <summary>What are drived Signals?</summary>
+
+A function that accesses a signal is effectively also a signal: when its wrapped signal changes, it will in turn update its readers.
+
+[More >>](https://www.solidjs.com/tutorial/introduction_derived)
+
+</details>
