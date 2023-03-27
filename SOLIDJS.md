@@ -37,8 +37,17 @@ Components are functions that typically return JSX and other components can cal
 <details>
   <summary>What are Signals?</summary>
 
-Signals are the cornerstone of reactivity in Solid. They contain values that change over time; when you change a signal's value, it automatically updates anything that uses it. It is needed to use 'createSignal' function for creating the Signal.
+Signals are the cornerstone of reactivity in Solid. They contain values that change over time; when you change a signal's value, it automatically updates anything that uses it. It is needed to use ``createSignal`` function for creating the Signal.
 
 [More >>](https://www.solidjs.com/tutorial/introduction_signals)
+
+</details>
+
+<details>
+  <summary>What is an Effect?</summary>
+
+An Effect is an observer that allows running side-effects that have dependencies from signals. It is possible to use ``createEffect`` or ``createRenderEffect``.
+
+[More >>](https://www.solidjs.com/tutorial/introduction_effects)
 
 </details>
