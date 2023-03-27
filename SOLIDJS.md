@@ -60,3 +60,12 @@ A function that accesses a signal is effectively also a signal: when its wrapped
 [More >>](https://www.solidjs.com/tutorial/introduction_derived)
 
 </details>
+
+<details>
+  <summary>What are Memos?</summary>
+
+Memos are both an observer, like an effect, and a read-only signal. Since they are aware of both their dependencies and observers, they can ensure that they run only once for any change.
+
+[More >>](https://www.solidjs.com/tutorial/introduction_memos)
+
+</details>
