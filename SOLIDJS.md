@@ -33,3 +33,12 @@ Components are functions that typically return JSX and other components can cal
 [More >>](https://www.solidjs.com/tutorial/introduction_components)
 
 </details>
+
+<details>
+  <summary>What are Signals?</summary>
+
+Signals are the cornerstone of reactivity in Solid. They contain values that change over time; when you change a signal's value, it automatically updates anything that uses it. It is needed to use 'createSignal' function for creating the Signal.
+
+[More >>](https://www.solidjs.com/tutorial/introduction_signals)
+
+</details>
