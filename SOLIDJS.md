@@ -91,3 +91,14 @@ The ``For`` component is a way to loop over an array of objects. As the array ch
 [More >>](https://www.solidjs.com/tutorial/flow_for)
 
 </details>
+
+<details>
+  <summary>What is an Index component?</summary>
+
+The ``Index`` component is a way to loop over an array of objects, which will cause less rerenders in certain situations. It has a similar signature to ``For``, except this time, the item is the signal, and the index is fixed.
+
+**Note:** a value is signal.
+
+[More >>](https://www.solidjs.com/tutorial/flow_index)
+
+</details>
