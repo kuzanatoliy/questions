@@ -69,3 +69,14 @@ Memos are both an observer, like an effect, and a read-only signal. Since they a
 [More >>](https://www.solidjs.com/tutorial/introduction_memos)
 
 </details>
+
+<details>
+  <summary>Is it possible to use conditions in component?</summary>
+
+1. Ternary operations ``a ? componentA : componentB``;
+2. Boolean expressions ``a && componentA``;
+3. Show component.
+
+[More >>](https://www.solidjs.com/tutorial/flow_show)
+
+</details>
