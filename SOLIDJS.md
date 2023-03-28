@@ -80,3 +80,14 @@ Memos are both an observer, like an effect, and a read-only signal. Since they a
 [More >>](https://www.solidjs.com/tutorial/flow_show)
 
 </details>
+
+<details>
+  <summary>What is a For component?</summary>
+
+The ``For`` component is a way to loop over an array of objects. As the array changes, ``For`` updates or moves items in the DOM rather than recreating them. The component has ``each`` property where it is possible to pass an array and get a callback (the same as for a map). 
+
+**Note:** an index is signal.
+
+[More >>](https://www.solidjs.com/tutorial/flow_for)
+
+</details>
