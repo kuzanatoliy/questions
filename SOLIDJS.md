@@ -129,3 +129,12 @@ The ``Portal`` component allows inserting content at the location of your choosi
 [More >>](https://www.solidjs.com/tutorial/flow_portal)
 
 </details>
+
+<details>
+  <summary>What is an ErrorBoundary?</summary>
+
+A JavaScript error originating in the UI should not break the entire app. Error boundaries are components that catch JavaScript errors anywhere in their child component tree, log those errors, and display a fallback UI instead of the component tree that crashed.
+
+[More >>](https://www.solidjs.com/tutorial/flow_error_boundary)
+
+</details>
