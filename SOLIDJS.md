@@ -120,3 +120,12 @@ The ``Dynamic`` tag is useful when you render from data. It lets you pass eithe
 [More >>](https://www.solidjs.com/tutorial/flow_dynamic)
 
 </details>
+
+<details>
+  <summary>What is a Portal?</summary>
+
+The ``Portal`` component allows inserting content at the location of your choosing. By default, its elements will be rendered in a ``div`` in the ``document.body``.
+
+[More >>](https://www.solidjs.com/tutorial/flow_portal)
+
+</details>
