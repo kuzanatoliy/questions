@@ -102,3 +102,12 @@ The ``Index`` component is a way to loop over an array of objects, which will ca
 [More >>](https://www.solidjs.com/tutorial/flow_index)
 
 </details>
+
+<details>
+  <summary>What is a Switch?</summary>
+
+Sometimes it is needed to deal with conditionals with more than 2 mutual exclusive outcomes. For this case, we have the ``Switch`` and ``Match`` components modeled roughly after JavaScript's switch/case.
+
+[More >>](https://www.solidjs.com/tutorial/flow_switch)
+
+</details>
