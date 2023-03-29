@@ -111,3 +111,12 @@ Sometimes it is needed to deal with conditionals with more than 2 mutual exclusi
 [More >>](https://www.solidjs.com/tutorial/flow_switch)
 
 </details>
+
+<details>
+  <summary>What is a Dynamic?</summary>
+
+The ``Dynamic`` tag is useful when you render from data. It lets you pass either a string for a native element or a component function and it will render that with the rest of the provided props.
+
+[More >>](https://www.solidjs.com/tutorial/flow_dynamic)
+
+</details>
