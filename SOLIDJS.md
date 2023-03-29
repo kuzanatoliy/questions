@@ -138,3 +138,16 @@ A JavaScript error originating in the UI should not break the entire app. Error 
 [More >>](https://www.solidjs.com/tutorial/flow_error_boundary)
 
 </details>
+
+<details>
+  <summary>What are life-cycle methods?</summary>
+
+**onMount** is just a createEffect call that is non-tracking, which means it never re-runs. It is just an Effect call but it is possible to use it with confidence that it will run only once for your component, once all initial rendering is done.
+
+[More >>](https://www.solidjs.com/tutorial/lifecycles_onmount)
+
+**onCleanup**. It is possible to call it at any scope and it will run when that scope is triggered to re-evaluate and when it is finally disposed.
+
+[More >>](https://www.solidjs.com/tutorial/lifecycles_oncleanup)
+
+</details>
