@@ -183,3 +183,12 @@ The style attribute in Solid accepts either style strings or objects. However th
 [More >>](https://www.solidjs.com/tutorial/bindings_style)
 
 </details>
+
+<details>
+  <summary>How is it possible to set up class?</summary>
+
+Solid uses ``class`` to set the className property on an element. However, it is often convenient to conditionally set classes. For that reason, Solid has a built-in ``classList`` JSX attribute that takes an object where the key is the class name(s) and the value is a boolean expression. When true, the class is applied, and when false, it is removed.
+
+[More >>](https://www.solidjs.com/tutorial/bindings_classlist)
+
+</details>
