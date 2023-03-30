@@ -192,3 +192,12 @@ Solid uses ``class`` to set the className property on an element. However, i
 [More >>](https://www.solidjs.com/tutorial/bindings_classlist)
 
 </details>
+
+<details>
+  <summary>How is it possible to access to DOM element?</summary>
+
+Refs are basically assignments, which happen at creation time before they are attached to the document DOM. Just declare a variable, pass it in as a ref attribute, and the variable will be assigned.
+
+[More >>](https://www.solidjs.com/tutorial/bindings_refs)
+
+</details>
