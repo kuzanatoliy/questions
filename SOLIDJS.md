@@ -203,3 +203,14 @@ Refs are basically assignments, which happen at creation time before they are at
 [More >>](https://www.solidjs.com/tutorial/bindings_refs)
 
 </details>
+
+<details>
+  <summary>How is it possible to pass a variable number of attributes?</summary>
+
+Sometimes your components and elements accept a variable number of attributes and it makes sense to pass them down as an object instead of individually. So, It is possible to use a spred operator.
+
+**Note:** it is possible to forwrd refs through props.
+
+[More >>](https://www.solidjs.com/tutorial/bindings_refs)
+
+</details>
