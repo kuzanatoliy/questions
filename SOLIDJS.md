@@ -174,3 +174,12 @@ A JavaScript error originating in the UI should not break the entire app. Error 
 [More >>](https://www.solidjs.com/tutorial/bindings_events)
 
 </details>
+
+<details>
+  <summary>How is it possible to set up style?</summary>
+
+The style attribute in Solid accepts either style strings or objects. However the object form differs from Element.prototype.style and instead is a wrapper for calling style.setProperty. This means that keys take the dash-case form, such as ``background-color`` rather than ``backgroundColor``, and that any units must be explicitly provided (e.g., ``width: 500px`` rather than ``width: 500``).
+
+[More >>](https://www.solidjs.com/tutorial/bindings_style)
+
+</details>
