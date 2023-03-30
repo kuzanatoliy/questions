@@ -151,3 +151,26 @@ A JavaScript error originating in the UI should not break the entire app. Error 
 [More >>](https://www.solidjs.com/tutorial/lifecycles_oncleanup)
 
 </details>
+
+<details>
+  <summary>How is it possible to handle events?</summary>
+
+1. Solid supports an array syntax to call the handler with data (as the first argument) without creating additional closures:
+
+    const handler = (data, event) => /*...*/
+
+    <button onClick={[handler, data]}>Click Me</button>
+
+2. It is possible to pass only hanlder:
+
+    <div onMouseMove={handleMouseMove}>
+      The mouse position is {pos().x} x {pos().y}
+    </div>
+
+3. If it is needed to support other casings or not use event delegation, you can use ``on:`` namespace to match event handlers:
+
+    <button on:DOMContentLoaded={() => /* Do something */} >Click Me</button>
+
+[More >>](https://www.solidjs.com/tutorial/bindings_events)
+
+</details>
