@@ -225,3 +225,12 @@ This is just a syntactic sugar over ref, but is useful in that it resembles typi
 [More >>](https://www.solidjs.com/tutorial/bindings_directives)
 
 </details>
+
+<details>
+  <summary>How is it possible to set up default props to a component?</summary>
+
+It is possibel to use ``mergeProps``, which merges potentially reactive objects together (like a nondestructive ``Object.assign``) without losing reactivity. The most common case is when setting default props components.
+
+[More >>](https://www.solidjs.com/tutorial/props_defaults)
+
+</details>
