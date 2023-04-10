@@ -214,3 +214,14 @@ Sometimes your components and elements accept a variable number of attributes an
 [More >>](https://www.solidjs.com/tutorial/bindings_refs)
 
 </details>
+
+<details>
+  <summary>What is a derective?</summary>
+
+This is just a syntactic sugar over ref, but is useful in that it resembles typical bindings and there can be multiple bindings on the same element without conflict. This makes it a better tool for reusable DOM element behavior.
+
+**Note:** It is possible to set up a derective by ``use:`` namespace.
+
+[More >>](https://www.solidjs.com/tutorial/bindings_directives)
+
+</details>
