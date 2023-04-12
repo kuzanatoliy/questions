@@ -272,3 +272,12 @@ Yes. It is possible to use ``produce`` function or to create mutable store by ``
 [More >>](https://www.solidjs.com/tutorial/stores_mutation)
 
 </details>
+
+<details>
+  <summary>Is it possible to pass data around without relying on passing through props?</summary>
+
+Solid provides a Context API to pass data around without relying on passing through props. This is useful for sharing Signals and Stores. Using Context has the benefit of being created as part of the reactive system and managed by it. Context is also useful when have a need to "override" your state in a certains part of the component tree.
+
+[More >>](https://www.solidjs.com/tutorial/stores_context)
+
+</details>
