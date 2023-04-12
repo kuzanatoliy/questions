@@ -263,3 +263,12 @@ The setter function in its most basic form takes an object whose properties will
 [More >>](https://www.solidjs.com/tutorial/stores_createstore)
 
 </details>
+
+<details>
+  <summary>Is it possible to make mutation to store?</summary>
+
+Yes. It is possible to use ``produce`` function or to create mutable store by ``createMutable``. However, it is not recomended.
+
+[More >>](https://www.solidjs.com/tutorial/stores_mutation)
+
+</details>
