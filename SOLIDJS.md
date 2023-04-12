@@ -245,10 +245,21 @@ For this purpose, Solid has ``splitProps``. It takes the props object and one or
 </details>
 
 <details>
-  <summary>Is it correct to work with children directly?</summary>
+  <summary>Is it correct to work with a children directly?</summary>
 
 No. For that reason, Solid has the ``children`` helper. This method both creates a memo around the ``children`` prop and resolves any nested child reactive references so that you can interact with the children directly.
 
 [More >>](https://www.solidjs.com/tutorial/props_children)
+
+</details>
+
+<details>
+  <summary>How is it possible to create a store? What is a store?</summary>
+
+The ``createStore`` call takes the initial value and returns a read/write tuple similar to Signals. The first element is the store proxy which is readonly, and the second is a setter function.
+
+The setter function in its most basic form takes an object whose properties will be merged with the current state. It also supports path syntax so that we can do nested updates. In this way we can still maintain control of our reactivity but do pinpoint updates.
+
+[More >>](https://www.solidjs.com/tutorial/stores_createstore)
 
 </details>
