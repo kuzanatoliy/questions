@@ -234,3 +234,12 @@ It is possibel to use ``mergeProps``, which merges potentially reactive objects 
 [More >>](https://www.solidjs.com/tutorial/props_defaults)
 
 </details>
+
+<details>
+  <summary>How is it possible to split props?</summary>
+
+For this purpose, Solid has ``splitProps``. It takes the props object and one or more arrays of keys that we want to extract into their own props objects. It returns an array of props objects, one per array of specified keys, plus one props object with any remaining keys. All returned objects preserve reactivity.
+
+[More >>](https://www.solidjs.com/tutorial/props_split)
+
+</details>
