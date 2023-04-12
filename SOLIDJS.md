@@ -243,3 +243,12 @@ For this purpose, Solid has ``splitProps``. It takes the props object and one or
 [More >>](https://www.solidjs.com/tutorial/props_split)
 
 </details>
+
+<details>
+  <summary>Is it correct to work with children directly?</summary>
+
+No. For that reason, Solid has the ``children`` helper. This method both creates a memo around the ``children`` prop and resolves any nested child reactive references so that you can interact with the children directly.
+
+[More >>](https://www.solidjs.com/tutorial/props_children)
+
+</details>
