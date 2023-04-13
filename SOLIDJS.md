@@ -281,3 +281,12 @@ Solid provides a Context API to pass data around without relying on passing thro
 [More >>](https://www.solidjs.com/tutorial/stores_context)
 
 </details>
+
+<details>
+  <summary>Is it possible to use immutable stores as redux?</summary>
+
+Yes. However, it is needed to use ``reconcile`` method that enhances the setStore call and lets us diff the data from these immutable sources, only notifying the granular updates.
+
+[More >>](https://www.solidjs.com/tutorial/stores_immutable)
+
+</details>
