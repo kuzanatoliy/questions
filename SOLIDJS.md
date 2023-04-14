@@ -317,3 +317,12 @@ Solid has an ``on`` helper that enables setting explicit dependencies for our co
 [More >>](https://www.solidjs.com/tutorial/reactivity_on?solved)
 
 </details>
+
+<details>
+  <summary>Is it possible to use dinamic imports?</summary>
+
+Solid's lazy method allows us to wrap the component's dynamic import for deferred lazy loading. The output is a Component that can be used as normal in our JSX template with the exception that internally it dynamically loads the underlying imported code when it is rendered the first time, halting that branch of rendering until the code is available.
+
+[More >>](https://www.solidjs.com/tutorial/reactivity_on?solved)
+
+</details>
