@@ -290,3 +290,12 @@ Yes. However, it is needed to use ``reconcile`` method that enhances the setStor
 [More >>](https://www.solidjs.com/tutorial/stores_immutable)
 
 </details>
+
+<details>
+  <summary>What are batching updates?</summary>
+
+Solid's ``batch`` helper allows to queue up multiple changes and then apply them all at the same time before notifying their observers.
+
+[More >>](https://www.solidjs.com/tutorial/reactivity_untrack)
+
+</details>
