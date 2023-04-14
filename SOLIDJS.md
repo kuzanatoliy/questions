@@ -341,6 +341,8 @@ It is possible to use ``createResource`` signal for handling async loading. Reso
 
 ``Suspense`` serves as a boundary that can show a fallback placeholder instead of the partially loaded content as these async events resolve. Moreover, it is possible to use ``SuspenseList`` component for combining a few cases.
 
+It is possible to avoid going back to the fallback state by leveraging ``useTransition``. It provides a wrapper and a pending indicator. The wrapper puts all downstream updates in a transaction that doesn't commit until all async events complete.
+
 [More >>](https://www.solidjs.com/tutorial/async_suspense)
 
 </details>
