@@ -44,4 +44,6 @@
 
 [Single page application](SINGLE_PAGE_APPLICATION.md)
 
+[SolidJS](SOLIDJS.md)
+
 [Storages](STORAGES.md)
