@@ -296,7 +296,7 @@ Yes. However, it is needed to use ``reconcile`` method that enhances the setStor
 
 Solid's ``batch`` helper allows to queue up multiple changes and then apply them all at the same time before notifying their observers.
 
-[More >>](https://www.solidjs.com/tutorial/reactivity_untrack)
+[More >>](https://www.solidjs.com/tutorial/reactivity_batch)
 
 </details>
 
@@ -306,5 +306,14 @@ Solid's ``batch`` helper allows to queue up multiple changes and then apply them
 Solid provides the ``untrack`` helper as a way to prevent the wrapping computation from tracking any reads.
 
 [More >>](https://www.solidjs.com/tutorial/reactivity_untrack)
+
+</details>
+
+<details>
+  <summary>What is an on helper?</summary>
+
+Solid has an ``on`` helper that enables setting explicit dependencies for our computations. This is mostly used as a terse way to be even more explicit about which Signals are tracked (and not track any other Signals, even if they are read).
+
+[More >>](https://www.solidjs.com/tutorial/reactivity_on?solved)
 
 </details>
