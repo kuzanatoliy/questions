@@ -335,3 +335,12 @@ It is possible to use ``createResource`` signal for handling async loading. Reso
 [More >>](https://www.solidjs.com/tutorial/async_resources)
 
 </details>
+
+<details>
+  <summary>What is a Suspense component?</summary>
+
+``Suspense`` serves as a boundary that can show a fallback placeholder instead of the partially loaded content as these async events resolve.
+
+[More >>](https://www.solidjs.com/tutorial/async_suspense)
+
+</details>
