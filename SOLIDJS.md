@@ -323,6 +323,15 @@ Solid has an ``on`` helper that enables setting explicit dependencies for our co
 
 Solid's lazy method allows us to wrap the component's dynamic import for deferred lazy loading. The output is a Component that can be used as normal in our JSX template with the exception that internally it dynamically loads the underlying imported code when it is rendered the first time, halting that branch of rendering until the code is available.
 
-[More >>](https://www.solidjs.com/tutorial/reactivity_on?solved)
+[More >>](https://www.solidjs.com/tutorial/async_lazy)
+
+</details>
+
+<details>
+  <summary>What is possible to use for async loading?</summary>
+
+It is possible to use ``createResource`` signal for handling async loading. Resources are special Signals designed specifically to handle Async loading. Their purpose is to wrap async values in a way that makes them easy to interact with in Solid's distributed execution model.
+
+[More >>](https://www.solidjs.com/tutorial/async_resources)
 
 </details>
