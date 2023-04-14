@@ -299,3 +299,12 @@ Solid's ``batch`` helper allows to queue up multiple changes and then apply them
 [More >>](https://www.solidjs.com/tutorial/reactivity_untrack)
 
 </details>
+
+<details>
+  <summary>What is an untrack helper?</summary>
+
+Solid provides the ``untrack`` helper as a way to prevent the wrapping computation from tracking any reads.
+
+[More >>](https://www.solidjs.com/tutorial/reactivity_untrack)
+
+</details>
