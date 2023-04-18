@@ -38,6 +38,8 @@
 
 [ReactJS](REACTJS.md)
 
+[Rendering types](RENDERING_TYPES.md)
+
 [Product development strategies](PRODUCT_DEVELOPMENT_STRATEGIES.md)
 
 [Requirements](REQUIREMENTS.md)
