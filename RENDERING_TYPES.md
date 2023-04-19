@@ -72,3 +72,18 @@
 - Not SEO Friendly because we don’t get any content until the page renders.
 
 </details>
+
+<details>
+  <summary>What are pros and cons of ISR?</summary>
+
+**Pros:**
+
+- ISR is extremely fast due to page pre-rendering and caching;
+- There is no need to re-deploy the site on content modification;
+- SEO-friendly.
+
+**Cons:**
+
+- Users may get stale data if they visit the site before the new update is made on content modification.
+
+</details>
