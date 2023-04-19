@@ -24,15 +24,34 @@
 
 **Pros:**
 
-- Static sites are the fastest form of web pages as they are pre-rendered and ready to be served.
-- Have great SEO because they pre-render the fetched content.
+- Static sites are the fastest form of web pages as they are pre-rendered and ready to be served;
+- Have great SEO because they pre-render the fetched content;
 - Rendering happens at build time on the server, the result is then cached in CDN’s, thus improving the performance as rendering happens once and the result is stored closer to users (solving latency issues).
 
 **Cons:**
 
-- Low Data Integrity as it is only fetched during build time.
-- Problematic for sites with many pages due to slow build time.
-- The site to be rebuilt, tested and deployed on content updation.
-- If content changes frequently, it may become stale as rendering happens only once. Hence, there is a need to trigger a rebuild inorder to update the content
+- Low Data Integrity as it is only fetched during build time;
+- Problematic for sites with many pages due to slow build time;
+- The site to be rebuilt, tested and deployed on content updation;
+- If content changes frequently, it may become stale as rendering happens only once. Hence, there is a need to trigger a rebuild inorder to update the content.
+
+</details>
+
+<details>
+  <summary>What are pros and cons of SSR?</summary>
+
+**Pros:**
+
+- Quick Initial Access: the pages are immediately available to interact with for your users, even on slow Internet connections;
+- High Data Integrity, as it fetches on every render;
+- Have great SEO because they pre-render the fetched content;
+- Great for static sites.
+
+**Cons:**
+
+- If the pages have heavy/complex data, browsing from page to page is slower as here the app is rendered twice, once on the server and then on the client;
+- Complex caching;
+- Requires a bigger and more powerful server to provide high-performance;
+- High Latency: SSR sites tend to slow down in case of heavy traffic.
 
 </details>
