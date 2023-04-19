@@ -55,3 +55,20 @@
 - High Latency: SSR sites tend to slow down in case of heavy traffic.
 
 </details>
+
+<details>
+  <summary>What are pros and cons of CSR?</summary>
+
+**Pros:**
+
+- CSR can be used to create pages with dynamic content;
+- It doesn’t drive up the server cost;
+- Loading remaining pages after the initial load is fast;
+- High Data Integrity, as it fetches on every render.
+
+**Cons:**
+
+- Slow initial load time causes poor performance.
+- Not SEO Friendly because we don’t get any content until the page renders.
+
+</details>
