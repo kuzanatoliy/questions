@@ -18,3 +18,21 @@
 **ISR (Incremental Static Regeneration)** - It is a combination of SSG and SSR, where it is served statically, but at a certain time and with a certain condition that page will rebuild and fetch the info from the API again.
 
 </details>
+
+<details>
+  <summary>What are pros and cons of SSG?</summary>
+
+**Pros:**
+
+- Static sites are the fastest form of web pages as they are pre-rendered and ready to be served.
+- Have great SEO because they pre-render the fetched content.
+- Rendering happens at build time on the server, the result is then cached in CDN’s, thus improving the performance as rendering happens once and the result is stored closer to users (solving latency issues).
+
+**Cons:**
+
+- Low Data Integrity as it is only fetched during build time.
+- Problematic for sites with many pages due to slow build time.
+- The site to be rebuilt, tested and deployed on content updation.
+- If content changes frequently, it may become stale as rendering happens only once. Hence, there is a need to trigger a rebuild inorder to update the content
+
+</details>
