@@ -16,6 +16,8 @@
 
 [Management](MANAGEMENT.md)
 
+[Meetings](MEETINGS.md)
+
 [Mentoring](MENTORING.md)
 
 [Onboarding process](ONBOARDING_PROCESS.md)
