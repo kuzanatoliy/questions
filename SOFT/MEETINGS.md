@@ -40,3 +40,17 @@
 - Say how you feel about the bad behaviour.
 
 </details>
+
+<details>
+  <summary>What tips for virtual meetings?</summary>
+
+1. Use visul rather than just audio;
+2. Check equipment and software;
+3. Consider the audio quality;
+4. Exchange mobile members feforehand;
+5. Know your software's features;
+6. Think about who to invite;
+7. Keep updates on who said what;
+8. Introduce yourselfs.
+
+</details>
