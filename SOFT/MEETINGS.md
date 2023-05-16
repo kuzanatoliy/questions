@@ -31,3 +31,12 @@
 9. Being scared to say what they really think.
 
 </details>
+
+<details>
+  <summary>What are responses to disruptive behaviour?</summary>
+
+- Make constructive statements;
+- Poin out their habit;
+- Say how you feel about the bad behaviour.
+
+</details>
