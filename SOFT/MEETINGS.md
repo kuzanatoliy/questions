@@ -54,3 +54,15 @@
 8. Introduce yourselfs.
 
 </details>
+
+<details>
+  <summary>What are meeting principles?</summary>
+
+1. Purpose - a clearly defined meaning and result for every meeting;
+2. Time - a correct duration for meeting;
+3. Agenda - it is simply a step-by-step outline for participants to follow in the meeting;
+4. Preparation - ideally, each participant comes prepared for each meeting;
+5. Focus - stay true to the stated purpose of the meeting;
+6. Leadership - put simply who's guiding the meeting.
+
+</details>
