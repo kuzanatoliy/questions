@@ -66,3 +66,13 @@
 6. Leadership - put simply who's guiding the meeting.
 
 </details>
+
+<details>
+  <summary>How to open a meeting in positive note?</summary>
+
+1. Arrive early;
+2. Eliminate distractions;
+3. Greet on arrival;
+4. Set tone through example.
+
+</details>
