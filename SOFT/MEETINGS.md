@@ -85,3 +85,14 @@
 3. Ask throught provoking questions.
 
 </details>
+
+<details>
+  <summary>How to follow up on previous commitments?</summary>
+
+1. Facilitator reads previous commitments;
+2. Keep simple;
+3. Use a positive tone;
+4. Avoid a long discussion;
+5. Finish with brief, specific, and cincere praise.
+
+</details>
