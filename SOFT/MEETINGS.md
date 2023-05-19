@@ -76,3 +76,12 @@
 4. Set tone through example.
 
 </details>
+
+<details>
+  <summary>How to share a brief training moment?</summary>
+
+1. Grab attention;
+2. Get to the point;
+3. Ask throught provoking questions.
+
+</details>
