@@ -24,3 +24,12 @@ A person who fill his schedules with requests from others, instead of focusing o
 **Issues:** multitasking, missed deadlines, ineffective scheduling, skipping breaks
 
 </details>
+
+<details>
+  <summary>Who is a Procrastinator?</summary>
+
+Procrastinators delay work on everything remotely important to anyone. Some claim they work better under pressure, but the results they get are often dampened by the stress and anxiety this practice brings.
+
+**Issues:** missed deadlines, ineffective scheduling, multitasking
+
+</details>
