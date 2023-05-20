@@ -69,3 +69,40 @@ A person who wants everything to be perfect. He will work overtime, and invest a
 **Issues:** missed deadlines, skipping breaks
 
 </details>
+
+<details>
+  <summary>What is a Pomodoro technique?</summary>
+
+You parse your work into 25-minute work sessions (pomodoros), and 5-minute breaks. After 4 cycles, you take a 20-minute break.
+
+Developed by Francesco Cirillo, the Pomodoro technique got its name after the Pomodoro-shaped kitchen timer Francesco used to track progress in his work.
+
+**Time management skills it improves:** Effective planning, Stress management, Avoiding distractions, Single-tasking, Setting priorities, Saying "No"
+
+**Issues it solves:** Ineffective scheduling, Skipping breaks, Multitasking, Missed deadlines
+
+**How Pomodoro works:**
+
+1. Set your timer for 25 minutes;
+2. Focus on your work during these 25 minutes;
+3. Stop as soon as the alarm goes off;
+4. Take a 5-minute break;
+5. Resume work for another 25 minutes after the break;
+6. After four 25/5 minute cycles, take a 20-minute break;
+7. Repeat the process until finished with task or project;
+8. Time management technique Pomodoro;
+9. For this purpose, you can try the Pomodoro Timer in Clockify, or learn more about how to start using Pomodoro.
+
+**Advantages:**
+
+1. Better time estimates for your work;
+2. Fixed work time — you'll be more likely to focus;
+3. Regular breaks help eliminate burnout and improve performance;
+4. Pomodoros are an easy way to track profitability and productivity.
+
+**Disadvantages:**
+
+1. You have to stop working once the 25 minutes run out — If you're doing particularly well, this is counterproductive.
+2. Following fixed intervals — the prescribed 25/5 minute sessions may not work for you.
+
+</details>
