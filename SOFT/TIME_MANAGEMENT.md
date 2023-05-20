@@ -146,3 +146,36 @@ _Done_ — tasks you've finished.
 3. May be difficult to predict when your team will finish the tasks (and project) because the only measure of progress is moving across columns; there is no time component.
 
 </details>
+
+<details>
+  <summary>What is a Getting Things Done technique?</summary>
+
+A five-step method that allows you to brainstorm your tasks, and make them into a straightforward to-do list.
+
+Getting Things Done (GTD) was introduced by David Allen in his book Getting Things Done: The Art of Stress Free Productivity.
+
+**Time management skills it improves:** Effective planning, Setting priorities, SMART goal setting
+
+**Issues it solves:** Ineffective scheduling
+
+**How Getting Things Done works:**
+
+1. _Capture_ — note every task that springs to mind;
+2. _Clarify_ — determine whether the task is actionable and whether it has concrete steps you can lay out and follow;
+3. _Organize_ — file tasks under different labels, and provide them with context (eg. home, office, request from Tom);
+4. _Reflect_ — from time to time, review your tasks: What is the next step for the task? Do you really need to finish it this week?
+5. _Engage_ — once you have noted, identified as actionable, properly filed, and reviewed your tasks, simply start working on them.
+
+**Advantages:**
+
+1. Keep all tasks, assignments and projects in perspective;
+2. Clear head once you lay out every task you can think of in front;
+3. You can use GTD to boost both your personal, and professional productivity.
+
+**Disadvantages:**
+
+1. You have to use your willpower to progress with your work — GTD doesn't provide guidelines for dealing with distractions;
+2. Organization of tasks happens by context, and not by project, which may be unhelpful for people who are used to parsing tasks in relation to their project;
+3. Too many items on the list can render it ineffective, as you'll be less likely to structure your day properly.
+
+<details>
