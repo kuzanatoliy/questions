@@ -42,3 +42,12 @@ A person who is easily distracted. A random request from a colleague is as likel
 **Issues:** multitasking, missed deadlines, ineffective scheduling
 
 </details>
+
+<details>
+  <summary>Who is an Underestimator?</summary>
+
+A person who estimates that handling a task will take much less time than it actually does — the person rarely live up to his optimistic deadlines.
+
+**Issues:** missed deadlines, ineffective scheduling
+
+</details>
