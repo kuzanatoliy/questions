@@ -51,3 +51,12 @@ A person who estimates that handling a task will take much less time than it act
 **Issues:** missed deadlines, ineffective scheduling
 
 </details>
+
+<details>
+  <summary>Who is a Firefighter?</summary>
+
+A perosn who tries to tackle everything on his own, right now — he's constantly putting out "fires" left and right, and don't feel fulfilled unless he's working on 10 tasks at once, and feeling "busy". Once he's done with that, you simply ask: "What's next?" — which is a practice that will lead you to burnout, sooner or later.
+
+**Issues:** missed deadlines, skipping breaks, ineffective scheduling
+
+</details>
