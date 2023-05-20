@@ -33,3 +33,12 @@ Procrastinators delay work on everything remotely important to anyone. Some clai
 **Issues:** missed deadlines, ineffective scheduling, multitasking
 
 </details>
+
+<details>
+  <summary>Who is a Distractor?</summary>
+
+A person who is easily distracted. A random request from a colleague is as likely to catch your fleeting attention.
+
+**Issues:** multitasking, missed deadlines, ineffective scheduling
+
+</details>
