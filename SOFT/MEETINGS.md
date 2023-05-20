@@ -96,3 +96,13 @@
 5. Finish with brief, specific, and cincere praise.
 
 </details>
+
+<details>
+  <summary>How to keep a meeting on track?</summary>
+
+1. Decide how people will take turns speaking;
+2. Avoid singling out anyone who stray off topic;
+3. Stick to your meeting ground rules;
+4. Let the timer keep things on track.
+
+</details>
