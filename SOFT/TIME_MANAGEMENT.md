@@ -259,3 +259,55 @@ James Martin was the first to explain the technique in more detail, in one of th
 3. Your timeboxing calculations may be off. Too short timeboxes — you may have to stop before you're even immersed in a task. Too long timeboxes — you may lose focus, or start procrastinating to pass the time until the end of the timebox.
 
 </details>
+
+<details>
+  <summary>What is a Time blocking technique?</summary>
+
+You block out time for a specific activity or task and work on it during this time period.
+
+This time management technique was made popular by Elon Musk.
+
+**Time management skills it improves:** Effective planning, Avoiding distractions, Single-tasking, Setting priorities, SMART goal setting
+
+**Issues it solves:** Missed deadlines, Ineffective scheduling, Multitasking, Skipping breaks
+
+**How time blocking works:**
+
+There are 4 stages to Time Blocking:
+
+1. The planning stage:
+
+- Define your tasks and activities, identify priorities
+
+2. The blocking stage:
+
+- Assign each task with a specific time block — number of minutes or hours, with specific days, start and end times noted in your calendar;
+- The time block can be shorter, for example, 10 minutes, or longer, for example, 90 minutes. This depends on the priority level of the task;
+- Block more time for priority tasks; also, allocate these tasks to the time of day when you're the most productive;
+- Block your less productive time of the day for less important tasks.
+  Note everything in a calendar: the day, the start time, and the end time.
+
+3. The acting stage:
+
+- Start working on the first daily task (usually your priority task);
+- Work your way down your schedule;
+- Take breaks between time blocks, and schedule these breaks;
+- Hold a flexible view on your time blocking schedule: if you receive an urgent task, block an appropriate amount of time for it, and start working on it as soon as possible.
+
+4. The revision stage:
+
+- If you see a task takes longer or shorter than you estimated, revise the schedule for other tasks you've planned for that day.
+
+**Advantages:**
+
+1. A comprehensive way of keeping track of your work day;
+2. Works great with Cal Newport's idea of deep work, as you have to stick to a fixed schedule for when you'll focus on a task;
+3. You'll feel like you have better control of your workload.
+
+**Disadvantages:**
+
+1. Unexpected interruptions may disrupt your schedule;
+2. Same as with Timeboxing, your time calculations may be off — you may procrastinate while waiting for a too long time block to end or rush to beat the time during a too short time block;
+3. Time-consuming to plan time blocks in your calendar for all your activities, every day.
+
+</details>
