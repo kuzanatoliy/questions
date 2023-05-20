@@ -178,7 +178,7 @@ Getting Things Done (GTD) was introduced by David Allen in his book Getting Thin
 2. Organization of tasks happens by context, and not by project, which may be unhelpful for people who are used to parsing tasks in relation to their project;
 3. Too many items on the list can render it ineffective, as you'll be less likely to structure your day properly.
 
-<details>
+</details>
 
 <details>
   <summary>What is an Eat that Frog technique?</summary>
@@ -217,3 +217,45 @@ _Task E_ — a task you don't really need to do, so you're free to eliminate it.
 
 1. A difficult and demoralizing start of the day;
 2. It may be rigid and impractical if your most important task changes during the course of the day.
+
+</details>
+
+<details>
+  <summary>What is a Timeboxing technique?</summary>
+
+You allocate time periods (timeboxes) to activities; you work within this time period, and then stop once the set time runs out. Timeboxing often includes fixed deadlines, so it's used in project management.
+
+Timeboxing works as a more general approach to the Pomodoro technique — instead of 25-minute sessions (timeboxes), the period of time within a timebox isn't as fixed.
+
+James Martin was the first to explain the technique in more detail, in one of the chapters of his book Rapid Application Development.
+
+**Time management skills it improves:** Effective planning, Avoiding distractions, Single-tasking, Setting priorities
+
+**Issues it solves:** Missed deadlines, Ineffective scheduling, Multitasking, Skipping breaks
+
+**How timeboxing works:**
+
+1. Lay out all your activities and tasks on a list;
+2. Decide what you want to accomplish with these tasks — define your goals;
+3. If a task is important and requires great focus, allocate a longer time period to it (for example, 1 or 2 hours);
+4. If it's a difficult task, parse it, and allocate shorter time periods (for example, 20-30 minutes) to parts of it, to make the task easier to manage;
+5. Start from your first task, and work your way down;
+6. When the allocated time for a task is up, stop working on it;
+7. Take a break;
+8. Review what you've managed to accomplish;
+9. Turn your attention to other time boxes in your schedule.
+
+**Advantages:**
+
+1. Great for a large number of small tasks — it'll be easier to keep track of them and tackle them, once you have them laid out in timeboxes;
+2. Deadlines are an important component, so you'll be focused on achieving as much as you can until the timebox expires;
+3. Natural perfectionists will have less time to tweak every detail, as they'll have to move on to the next task in the schedule;
+4. Timeboxing doesn't allow multitasking, so you'll be able to focus on one task at a time.
+
+**Disadvantages:**
+
+1. You have to stop working on a task when the time for it expires, which is counterproductive when you find yourself immersed in a task;
+2. It may be challenging to stick to a strict schedule determined by timeboxes, when you consider unavoidable interruptions, such as phone calls;
+3. Your timeboxing calculations may be off. Too short timeboxes — you may have to stop before you're even immersed in a task. Too long timeboxes — you may lose focus, or start procrastinating to pass the time until the end of the timebox.
+
+</details>
