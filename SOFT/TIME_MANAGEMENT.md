@@ -179,3 +179,41 @@ Getting Things Done (GTD) was introduced by David Allen in his book Getting Thin
 3. Too many items on the list can render it ineffective, as you'll be less likely to structure your day properly.
 
 <details>
+
+<details>
+  <summary>What is an Eat that Frog technique?</summary>
+
+This time management technique is aimed at prioritizing tasks. You pick out your most important, or worst task (this is your "frog"), and tackle it first thing tomorrow. Once you have finished with your "frog", you can move on to other tasks for the day, but not before.
+
+This may be a task that requires all your attention (due to its importance or difficulty), one that you've been avoiding (because it's boring, demanding or difficult).
+
+The "Eat that Frog" premise was developed by Brian Tracy, in his book Eat that Frog! 21 Great Ways to Stop Procrastinating and Get More Done in Less Time..
+
+**Time management skills it improves:** Effective planning, Setting priorities, SMART goal setting
+
+**Issues it solves:** Ineffective scheduling, Multitasking, Missed deadlines
+
+**How Eat that frog works:**
+
+You have to identify tasks based on their priority, and label them accordingly:
+
+_Task A_ — most important task, the one you should tackle first, or suffer the consequences.
+
+_Task B_ — second most important task, the one you should tackle after Task A. Less important, but still vital.
+
+_Task C_ — a task you could do, but you wouldn't suffer consequences if you didn't do it.
+
+_Task D_ — a task you should ideally delegate to someone else, and allocate this time to Task A.
+
+_Task E_ — a task you don't really need to do, so you're free to eliminate it.
+
+**Advantages:**
+
+1. Doing the most important or worst task first thing in the morning guarantees the rest of the items in your daily schedule will be easier to accomplish — this will motivate and energize you;
+2. Prioritizing tasks becomes easier;
+3. You'll have the rest of the day left for more enjoyable tasks.
+
+**Disadvantages:**
+
+1. A difficult and demoralizing start of the day;
+2. It may be rigid and impractical if your most important task changes during the course of the day.
