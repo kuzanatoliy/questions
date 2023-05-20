@@ -106,3 +106,12 @@
 4. Let the timer keep things on track.
 
 </details>
+
+<details>
+  <summary>What complete action items for a meeting?</summary>
+
+1. Review each action item you gathered, one at a time;
+2. Review your calendar;
+3. Follow throwgh and complete your commitments, then report back.
+
+</details>
