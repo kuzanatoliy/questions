@@ -60,3 +60,12 @@ A perosn who tries to tackle everything on his own, right now — he's constantl
 **Issues:** missed deadlines, skipping breaks, ineffective scheduling
 
 </details>
+
+<details>
+  <summary>Who is a Perfectionist?</summary>
+
+A person who wants everything to be perfect. He will work overtime, and invest all his efforts into delivering a high-quality project — but he often don't know how to quit while he's ahead, so you may miss your deadlines and risk burnout.
+
+**Issues:** missed deadlines, skipping breaks
+
+</details>
