@@ -33,3 +33,5 @@
 [Retention process](RETENTION_PROCESS.md)
 
 [Staffing](STAFFING.md)
+
+[Time management](TIME_MANAGEMENT.md)
