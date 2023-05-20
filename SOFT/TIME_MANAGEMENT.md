@@ -106,3 +106,43 @@ Developed by Francesco Cirillo, the Pomodoro technique got its name after the Po
 2. Following fixed intervals — the prescribed 25/5 minute sessions may not work for you.
 
 </details>
+
+<details>
+  <summary>What is a Kanban technique?</summary>
+
+A visual time management technique that helps you follow the progress with your projects — you track how the tasks move across differently labeled columns.
+
+This technique was adopted in the 1960s in Japan by Taiichi Ono, for Toyota Automotive, to help increase their productivity, and effectiveness in manufacture.
+
+**Time management skills it improves:** Effective planning, SMART goal setting, Proper task delegation, Single-tasking
+
+**Issues it solves:** Multitasking, Missed deadlines, Ineffective scheduling
+
+**How Kanban works:**
+
+You can use project management software, a pen and paper, or a whiteboard and sticky notes.
+
+Determine the number of stages in your project or task, and create the columns. For example, you can create four columns, and move tasks within a project across these stages:
+
+_Backlog_ — you brainstorm, and define all your tasks here. You then decide what tasks you're supposed to move to the To Do column, and what tasks can wait their turn.
+
+_To Do_ — these are the tasks you'll work on.
+
+_In Progress_ — these are the tasks you are currently working on.
+
+_Done_ — tasks you've finished.
+
+**Advantages:**
+
+1. No one-size-fits-all template, which means you can customize the principles to fit your own needs;
+2. Clear visual representation of your entire work situation: straightforward representation of your progress with a project;
+3. You can break the project into small, manageable tasks, and track their progress across the board;
+4. The team is likely to focus on progressing with their tasks, in order to reach the "Done" column.
+
+**Disadvantages:**
+
+1. No one-size-fits-all template, which means creating a Kanban board can be time-consuming, as you have to decide how many columns to include and how to name them.
+2. Kanban doesn't help your order tasks directly, in terms of importance and urgency.
+3. May be difficult to predict when your team will finish the tasks (and project) because the only measure of progress is moving across columns; there is no time component.
+
+</details>
