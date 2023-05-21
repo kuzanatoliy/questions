@@ -419,3 +419,40 @@ When using the Action Method, you organize your activities, tasks, and events as
 2. No schedule for reviewing backburner items — no clarity on when, or whether you should tackle these items.
 
 </details>
+
+<details>
+  <summary>What is an Eisenhower Matrix technique?</summary>
+
+A time management technique in which tasks are prioritized is known as the Eisenhower Matrix — this technique is based on labeling each task as: important / not important, and urgent / not urgent.
+
+You assess the tasks according to their importance and urgency and tackle them in relation to this.
+
+The Eisenhower Matrix is named after the American president Eisenhower, who was known for productivity during his time in Office.
+
+**Time management skills it improves:** Effective planning, Setting priorities, Single-tasking, Saying "No", Avoiding distractions, SMART goal setting, Proper task delegation
+
+**Issues it solves:** Ineffective scheduling, Missed deadlines, Multitasking
+
+**How the Eisenhower Matrix works:**
+
+List all your tasks, and divide them into 4 quadrants:
+
+_The 1st quadrant_ — Tasks that are important and urgent. You should do them immediately.
+
+_The 2nd quadrant_ — Tasks that are important, but are not urgent. You should make a plan when you'll tackle them.
+
+_The 3rd quadrant_ — Tasks that are not important, but are urgent. You should delegate these tasks to your colleagues.
+
+_The 4th quadrant_ — Tasks that are not important and not urgent. You should eliminate them altogether from your schedule.
+
+**Advantages:**
+
+1. A straightforward principle to prioritizing tasks;
+2. Allows you to consider what tasks you can delegate or eliminate.
+
+**Disadvantages:**
+
+1. May be difficult to determine the importance and urgency level of tasks;
+2. Present bias may stop you from implementing this technique in full — you'll feel an urge to focus on urgent tasks, which are not necessarily important.
+
+</details>
