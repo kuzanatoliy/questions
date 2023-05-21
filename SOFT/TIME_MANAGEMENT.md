@@ -311,3 +311,39 @@ There are 4 stages to Time Blocking:
 3. Time-consuming to plan time blocks in your calendar for all your activities, every day.
 
 </details>
+
+<details>
+  <summary>What is an Inbox-Zero technique?</summary>
+
+This is an approach for managing your email inbox — you aim at keeping your email inbox empty, or close to empty.
+
+The approach was developed by Merlin Mann, an expert in the field of productivity.
+
+**Time management skills it improves:** Avoiding distractions, Single-tasking, Setting priorities, Stress management, Effective planning
+
+**Issues it solves:** Ineffective scheduling, Multitasking
+
+**How Inbox-Zero works:**
+
+1. Determine the time of day you'll work on managing your inbox — stick to this time;
+2. Silence notifications, and don't leave the email tab in your browser open;
+3. Prioritize your emails:
+
+- Respond right away to most important emails, and emails you can answer quickly;
+- Move emails that'll take you longer to answer to a "needs a response" folder (allocate some of your "manage inbox" time to these responses);
+- Decide what messages you can delegate, and then forward them to other team members;
+- Delete and archive unwanted, or old messages.
+
+**Advantages:**
+
+1. A great method for managing an inbox with a lot of traffic;
+2. Decreases the number of unread messages, those stopping you from finding your important emails;
+3. Focused on allocating inbox management only to a specific part of the day, so you won't be distracted by emails throughout the day.
+
+**Disadvantages:**
+
+1. Time-consuming, considering you have to forward, archive and delete a lot of the messages;
+2. Only deals with inbox management, so it has to be combined with other time management techniques, ones that focus on managing tasks and projects;
+3. Problematic for people who converse with clients and colleagues through email — important emails may get lost.
+
+</details>
