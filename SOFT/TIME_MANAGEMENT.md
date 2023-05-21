@@ -695,3 +695,37 @@ With a preset number of minutes for your initial work session:
 3. General lack of rules.
 
 </details>
+
+<details>
+  <summary>What is a Top Goal technique?</summary>
+
+You identify your most important goal and allocate time each day to work on it specifically.
+
+Greg McKeown was the one who clarified the concept in his book Essentialism: The Disciplined Pursuit of Less.
+
+**Time management skills it improves:** SMART goal setting, Effective planning, Stress management, Single-tasking, Setting priorities
+
+**Issues it solves:** Multitasking, Ineffective scheduling
+
+**How Top Goal works:**
+
+1. You pick your Top Goal;
+2. Schedule 2 hours to work on it every day;
+3. It's best that you schedule these 2 hours for the early time of day, when most people are asleep, to make sure no one interrupts you;
+4. Stick to the schedule;
+5. Avoid social media, YouTube, and other distractions during this time;
+6. Only work on your Top Goal during these 2 hours;
+7. Leave the rest of the day for other activities.
+
+**Advantages:**
+
+1. By working on a task continuously for 2 hours you practice your deep work capabilities;
+2. You're likely to make great progress with the tasks that lead to your Top Goal, as you'll be allocating time specifically to them each day.
+
+**Disadvantages:**
+
+1. No specifications on how to avoid distractions, which are a big threat to your 2-hour work bubble;
+2. When just starting out, 2 hours of focused work may be too much to handle;
+3. In contrast, seasoned practitioners may find 2 hours to be too little time, yet they are only allowed to work on their Top Goal within this fixed time frame.
+
+</details>
