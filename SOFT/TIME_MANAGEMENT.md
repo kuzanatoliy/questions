@@ -456,3 +456,38 @@ _The 4th quadrant_ — Tasks that are not important and not urgent. You should e
 2. Present bias may stop you from implementing this technique in full — you'll feel an urge to focus on urgent tasks, which are not necessarily important.
 
 </details>
+
+<details>
+  <summary>What is a Biological Prime Time technique?</summary>
+
+Your Biological Prime Time is the time of day when you have the highest energy levels, so you're most likely to be productive with your work.
+
+Once you determine your biological prime time, you'll be able to allocate your most important, priority tasks to this time.
+
+The term "Biological Prime Time" was first introduced by Sam Carpenter in his book Work the System.
+
+**Time management skills it improves:** Effective planning, Setting priorities, Avoiding distractions, SMART goal setting
+
+**Issues it solves:** Ineffective scheduling
+
+**How Biological Prime Time works:**
+
+1. You'll have to experiment with your work across several days, say 20 days;
+2. Track your focus, energy, motivation, and attention span during these days;
+3. It's best that you track these variables within a fixed time period, say, from 9 a.m. to 5 p.m. every day;
+4. Chart your results every hour, and every day;
+5. After 20 days, analyze your results — you're bound to notice that a certain time of day stands out as the time when you were able to perform the most work;
+6. Once you have identified your most productive hours of the day across these 20 days, start allocating your future priority tasks to this time;
+7. Allocate less important tasks to the time periods you've noticed that your focus, energy levels, and attention span are low.
+
+**Advantages:**
+
+1. You'll identify when you're the most productive and be able to allocate all crucial tasks to this time period.
+2. You'll identify when you're less productive, and be able to allocate less important, but still vital activities, such as managing your emails and making phone calls.
+
+**Disadvantages:**
+
+1. You'll have to tweak and change your routine often, and track it for a longer time if you want to identify your biological prime time right;
+2. If you're subordinate to someone and have to adhere to deadlines, knowing your prime biological time won't be of use - you'll have to work according to your bosses' requests and deadlines.
+
+</details>
