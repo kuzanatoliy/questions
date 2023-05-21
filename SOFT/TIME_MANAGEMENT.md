@@ -1019,3 +1019,75 @@ Here’s how to use the POSEC technique:
 1. The POSEC method isn’t very practical for organizing your daily tasks.
 
 </details>
+
+<details>
+  <summary>What is a BoJo — The bullet journal technique?</summary>
+
+The bullet journal (BoJo) is a method developed by Ryder Carroll — a digital product designer.
+
+According to the creator of this method, the BoJo method helps you:
+
+- Track the past,
+- Organize the present,
+- Plan for the future.
+
+With the bullet journal, you can organize your:
+
+- Daily to-do lists,
+- Weekly or monthly calendars,
+- Track your short-term and long-term goals.
+
+**Time management skills it improves:** Effective planning, Stress management, SMART goal setting
+
+**Issues it solves:** Missed deadlines, Ineffective scheduling
+
+**How the bullet journal works:**
+
+To try the bullet journal method, you’ll need a pen and notebook.
+
+The BoJo contains these components:
+
+- Index page
+- Future log
+- Monthly log
+- Daily log
+
+Here’s how to fill this journal out:
+
+Index page — two blank pages that you’ll title “Index”:
+
+1. Think of the Index page as a key — a legend that contains information about page numbers for your Future, Monthly, and Daily log.
+2. The Index page helps you easily find your Future, Monthly, or Daily log — by checking their page numbers.
+
+Future log — two blank pages that you’ll title “Future log”:
+
+1. The Future log helps you make plans for the future. For instance, you can plan the next six months, and add them to your Future log pages.
+2. Now, since you use two pages for the Future log, the first one can cover the first 3 months and the second one can cover the next 3 months.
+3. Create a box for each month and add a month label. Here, you can add important notes, appointments, and meetings for each month. The Future log helps you note down crucial dates too, such as birthdays and anniversaries.
+4. Add the page numbers and include these numbers in your Index page.
+
+Monthly log — two blank pages that you’ll label as the name of the month:
+
+1. On the left page of your Monthly log, you’ll have a monthly calendar. This is where you’ll note down all the dates of the month and the first letter of each day.
+2. On the right page, you’ll have your monthly task list. Make sure to include all the essential tasks for the month here. Once again, add the page numbers and include these numbers in your Index page as well.
+3. Thanks to your Monthly log, you’ll have an overview of everything you need to tackle by the end of the month.
+
+Daily log — two blank pages that you’ll title as “Daily log”:
+
+1. Write down the day’s date.
+   Then, add your entries — we can categorize them into three groups:
+1. Tasks (add a dot bullet next to each one)
+1. Events (add a circle bullet next to each one)
+1. Notes (add a dash bullet)
+1. Now, if you have some very important tasks, you can note down an S (Signifier) next to them. That way, you’ll know these are your priorities.
+
+**Advantages:**
+
+1. The BoJo method helps you plan your long-term goals (for the next six months) and align them with your short-term goals (your weekly and daily goals);
+2. It allows you to plan your tasks, events, and notes.
+
+**Disadbantages:**
+
+1. This technique can be too time-consuming — to make an effective BoJo journal from scratch, you’ll need to invest time, so it won’t be quite practical if you’re a busy person.
+
+</details>
