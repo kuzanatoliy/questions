@@ -972,3 +972,50 @@ Here’s how you can plan your day with the 1-3-5 Rule:
 1. It can be difficult to decide how much time you’ll dedicate to each task, especially if you’ve already spent too much time working on your one big thing.
 
 </details>
+
+<details>
+  <summary>What is a POSEC method technique?</summary>
+
+This method was created by Steven Lam, the author of The Posec Method of Time Management. The POSEC method stands for:
+
+- Prioritize by
+- Organizing
+- Streamlining
+- Economizing
+- Contributing
+
+This technique is rooted in Maslow’s theory of the hierarchy of needs.
+
+The gist of this theory is that there are five types of needs you have to satisfy, and their order of importance is:
+
+- _Physiological needs_ — the need for water, food, shelter, etc.
+- _Safety needs_ — our need to protect ourselves from physical danger
+- _Social needs_ — the need to belong to a social group
+- _Esteem needs_ — our need to retain our self-esteem and self-respect
+- _Self-actualization needs_ — the need to actualize our potential
+
+According to Maslow's theory, to fulfill your secondary needs (i.e. safety), you first need to take care of your primary needs (i.e. physiological). The same applies to the rest of Maslow's pyramid — to achieve your self-actualization needs, you can't skip any steps along the way.
+
+**Time management skills it improves:** Setting priorities, Minimizing low-value activities and tasks, SMART goal setting
+
+**Issues it solves:** Multitasking, Ineffective scheduling
+
+**How POSEC method works:**
+
+Here’s how to use the POSEC technique:
+
+1. Prioritizing (goals and time). First, you need to figure out what your goals are and how much time you need to accomplish them (whether they are long-term or short-term).
+2. Organizing (family and finances). Think of all activities in your personal and professional life. Aside from the activities that are related to achieving your goals, you have to keep an eye on your family's well-being and take care of your finances.
+3. Streamlining (work and chores). Now, you need to figure out the most efficient way to perform your work tasks and your chores. For example, try to automate as many tasks as you can.
+4. Economizing (hobbies and socializing). This level includes activities you enjoy doing, like socializing with friends and doing hobbies. But, sometimes, these activities don’t contribute to achieving your overall goals.
+5. Contributing (social obligations). Once you have attained all your previous levels, you can help others in your community. For instance, you can volunteer or help your friends or neighbors with a household chore.
+
+**Advantages:**
+
+1. This method helps make time not only for your work-related tasks, but also for your personal activities and leisure time.
+
+**Disadvantages:**
+
+1. The POSEC method isn’t very practical for organizing your daily tasks.
+
+</details>
