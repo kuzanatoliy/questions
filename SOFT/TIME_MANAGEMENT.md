@@ -602,3 +602,30 @@ You tell yourself you'll work on a task for 10 minutes. After the 10 minutes are
 1. Stopping every 10 minutes to consider whether you're up for another 10 minutes of work can get distracting, especially if you've immersed yourself in a task.
 
 </details>
+
+<details>
+  <summary>What is a To-Done List technique?</summary>
+
+Instead of listing what you need to do, you list your accomplishment and the tasks you've finished so far, within a certain time period.
+
+**Time management skills it improves:** Effective planning, Stress management
+
+**Issues it solves:** Ineffective scheduling
+
+**How To-Done list works:**
+
+1. At the end of each work week, take 10-15 minutes to note down everything you've accomplished;
+2. Next to each item include what you've learned while working on it;
+3. Also for each item, note what you could do differently next time, to improve your results.
+
+**Advantages:**
+
+1. Gives you perspective on the amount of work you've done, and the amount of work you have left to do;
+2. It's motivating to see how much you've accomplished within a certain time period;
+3. An easy way to track your progress.
+
+**Disadvantages:**
+
+1. Knowing what you've finished so far gives you a general idea on what amount of work you have for the upcoming period, but you get no details — no set deadlines, no specific number of tasks and projects.
+
+</details>
