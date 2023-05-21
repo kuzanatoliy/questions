@@ -891,3 +891,42 @@ Here’s how to apply the Deep Work method:
 2. You won’t be able to take frequent breaks, which may affect your productivity.
 
 </details>
+
+<details>
+  <summary>What is a ABCDE method technique?</summary>
+
+In his book How to Get Control of Your Time and Your Life, Alan Lakein talks about the ABCDE method.
+
+Thanks to this technique, you can learn to prioritize your tasks better and finish them before the deadline.
+
+The ABCDE method is similar to the Eisenhower Matrix — but, unlike the latter, the ABCDE technique doesn’t categorize tasks by urgency.
+
+**Time management skills it improves:** Setting priorities, Proper task delegation, SMART goal setting, Single-tasking
+
+**Issues it solves:** Multitasking, Missed deadlines
+
+**How ABCDE method works:**
+
+When using this technique, you should organize your assignments into five categories by their importance:
+
+- A — most important tasks
+- B — important tasks
+- C — nice to do (tasks)
+- D — delegate these tasks
+- E — eliminate these tasks
+
+This way, you’ll find it easier to prioritize assignments and activities.
+
+Start by tackling the tasks from the A and B categories first, then continue with other groups.
+
+**Advantages:**
+
+1. It allows you to consider what tasks you can delegate to others or simply delete from the list;
+2. Prioritizing tasks will become much easier, especially if you use this method every day.
+
+**Disadvantages:**
+
+1. This method does not categorize tasks by urgency — so you might forget to work on the assignments that need your immediate attention.
+2. Sometimes, you might find it difficult to figure out what tasks are most important (A category) and what are important only for the day (B category).
+
+</details>
