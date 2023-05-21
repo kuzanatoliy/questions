@@ -347,3 +347,47 @@ The approach was developed by Merlin Mann, an expert in the field of productivit
 3. Problematic for people who converse with clients and colleagues through email — important emails may get lost.
 
 </details>
+
+<details>
+  <summary>What is a 'Who's Got the Monkey' technique?</summary>
+
+The emphasis of this method is on delegating tasks and is mostly aimed at project managers, though others can make use of it as well. Monkeys are tasks, and you have to consider how to deal with them.
+
+There are 3 types of "monkeys" and managed time:
+
+_Boss-imposed time:_ activities the boss required.
+
+_System-imposed time:_ colleagues' requests and questions.
+
+_Self-imposed time:_ the actions you decide to undertake. You may use it for your own tasks and ideas (discretionary time), or to tackle subordinates' problems and requests (subordinate-imposed time).
+
+You aim to eliminate subordinate-imposed time, control system and boss-imposed time, and increase discretionary time.
+
+The principle is based on William Oncken's book Managing Management Time: Who's Got the Monkey..
+
+**Time management skills it improves:** Effective planning, Proper task delegation, Setting priorities, SMART goal setting, Stress management, Single-tasking
+
+**Issues it solves:** Ineffective scheduling, Multitasking
+
+**How Who’s Got The Monkey works:**
+
+1. Recognize and describe the "monkey" — specify what the task is, and what actions are needed for its completion;
+2. Assign the "monkey" — allocate the "monkey" to a person;
+3. Insure the "monkey" — Make sure the person handles the "monkey" appropriately:
+
+- If a monkey is important and allows no mistakes, then you should recommend what should be done and act if needed;
+- If you're certain the person assigned with the monkey can handle it, act and then provide advice;
+  Checking on the "monkey" — Specify when you'll provide follow-up for the monkey, to make sure everything is on track;
+
+**Advantages:**
+
+1. Managers can effectively use their time;
+2. It gets easier to solve employee problems;
+3. Gives a clear perspective on who is assigned with what;
+4. A straightforward way of delegating tasks.
+
+**Disadvantages:**
+
+1. Deals only with management and delegating tasks — should be combined with other time management methods for better productivity results overall.
+
+</details>
