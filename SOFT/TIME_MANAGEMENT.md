@@ -656,3 +656,42 @@ A contrast to the classical To-do List — you list all the tasks and activities
 1. Gives no specifications on the tasks you should do.
 
 </details>
+
+<details>
+  <summary>What is a Flowtime Technique?</summary>
+
+You set a specific time period, between 10-90 minutes, and use it as an experimental timeframe for your work. If you find that you can focus after the time period has expired, you continue working. If you find you cannot focus anymore, take a break.
+
+Flowtime technique stems from the Pomodoro technique, but it's less rigid in terms of time for work sessions and breaks. It's also similar to the Timeboxing technique, only you're encouraged to consider whether you'll continue working once the time has expired, not forced to stop.
+
+Flowtime was developed by a software engineer, Dionatan Moura, in 2015.
+
+**Time management skills it improves:** Stress management, Single-tasking
+
+**Issues it solves:** Multitasking
+
+**How Flowtime technique works:**
+
+With a preset number of minutes for your initial work session:
+
+1. Select a task;
+2. Decide to work for a certain amount of time (for example, 30 minutes), and set the timer;
+3. You work until the timer stops;
+4. Then, you consider whether you can focus on the task for some minutes more. For example, if you find you can focus for 10 minutes more, set the alarm to 10 minutes;
+5. When the 10 minutes expire, ask yourself whether you can maintain focus for more time;
+6. At any point, when a given time period expires (after the 30 minutes, or after the additional 10 minutes) if you find you can't focus any longer, take a break;
+7. You can start the timer in Clockify as soon as you start working. Stop the timer, to see how much time you've spent on this work session. When you feel you need a break, stop working.
+
+**Advantages:**
+
+1. You get the benefits of Pomodoro's work sessions/break time routine + more freedom in deciding how long the work sessions and breaks will last;
+2. If you find your initial choice for the number of minutes for the work session is too long, you can change it next time;
+3. By using a time tracker to see you when you're most productive, you can know when you are able to focus the longest.
+
+**Disadvantages:**
+
+1. No prescribed time for the length of work sessions may lead you to forget about breaks and risk burnout;
+2. Parsing tasks is entirely up to you — you may prove unsuccessful in parsing them into manageable chunks;
+3. General lack of rules.
+
+</details>
