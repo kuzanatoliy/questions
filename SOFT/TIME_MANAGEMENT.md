@@ -930,3 +930,45 @@ Start by tackling the tasks from the A and B categories first, then continue wit
 2. Sometimes, you might find it difficult to figure out what tasks are most important (A category) and what are important only for the day (B category).
 
 </details>
+
+<details>
+  <summary>What is a 1-3-5 Rule technique?</summary>
+
+The 1-3-5 Rule is a technique that helps you manage your tasks.
+
+The idea behind this method is that every workday, you need to focus your attention on:
+
+- 1 big thing
+- 3 medium things
+- 5 little things
+
+Once you complete your big task, you’ll feel a sense of accomplishment, which will motivate you to continue.
+
+At the same time, medium tasks allow you to progress with your larger projects.
+
+Finally, little tasks are easy to complete, so they’ll also inspire you to move forward.
+
+**Time management skills it improves:** Setting priorities, Avoiding distractions, Effective planning
+
+**Issues it solves:** Multitasking, Ineffective scheduling
+
+**How 1-3-5 Rule works:**
+
+As we mentioned earlier, you need to categorize your assignments into three groups.
+
+Here’s how you can plan your day with the 1-3-5 Rule:
+
+1. Rank your tasks. Note down your assignments for the day, then label them as “big”, “medium”, and “small”. If you have more than one big task, figure out which one is more important and finish it today. The other tasks can wait until tomorrow;
+2. Get to work. First, tackle your big task because, as soon as you complete it, you’ll feel accomplished and good about yourself. Then, continue with other tasks. You should keep the list of tasks nearby at any time;
+3. Remember to be flexible. On the days when you’re super busy, you’ll probably have less time to tackle your tasks — in this case, focus on one big thing and cut down on medium and little things.
+
+**Advantages:**
+
+1. This method helps you learn how to prioritize and have a balanced to-do list that’s simple to follow;
+2. It also allows for flexibility, so you can modify the number of tasks when needed.
+
+**Disadbantages:**
+
+1. It can be difficult to decide how much time you’ll dedicate to each task, especially if you’ve already spent too much time working on your one big thing.
+
+</details>
