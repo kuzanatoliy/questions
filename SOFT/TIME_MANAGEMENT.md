@@ -729,3 +729,38 @@ Greg McKeown was the one who clarified the concept in his book Essentialism: The
 3. In contrast, seasoned practitioners may find 2 hours to be too little time, yet they are only allowed to work on their Top Goal within this fixed time frame.
 
 </details>
+
+<details>
+  <summary>What is a Pareto Analysis technique?</summary>
+
+The Italian economist Vilfredo Pareto created this technique.
+
+The gist of the Pareto Analysis (also known as the 80/20 rule) is that 20% of our actions are responsible for 80% of outcomes.
+
+The idea is to find your key activities — the 20% ones that make a difference — and focus on them. This way, you’ll be able to achieve as much as 80% of your desired outcomes.
+
+**Time management skills it improves:** Setting priorities, Effective planning, Proper task delegation, Single-tasking
+
+**Issues it solves:** Multitasking, Ineffective scheduling
+
+**How Pareto Analysis works:**
+
+1. First, note down all the problems you are facing. For example, you can't seem to finish your tasks on time.
+2. Next, find the cause of this problem. You may discover that you get easily distracted while working, which is why you don’t complete tasks before the deadline. So, what are these interruptions? Do you get distracted by social media or because you’re chatting with colleagues?
+3. Then, assign a score (a number) to each problem — give higher numbers to more important problems. For example, you can use numbers from 1 to 10 to assign a score to your issues. Your most important problems should be labeled with the number 10, and your least important issues should be labeled with the number 1;
+4. Next, batch your problems by cause. For instance, group all your problems caused by spending too much time chatting with colleagues.
+   Then, assign a score to each group of problems. The groups with the highest score are the ones you need to solve first;
+5. Get to work.
+
+**Advantages:**
+
+1. It helps you prioritize your tasks better;
+2. It helps you improve your problem-solving skills, because, with Pareto, you batch similar issues together — which will allow you to solve them easily;
+3. A great method for learning how to single-task instead of multitask.
+
+**Disadvantages:**
+
+1. This method only relies on your past activities — your performance so far and issues you had in the past;
+2. Scoring may be inaccurate — if you make a mistake by assigning higher scores to some less important tasks, you might neglect other, more important tasks.
+
+</details>
