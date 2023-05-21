@@ -809,3 +809,47 @@ In general, this technique is practical for setting long-term goals.
 2. There’s no way of differentiating important tasks from less important ones, so you won’t be able to set priorities.
 
 </details>
+
+<details>
+  <summary>What is a Pickle Jar Theory technique?</summary>
+
+If you’re searching for some practical time management techniques for work, the Pickle Jar Theory might be a great fit for you.
+
+The key advantage of using the Pickle Jar Theory is that it allows you to differentiate useful from unuseful tasks in your schedule.
+
+This way, you’ll be able to set priorities clearly and plan your assignments.
+
+**Time management skills it improves:** Setting priorities, Avoiding distractions, SMART goal setting, Proper task delegation
+
+**Issues it solves:** Missed deadlines, Ineffective scheduling
+
+**How Pickle Jar Theory works:**
+
+The goal of this technique is to imagine a jar that contains sand, pebbles, and rocks. The rocks are at the top, while the sand is at the bottom.
+
+Here’s the meaning of each element:
+
+_The sand:_ These are tasks and activities that usually disturb you during the day, such as emails, social media, and phone calls.
+
+_The pebbles:_ These are important assignments that should be completed, but someone else can tackle them, or you can complete them some other day.
+
+_The rocks:_ These are your significant tasks, and you have to complete them by the end of the day.
+
+So, when planning your day, think about your tasks:
+
+1. Categorize them by importance — figure out which ones are rocks, pebbles, and sand;
+2. Next, make a to-do list by focusing on rocks first since these are your most significant assignments for the day;
+3. Make sure to write down time estimates for each task. The total amount of time should be up to 8 hours;
+4. Then, if you still have some time to tackle your tasks from “the pebbles” and “the sand” categories, now is the time to complete them.
+
+**Advantages:**
+
+1. This technique helps you take control of your time and organize your day easily so that you have enough time for your private life, too;
+2. It keeps distractions away since it allows you to plan only your important tasks for the day.
+
+**Disadvantages:**
+
+1. It can be difficult to figure out the importance and urgency levels of your tasks;
+2. It can be risky because, if you focus too much on urgent tasks, you may miss out on finishing your essential tasks.
+
+</details>
