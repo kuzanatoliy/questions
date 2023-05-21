@@ -538,3 +538,36 @@ _List all the tasks you're supposed to tackle the next day_ — actions that awa
 2. Perhaps a too extensive account of your productivity results — you may have to spend some time searching to find a past to-do list, comment on a specific task, and similar items in the journal.
 
 </details>
+
+<details>
+  <summary>What is a Seinfeld Method technique?</summary>
+
+A specific calendar system claimed to be inspired by Jerry Seinfeld's productivity quote: "Don't break the chain".
+
+Each day you work on a skill, you mark that day with red, and form a chain of "red" days. If you don't work for a day, you don't mark it with red, and you "break the chain".
+
+**Time management skills it improves:** SMART goal setting
+
+**Issues it solves:** Missed deadlines
+
+**How the Seinfeld method works**
+
+For example, you want to improve your coding skills:
+
+1. You get a red marker and a big calendar, one that shows all the days in the year;
+2. Each day you code, even for a short time period, you mark that day with the red marker;
+3. The days marked red continue to grow as you continue coding each day, and they form a chain;
+4. If you miss a day of coding, you don't mark that day with red, and you "break the chain";
+5. Code each day so you "don't break the chain".
+
+**Advantages:**
+
+1. As you watch the chain of days marked red grow, you'll feel motivated to continue the chain and work on your skill every day;
+2. You'll aim to work and progress every day, so you'll be less likely to procrastinate as you race to do some work before the day ends.
+
+**Disadvantages:**
+
+1. Each day, you have to select a task that is relevant enough for your skill, but also achievable, which can get tricky;
+2. Some days, it'll be hard for you to find any time for your work, due to other priorities and obligations, so you may have to "break the chain".
+
+</details>
