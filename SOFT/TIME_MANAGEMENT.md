@@ -629,3 +629,30 @@ Instead of listing what you need to do, you list your accomplishment and the tas
 1. Knowing what you've finished so far gives you a general idea on what amount of work you have for the upcoming period, but you get no details — no set deadlines, no specific number of tasks and projects.
 
 </details>
+
+<details>
+  <summary>What is a To-Don't List technique?</summary>
+
+A contrast to the classical To-do List — you list all the tasks and activities you won't do.
+
+**Time management skills it improves:** Effective planning, Stress management
+
+**Issues it solves:** Ineffective scheduling
+
+**How To-Don’t list works:**
+
+1. You make a list before each workday;
+2. Note in all the tasks, ideas, and habits you'll aim NOT to do, or think about;
+3. These can be distractions, overly ambitious ideas you objectively have no time to work on or bad habits you want to quit;
+4. Include the word "Don't" in front of each listed item;
+5. Cross over each item at the end of the day if you've managed to avoid it.
+   **Advantages:**
+6. By listing all the activities you'll no longer focus on, you'll mentally let go of them, and free more time for important matters;
+7. Keeps you in check regarding your bad habits, such as spending time on social media when you should be working;
+8. Makes delegating tasks easier, as you'll be able to identify what tasks you perform, but should delegate instead.
+
+**Disadvantages:**
+
+1. Gives no specifications on the tasks you should do.
+
+</details>
