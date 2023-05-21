@@ -764,3 +764,48 @@ The idea is to find your key activities — the 20% ones that make a difference 
 2. Scoring may be inaccurate — if you make a mistake by assigning higher scores to some less important tasks, you might neglect other, more important tasks.
 
 </details>
+
+<details>
+  <summary>What is a Rapid Planning Method (RPM) technique?</summary>
+
+One of the best time management techniques is also the Rapid Planning Method (RPM). The acronym RPM also stands for “result, purpose, and massive action plan”.
+
+This time management technique was created by motivational speaker Tony Robbins.
+
+The idea behind this method is to train your brain to envision what you want in order to make it real.
+
+In general, this technique is practical for setting long-term goals.
+
+**Time management skills it improves:** Effective planning, Stress management, Single-tasking
+
+**Issues it solves:** Multitasking, Ineffective scheduling
+
+**How Rapid Planning Method works:**
+
+1. Capture — First, note down all the assignments you need to complete this week. Be realistic — write down from 5 to 9 tasks for the week;
+2. Chunk — Group similar tasks together. You can use categories such as “Work tasks”, “Non-work tasks”, “Career”, “Health”, etc;
+3. Make your own RPM blocks. Remember to focus on your most important area and create an RPM block for it. Let’s say that this week, you’d like to focus on “Career”. Use a piece of paper, and create three columns:
+
+- _Results:_ Think about the results you’d like to accomplish in this area. Let’s say you want to improve your copywriting skills;
+- _Purpose:_ Why do you want to achieve this result? For example, you want to enhance your copywriting skills because you’d like to apply for a copywriter job;
+- _Massive Action plan:_ Then, think about the activities that will help you complete the task and achieve desired results. In this case, you can find relevant copywriting courses and finish 1 course by the end of the month;
+
+4. Next, create another RPM block for your “Non-work tasks” and other categories for this week.
+5. Take action.
+6. Review your work by questioning yourself:
+
+- Did I follow all the steps from my massive action plan?
+- Did my purpose act as a motivation to help me achieve desired results?
+- Did I accomplish desired results?
+
+**Advantages:**
+
+1. This method allows you to think about your long-term goals and align them with short-term targets;
+2. It helps you envision your goals, the purpose of such goals, and write down steps for accomplishing these targets.
+
+**Disadvantages:**
+
+1. It’s time-consuming to plan all your weekly activities, create blocks, and review your results;
+2. There’s no way of differentiating important tasks from less important ones, so you won’t be able to set priorities.
+
+</details>
