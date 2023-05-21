@@ -491,3 +491,50 @@ The term "Biological Prime Time" was first introduced by Sam Carpenter in his bo
 2. If you're subordinate to someone and have to adhere to deadlines, knowing your prime biological time won't be of use - you'll have to work according to your bosses' requests and deadlines.
 
 </details>
+
+<details>
+  <summary>What is a Productivity Journal technique?</summary>
+
+The Productivity Journal is somewhat similar to a regular journal, only you don't note in your personal thoughts in it, you mostly note in your actions — activities you can complete and later reflect on.
+
+This technique is versatile in the actions you note in, so you can:
+
+_Record your ideas and work thoughts_ — you may bring them into action later.
+
+_Record all the tasks you've finished within a day_ — actions you've completed and you can reflect on.
+
+_List all the tasks you're supposed to tackle the next day_ — actions that await you.
+
+**Time management skills it improves:** Effective planning, Setting priorities, SMART goal setting
+
+**Issues it solves:** Ineffective scheduling, Missed deadlines
+
+**How the Productivity Journal works:**
+
+1. Each day, define your to-do list in a notebook, or appropriate software — keep the items simple, clear and achievable;
+2. Track the amount of time it takes you to finish each item — you can use Clockify for this purpose and store items from your to-do list as time entries;
+3. Analyze your time results and tweak your future to-do lists accordingly;
+4. For more details, you can also:
+
+- Self-rate your productivity for each item on a scale from 1 to 10.
+  Make a list of distractions (social media, YouTube, your phone), so you'll be more likely to avoid them;
+- Break each item on your to-do list into smaller, more manageable tasks;
+- In addition to tasks, set goals you wish to accomplish with these tasks or groups of tasks;
+
+5. Reflect on your day, by jotting down comments on:
+
+- What tasks you've accomplished with success;
+- What issues you've encountered;
+- Whether you were able to overcome them.
+
+**Advantages:**
+
+1. Holds all your entire productivity history — you'll have all your ideas, to-do lists, deadlines for tasks and projects in one place.
+   Writing down your issues can relieve you of stress.
+
+**Disadvantages:**
+
+1. The journal can get unstructured — a lot depends on your own ability to structure the journal, as there are no clear rules for this;
+2. Perhaps a too extensive account of your productivity results — you may have to spend some time searching to find a past to-do list, comment on a specific task, and similar items in the journal.
+
+</details>
