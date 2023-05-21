@@ -853,3 +853,41 @@ So, when planning your day, think about your tasks:
 2. It can be risky because, if you focus too much on urgent tasks, you may miss out on finishing your essential tasks.
 
 </details>
+
+<details>
+  <summary>What is a Deep Work technique?</summary>
+
+The Deep Work method is a popular technique created by Cal Newport, the author of Deep Work: Rules for Focused Success in a Distracted World.
+
+According to Newport, deep work includes “…professional activities performed in a state of distraction-free concentration that push your cognitive capabilities to their limit”.
+
+In general, these assignments improve your skills and create value.
+
+During deep work, you should avoid any distractions.
+
+**Time management skills it improves:** Avoiding distractions, Single-tasking, Effective planning
+
+**Issues it solves:** Multitasking, Ineffective scheduling
+
+**How Deep Work works:**
+
+Newport separates deep work from shallow work, which can be defined as less demanding activities — for example, attending meetings and answering emails.
+
+In general, you can perform shallow work even when you’re distracted, which is not the case with deep work.
+
+Here’s how to apply the Deep Work method:
+
+1. Schedule time for deep work: During this phase, you need to focus only on your important tasks. At the same time, you should avoid distractions at any cost. Remember to schedule deep work tasks during the times of the day when you have high energy levels;
+2. Leave some time for shallow work: On the other hand, leave any recurring tasks and assignments that are less demanding for periods of the day when your energy levels are low.
+
+**Advantages:**
+
+1. This method ensures that you focus on high-quality work while ignoring any distractions;
+2. It helps you improve your ability to complete demanding tasks and solve complex problems.
+
+**Disadbantages:**
+
+1. If you work in an office, you may find it difficult to achieve deep work because you may get interrupted by colleagues;
+2. You won’t be able to take frequent breaks, which may affect your productivity.
+
+</details>
