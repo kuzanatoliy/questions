@@ -571,3 +571,34 @@ For example, you want to improve your coding skills:
 2. Some days, it'll be hard for you to find any time for your work, due to other priorities and obligations, so you may have to "break the chain".
 
 </details>
+
+<details>
+  <summary>What is a 10-Minute Rule technique?</summary>
+
+You tell yourself you'll work on a task for 10 minutes. After the 10 minutes are up, you determine whether you'll stop or keep going.
+
+**Time management skills it improves:** Effective planning, Stress management, Single-tasking, Setting priorities
+
+**Issues it solves:** Multitasking, Skipping breaks
+
+**How the 10-Minute rule works:**
+
+1. Select a task;
+2. Start working on it immediately;
+3. After ten minutes have passed, reflect on your focus and patience: do you want to stop working on the task, or do you wish to continue for 10 minutes more?
+4. Work for 10-minute time periods until you want to stop working on this task for the day.
+
+**Advantages:**
+
+1. Parsing your task into small time chunks will help you gain a sense of momentum because you're only obliged to work on it 10 minutes at a time;
+2. When you work only 10 minutes at a time, you don't feel overwhelmed, even with bigger tasks;
+3. Considering 10 minutes is a small amount of time, chances are you'll continue working for more 10-minute sets after the first one;
+4. Starting work immediately after you've selected the task means you'll have no time for negative thoughts and predictions;
+5. Less chance for procrastination — you'll make it a habit to dive right into work;
+6. From a psychological point of view, it's easier to tackle a 90 minutes task as 9x10 minute chunks.
+
+**Disadvantages:**
+
+1. Stopping every 10 minutes to consider whether you're up for another 10 minutes of work can get distracting, especially if you've immersed yourself in a task.
+
+</details>
