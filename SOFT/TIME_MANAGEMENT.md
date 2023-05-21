@@ -391,3 +391,31 @@ The principle is based on William Oncken's book Managing Management Time: Who's 
 1. Deals only with management and delegating tasks — should be combined with other time management methods for better productivity results overall.
 
 </details>
+
+<details>
+  <summary>What is an Action Method technique?</summary>
+
+The Action Method is based on the premise that everything is a project: you view all your activities as projects, parse, and manage them accordingly. These projects can be: Managing your finances, Administrative work, Networking, Whatever you want.
+
+**Time management skills it improves:** Effective planning, SMART goal setting
+
+**Issues it solves:** Ineffective scheduling, Multitasking
+
+**How Action Method work:**
+
+When using the Action Method, you organize your activities, tasks, and events as a project. Then, you parse your activities into three categories:
+
+1. _Action Steps:_ these are the tasks that you need to complete. Such assignments help you progress with your work. For example, these are tasks like — redrafting a proposal, sending out a finished software, and debugging your latest app;
+2. _References:_ these are notes, a list of links to relevant research, and outlines that help you tackle your Action Steps. In other words, it’s everything that doesn't directly make you progress, but serves as a reference point;
+3. _Backburner items:_ all ideas and plans you're not currently working on, but may put into motion someday.
+
+**Advantages:**
+
+1. Viewing all your daily activities as projects means you'll have steps laid out for each activity, so you're likely to be faster and more efficient.
+
+**Disadvantages:**
+
+1. Time-consuming and potentially overwhelming — viewing everything as a project means you'll spend a lot of time planning.
+2. No schedule for reviewing backburner items — no clarity on when, or whether you should tackle these items.
+
+</details>
