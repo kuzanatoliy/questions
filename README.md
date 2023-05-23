@@ -24,6 +24,8 @@
 
 [CORS](CORS.md)
 
+[Functional programming](FUNCTIONAL_PROGRAMMING.md)
+
 [HTML](HTML.md)
 
 [NETWORK](NETWORK/README.md)
