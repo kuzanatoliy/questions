@@ -34,6 +34,8 @@
 
 [Micro frontend](MICRO_FRONTEND.md)
 
+[OOP](Object-oriented programmming)
+
 [Other](OTHER.md)
 
 [ReactJS](REACTJS.md)
