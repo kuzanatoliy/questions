@@ -17,3 +17,18 @@ An abstract class is a class with at least one abstract method. Abstract class's
 An interface is an abstract class, which methods are only abstract.
 
 </details>
+
+<details>
+  <summary>What is an Inheritance?</summary>
+
+Is an ability of a class/object to take some properties from another class/object. In both classical OOP, and JS we can inherit a whole method. As for fields: in classical OOP, we can only inherit its name and type - in JS, we can inherit a field value in addition.
+
+Types:
+
+- single (superclass -> subclass)
+- multilevel (superclass -> subclass -> subsubclass)
+- hierarchical (superclass -> (subclass1 subclass2))
+- multiple ((superclass1 superclass2) -> subclass)
+- hybrid (mix of above)
+
+</details>
