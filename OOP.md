@@ -32,3 +32,21 @@ Types:
 - hybrid (mix of above)
 
 </details>
+
+<details>
+  <summary>What is a Polymorphism?</summary>
+
+Is an ability to have different forms for the same object's property. Applicable to the OOP, it's a possibility to call a method with a specific name and get different results depending on the call's details.
+
+We can determine:
+
+1. static (compile-time) polymorphism / overloading:
+
+- one method of one class has several implementations depending on its params;
+
+2. dynamic (run time) polymorphism / overriding
+
+- several methods in the relations subclass-superclass can have different implementations with exactly the same name and params, so subclass's method overrides superclass's method.
+- in JS, classes are all runtime, so there is no static polymorphism. But we can have it for TS as well with interfaces.
+
+</details>
