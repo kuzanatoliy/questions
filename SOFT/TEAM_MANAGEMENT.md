@@ -18,3 +18,12 @@
 - Vulnerability-Based trust / Are teammates able to be honest about themselves?
 
 </details>
+
+<details>
+  <summary>How to align individual and team goals?</summary>
+
+1. Clearly determine your individual goals and team goals;
+2. Have each team member share individual and team goals;
+3. As a team decide now conflicts will be handled.
+
+</details>
