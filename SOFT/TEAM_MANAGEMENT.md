@@ -9,3 +9,12 @@
 - agree on team norms and culture.
 
 </details>
+
+<details>
+  <summary>What types of trust?</summary>
+
+- Competency-Based trust / Do we trust a team mate to be competent and deliver the results that the team needs?
+- Reliability-Based trust / Do we trust a teammate to deliver on their promises and commitments?
+- Vulnerability-Based trust / Are teammates able to be honest about themselves?
+
+</details>
