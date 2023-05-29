@@ -34,4 +34,6 @@
 
 [Staffing](STAFFING.md)
 
+[Team management](TEAM_MANAGEMENT.md)
+
 [Time management](TIME_MANAGEMENT.md)
