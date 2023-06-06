@@ -45,7 +45,7 @@
 </details>
 
 <details>
-  <summary>How to identify rising stars?</summary>
+  <summary>How to identify a rising stars?</summary>
 
 - focus on improving and growing;
 - volunteer to help;
@@ -61,7 +61,7 @@
 </details>
 
 <details>
-  <summary>How to identify domain masters?</summary>
+  <summary>How to identify a domain masters?</summary>
 
 - quietly confident;
 - no complaining;
@@ -81,7 +81,7 @@
 </details>
 
 <details>
-  <summary>How to identify stowaways?</summary>
+  <summary>How to identify a stowaways?</summary>
 
 - difficult to see results or expertise;
 - not a go-to resource;
@@ -95,7 +95,7 @@
 </details>
 
 <details>
-  <summary>How to identify joyriders?</summary>
+  <summary>How to identify an joyriders?</summary>
 
 - energetic and enthusiastic;
 - busy and social at work;
@@ -109,5 +109,24 @@
 - results-focused leadership style;
 - get results from all team members;
 - turn around their performance.
+
+</details>
+
+<details>
+  <summary>How to identify a slackers?</summary>
+
+- smart with a strong resume;
+- self-promoters;
+- frequent job changer;
+- renegotiate deadlines;
+- show interest in others' work;
+- outspoken;
+- wander into other team members' "lanes".
+
+**Benefits:**
+
+- become a high performer;
+- focus on results;
+- hold team members accountable.
 
 </details>
