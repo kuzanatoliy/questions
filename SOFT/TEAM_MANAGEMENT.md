@@ -59,3 +59,23 @@
 - create future connections.
 
 </details>
+
+<details>
+  <summary>How to identify domain masters?</summary>
+
+- quietly confident;
+- no complaining;
+- not self-promoters;
+- self-starters;
+- sought-after expertise;
+- work together;
+- recruited by other teams.
+
+**Benefits:**
+
+- retain their talent on your team and organization;
+- help attract to your team;
+- example for other team members;
+- train others.
+
+</details>
