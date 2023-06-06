@@ -169,3 +169,22 @@
 - set them up for success.
 
 </details>
+
+<details>
+  <summary>How to identify squeaky wheels?</summary>
+
+- strong skills and results;
+- lack confidance;
+- ask for help often;
+- seek help with decision-making;
+- ask for immediate help;
+- seek your time.
+
+**Benefits:**
+
+- reclaim your leadership capital;
+- invest in other team members;
+- build self-sufficiency;
+- set eam member up for success.
+
+</details>
