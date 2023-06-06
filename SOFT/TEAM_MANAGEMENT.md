@@ -43,3 +43,19 @@
 - external partners.
 
 </details>
+
+<details>
+  <summary>How to identify rising stars?</summary>
+
+- focus on improving and growing;
+- volunteer to help;
+- recruited for new roles.
+
+**Benefits:**
+
+- credit for retaining talent;
+- build reputation for employee development;
+- attract new talent;
+- create future connections.
+
+</details>
