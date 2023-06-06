@@ -45,7 +45,7 @@
 </details>
 
 <details>
-  <summary>How to identify a rising stars?</summary>
+  <summary>How to identify rising stars?</summary>
 
 - focus on improving and growing;
 - volunteer to help;
@@ -61,7 +61,7 @@
 </details>
 
 <details>
-  <summary>How to identify a domain masters?</summary>
+  <summary>How to identify domain masters?</summary>
 
 - quietly confident;
 - no complaining;
@@ -81,7 +81,7 @@
 </details>
 
 <details>
-  <summary>How to identify a stowaways?</summary>
+  <summary>How to identify stowaways?</summary>
 
 - difficult to see results or expertise;
 - not a go-to resource;
@@ -95,7 +95,7 @@
 </details>
 
 <details>
-  <summary>How to identify an joyriders?</summary>
+  <summary>How to identify joyriders?</summary>
 
 - energetic and enthusiastic;
 - busy and social at work;
@@ -113,7 +113,7 @@
 </details>
 
 <details>
-  <summary>How to identify a slackers?</summary>
+  <summary>How to identify slackers?</summary>
 
 - smart with a strong resume;
 - self-promoters;
@@ -128,5 +128,25 @@
 - become a high performer;
 - focus on results;
 - hold team members accountable.
+
+</details>
+
+<details>
+  <summary>How to identify square pegs?</summary>
+
+- require rework;
+- seek extensions;
+- need their work repaired;
+- do not meet expectations;
+- repeat errors;
+- source of problems;
+- territorial;
+- insecure;
+- stressed;
+- difficult to help.
+
+**Benefits:**
+
+- reduce team problems.
 
 </details>
