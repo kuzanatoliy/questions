@@ -93,3 +93,21 @@
 - easier just cover for them.
 
 </details>
+
+<details>
+  <summary>How to identify joyriders?</summary>
+
+- energetic and enthusiastic;
+- busy and social at work;
+- many interests and new ideas;
+- volunteer often;
+- offer limited results.
+
+**Benefits:**
+
+- performance issues and gaps identified;
+- results-focused leadership style;
+- get results from all team members;
+- turn around their performance.
+
+</details>
