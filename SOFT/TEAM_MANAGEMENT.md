@@ -27,3 +27,19 @@
 3. As a team decide now conflicts will be handled.
 
 </details>
+
+<details>
+  <summary>What are criterias of assessing results?</summary>
+
+**Work:**
+
+- quantity of work;
+- quality of work;
+- timeliness of work.
+
+**Relationships:**
+
+- team members;
+- external partners.
+
+</details>
