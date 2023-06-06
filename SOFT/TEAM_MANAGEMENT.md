@@ -79,3 +79,17 @@
 - train others.
 
 </details>
+
+<details>
+  <summary>How to identify stowaways?</summary>
+
+- difficult to see results or expertise;
+- not a go-to resource;
+- contributions need prompting;
+- some role for a long time;
+- not proactive;
+- give minimal effort and time;
+- stay out of the way;
+- easier just cover for them.
+
+</details>
