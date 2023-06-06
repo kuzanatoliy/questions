@@ -150,3 +150,22 @@
 - reduce team problems.
 
 </details>
+
+<details>
+  <summary>How to identify steamrollers?</summary>
+
+- strong expertise and results;
+- self-confident arrogant;
+- conses friction;
+- lack awareness or concerns for colleagues;
+- better at managing up;
+- leader apologiees and cleans up after them.
+
+**Benefits:**
+
+- retaing their results on your team;
+- reduce problems;
+- save your goodwill;
+- set them up for success.
+
+</details>
