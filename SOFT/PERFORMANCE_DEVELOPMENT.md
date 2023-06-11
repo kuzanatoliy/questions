@@ -46,3 +46,12 @@ The performance development is an ongoing process of communication between an em
 4. Cost relative to budget.
 
 </details>
+
+<details>
+  <summary>How prepare to measure a team's performance?</summary>
+
+1. Map business processes and define scopes: "What functions, processes, activities, and people will you measure?";
+2. Identify the key performance indicators: "Which metrics matter the most?";
+3. Build reporting tools and pracesses: "What is the right tool?".
+
+</details>
