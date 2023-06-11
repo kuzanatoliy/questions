@@ -16,3 +16,12 @@ The performance development is an ongoing process of communication between an em
 4. Have stretch goals: high expectations + limited resources.
 
 </details>
+
+<details>
+  <summary>How to achieve high performance?</summary>
+
+1. Encourage the team to aim higher individual work and plans;
+2. Have team members discuss their individual work and plans;
+3. Help the team recalibrate short-term goals and deliverables to reach stretch goals.
+
+</details>
