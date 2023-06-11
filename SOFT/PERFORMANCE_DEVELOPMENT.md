@@ -25,3 +25,14 @@ The performance development is an ongoing process of communication between an em
 3. Help the team recalibrate short-term goals and deliverables to reach stretch goals.
 
 </details>
+
+<details>
+  <summary>How to achieve lifelong performance?</summary>
+
+1. Know theyself: conduct regular self-inventories;
+2. Create a portfolio of goals (Short-term goals, Long-term goals, Stretch goals);
+3. Embrace your failures: Take risks and learn how to improve in the future;
+4. Seek feadback: Ask for direct input about your work;
+5. Have a mission or purpose.
+
+</details>
