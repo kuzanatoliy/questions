@@ -36,3 +36,13 @@ The performance development is an ongoing process of communication between an em
 5. Have a mission or purpose.
 
 </details>
+
+<details>
+  <summary>What Employees Metrics Measure?</summary>
+
+1. Morale;
+2. Engagement;
+3. Employee turnover;
+4. Cost relative to budget.
+
+</details>
