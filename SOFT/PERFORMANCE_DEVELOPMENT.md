@@ -75,3 +75,11 @@ The performance development is an ongoing process of communication between an em
 4. Update colleagues concisely and factually.
 
 </details>
+
+<details>
+  <summary>How assume positive intent?</summary>
+
+1. Change the story you're telling yourself
+2. Ask and listen.
+
+</details>
