@@ -83,3 +83,13 @@ The performance development is an ongoing process of communication between an em
 2. Ask and listen.
 
 </details>
+
+<details>
+  <summary>How to build congruity?</summary>
+
+1. Notice your body language and expressions;
+2. Use your actual background;
+3. Free up your hands;
+4. Audit your calendar and sent emails.
+
+</details>
