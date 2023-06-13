@@ -65,3 +65,13 @@ The performance development is an ongoing process of communication between an em
 4. Consider situational context.
 
 </details>
+
+<details>
+  <summary>How focus on results?</summary>
+
+1. Grow expertise;
+2. Demonstrate reliability;
+3. Establish clear goals up front;
+4. Update colleagues concisely and factually.
+
+</details>
