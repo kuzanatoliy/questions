@@ -48,7 +48,7 @@ The performance development is an ongoing process of communication between an em
 </details>
 
 <details>
-  <summary>How prepare to measure a team's performance?</summary>
+  <summary>How to prepare to measure a team's performance?</summary>
 
 1. Map business processes and define scopes: "What functions, processes, activities, and people will you measure?";
 2. Identify the key performance indicators: "Which metrics matter the most?";
@@ -57,7 +57,7 @@ The performance development is an ongoing process of communication between an em
 </details>
 
 <details>
-  <summary>How prioritize trust drivers?</summary>
+  <summary>How to prioritize trust drivers?</summary>
 
 1. Build up your weakest driver first;
 2. Recognize positonal power;
@@ -67,7 +67,7 @@ The performance development is an ongoing process of communication between an em
 </details>
 
 <details>
-  <summary>How focus on results?</summary>
+  <summary>How to focus on results?</summary>
 
 1. Grow expertise;
 2. Demonstrate reliability;
@@ -77,7 +77,7 @@ The performance development is an ongoing process of communication between an em
 </details>
 
 <details>
-  <summary>How assume positive intent?</summary>
+  <summary>How to assume positive intent?</summary>
 
 1. Change the story you're telling yourself
 2. Ask and listen.
