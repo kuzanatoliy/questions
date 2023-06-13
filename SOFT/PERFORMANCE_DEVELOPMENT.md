@@ -55,3 +55,13 @@ The performance development is an ongoing process of communication between an em
 3. Build reporting tools and pracesses: "What is the right tool?".
 
 </details>
+
+<details>
+  <summary>How prioritize trust drivers?</summary>
+
+1. Build up your weakest driver first;
+2. Recognize positonal power;
+3. Consider country of origin or culture;
+4. Consider situational context.
+
+</details>
