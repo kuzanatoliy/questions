@@ -4,6 +4,8 @@
 
 [Soft checking](SOFT_CHECKING/README.md)
 
+[Engagement](ENGAGEMENT.md)
+
 [Assessment](ASSESSMENT.md)
 
 [Emotional intelligence](EMOTIONAL_INTELLIGENCE.md)
