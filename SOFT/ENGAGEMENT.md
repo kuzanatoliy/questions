@@ -40,3 +40,12 @@ Encouraging:
 3. Celebrate it publically.
 
 </details>
+
+<details>
+  <summary>What are job fairs?</summary>
+
+1. Glab their attention;
+2. Find a way to draw people in;
+3. Show employee testimonials on a big screen.
+
+</details>
