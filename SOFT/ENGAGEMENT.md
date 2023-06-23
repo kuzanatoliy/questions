@@ -23,3 +23,20 @@
 9. Brave.
 
 </details>
+
+<details>
+  <summary>What is discretionary Effort? How to Encourage it?</summary>
+
+1. Show patience with difficult customers;
+2. Assist someone who is struggling;
+3. Put in overtime;
+4. Share ideas;
+5. Show an extra leel of kindness.
+
+Encouraging:
+
+1. Model the behaviour;
+2. Acknowledge it in others;
+3. Celebrate it publically.
+
+</details>
