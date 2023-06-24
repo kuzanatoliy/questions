@@ -4,6 +4,8 @@
 
 [Soft checking](SOFT_CHECKING/README.md)
 
+[Engagement](ENGAGEMENT.md)
+
 [Assessment](ASSESSMENT.md)
 
 [Emotional intelligence](EMOTIONAL_INTELLIGENCE.md)
@@ -15,6 +17,8 @@
 [Interview](INTERVIEW.md)
 
 [Management](MANAGEMENT.md)
+
+[Meetings](MEETINGS.md)
 
 [Mentoring](MENTORING.md)
 
@@ -31,3 +35,7 @@
 [Retention process](RETENTION_PROCESS.md)
 
 [Staffing](STAFFING.md)
+
+[Team management](TEAM_MANAGEMENT.md)
+
+[Time management](TIME_MANAGEMENT.md)
