@@ -24,6 +24,8 @@
 
 [CORS](CORS.md)
 
+[Functional programming](FUNCTIONAL_PROGRAMMING.md)
+
 [HTML](HTML.md)
 
 [NETWORK](NETWORK/README.md)
@@ -33,6 +35,8 @@
 [JSON](JSON.md)
 
 [Micro frontend](MICRO_FRONTEND.md)
+
+[OOP](Object-oriented programmming)
 
 [Other](OTHER.md)
 
