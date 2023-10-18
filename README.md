@@ -36,7 +36,7 @@
 
 [Micro frontend](MICRO_FRONTEND.md)
 
-[OOP](Object-oriented programmming)
+[OOP](OOP.md)
 
 [Other](OTHER.md)
 
