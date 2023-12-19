@@ -33,3 +33,21 @@ Example:
 [More >>](https://developer.mozilla.org/en-US/docs/Web/CSS/acos)
 
 </details>
+
+<details>
+  <summary>What is an asin function?</summary>
+
+The `asin()` CSS function is a trigonometric function that returns the inverse sine of a number between `-1` and `1`. The function contains a single calculation that returns the number of radians representing an angle between `0deg` and `180deg`.
+
+Example:
+
+    div.box-1 {
+      transform: rotate(asin(1));
+    }
+    div.box-2 {
+      transform: rotate(asin(0.5));
+    }
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/CSS/asin)
+
+</details>
