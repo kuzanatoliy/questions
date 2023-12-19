@@ -104,3 +104,16 @@ Example:
 [More >>](https://developer.mozilla.org/en-US/docs/Web/CSS/attr)
 
 </details>
+
+<details>
+  <summary>What is a calc function?</summary>
+
+The `calc()` CSS function lets one to perform calculations when specifying CSS property values. It can be used with `length`, `frequency`, `angle`, `time`, `percentage`, `number` or `integer` values.
+
+Example:
+
+    width: calc(100% - 80px);
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/CSS/calc)
+
+</details>
