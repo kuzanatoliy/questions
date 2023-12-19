@@ -69,3 +69,21 @@ Example:
 [More >>](https://developer.mozilla.org/en-US/docs/Web/CSS/atan)
 
 </details>
+
+<details>
+  <summary>What is an atan2 function?</summary>
+
+The `atan2()` CSS function is a trigonometric function that returns the inverse tangent of two values between `-infinity` and `infinity`. The function accepts two arguments and returns the number of radians representing an angle between `-180deg` and `180deg`.
+
+Example:
+
+    div.box-1 {
+      transform: rotate(atan2(3, 2));
+    }
+    div.box-2 {
+      transform: rotate(atan2(-1, 0.5));
+    }
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/CSS/atan2)
+
+</details>
