@@ -37,7 +37,7 @@ Example:
 <details>
   <summary>What is an asin function?</summary>
 
-The `asin()` CSS function is a trigonometric function that returns the inverse sine of a number between `-1` and `1`. The function contains a single calculation that returns the number of radians representing an angle between `0deg` and `180deg`.
+The `asin()` CSS function is a trigonometric function that returns the inverse sine of a number between `-1` and `1`. The function contains a single calculation that returns the number of radians representing an angle between `-90deg` and `90deg`.
 
 Example:
 
@@ -49,5 +49,23 @@ Example:
     }
 
 [More >>](https://developer.mozilla.org/en-US/docs/Web/CSS/asin)
+
+</details>
+
+<details>
+  <summary>What is an atan function?</summary>
+
+The `atan()` CSS function is a trigonometric function that returns the inverse tangent of a number between `-∞` and `+∞`. The function contains a single calculation that returns the number of radians representing an angle between `-90deg` and `90deg`.
+
+Example:
+
+    div.box-1 {
+      transform: rotate(atan(1));
+    }
+    div.box-2 {
+      transform: rotate(atan(0.5));
+    }
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/CSS/atan)
 
 </details>
