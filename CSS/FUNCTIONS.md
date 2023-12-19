@@ -87,3 +87,20 @@ Example:
 [More >>](https://developer.mozilla.org/en-US/docs/Web/CSS/atan2)
 
 </details>
+
+<details>
+  <summary>What is an attr function?</summary>
+
+The `attr()` CSS function is used to retrieve the value of an attribute of the selected element and use it in the stylesheet. It can also be used on pseudo-elements, in which case the value of the attribute on the pseudo-element's originating element is returned.
+
+Example:
+
+    <p data-foo="hello">world</p>
+
+    [data-foo]::before {
+      content: attr(data-foo) " ";
+    }
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/CSS/attr)
+
+</details>
