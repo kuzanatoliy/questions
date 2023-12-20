@@ -133,3 +133,23 @@ Example:
 [More >>](https://developer.mozilla.org/en-US/docs/Web/CSS/clamp)
 
 </details>
+
+<details>
+  <summary>What is a cos function?</summary>
+
+The `cos()` CSS function is a trigonometric function that returns the cosine of a number, which is a value between `-1` and `1`. The function contains a single calculation that must resolve to either a number or an angle by interpreting the result of the argument as radians. That is, `cos(45deg)`, `cos(0.125turn)`, and `cos(3.14159 / 4)` all represent the same value, approximately `0.707`.
+
+Example:
+
+    div.rotated-scaled-diamond {
+      width: calc(100px * cos(45deg));
+      height: calc(100px * cos(45deg));
+      margin: calc(100px / 4 * cos(45deg));
+      transform: rotate(45deg);
+      transform-origin: center;
+      background-color: green;
+    }
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/CSS/cos)
+
+</details>
