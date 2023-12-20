@@ -117,3 +117,19 @@ Example:
 [More >>](https://developer.mozilla.org/en-US/docs/Web/CSS/calc)
 
 </details>
+
+<details>
+  <summary>What is a clamp function?</summary>
+
+The `clamp()` CSS function clamps a middle value within a range of values between a defined minimum bound and a maximum bound. The function takes three parameters: a minimum value, a preferred value, and a maximim allowed value.
+
+Example:
+
+    h1 {
+      letter-spacing: 2px;
+      font-size: clamp(1.8rem, 2.5vw, 2.8rem);
+    }
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/CSS/clamp)
+
+</details>
