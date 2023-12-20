@@ -153,3 +153,31 @@ Example:
 [More >>](https://developer.mozilla.org/en-US/docs/Web/CSS/cos)
 
 </details>
+
+<details>
+  <summary>What is a counter function?</summary>
+
+The `counter()` CSS function returns a string representing the current value of the named counter, if there is one.
+
+Example:
+
+    ol {
+      counter-reset: listCounter;
+      padding-left: 5em;
+    }
+    li {
+      counter-increment: listCounter;
+    }
+    li::marker {
+      content:
+        "Item #" counter(listCounter) " is: ";
+    }
+    li::after {
+      content:
+        "[" counter(listCounter, decimal-leading-zero) "] == ["
+        counter(listCounter, upper-roman) "]";
+    }
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/CSS/counter)
+
+</details>
