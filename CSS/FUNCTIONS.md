@@ -181,3 +181,30 @@ Example:
 [More >>](https://developer.mozilla.org/en-US/docs/Web/CSS/counter)
 
 </details>
+
+<details>
+  <summary>What is a counters function?</summary>
+
+The `counters()` CSS function enables combining markers when nesting counters. The function returns a string that concatenates the current values of the named and nested counters. The function returns a string that concatenates the current values of the named and nested counters, if any are present, with the string provided. The third, optional parameter enables defining the list style.
+
+Example:
+
+    ol {
+      counter-reset: listCounter;
+    }
+    li {
+      counter-increment: listCounter;
+    }
+    li::marker {
+      content:
+        counters(listCounter, ".", upper-roman) ") ";
+    }
+    li::before {
+      content:
+        counters(listCounter, ".") " == "
+        counters(listCounter, ".", lower-roman);
+    }
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/CSS/counters)
+
+</details>
