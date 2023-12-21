@@ -289,3 +289,30 @@ Example:
 [More >>](https://developer.mozilla.org/en-US/docs/Web/CSS/exp)
 
 </details>
+
+<details>
+  <summary>What is a fit-content function?</summary>
+
+The `fit-content()` CSS function clamps a fiven size to an available size according to the formula `min(maximum size, max(minimum size, argument))`.
+
+Example:
+
+    #container {
+      display: grid;
+      grid-template-columns: fit-content(300px) fit-content(300px) 1fr;
+      grid-gap: 5px;
+      box-sizing: border-box;
+      height: 200px;
+      width: 100%;
+      background-color: #8cffa0;
+      padding: 10px;
+    }
+
+    #container > div {
+      background-color: #8ca0ff;
+      padding: 5px;
+    }
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/CSS/fit-content)
+
+</details>
