@@ -337,3 +337,21 @@ Example:
 [More >>](https://developer.mozilla.org/en-US/docs/Web/CSS/hypot)
 
 </details>
+
+<details>
+  <summary>What is a log function?</summary>
+
+The `log()` CSS function is an exponential function that returns the logarithm of a number.
+
+Example:
+
+    :root {
+      --size-0: 50px;
+      --size-1: calc(var(--size-0) * log(7.389)); /*  100px */
+      --size-2: calc(var(--size-0) * log(8, 2)); /*  150px */
+      --size-3: calc(var(--size-0) * log(625, 5)); /*  200px */
+    }
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/CSS/log)
+
+</details>
