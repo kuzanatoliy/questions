@@ -316,3 +316,24 @@ Example:
 [More >>](https://developer.mozilla.org/en-US/docs/Web/CSS/fit-content)
 
 </details>
+
+<details>
+  <summary>What is a hypot function?</summary>
+
+The `hypot()` CSS function is an exponential function that returns the square root of the sum of squares of its parameters.
+
+Example:
+
+    :root {
+      --size-0: 100px;
+      --size-1: hypot(var(--size-0)); /*  100px */
+      --size-2: hypot(var(--size-0), var(--size-0)); /*  141.42px */
+      --size-3: hypot(
+        calc(var(--size-0) * 1.5),
+        calc(var(--size-0) * 2)
+      ); /*  250px */
+    }
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/CSS/hypot)
+
+</details>
