@@ -226,3 +226,22 @@ Example:
 [More >>](https://developer.mozilla.org/en-US/docs/Web/CSS/cross-fade)
 
 </details>
+
+<details>
+  <summary>What is an element function?</summary>
+
+The `element()` CSS function defines an image value generated from an arbitary HTML element. This image is live, meaning that if the HTML element is changed, the CSS properties using the resulting value are automatically updated.
+
+Example:
+
+    #css-result {
+      background: -moz-element(#css-source) no-repeat;
+      width: 256px;
+      height: 32px;
+      background-size: 80%;
+      border: dashed;
+    }
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/CSS/element)
+
+</details>
