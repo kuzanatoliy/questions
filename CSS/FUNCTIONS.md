@@ -269,3 +269,23 @@ Example:
 [More >>](https://developer.mozilla.org/en-US/docs/Web/CSS/env)
 
 </details>
+
+<details>
+  <summary>What is an exp function?</summary>
+
+The `exp()` CSS function is an exponential function that takes an number as an argument and returns the mathematical constant `e` raised to the power of the given number.
+
+Example:
+
+    div.box {
+      width: 100px;
+      height: 100px;
+      background: linear-gradient(orange, red);
+    }
+    div.box-1 {
+      transform: rotate(calc(1turn * exp(-1))); // 0.3678794411714423turn
+    }
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/CSS/exp)
+
+</details>
