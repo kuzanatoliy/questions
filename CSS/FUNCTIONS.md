@@ -208,3 +208,21 @@ Example:
 [More >>](https://developer.mozilla.org/en-US/docs/Web/CSS/counters)
 
 </details>
+
+<details>
+  <summary>What is a cross-fade function?</summary>
+
+The `cross-fade()` CSS function can be used to blend two or more images at a defined transparency. It can be used for many simple image manipulations, such as tinting an image with a solid color or highlighting a particular area of the page by combining an image with a radial gradient.
+
+Example:
+
+    .crossfade {
+      width: 300px;
+      height: 300px;
+      background-image: -webkit-cross-fade(url("br.png"), url("tr.png"), 75%);
+      background-image: cross-fade(url("br.png"), url("tr.png"), 75%);
+    }
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/CSS/cross-fade)
+
+</details>
