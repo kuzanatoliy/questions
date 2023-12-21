@@ -245,3 +245,27 @@ Example:
 [More >>](https://developer.mozilla.org/en-US/docs/Web/CSS/element)
 
 </details>
+
+<details>
+  <summary>What is an env function?</summary>
+
+The `env()` CSS function can be used to insert the value of a user agent defined environment variables are globally scoped to a document, wheres custom properties are scoped to the element(s) on which they are declared.
+
+Example:
+
+    body {
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+      font: 1em system-ui;
+    }
+
+    main {
+      flex: 1;
+      background-color: #eee;
+      padding: 1em;
+    }
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/CSS/env)
+
+</details>
