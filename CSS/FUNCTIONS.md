@@ -473,3 +473,23 @@ Example:
 [More >>](https://developer.mozilla.org/en-US/docs/Web/CSS/pow)
 
 </details>
+
+<details>
+  <summary>What is a ray function?</summary>
+
+The `ray()` CSS function defines the `offset-path` line segment that an animated element can follow. The line segment is referred to as "ray". The ray begins from an `offset-position` and extends in the direction of the specified angle. the length of a ray can be constrained by specifying a size and using the `contain` keyword.
+
+Example:
+
+    .box1 {
+      offset-path: ray(0deg closest-side);
+    }
+
+    .box2 {
+      offset-anchor: 0 0;
+      offset-path: ray(0deg closest-side);
+    }
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/CSS/ray)
+
+</details>
