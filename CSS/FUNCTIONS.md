@@ -455,3 +455,21 @@ Example:
 [More >>](https://developer.mozilla.org/en-US/docs/Web/CSS/path)
 
 </details>
+
+<details>
+  <summary>What is a pow function?</summary>
+
+The `pow()` CSS function is an exponential function that returns the value of a base raised to the power of a number.
+
+Example:
+
+    h1 {
+      font-size: calc(1rem * pow(1.5, 4));
+    }
+    h2 {
+      font-size: calc(1rem * pow(1.5, 3));
+    }
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/CSS/pow)
+
+</details>
