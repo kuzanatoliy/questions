@@ -441,3 +441,17 @@ Example:
 [More >>](https://developer.mozilla.org/en-US/docs/Web/CSS/mod)
 
 </details>
+
+<details>
+  <summary>What is a path function?</summary>
+
+The `path()` CSS function accepts an SVG path string, and is used in CSS Shapes and CSS Motion Path to enable a shape to be drawn.
+
+Example:
+
+    path("M 10 80 C 40 10, 65 10, 95 80 S 150 150, 180 80");
+    path(evenodd,"M 10 80 C 40 10, 65 10, 95 80 S 150 150, 180 80");
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/CSS/path)
+
+</details>
