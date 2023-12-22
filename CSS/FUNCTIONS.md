@@ -534,3 +534,24 @@ Example:
 [More >>](https://developer.mozilla.org/en-US/docs/Web/CSS/repeat)
 
 </details>
+
+<details>
+  <summary>What is a round function?</summary>
+
+The `round()` CSS function returns a rounded number based on a selected rounding strategy.
+
+Example:
+
+    div.box-2 {
+      height: round(up, 101px, var(--rounding-interval));
+    }
+    div.box-3 {
+      height: round(down, 122px, var(--rounding-interval));
+    }
+    div.box-4 {
+      height: round(to-zero, 120px, var(--rounding-interval));
+    }
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/CSS/round)
+
+</details>
