@@ -571,3 +571,20 @@ Example:
 [More >>](https://developer.mozilla.org/en-US/docs/Web/CSS/sign)
 
 </details>
+
+<details>
+  <summary>What is a sin function?</summary>
+
+The `sin()` CSS function is a trigonometric function that returns the sine of a number, which is a value between `-1` and `1`. The function contains a single calculation that must resolve to either a number or an angle by interpreting the result of the argument as radians. That is, `sin(45deg)`, `sin(0.125turn)` all represent the same value, approximately `0.707`.
+
+Example:
+
+    div {
+      background-color: red;
+      width: calc(sin(30deg) * 100px);
+      height: calc(sin(30deg) * 100px);
+    }
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/CSS/sin)
+
+</details>
