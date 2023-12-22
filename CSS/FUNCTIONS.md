@@ -493,3 +493,17 @@ Example:
 [More >>](https://developer.mozilla.org/en-US/docs/Web/CSS/ray)
 
 </details>
+
+<details>
+  <summary>What is a rem function?</summary>
+
+The `rem()` CSS function returns a remainder left over when the first parameter is divided by the second parameter, similar to the JavaScript remaider operator (%). The remaider is the value left over when one operand, the dividend, is divided by a second operand, the divisor. It always takes the sign of the dividend.
+
+Example:
+
+    margin: rem(14%, 3%); /* 2% */
+    margin: rem(18px, 5px); /* 3px */
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/CSS/rem)
+
+</details>
