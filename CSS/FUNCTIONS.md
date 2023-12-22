@@ -355,3 +355,21 @@ Example:
 [More >>](https://developer.mozilla.org/en-US/docs/Web/CSS/log)
 
 </details>
+
+<details>
+  <summary>What is a max function?</summary>
+
+The `max()` CSS function lets set the largest (most positive) value from a list of comma-separated expressions as the value of a CSS property value. The `max()` function can be used anywhere a length, frequency, angle, time, percentage, number, or integer is allowed.
+
+Example:
+
+    h1 {
+      font-size: 2rem;
+    }
+    h1.responsive {
+      font-size: max(4vw, 2em, 2rem);
+    }
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/CSS/max)
+
+</details>
