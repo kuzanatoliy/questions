@@ -399,3 +399,30 @@ Example:
 [More >>](https://developer.mozilla.org/en-US/docs/Web/CSS/min)
 
 </details>
+
+<details>
+  <summary>What is a minmax function?</summary>
+
+The `minmax()` CSS function defines a size range greater than or equal to min and less than or equal to max. It is used with CSS Grids.
+
+Example:
+
+    #container {
+      display: grid;
+      grid-template-columns: minmax(min-content, 300px) minmax(200px, 1fr) 150px;
+      grid-gap: 5px;
+      box-sizing: border-box;
+      height: 200px;
+      width: 100%;
+      background-color: #8cffa0;
+      padding: 10px;
+    }
+
+    #container > div {
+      background-color: #8ca0ff;
+      padding: 5px;
+    }
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/CSS/minmax)
+
+</details>
