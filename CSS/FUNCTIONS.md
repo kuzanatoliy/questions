@@ -507,3 +507,30 @@ Example:
 [More >>](https://developer.mozilla.org/en-US/docs/Web/CSS/rem)
 
 </details>
+
+<details>
+  <summary>What is a repeat function?</summary>
+
+The `repeat()` CSS function represents a repeated fragment of the track list, allowing a large number of columns or rows that exhibit a recurring pattern to be written in a more compact form.
+
+Example:
+
+    #container {
+      display: grid;
+      grid-template-columns: repeat(2, 50px 1fr) 100px;
+      grid-gap: 5px;
+      box-sizing: border-box;
+      height: 200px;
+      width: 100%;
+      background-color: #8cffa0;
+      padding: 10px;
+    }
+
+    #container > div {
+      background-color: #8ca0ff;
+      padding: 5px;
+    }
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/CSS/repeat)
+
+</details>
