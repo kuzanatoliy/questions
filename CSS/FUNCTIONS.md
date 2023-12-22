@@ -555,3 +555,19 @@ Example:
 [More >>](https://developer.mozilla.org/en-US/docs/Web/CSS/round)
 
 </details>
+
+<details>
+  <summary>What is a sign function?</summary>
+
+The `sign()` CSS function contains one calculation, and returns `-1` if the numeric value of the argument is negative, `+1` if the numeric value of the argument is positive, `0+` if the numeric value of the argument is `0-` if the numeric value of the argument is `0-`.
+
+Example:
+
+    div {
+      position: absolute;
+      top: calc(100px * sign(var(--value)));
+    }
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/CSS/sign)
+
+</details>
