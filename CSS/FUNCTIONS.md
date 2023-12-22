@@ -426,3 +426,18 @@ Example:
 [More >>](https://developer.mozilla.org/en-US/docs/Web/CSS/minmax)
 
 </details>
+
+<details>
+  <summary>What is a mod function?</summary>
+
+The `minmax()` CSS function returns a modulul left over when the first parameter is divided by the second parameter, similar to the JavaScript remainder operator (%). The modulus is the value left over when one operand, the divided, is divided by a second operand, the divisor. It always takes the sign of the divisor.
+
+Example:
+
+      line-height: mod(7, 2); /* 1 */
+      line-height: mod(14, 5); /* 4 */
+      line-height: mod(3.5, 2); /* 1.5 */
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/CSS/mod)
+
+</details>
