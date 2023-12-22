@@ -588,3 +588,18 @@ Example:
 [More >>](https://developer.mozilla.org/en-US/docs/Web/CSS/sin)
 
 </details>
+
+<details>
+  <summary>What is a symbols function?</summary>
+
+The `symbols()` CSS function enables defining counter styles inline, directly as a value of properties such as `list-style`, providing a less powerful but simpler alternative to the `@counter-style` method of defining a counter style.
+
+Example:
+
+    ol {
+      list-style: symbols(cyclic "*" "†" "‡");
+    }
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/CSS/symbols)
+
+</details>
