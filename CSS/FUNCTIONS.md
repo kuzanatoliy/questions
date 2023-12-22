@@ -603,3 +603,16 @@ Example:
 [More >>](https://developer.mozilla.org/en-US/docs/Web/CSS/symbols)
 
 </details>
+
+<details>
+  <summary>What is a tan function?</summary>
+
+The `tan()` CSS function is a trigonometric function that returns the tangent of a number, which is a value between `-infinity` and `infinity`. The function contains a single calculation that nust resolve to either a number or an angle by interpreting the result of the argument as radians.
+
+Example:
+
+    width: calc(100% - 100% * var(--h) / var(--w) * tan(var(--angle)));
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/CSS/tan)
+
+</details>
