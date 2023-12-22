@@ -373,3 +373,29 @@ Example:
 [More >>](https://developer.mozilla.org/en-US/docs/Web/CSS/max)
 
 </details>
+
+<details>
+  <summary>What is a min function?</summary>
+
+The `min()` CSS function lets set the smallest (most positive) value from a list of comma-separated expressions as the value of a CSS property value. The `min()` function can be used anywhere a length, frequency, angle, time, percentage, number, or integer is allowed.
+
+Example:
+
+    input,
+    label {
+      padding: 2px;
+      box-sizing: border-box;
+      display: inline-block;
+      width: min(40%, 400px);
+      background-color: pink;
+    }
+
+    form {
+      margin: 4px;
+      border: 1px solid black;
+      padding: 4px;
+    }
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/CSS/min)
+
+</details>
