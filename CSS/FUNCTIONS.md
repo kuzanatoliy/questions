@@ -630,3 +630,16 @@ Example:
 [More >>](https://developer.mozilla.org/en-US/docs/Web/CSS/url)
 
 </details>
+
+<details>
+  <summary>What is a var function?</summary>
+
+The `var()` CSS function can be used to insert the value of a custom property (sometimes called a "CSS variable") instead of any part of a value of another property.
+
+Example:
+
+    var(--custom-prop, initial); /* initial value of the property as fallback */
+
+[More >>](https://developer.mozilla.org/en-US/docs/Web/CSS/var)
+
+</details>
