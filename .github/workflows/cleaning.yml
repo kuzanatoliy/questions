@@ -1,0 +1,25 @@
+name: cleaning
+on: workflow_dispatch
+jobs:
+  pipeline:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [18.x]
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: clean
+        run: |
+          git config --global user.email "njkznu@gmail.com"
+          git config --global user.name "kuzanatoliy"
+          branchList=`git branch --remotes`
+          for branch in $branchList
+          do
+            name=`echo $branch | cut -d "/" -f 2`
+            if [ $name != master -a $name != develop -a $name != gh-pages ]
+            then
+              git push origin -d $name
+            fi
+          done
