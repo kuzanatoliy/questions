@@ -55,3 +55,5 @@
 [SolidJS](SOLIDJS.md)
 
 [Storages](STORAGES.md)
+
+[ViTest](VITEST.md)
