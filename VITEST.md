@@ -50,3 +50,20 @@
 [More >>](https://vitest.dev/config/#pooloptions-forks)
 
 </details>
+
+<details>
+  <summary>What settings would be used for the vmThreads pool?</summary>
+
+- **maxThreads** - Maximum number of threads. You can also use `VITEST_MAX_THREADS` environment variable.
+
+- **minThreads** - Minimum number of threads. You can also use `VITEST_MIN_THREADS` environment variable.
+
+- **memoryLimit** - Specifies the memory limit for workers before they are recycled.
+
+- **useAtomics** - Use Atomics to synchronize threads.
+
+- **execArgv** - Pass additional arguments to `node` in the threads.
+
+[More >>](https://vitest.dev/config/#pooloptions-vmthreads)
+
+</details>
