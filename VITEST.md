@@ -14,3 +14,22 @@
 [More >>](https://vitest.dev/config/#pool-1-0-0)
 
 </details>
+
+<details>
+  <summary>What settings would be used for the threads pool?</summary>
+
+- **maxThreads** - Maximum number of threads. You can also use `VITEST_MAX_THREADS` environment variable.
+
+- **minThreads** - Minimum number of threads. You can also use `VITEST_MIN_THREADS` environment variable.
+
+- **singleThread** - Run all tests with the same environment inside a single worker thread. This will disable built-in module isolation (your source code or inlined code will still be reevaluated for each test), but can improve test performance.
+
+- **useAtomics** - Use Atomics to synchronize threads.
+
+- **isolate** - Isolate environment for each test file.
+
+- **execArgv** - Pass additional arguments to `node` in the threads.
+
+[More >>](https://vitest.dev/config/#pooloptions-threads)
+
+</details>
