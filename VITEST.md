@@ -33,3 +33,20 @@
 [More >>](https://vitest.dev/config/#pooloptions-threads)
 
 </details>
+
+<details>
+  <summary>What settings would be used for the forks pool?</summary>
+
+- **maxForks** - Maximum number of forks.
+
+- **minForks** - Minimum number of forks.
+
+- **singleFork** - Run all tests with the same environment inside a single child process.
+
+- **isolate** - Isolate environment for each test file.
+
+- **execArgv** - Pass additional arguments to `node` in the child processes.
+
+[More >>](https://vitest.dev/config/#pooloptions-forks)
+
+</details>
