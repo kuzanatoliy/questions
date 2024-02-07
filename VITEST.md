@@ -67,3 +67,18 @@
 [More >>](https://vitest.dev/config/#pooloptions-vmthreads)
 
 </details>
+
+<details>
+  <summary>What settings would be used for the vmForks pool?</summary>
+
+- **maxForks** - Maximum number of threads. You can also use `VITEST_MAX_FORKS` environment variable.
+
+- **minForks** - Minimum number of threads. You can also use `VITEST_MIN_FORKS` environment variable.
+
+- **memoryLimit** - Specifies the memory limit for workers before they are recycled.
+
+- **execArgv** - Pass additional arguments to `node` process in the VM context.
+
+[More >>](https://vitest.dev/config/#pooloptions-vmforks)
+
+</details>
