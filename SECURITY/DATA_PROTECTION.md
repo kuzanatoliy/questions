@@ -19,3 +19,12 @@
 - That the data is correct, authentic, and reliable.
 
 </details>
+
+<details>
+  <summary>What is availability?</summary>
+
+- This means that networks, systems, and applications are up and running;
+
+- It ensures that authorized users have timely, reliable access to resources when they are needed.
+
+</details>
