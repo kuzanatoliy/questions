@@ -17,3 +17,5 @@
 [Insecure Deserialization](INSECURE_DESERIALIZATION.md)
 
 [Using Components with Known Vulnerabilities](USING_COMPONENTS_WITH_KNOWN_VULNERABILITIES.md)
+
+[Data protection](DATA_PROTECTION.md)
