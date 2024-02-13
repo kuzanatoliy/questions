@@ -28,3 +28,12 @@
 - It ensures that authorized users have timely, reliable access to resources when they are needed.
 
 </details>
+
+<details>
+  <summary>Are privacy and security the same thing?</summary>
+
+- **Privacy** is the right to control how your information is viewed and used.
+
+- **Security** is protection of data against threats or vulnerabilities.
+
+</details>
