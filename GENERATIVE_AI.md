@@ -26,7 +26,14 @@ AI focuses on giving computers human-like abilities, while ML trains them to do 
 <details>
   <summary>What is an Encoder?</summary>
 
-Encoder takes an input sequence (prompt), scans it by traversing through multiple internal layers, and identifies relevant blocks. It is then passed to the decoder utilizing a self-attention mechanism.
+The encoder takes an input sequence (prompt), scans it by traversing through multiple internal layers, and identifies relevant blocks. It is then passed to the decoder utilizing a self-attention mechanism.
+
+</details>
+
+<details>
+  <summary>What is a Self-attention mechanism?</summary>
+
+The self-attention mechanism helps the system comprehend and process the relationships between words in a sentence or a paragraph. It lives within the “context window”, a dynamic memory for your conversation.
 
 </details>
 
