@@ -24,6 +24,13 @@ AI focuses on giving computers human-like abilities, while ML trains them to do 
 </details>
 
 <details>
+  <summary>What is an Encoder?</summary>
+
+Encoder takes an input sequence (prompt), scans it by traversing through multiple internal layers, and identifies relevant blocks. It is then passed to the decoder utilizing a self-attention mechanism.
+
+</details>
+
+<details>
   <summary>What is a Language Modeling?</summary>
 
 Language modeling is fundamental to LLMs and involves predicting the next word (token) given the context of the preceding words, using mathematical calculations and probability. With its self-attention mechanism, the transformer architecture enables LLMs to effectively learn and generate language by capturing dependencies and patterns within the input data.
