@@ -38,6 +38,13 @@ The self-attention mechanism helps the system comprehend and process the relatio
 </details>
 
 <details>
+  <summary>What is a Decoder?</summary>
+
+Decoder receives relevant blocks from the encoder and generates output using the provided context.
+
+</details>
+
+<details>
   <summary>What is a Language Modeling?</summary>
 
 Language modeling is fundamental to LLMs and involves predicting the next word (token) given the context of the preceding words, using mathematical calculations and probability. With its self-attention mechanism, the transformer architecture enables LLMs to effectively learn and generate language by capturing dependencies and patterns within the input data.
