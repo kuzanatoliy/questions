@@ -8,3 +8,10 @@
 - **Artificial Intelligence(AI)** - a concept referring to a computer's capability to learn and make decisions in a human-like manner.
 
 </details>
+
+<details>
+  <summary>What is an Artificial Intelligence?</summary>
+
+AI is a science that helps computers and machines act “smart,” think like humans, and complete tasks on their own. Its main goal is to create systems that understand the world, adapt to changes, and interact well with people. AI aims to boost our abilities, increase efficiency, and transform our lives by learning, reasoning, solving problems, and making decisions.
+
+</details>
