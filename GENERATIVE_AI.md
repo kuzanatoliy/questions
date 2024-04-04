@@ -67,3 +67,10 @@ Language modeling is fundamental to LLMs and involves predicting the next word (
 Prompt Engineering is a new discipline that investigates how to develop and optimize prompts to efficiently use language models for various applications.
 
 </details>
+
+<details>
+  <summary>What is a Zero-Shot technique?</summary>
+
+Zero-shot prompting is a technique that involves generating text from an LLM without additional training or fine-tuning. Instead, pre-trained models are used to generate text in response to a human-generated prompt. Zero-shot prompting minimizes the need for additional training, as models have already learned the underlying structure of the language.
+
+</details>
