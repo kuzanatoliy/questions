@@ -71,6 +71,13 @@ Prompt Engineering is a new discipline that investigates how to develop and opti
 <details>
   <summary>What is a Zero-Shot technique?</summary>
 
-Zero-shot prompting is a technique that involves generating text from an LLM without additional training or fine-tuning. Instead, pre-trained models are used to generate text in response to a human-generated prompt. Zero-shot prompting minimizes the need for additional training, as models have already learned the underlying structure of the language.
+The Zero-shot prompting is a technique that involves generating text from an LLM without additional training or fine-tuning. Instead, pre-trained models are used to generate text in response to a human-generated prompt. Zero-shot prompting minimizes the need for additional training, as models have already learned the underlying structure of the language.
+
+</details>
+
+<details>
+  <summary>What is a Few-Shot technique?</summary>
+
+The Few-shot prompting involves training LLMs on a few training examples to perform specific tasks. Unlike zero-shot prompt generation, few-shot prompting allows for the customization of LLMs to suit specific task requirements. Few-shot models use a few examples to adapt to a specific type of task, making it a useful method for customizing text generation pipelines.
 
 </details>
