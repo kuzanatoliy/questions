@@ -88,3 +88,10 @@ The Few-shot prompting involves training LLMs on a few training examples to perf
 The Chain-of-Thought prompting is an extension of few-shot prompting. It involves training models to learn the type of relationships that exist between different pieces of text. Models are taught to recognize how different pieces of text are connected and use that knowledge to generate text in response to a prompt. This technique is useful in applications such as question-answering and summarization, which require a deep understanding of the relationships between different pieces of text.
 
 </details>
+
+<details>
+  <summary>What is a Tree of Thoughts technique?</summary>
+
+An even more intriguing method for prompting, known as the Tree of Thoughts (ToT), has been proposed by a team of researchers aiming to enhance the problem-solving abilities of LLMs. They introduced a framework that can potentially improve the planning and decision-making processes carried out by models, building upon the previously mentioned techniques.
+
+</details>
