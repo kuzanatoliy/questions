@@ -50,3 +50,13 @@ Decoder receives relevant blocks from the encoder and generates output using the
 Language modeling is fundamental to LLMs and involves predicting the next word (token) given the context of the preceding words, using mathematical calculations and probability. With its self-attention mechanism, the transformer architecture enables LLMs to effectively learn and generate language by capturing dependencies and patterns within the input data.
 
 </details>
+
+<details>
+  <summary>What are Limitations of Generative AI and Mitigation Techniques?</summary>
+
+- **Cognitive Limitations** - LLMs don't think like humans, and they don’t know if their responses are good or bad. They lack introspection, and they can't understand everything. They might make mistakes, produce fake facts (“hallucinate”) or be biased.
+- **Output Quality & Transparency Limitations** - LLMs generate answers based on their training, which might be outdated. The quality of their responses also depends on the questions you ask them, and it's hard to know the reasoning behind their answers.
+- **Technical Limitations** - LLMs are new technology, so they can be tricked or attacked. Double-check their outputs before accepting an answer.
+- **Privacy, Security & Regulatory Limitations** - LLMs may store data and raise privacy concerns, so using them for sensitive information could lead to legal issues. Be mindful of data regulations and potential copyright issues when using LLMs.
+
+</details>
