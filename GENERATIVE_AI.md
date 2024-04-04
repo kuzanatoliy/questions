@@ -81,3 +81,10 @@ The Zero-shot prompting is a technique that involves generating text from an LLM
 The Few-shot prompting involves training LLMs on a few training examples to perform specific tasks. Unlike zero-shot prompt generation, few-shot prompting allows for the customization of LLMs to suit specific task requirements. Few-shot models use a few examples to adapt to a specific type of task, making it a useful method for customizing text generation pipelines.
 
 </details>
+
+<details>
+  <summary>What is a Chain-of-Thought technique?</summary>
+
+The Chain-of-Thought prompting is an extension of few-shot prompting. It involves training models to learn the type of relationships that exist between different pieces of text. Models are taught to recognize how different pieces of text are connected and use that knowledge to generate text in response to a prompt. This technique is useful in applications such as question-answering and summarization, which require a deep understanding of the relationships between different pieces of text.
+
+</details>
