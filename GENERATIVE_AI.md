@@ -60,3 +60,10 @@ Language modeling is fundamental to LLMs and involves predicting the next word (
 - **Privacy, Security & Regulatory Limitations** - LLMs may store data and raise privacy concerns, so using them for sensitive information could lead to legal issues. Be mindful of data regulations and potential copyright issues when using LLMs.
 
 </details>
+
+<details>
+  <summary>What is a Prompt Engineering?</summary>
+
+Prompt Engineering is a new discipline that investigates how to develop and optimize prompts to efficiently use language models for various applications.
+
+</details>
