@@ -104,3 +104,16 @@ An even more intriguing method for prompting, known as the Tree of Thoughts (ToT
 3. **Evalueate Results** - After adjusting your prompt or data, it's essential for you to evaluate the results to determine if they meet your expectations or require further adjustments. This involves comparing outputs, checking for consistency, assessing relevance, evaluating clarity, and testing with multiple examples. Based on your evaluation, you may need to iterate and refine your prompt until you achieve the desired results.
 
 </details>
+
+<details>
+  <summary>What are goals of Prompt Formatting?</summary>
+
+Choosing the right prompt format aims to achieve the following objectives:
+
+- **Clarity:** A well-structured prompt provides clear instructions and reduces misinterpretation by LLM.
+- **Context:** A prompt serves as a framework for the model to comprehend and address the given question or problem.
+- **Specificity:** Well-structured prompts guide the model to generate focused and targeted responses.
+- **Consistency:** Providing prompts in a specific format guides the model to respond in the same format. However, if required by your flow, you can request an explicit response format.
+- **Efficiency:** A properly formatted prompt can increase cost efficiency and performance, as API users typically incur charges based on the number of prompt tokens used.
+
+</details>
