@@ -95,3 +95,12 @@ The Chain-of-Thought prompting is an extension of few-shot prompting. It involve
 An even more intriguing method for prompting, known as the Tree of Thoughts (ToT), has been proposed by a team of researchers aiming to enhance the problem-solving abilities of LLMs. They introduced a framework that can potentially improve the planning and decision-making processes carried out by models, building upon the previously mentioned techniques.
 
 </details>
+
+<details>
+  <summary>What fine-tuning process steps could be mention?</summary>
+
+1. **(Re)Validte an Idea** - Before starting to work with a language model, it's crucial for you to have a clear and well-defined idea of what you want to achieve. This involves understanding the problem you're trying to solve and determining if a language model is the right tool for the job. When framing your idea, make sure it is specific, well-articulated, and leaves little room for interpretation.
+2. **Improve Prompt or Data** - Once you have a clear idea, the next step is to create or adjust your prompt and (or) data. This involves experimenting with different prompt structures, wording, and parameters to find the most effective combination. Keep in mind that prompt engineering is an evolving field, and staying up-to-date with the latest techniques and best practices can help you get the most out of your language models.
+3. **Evalueate Results** - After adjusting your prompt or data, it's essential for you to evaluate the results to determine if they meet your expectations or require further adjustments. This involves comparing outputs, checking for consistency, assessing relevance, evaluating clarity, and testing with multiple examples. Based on your evaluation, you may need to iterate and refine your prompt until you achieve the desired results.
+
+</details>
