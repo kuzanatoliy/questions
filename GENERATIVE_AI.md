@@ -117,3 +117,16 @@ Choosing the right prompt format aims to achieve the following objectives:
 - **Efficiency:** A properly formatted prompt can increase cost efficiency and performance, as API users typically incur charges based on the number of prompt tokens used.
 
 </details>
+
+<details>
+  <summary>What are goals of Output Formatting?</summary>
+
+Choosing the right result format aims to achieve the following objectives:
+
+- **Readability:** A formatted result makes the generated output easy to read and understand.
+- **Presentation:** A well-structured output makes the presentation visually appealing.
+- **Accessibility:** Formatted results can be seamlessly integrated and utilized across different platforms and applications.
+- **Relevance:** A well-structured output allows for the easy extraction of relevant information and supports efficient analysis and decision-making.
+- **Alignment:** Well-shaped results align with the user's purpose and specific requirements.
+
+</details>
