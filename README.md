@@ -28,6 +28,8 @@
 
 [Functional programming](FUNCTIONAL_PROGRAMMING.md)
 
+[Generative AI](GENERATIVE_AI.md)
+
 [HTML](HTML.md)
 
 [NETWORK](NETWORK/README.md)
