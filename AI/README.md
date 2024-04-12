@@ -1,5 +1,5 @@
 # Artificial Intelligence
 
-[Best Practices](BEST_PRACTICES.md)
+[Best Practices and Benefits](BEST_PRACTICES_AND_BENEFITS.md)
 
 [Generative AI](GENERATIVE_AI.md)

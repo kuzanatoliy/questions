@@ -18,3 +18,19 @@
 - Incorporate real-time data or examples.
 
 </details>
+
+<details>
+  <summary>What are benefits for a system design with AI?</summary>
+
+- Requirement clarification;
+- Assistance in technology selection;
+- Design patterns suggestions;
+- Trade-offs analysis;
+- Performance and security gguidance;
+- Architecture suggestions;
+- Answering questions;
+- Iterative design support;
+- Design document assistance;
+- Design review and feedback.
+
+</details>
