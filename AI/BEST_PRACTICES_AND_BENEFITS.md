@@ -34,3 +34,12 @@
 - Design review and feedback.
 
 </details>
+
+<details>
+  <summary>What are reasons for a testing process with AI?</summary>
+
+- Automate test data test case generation;
+- Improve testing quality and test coverage;
+- Overcome lack of knowledge in a specific technology.
+
+</details>
