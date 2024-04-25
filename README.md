@@ -1,5 +1,7 @@
 # Questions
 
+[AI](AI/README.md)
+
 [Aria](ARIA/README.md)
 
 [CLOUD](CLOUDS/README.md)
@@ -27,8 +29,6 @@
 [CORS](CORS.md)
 
 [Functional programming](FUNCTIONAL_PROGRAMMING.md)
-
-[Generative AI](GENERATIVE_AI.md)
 
 [HTML](HTML.md)
 
