@@ -31,3 +31,12 @@ Accessibility is the practice of making your websites usable by as many people a
 - Use descriptive titles for every page.
 
 </details>
+
+<details>
+  <summary>What tips might help to make website accessible for the people with auditory impaired?</summary>
+
+- video player-supporting mechanisms that enable subtitles and transcripts;
+- audio player-supporting mechanisms that enable transcripts;
+- multiple contact options (Don’t just provide a phone number on your website, as deaf people cannot hear well on the phone. Add communication channels like email, skype, live web chat, or online forms).
+
+</details>
