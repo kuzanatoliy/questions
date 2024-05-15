@@ -8,12 +8,26 @@ Accessibility is the practice of making your websites usable by as many people a
 </details>
 
 <details>
-  <summary>What are disabilities types?</summary>
+  <summary>What disabilities types?</summary>
 
-- Visual
-- Auditory (Hearing impairments)
-- Speech
-- Motor/Physical
-- Cognitive
+- Visual;
+- Auditory (Hearing impairments);
+- Speech;
+- Motor/Physical;
+- Cognitive.
+
+</details>
+
+<details>
+  <summary>What tips might help to make website accessible for the people with visually impaired?</summary>
+
+- Provide sufficient contrast using colors and textures;
+- Limit and prioritize color in the interface;
+- Allow manual font size adjustment;
+- Grant keyboard accessibility;
+- Use explicit and descriptive labels for links and buttons;
+- Provide alt text or descriptions for non-text content;
+- Use headings to organize page content;
+- Use descriptive titles for every page.
 
 </details>
