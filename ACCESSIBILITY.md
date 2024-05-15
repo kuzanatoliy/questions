@@ -40,3 +40,12 @@ Accessibility is the practice of making your websites usable by as many people a
 - multiple contact options (Don’t just provide a phone number on your website, as deaf people cannot hear well on the phone. Add communication channels like email, skype, live web chat, or online forms).
 
 </details>
+
+<details>
+  <summary>What tips might help to make website accessible for the people with auditory impaired?</summary>
+
+- All functions are accessible and easy to use via the keyboard;
+- The TAB order must be logically displayed on the Webpage or Web application;
+- Appropriate labels for controls are included.
+
+</details>
