@@ -60,3 +60,12 @@ Accessibility is the practice of making your websites usable by as many people a
 - Identify where on the site the user currently is.
 
 </details>
+
+<details>
+  <summary>What conformance levels are contained into WCAG(The Web Content Accessibility Guidelines) standard?</summary>
+
+- WCAG Level A – Basic accessibility: Level A focuses on the basic accessibility needs of a wide range of users, and achieving conformance at this level is essential.
+- WCAG Level AA – Strong accessibility: Level AA is the most commonly required level of accessibility compliance in accessibility legislation, and it is also the recommended level to aim for.
+- WCAG Level AAA – Excellent accessibility: Level AAA is the highest possible conformance level and the most difficult level to attain in WCAG.
+
+</details>
