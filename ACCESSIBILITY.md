@@ -42,10 +42,21 @@ Accessibility is the practice of making your websites usable by as many people a
 </details>
 
 <details>
-  <summary>What tips might help to make website accessible for the people with auditory impaired?</summary>
+  <summary>What tips might help to make website accessible for the people with motor impaired?</summary>
 
 - All functions are accessible and easy to use via the keyboard;
 - The TAB order must be logically displayed on the Webpage or Web application;
 - Appropriate labels for controls are included.
+
+</details>
+
+<details>
+  <summary>What tips might help to make website accessible for the people with cognitive impaired?</summary>
+
+- Avoid clutter; include sufficient white space;
+- Use high contrast between text and background;
+- Avoid too many choices, or too much information on one screen;
+- Avoid lengthy scrolling; provide links to additional content;
+- Identify where on the site the user currently is.
 
 </details>
