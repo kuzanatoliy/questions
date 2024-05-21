@@ -80,6 +80,13 @@ Most pages have a visual structure with a block of content (typically logo, navi
 <details>
   <summary>What are landmarks?</summary>
 
-andmarks is a powerful way to identify the organization and structure of a web page. Screen readers exploit landmark roles to provide keyboard navigation to important sections of a page. Landmark regions can also be used as targets for "skip links" and by browser extensions to enhanced keyboard navigation.
+Landmarks is a powerful way to identify the organization and structure of a web page. Screen readers exploit landmark roles to provide keyboard navigation to important sections of a page. Landmark regions can also be used as targets for "skip links" and by browser extensions to enhanced keyboard navigation.
+
+</details>
+
+<details>
+  <summary>How to controll a focus order or a navigation order?</summary>
+
+The focus order begins with elements that have a positive tabindex attribute (if there are any) and moves from the smallest positive number to the largest (such as 1, 2, 3). It then proceeds through elements with a tabindex of zero according to their order in the DOM. Any elements with a negative tabindex are removed from the natural focus order.
 
 </details>
