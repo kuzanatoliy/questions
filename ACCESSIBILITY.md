@@ -98,3 +98,12 @@ The focus order begins with elements that have a positive tabindex attribute (if
 - When a user clicks or touches/taps a label, the browser passes the focus to its associated input. That increased hit area for focusing is advantageous to anyone trying to activate it — including those using a touch-screen device.
 
 </details>
+
+<details>
+  <summary>What techniques would be used if the user inputs invalid data on a form field?</summary>
+
+- when the user exits the field, an alert dialog can appear to describe the error so the user can fix it.
+- after the user submits the form, the server returns the form, with the user's data still present, and indicates clearly in text at the top of the page that there were input errors. The text describes the nature of the error(s) and clearly indicates which field had the problem so the user can easily navigate to it to fix the problem.
+- when the user attempts to submit the form, client side scripting detects the error, cancels the submission, and modifies the document to provide a text description after the submit button describing the error, with links to the field(s) with the error. The script also modifies the labels of the fields with the problems to highlight them.
+
+</details>
