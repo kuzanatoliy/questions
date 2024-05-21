@@ -76,3 +76,10 @@ Accessibility is the practice of making your websites usable by as many people a
 Most pages have a visual structure with a block of content (typically logo, navigation, search, etc.) at the top, a main content area, a footer, and sometimes sidebars with related information. Page regions such as <header>, <nav>, <main>, <aside>, and <footer> programmatically define the essential semantic structure of a page.
 
 </details>
+
+<details>
+  <summary>What are landmarks?</summary>
+
+andmarks is a powerful way to identify the organization and structure of a web page. Screen readers exploit landmark roles to provide keyboard navigation to important sections of a page. Landmark regions can also be used as targets for "skip links" and by browser extensions to enhanced keyboard navigation.
+
+</details>
