@@ -90,3 +90,11 @@ Landmarks is a powerful way to identify the organization and structure of a web 
 The focus order begins with elements that have a positive tabindex attribute (if there are any) and moves from the smallest positive number to the largest (such as 1, 2, 3). It then proceeds through elements with a tabindex of zero according to their order in the DOM. Any elements with a negative tabindex are removed from the natural focus order.
 
 </details>
+
+<details>
+  <summary>What advantages for using label tag?</summary>
+
+- The label text is visually and programmatically associated with its corresponding form control. This means that a screen reader will read out the label when the user is focused on the form input, making it easier for an assistive technology user to understand what data should be entered.
+- When a user clicks or touches/taps a label, the browser passes the focus to its associated input. That increased hit area for focusing is advantageous to anyone trying to activate it — including those using a touch-screen device.
+
+</details>
