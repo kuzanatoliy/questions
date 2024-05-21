@@ -69,3 +69,10 @@ Accessibility is the practice of making your websites usable by as many people a
 - WCAG Level AAA – Excellent accessibility: Level AAA is the highest possible conformance level and the most difficult level to attain in WCAG.
 
 </details>
+
+<details>
+  <summary>What are regions?</summary>
+
+Most pages have a visual structure with a block of content (typically logo, navigation, search, etc.) at the top, a main content area, a footer, and sometimes sidebars with related information. Page regions such as <header>, <nav>, <main>, <aside>, and <footer> programmatically define the essential semantic structure of a page.
+
+</details>
