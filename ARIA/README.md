@@ -14,6 +14,17 @@ It especially helps with dynamic content and advanced user interface controls de
 
 </details>
 
+<details>
+  <summary>Where ARIA is used?</summary>
+
+There are three main components used in ARIA:
+
+- Roles.
+- States.
+- Properties.
+
+</details>
+
 [Aria attributes](ARIA_ATTRIBUTES.md)
 
 [Aria roles](ARIA_ROLES.md)
