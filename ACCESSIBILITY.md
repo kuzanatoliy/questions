@@ -100,6 +100,13 @@ The focus order begins with elements that have a positive tabindex attribute (if
 </details>
 
 <details>
+  <summary>What is non-aria labels and names?</summary>
+
+In order to make a website accessible to all users, it's important to use descriptive and meaningful text labels and names for all elements on the page. This helps to ensure that assistive technologies can accurately convey information about the page's content and structure to users with disabilities, making it easier for them to understand and interact with the website.
+
+</details>
+
+<details>
   <summary>What techniques would be used if the user inputs invalid data on a form field?</summary>
 
 - when the user exits the field, an alert dialog can appear to describe the error so the user can fix it.
@@ -111,7 +118,7 @@ The focus order begins with elements that have a positive tabindex attribute (if
 <details>
   <summary>Why text alternative for non-text content is beneficial?</summary>
 
-- t helps people who have difficulty perceiving visual content. Assistive technology can read text aloud, present it visually, or convert it to braille;
+- it helps people who have difficulty perceiving visual content. Assistive technology can read text aloud, present it visually, or convert it to braille;
 - it may help some people who have difficulty understanding the meaning of photographs, drawings, and other images, graphs, charts, animations, etc;
 - it helps people who are deaf, are hard of hearing, or who are having trouble understanding audio information for any reason;
 - people who are deaf-blind can read the text in braille.
