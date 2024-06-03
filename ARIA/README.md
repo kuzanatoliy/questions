@@ -19,9 +19,22 @@ It especially helps with dynamic content and advanced user interface controls de
 
 There are three main components used in ARIA:
 
-- Roles.
-- States.
+- Roles;
+- States;
 - Properties.
+
+</details>
+
+<details>
+  <summary>When shouldn’t we use ARIA?</summary>
+
+W3C actually created the Rules of ARIA Use to help to guide us in this question. There are five of them, starting with:
+
+- Use native HTML at all times;
+- Do not change native HTML semantics unless you absolutely have to;
+- All interactive ARIA controls must be keyboard accessible;
+- For all elements that are focusable, do not ever add role="presentation" or aria-hidden="true";
+- All interactive elements must have an accessible name.
 
 </details>
 
