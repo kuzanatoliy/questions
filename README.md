@@ -20,6 +20,8 @@
 
 [TypeScript](TYPESCRIPT/README.md)
 
+[WCAG Techniques](WCAG_TECHNIQUES/README.md)
+
 [Algorithm and Data Structures](ALGORITHM_AND_DATA_STRUCTURES.md)
 
 [Angular](ANGULAR.md)
