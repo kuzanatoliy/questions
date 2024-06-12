@@ -27,3 +27,17 @@ The objective of this technique is to provide programmatic indication that a for
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/aria/ARIA2)
 
 </details>
+
+<details>
+  <summary>What objective of using a WAI-ARIA role to expose the role of a user interface component?</summary>
+
+The objective of this technique is to define the role of an element using the role attribute with one of the non-abstract values defined in the WAI-ARIA Definition of Roles. The WAI-ARIA specification provides an informative description of each role, how it relates to other roles, and the states and properties for each role. When rich internet applications define new user interface widgets, expsing the roles enables users to understand the widget and how to interact with it.
+
+**Procedure:**
+
+1. Check that the value of the role attribute is one of the non-abstract roles from the values defined in the WAI-ARIA specification.
+2. Check that the characteristics of the user interface component are described by the role.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/aria/ARIA4)
+
+</details>
