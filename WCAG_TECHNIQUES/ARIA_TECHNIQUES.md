@@ -13,3 +13,17 @@ The purpose of this technique is to demonstrate how to use the WAI-ARIA aria-des
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/aria/ARIA1)
 
 </details>
+
+<details>
+  <summary>What objective of identifying a required field with the aria required property?</summary>
+
+The objective of this technique is to provide programmatic indication that a form field (which shown through presentation to be required) is mandatory for successful submission of a form.
+
+**Procedure:**
+
+1. Check whether the aria-required attribute is present.
+2. Check whether the value of the aria-required attribute is the correct required state of the user interface component.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/aria/ARIA2)
+
+</details>
