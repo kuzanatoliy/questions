@@ -69,3 +69,17 @@ The purpose of this technique is to provide a label for objects that can be read
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/aria/ARIA6)
 
 </details>
+
+<details>
+  <summary>What objective of using aria-labelledby for link purpose?</summary>
+
+With the aria-labelledby attribute, authors can use a visible text element on the page as a lable for a focusable element (a form control or a link). For example, a "read more..." link could be associated with the text of the heading of the preceding section to make the purpose of the link unambiguous.
+
+**Procedure:**
+
+1. Check that each id in the value of the aria labelledby attribute matches an id of a text element used as part of the link purpose.
+2. Check that the combined value of the text referenced by the one or more ids in the aria labelledby attribute properly describes the purpose of the link element.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/aria/ARIA7)
+
+</details>
