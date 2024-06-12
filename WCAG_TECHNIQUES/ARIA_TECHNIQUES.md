@@ -56,3 +56,16 @@ The objective of this technique is to use WAI-ARIA state and property attributes
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/aria/ARIA5)
 
 </details>
+
+<details>
+  <summary>What purpose of using aria-label to provide labels for objects?</summary>
+
+The purpose of this technique is to provide a label for objects that can be read by assistive technology. The aria-label attribute provides the text label for an object, such as a button. When a screen reader encounters the object, the aria-label text is read so that the user will know what it is.
+
+**Procedure:**
+
+1. Examine wheter the text description accurately labels the object or provides a description of its purpose or provides equivalent information.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/aria/ARIA6)
+
+</details>
