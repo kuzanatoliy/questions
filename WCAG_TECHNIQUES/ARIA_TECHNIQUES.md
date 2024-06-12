@@ -41,3 +41,18 @@ The objective of this technique is to define the role of an element using the ro
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/aria/ARIA4)
 
 </details>
+
+<details>
+  <summary>What objective of using a WAI-ARIA state and property attributes to expose the state of a user interface component?</summary>
+
+The objective of this technique is to use WAI-ARIA state and property attributes to expose the state, properties and values of a user interface components so that they can be read and set by assistive technology, and so that assistive technology is notified of changes to these values.
+
+**Procedure:**
+
+1. Check that the required states and properties for the role are present.
+2. Check that no WAI-ARIA states or properties that are neither required, supported, nor inherited are present.
+3. Check that the state and property values are updated to reflect the current state when the user interface component changes state.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/aria/ARIA5)
+
+</details>
