@@ -96,3 +96,17 @@ The objective of this technique is to describe the purpose of a link using the a
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/aria/ARIA8)
 
 </details>
+
+<details>
+  <summary>What objective of using aria-labelledby to concatenate a label from several text nodes?</summary>
+
+The aria-labelledby property can be used to provide a name for all visual objects. Applied to inputs, the aria-labelledby property can be used to provide a name to native inputs as well as non-native elements, such as custom thext inputs constructed with div contenteditable="true".
+
+**Procedure:**
+
+1. Check that ids referenced in aria-labelledby are unique and mathc the ids of the text nodes that together provide teh label.
+2. Check that the concatenated content of elements referenced by aria-labelledby is descriptive for the purpose of function of the element labeled.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/aria/ARIA9)
+
+</details>
