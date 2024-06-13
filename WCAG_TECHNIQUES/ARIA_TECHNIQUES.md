@@ -83,3 +83,16 @@ With the aria-labelledby attribute, authors can use a visible text element on th
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/aria/ARIA7)
 
 </details>
+
+<details>
+  <summary>What objective of using aria-label for link purpose?</summary>
+
+The objective of this technique is to describe the purpose of a link using the aria-label attribute. The aria-label attribute provides a way to place a descriptive text label on an object, such as a link, when there are no elements visible on the page that describe the object.
+
+**Procedure:**
+
+1. Check that the value of the aria-label attribute properly describes the purpose of the link element.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/aria/ARIA8)
+
+</details>
