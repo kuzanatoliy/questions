@@ -110,3 +110,18 @@ The aria-labelledby property can be used to provide a name for all visual object
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/aria/ARIA9)
 
 </details>
+
+<details>
+  <summary>What purpose of using aria-labelledby to provide a text alternative for non-text content?</summary>
+
+The purpose of this technique is to provide a short description for an element that can be read by assistive technologies by using the aria-labelledby attribute. The aria-labelledby attribute associates an element with text that is visible elsewhere on the page by using an id reference value that matches the id attribute of the labeling element. Assistive technology such as screen readers use the text of the element identified by the value of the aria-labelledby attribute as the text alternative for the element with the attribute.
+
+**Procedure:**
+
+1. Examine each element where the aria-labelledby attribute is present and the element does not support the alt attribute.
+2. Check whetehr the value of the aria-labelledby attribute is the id of an element on the web page.
+3. Determine that the text of the element identified by the aria-labelledby attribute accurately labels the element, provides a description of its purpose, or provides equivalent information.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/aria/ARIA10)
+
+</details>
