@@ -170,3 +170,18 @@ The purpose of this technique is to provide names for regions of a page that can
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/aria/ARIA13)
 
 </details>
+
+<details>
+  <summary>What purpose of using aria-label to provide an invisible label where a visible label cannot be used?</summary>
+
+In some situations, elements can be given the attribute aria-label to provide an accessible name for situations when there is no visible label due to a chosen design approach or layout but the context and visual appearance of the control make its purpose clear.
+
+In other situations elements can be given the attribute aria-label to provide an accessible name when the native HTML labeling element is not supported by the control - for example, when a div set to contentEditable is used instead of native form elements such as input type="text" or textarea in order to provide a richer text editing experience.
+
+**Procedure:**
+
+1. Check that the value of the aria-label attribute properly describes the purpose of an element where user inptu is required.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/aria/ARIA14)
+
+</details>
