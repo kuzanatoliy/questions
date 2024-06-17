@@ -155,3 +155,18 @@ The purpose of this technique is to provide a way for Assistive Technologies (AT
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/aria/ARIA12)
 
 </details>
+
+<details>
+  <summary>What purpose of using aria-labelledby to name regions and landmarks?</summary>
+
+The purpose of this technique is to provide names for regions of a page that can be read by assistive technology. The aria-labelledby attribute provides a way to associate a section of the page marked up as a region or landmarks with text that is on the page that labels it.
+
+**Procedure:**
+
+1. Examine each element with attribute role=region or with a landmark role, where an aria labelledby attribute is also present.
+2. Check that the value of the aria labelledby attribute is the id of an element on the page.
+3. Check that the text of the element with that id accurately labels the section of the page.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/aria/ARIA13)
+
+</details>
