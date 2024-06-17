@@ -197,6 +197,20 @@ The objective of this technique is to provide descriptions of images when a shor
 2. Examine whether the aria-describedby attribute programmatically associates an element with its thext description, via the id attribute on the element where the text to be used as the description is found.
 3. Examine whether the combined text equivalent and associated text description accurately describe or provide the equivalent purpose to the object.
 
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/aria/ARIA16)
+
+</details>
+
+<details>
+  <summary>What purpose of using aria-labelledby to provide a name for user interface controls?</summary>
+
+The purpose of this technique is to provide names for user interface controls that can be read by assistive technology. WAI-ARIA provides a way to associate text with a section, drawing, form element, picture, and so on using the aria labelledby. This techniques uses the aria-labelledby attribute to associate a user interface control, such as a form field, with text on the page that labels it.
+
+**Procedure:**
+
+1. Check tat the value of the aria labelledby attribute is the id of an element or a space separated list of ids on the web page.
+2. Check that the text of the referenced element or elements accurately labels the user interface control.
+
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/aria/ARIA15)
 
 </details>
