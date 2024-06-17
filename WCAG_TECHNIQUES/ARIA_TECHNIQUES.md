@@ -137,6 +137,21 @@ The purpose of this technique is to provide programmatic access to sections of a
 2. Examine wheter the correct element has been used to mark up content. For example: a navigation role has been used to mark up a section with navigation links, or the main role is used to contain the page's main content.
 3. If a landmark region needs to have an accessible name to be exposed as a landmark, check to see that there is an accessible name.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/aria/ARIA10)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/aria/ARIA11)
+
+</details>
+
+<details>
+  <summary>What purpose of using role=heading to identify headings?</summary>
+
+The purpose of this technique is to provide a way for Assistive Technologies (AT) to identify a piece of content as a heading Applying role="heading" to an element causes an AT (like a screen reader) to treat it as though it were a heading. The role="heading" property must be paired with the aria-level property to define the heading level.
+
+**Procedure:**
+
+1. Examine each element with the attribute role="heading".
+2. Determine whether the content of the element is appropriate as a heading.
+3. Determine wheter the aria-level value is the appropriate hierarchical level.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/aria/ARIA12)
 
 </details>
