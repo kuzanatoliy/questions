@@ -185,3 +185,18 @@ In other situations elements can be given the attribute aria-label to provide an
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/aria/ARIA14)
 
 </details>
+
+<details>
+  <summary>What purpose of using aria-describedby to provide descriptions of images?</summary>
+
+The objective of this technique is to provide descriptions of images when a short text alternative does not adequately convey the function or information provided in the object.
+
+**Procedure:**
+
+1. Examine each image element where a aria-describedby attribute is present.
+2. Examine whether the aria-describedby attribute programmatically associates an element with its thext description, via the id attribute on the element where the text to be used as the description is found.
+3. Examine whether the combined text equivalent and associated text description accurately describe or provide the equivalent purpose to the object.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/aria/ARIA15)
+
+</details>
