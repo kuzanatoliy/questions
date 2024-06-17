@@ -125,3 +125,18 @@ The purpose of this technique is to provide a short description for an element t
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/aria/ARIA10)
 
 </details>
+
+<details>
+  <summary>What purpose of using ARIA landmarks to identify regions of a page?</summary>
+
+The purpose of this technique is to provide programmatic access to sections of a web page. Landmark roles (or "landmarks") programmatically identify sections of a page. Landmarks help assistive technology (AT) users orient themselves to a page and help them navigate easily to various sections of a page.
+
+**Procedure:**
+
+1. Examine each element with a landmark role.
+2. Examine wheter the correct element has been used to mark up content. For example: a navigation role has been used to mark up a section with navigation links, or the main role is used to contain the page's main content.
+3. If a landmark region needs to have an accessible name to be exposed as a landmark, check to see that there is an accessible name.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/aria/ARIA10)
+
+</details>
