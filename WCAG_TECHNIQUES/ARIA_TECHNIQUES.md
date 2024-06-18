@@ -228,3 +228,27 @@ The objective of this technique is to mark up a set of related controls within a
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/aria/ARIA17)
 
 </details>
+
+<details>
+  <summary>What purpose of using aria-alertdialog to identify errors?</summary>
+
+The purpose of this technique is to alert people that an input error has occurred. Using role="alertdialog" creates a notification. This notification should be modal with the following characteristics:
+
+- aria-label or aria-labelledby attribute gives the alertdialog and accessible name.
+- The alertdialog contains at least one focussable element, and the focus should move to that element when the alertdialog opens.
+- The tab order is constrained within the alertdialog whilst it is open.
+- When the alertdialog is dismissed, the focus moves back to the position it had before the alertdialog opened, if possible.
+
+**Procedure:**
+
+1. Trigger the error that couses the alertdialog to appear.
+2. Determine that the alertdialog contains at least one focusable element, and the focus moves to that element when the alertdialog opens.
+3. Determine that the tab order is constrained within the alertdialog while it is open, and when the alertdialog is dismissed, the focus moves back to the position it had before the alertdialog opened, if possible.
+4. Examine the element with alertdialog applied.
+5. Determine that either the aria-label or aria-labelledby attribute has been correctly used to give the alertdialog an accessible name.
+6. Determine that the contents of the alertdialog identifies the input error.
+7. Determine wheter contents of the alertdialog suggests how to fix the error.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/aria/ARIA18)
+
+</details>
