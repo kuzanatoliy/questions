@@ -197,7 +197,7 @@ The objective of this technique is to provide descriptions of images when a shor
 2. Examine whether the aria-describedby attribute programmatically associates an element with its thext description, via the id attribute on the element where the text to be used as the description is found.
 3. Examine whether the combined text equivalent and associated text description accurately describe or provide the equivalent purpose to the object.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/aria/ARIA16)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/aria/ARIA15)
 
 </details>
 
@@ -211,6 +211,20 @@ The purpose of this technique is to provide names for user interface controls th
 1. Check tat the value of the aria labelledby attribute is the id of an element or a space separated list of ids on the web page.
 2. Check that the text of the referenced element or elements accurately labels the user interface control.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/aria/ARIA15)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/aria/ARIA16)
+
+</details>
+
+<details>
+  <summary>What purpose of using grouping roles to identify related form controls?</summary>
+
+The objective of this technique is to mark up a set of related controls within a form as a group. Any label associated with the group also seves as a common label or qualifier for individual controls in the group. Assistive technologies can indicate the start and end of the group and the group's label as one navigates into and out of the group. This is a vable alternative for grouping form controls programmatically when the user interface's design makes it difficult to employ the fieldset / legned technique.
+
+**Procedure:**
+
+1. Check that the group of logically related input or select elements are contained within an element with role=group.
+2. Check that this group has an accessible name defined using aria-label or aria-labelledby.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/aria/ARIA17)
 
 </details>
