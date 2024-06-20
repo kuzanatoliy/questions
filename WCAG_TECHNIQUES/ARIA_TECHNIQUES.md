@@ -252,3 +252,18 @@ The purpose of this technique is to alert people that an input error has occurre
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/aria/ARIA18)
 
 </details>
+
+<details>
+  <summary>What purpose of using ARIA role=alert or Live Regions to identify Errors?</summary>
+
+The purpose of this technique is to notify Assistive Technologies (AT) when an input error occurs. The aria-live attribute makes it possible for an AT (such as a screen reader) to be notified when error messages are injected into a Live Region container. The content within the aria-live region is automatically read by the AT, without the AT having to focus on the place where the text is displayed.
+
+**Procedure:**
+
+1. Determine that an empty error container role=alert or aria-live=assertive attribute is present in the DOM at page load.
+2. Trigger the error that causes the content in the live region to appear or update.
+3. Determine that the error message was injected into the already present error container.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/aria/ARIA19)
+
+</details>
