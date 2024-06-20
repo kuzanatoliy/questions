@@ -267,3 +267,18 @@ The purpose of this technique is to notify Assistive Technologies (AT) when an i
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/aria/ARIA19)
 
 </details>
+
+<details>
+  <summary>What purpose of using the region role to identify a region of the page?</summary>
+
+This technique demonstrates how to assign a gemeric region role to a section of a page so that user agents and assistive technologies may be able to programmatically identify it. The region role demarcates a segment of the page that contains content of significance so that it is more readily discoverable and navigable. The generic region should be used when the section cannot be marked up using a standard document landmark role.
+
+**Procedure:**
+
+1. Examine the content and ensure that it is important enough to have an independent landmark.
+2. Ensure that a standard landmark role is not appropriate for this content.
+3. Check that the region has a programmatically determined name.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/aria/ARIA20)
+
+</details>
