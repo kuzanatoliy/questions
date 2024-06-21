@@ -282,3 +282,21 @@ This technique demonstrates how to assign a gemeric region role to a section of 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/aria/ARIA20)
 
 </details>
+
+<details>
+  <summary>What purpose of using aria-invalid to Indicate An Error Field?</summary>
+
+This technique demonstrates how aria-invalid may be employed to specifically identify fields that have failed validation. Its use is most suitable when:
+
+- The error description does not programmatically identify the failed fields.
+- The failed fields are identified in a manner that is not available to some users - for example by using an error-icon rendered visually by some technique that does not rely on color such as a visual cue like a border.
+
+**Procedure:**
+
+1. Check that aria-invalid is not set to true when a validation failure does not exist.
+2. Check that aria-invalid is set to true when a validation failure does exist.
+3. Check that the programmatically associated labels / programmatically associated instructional text for the field provide enough information to understand the error.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/aria/ARIA21)
+
+</details>
