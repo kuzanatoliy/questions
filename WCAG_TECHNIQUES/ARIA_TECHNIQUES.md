@@ -300,3 +300,18 @@ This technique demonstrates how aria-invalid may be employed to specifically ide
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/aria/ARIA21)
 
 </details>
+
+<details>
+  <summary>What purpose of using role=status to present status messages?</summary>
+
+This technique uses the status role from the ARIA specification to notify Assistive Technologies (AT) when content has been updated with information about the user's or application's status. This is done by adding role="status" to the element that contains the status message.
+
+**Procedure:**
+
+1. Check that the container destined to hold the status message has a role attribute with a value of status before the status message occurs.
+2. Check that when the status message is triggered, it is inside the container.
+3. Check that elements or attributes tthat provide information equivalent to the visual experience for the status message.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/aria/ARIA22)
+
+</details>
