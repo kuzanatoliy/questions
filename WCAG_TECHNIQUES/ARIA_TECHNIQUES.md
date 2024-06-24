@@ -315,3 +315,16 @@ This technique uses the status role from the ARIA specification to notify Assist
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/aria/ARIA22)
 
 </details>
+
+<details>
+  <summary>What purpose of using role=log to identify sequential information updates?</summary>
+
+The purpose of this technique is to notify Assistive Technologies (AT) when content has been appended to sequential information concerning the application's history or logs.
+
+**Procedure:**
+
+1. Check that the container for the information is given a role of log.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/aria/ARIA23)
+
+</details>
