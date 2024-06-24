@@ -328,3 +328,16 @@ The purpose of this technique is to notify Assistive Technologies (AT) when cont
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/aria/ARIA23)
 
 </details>
+
+<details>
+  <summary>What objective of semantically identifying a font icon with role="img"?</summary>
+
+The objective of this technique is to show how to semantically identify an element that uses a font file for icons. When a user overrides font-family these icons typically disappear unless there is a means to identify them. The point is to provide a technique to differentiate icon fonts from general font (text) usage.
+
+**Procedure:**
+
+1. The element providing the font icon has role="img".
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/aria/ARIA24)
+
+</details>
