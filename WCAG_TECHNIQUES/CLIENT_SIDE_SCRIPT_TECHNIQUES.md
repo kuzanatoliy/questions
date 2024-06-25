@@ -51,3 +51,17 @@ The objective of this technique is to toggle announcements to screen readers of 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/client-side-script/SCR14)
 
 </details>
+
+<details>
+  <summary>What abjective of providing a script that warns the user a time limit is about to expire?</summary>
+
+The objective of this technique is to notify users that they are almost out of time to complete an interaction. When scripts provide functionality that has time limits, the script can include functionality to warn the user of imminent time limits and provide a mechanism to request more time.
+
+**Procedure:**
+
+1. Load the page and start a timer that is 20 seconds less than the time limit.
+2. When the timer expires, check that a confirmation dialog is displayed warning of the impending time limit.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/client-side-script/SCR16)
+
+</details>
