@@ -76,3 +76,10 @@ A virus is a program that "infects" stored files, usually executable programs, b
 A worm is an independent program that reproduces by copying itself from one system to another across a network. Often triggered when someone opens an infected email attachment, a worm program can send replicas to everyone listed in the person's mail directory.
 
 </details>
+
+<details>
+  <summary>What are Logic Bombs?</summary>
+
+A logic bomb is a piece of code intentionally inserted into a software system that will set off a malicious function when specified conditions are met. For example, a programmer can hide a piece of code that starts deleting files (such as a salary database) should they ever leave the company.
+
+</details>
