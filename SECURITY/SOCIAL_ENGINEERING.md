@@ -83,3 +83,10 @@ A worm is an independent program that reproduces by copying itself from one syst
 A logic bomb is a piece of code intentionally inserted into a software system that will set off a malicious function when specified conditions are met. For example, a programmer can hide a piece of code that starts deleting files (such as a salary database) should they ever leave the company.
 
 </details>
+
+<details>
+  <summary>What is Phishing?</summary>
+
+Phishing scams typically operate counterfeit websites that trick consumers into revealing their personal and financial data, including social security numbers, bank and credit card account information, and details about online accounts and passwords.
+
+</details>
