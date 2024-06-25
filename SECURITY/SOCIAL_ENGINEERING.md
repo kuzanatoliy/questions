@@ -69,3 +69,10 @@ Intruders set up a program that impersonates the sign-on routine for another sys
 A virus is a program that "infects" stored files, usually executable programs, by inserting a copy of itself into the file. Copies are usually executed when the "infected" file is loaded into memory, allowing the virus to infect other files.
 
 </details>
+
+<details>
+  <summary>What are Worms?</summary>
+
+A worm is an independent program that reproduces by copying itself from one system to another across a network. Often triggered when someone opens an infected email attachment, a worm program can send replicas to everyone listed in the person's mail directory.
+
+</details>
