@@ -13,3 +13,10 @@ Social engineering is a non-technical kind of intrusion that relies heavily on
 In some cases, an attacker will make a direct request for information or data—simply by asking for it. This is the first and most obvious method. It is not the most successful, but it is used.
 
 </details>
+
+<details>
+  <summary>What is Dumpster Diving?</summary>
+
+This involves going through the trash (or a dumpster) to obtain information that can be used to steal one's identity. It is truly amazing what people discard that can potentially help malicious agents find additional information about them. Dumpster diving is not technically "social engineering," but it can sometimes be used as a step toward obtaining helpful information.
+
+</details>
