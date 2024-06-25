@@ -34,3 +34,10 @@ Once a person has selected a victim, raiding that person's mailbox can often pro
 This is a method in which an attacker pretends to be someone in a position of authority. Some methods used during impersonation attacks include acting as an IT support or other support service employee, a repairman, a supervisor or manager, or a trusted third-party vendor.
 
 </details>
+
+<details>
+  <summary>What is Surfing Company Websites?</summary>
+
+A lot of corporate information can be obtained before even talking to anyone by simply surfing company websites—for instance, employee email addresses and phone numbers, organizational charts, executive titles, financial information, and more.
+
+</details>
