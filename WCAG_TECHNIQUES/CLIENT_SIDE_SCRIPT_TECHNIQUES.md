@@ -37,3 +37,17 @@ The objective of this technique is to demonstrate using device independent event
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/client-side-script/SCR2)
 
 </details>
+
+<details>
+  <summary>What abjective of using scripts to make nonessential alerts optional?</summary>
+
+The objective of this technique is to toggle announcements to screen readers of changes in a stock-price alert component. By default, when the stock price changes, the change is announced by screen readers. Thsi could be annoying to some users, so there are buttons to allow users to toggle the announcements on or off.
+
+**Procedure:**
+
+1. Load the Web page and verify that no non-emergency alerts are displayed.
+2. Verify there is a mechanism to activate and deactiveate the non-emergency interruptions.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/client-side-script/SCR14)
+
+</details>
