@@ -41,3 +41,10 @@ This is a method in which an attacker pretends to be someone in a position of au
 A lot of corporate information can be obtained before even talking to anyone by simply surfing company websites—for instance, employee email addresses and phone numbers, organizational charts, executive titles, financial information, and more.
 
 </details>
+
+<details>
+  <summary>What is Vulnerability Scanning?</summary>
+
+Internet hackers constantly scan networks to identify where systems are vulnerable. This type of scanning is also called a "pre-attack probe."
+
+</details>
