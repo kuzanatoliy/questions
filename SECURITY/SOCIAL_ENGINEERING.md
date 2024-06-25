@@ -48,3 +48,10 @@ A lot of corporate information can be obtained before even talking to anyone by 
 Internet hackers constantly scan networks to identify where systems are vulnerable. This type of scanning is also called a "pre-attack probe."
 
 </details>
+
+<details>
+  <summary>What is Password Cracker?</summary>
+
+Intruders use a program that automatically keeps trying to log in to a system using a series of passwords that can be easily guessed or using a dictionary as a source of words.
+
+</details>
