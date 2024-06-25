@@ -55,3 +55,10 @@ Internet hackers constantly scan networks to identify where systems are vulnerab
 Intruders use a program that automatically keeps trying to log in to a system using a series of passwords that can be easily guessed or using a dictionary as a source of words.
 
 </details>
+
+<details>
+  <summary>What is Network Spoofing?</summary>
+
+Intruders set up a program that impersonates the sign-on routine for another system. When you attempt to log in to the system, the intruder's program collects your password and then returns a message that the system is unavailable. These programs can collect hundreds of valid passwords.
+
+</details>
