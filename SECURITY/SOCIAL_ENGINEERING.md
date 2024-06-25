@@ -1,0 +1,15 @@
+# Social engineering
+
+<details>
+  <summary>What is social engineering?</summary>
+
+Social engineering is a non-technical kind of intrusion that relies heavily on human interaction. It often involves tricking other people into not following normal security procedures. The attacker uses social skills and human interaction to obtain information about an organization or their information systems.
+
+</details>
+
+<details>
+  <summary>What is Simple Direct Request?</summary>
+
+In some cases, an attacker will make a direct request for information or data—simply by asking for it. This is the first and most obvious method. It is not the most successful, but it is used.
+
+</details>

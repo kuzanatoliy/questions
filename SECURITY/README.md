@@ -20,6 +20,8 @@
 
 [Data protection](DATA_PROTECTION.md)
 
+[Social engineering](SOCIAL_ENGINEERING.md)
+
 <details>
   <summary>What are cybersecurity risks?</summary>
 
@@ -31,12 +33,5 @@ Cybersecurity risks have emerded as a crucial concern for IT companies. They can
   <summary>What are vulnerabilities?</summary>
 
 Vulnerabilities are weaknesses in a computer or network that leave it susceptible to potential exploitation, such as unauthorized use or access.
-
-</details>
-
-<details>
-  <summary>What is social engineering?</summary>
-
-Social engineering is a non-technical kind of intrusion that relies heavily on human interaction. It often involves tricking other people into not following normal security procedures. The attacker uses social skills and human interaction to obtain information about an organization or their information systems.
 
 </details>
