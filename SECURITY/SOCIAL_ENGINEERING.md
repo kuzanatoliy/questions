@@ -27,3 +27,10 @@ This involves going through the trash (or a dumpster) to obtain information that
 Once a person has selected a victim, raiding that person's mailbox can often provide additional information to use against them. The more you know about a person, the more effective alternate means of gaining data become.
 
 </details>
+
+<details>
+  <summary>What is Impersonation?</summary>
+
+This is a method in which an attacker pretends to be someone in a position of authority. Some methods used during impersonation attacks include acting as an IT support or other support service employee, a repairman, a supervisor or manager, or a trusted third-party vendor.
+
+</details>
