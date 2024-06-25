@@ -62,3 +62,10 @@ Intruders use a program that automatically keeps trying to log in to a system us
 Intruders set up a program that impersonates the sign-on routine for another system. When you attempt to log in to the system, the intruder's program collects your password and then returns a message that the system is unavailable. These programs can collect hundreds of valid passwords.
 
 </details>
+
+<details>
+  <summary>What are Viruses?</summary>
+
+A virus is a program that "infects" stored files, usually executable programs, by inserting a copy of itself into the file. Copies are usually executed when the "infected" file is loaded into memory, allowing the virus to infect other files.
+
+</details>
