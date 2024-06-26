@@ -65,3 +65,17 @@ The objective of this technique is to notify users that they are almost out of t
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/client-side-script/SCR16)
 
 </details>
+
+<details>
+  <summary>What abjective of providing client-side validation and alert?</summary>
+
+The objective of this technique is to validate user input as values are entered for each field, by means of client-side scripting. If errors are found, an alert dialog describes the nature of the error in text. Once the user dismisses the alert dialog, it is helpful if the script positions the keyboard focus on the field where the error occurred.
+
+**Procedure:**
+
+1. Enter invalid data.
+2. Determine if an alert describing the error is provided.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/client-side-script/SCR18)
+
+</details>
