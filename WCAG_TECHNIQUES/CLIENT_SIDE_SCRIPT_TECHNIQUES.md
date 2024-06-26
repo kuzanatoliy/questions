@@ -79,3 +79,20 @@ The objective of this technique is to validate user input as values are entered 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/client-side-script/SCR18)
 
 </details>
+
+<details>
+  <summary>What abjective of using an onchange event on a select element without causing a change of context?</summary>
+
+The objective of this technique is to demonstrate how to correctly use an onchange event with a select element to update other elements on the Web page. This technique will not cause a change of context. When there are one or more select elements on the Web page, an onchange event on one, can update the options in another select element on the Web page. All of the data required by the select elements is included within the Web page.
+
+**Procedure:**
+
+1. Navigate to the trigger select element (in this example, the one to select continents) and change the value of the select.
+2. Navigate to the select element that is updated by the trigger (in this example, the one to select conuntries).
+3. Check that the matching option values are displayed in the other select element.
+4. Navigate to the trigger select element, navigate through the options but do not change the value.
+5. Check that the matching option values are still displayed in the associated element.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/client-side-script/SCR19)
+
+</details>
