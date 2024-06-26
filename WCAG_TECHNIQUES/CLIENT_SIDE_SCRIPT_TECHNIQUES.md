@@ -96,3 +96,17 @@ The objective of this technique is to demonstrate how to correctly use an onchan
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/client-side-script/SCR19)
 
 </details>
+
+<details>
+  <summary>What abjective of using both keyboard and other device specific functions?</summary>
+
+The objective of this technique is to illustrate the use of both keyboard-specific and mouse specific events with code that has a scription fuction associated with an event. Using both keyboard-specific and mouse specific events together ensures that content can be operated by a wide range of devices. For example, a script may perform the same action when a keypress is detected that is performed when a mouse button is clicked. This technique goes beyond the Success Criterion requirement for keyboard access by including not only keyboard access but access using other devices as well.
+
+**Procedure:**
+
+1. Find all interactive functionality.
+2. Check that all interactive functionality can be accessed using the keyboard alone.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/client-side-script/SCR20)
+
+</details>
