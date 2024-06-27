@@ -110,3 +110,17 @@ The objective of this technique is to illustrate the use of both keyboard-specif
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/client-side-script/SCR20)
 
 </details>
+
+<details>
+  <summary>What abjective of using scripts to control blinking and stop it in five seconds or less?</summary>
+
+The objective of this technique is to control blinking with script so it can be set to stop in less than five seconds by the script. Script is used to start the blinking effect of content, control the toggle between visible and hidden states, and also stop the effect at five seconds or less. The setTimeout() function can be used to toggle blinking content between visible and hidden states, and stop when the number of interations by the time between item adds up to nearly five seconds.
+
+**Procedure:**
+
+1. Start a timer for 5 seconds at the start of the blink effect.
+2. When the timer expires, determine if the blinking has stopped.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/client-side-script/SCR22)
+
+</details>
