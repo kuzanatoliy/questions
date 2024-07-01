@@ -124,3 +124,21 @@ The objective of this technique is to control blinking with script so it can be 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/client-side-script/SCR22)
 
 </details>
+
+<details>
+  <summary>What abjective of using progressive enhancement to open new windows on user request?</summary>
+
+The objective of this technique is to avoid confusion that may be caused by the appearance of new windows that were not requested by the user. Suddenly opening new windows can disorient or be missed completely by some users. New windows / tabs can be opened with the HTML target attribute or JavaScript. The example below demonstrates how to open new windows with script: it adds an event handler to a link and warns the user that the content will open in a new window.
+
+**Procedure:**
+
+1. Activate each link in the document to check if it opens a new window.
+2. For each link that opens a new window, check tat it uses script to accomplish each of the following:
+
+- indicates that the link will open in a new window,
+- uses device independent event handlers, and
+- allows the browser to open the content in the same window if a new window was not opened.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/client-side-script/SCR24)
+
+</details>
