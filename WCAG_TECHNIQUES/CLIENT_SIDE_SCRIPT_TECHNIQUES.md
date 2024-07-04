@@ -157,3 +157,20 @@ The objective of this technique is to place inserted user interface elements int
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/client-side-script/SCR26)
 
 </details>
+
+<details>
+  <summary>What abjective of reordering page sections using the Document Object Model?</summary>
+
+The objective of this technique is to provide a mechanism for re-ordering component which is both highly usable and accessible. The two most common mechanisms for reordering are to send users to a set-up page where they can number components, or to allow them to drag and drop components to the desired location.
+
+**Procedure:**
+
+1. Find all components in the Web Unit which can be reordered via drag and drop.
+2. Check that there is also a mechanism to reorder them using menus build of lists of links.
+3. Check that the menus are contained within the re-orderable items in the DOM.
+4. Check that scripts for reordering are triggered only from the onclick event of links.
+5. Check that items are reordered in the DOM, not only visually.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/client-side-script/SCR27)
+
+</details>
