@@ -189,3 +189,20 @@ This technique allows users to skip repeated material by placing that material i
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/client-side-script/SCR28)
 
 </details>
+
+<details>
+  <summary>What abjective of adding keyboard-accessble actions to static HTML elements?</summary>
+
+The objective of this technique is to demonstrate how to provide keyboard access to a user interface control that is implemented by actions to static HTML elements such as div or span. This technique ensures that the element is focusable by setting the tabindex attribute, and it ensures that the action can be triggered from the keyboard by providing an onkeyup or onkeypress handler in addition to an onclick handler.
+
+**Procedure:**
+
+1. Click on the control with the mouse.
+2. Check that the scription action executes properly.
+3. Check that it is possible to naigate to and give focus to the control via the keyboard.
+4. Set keyboard focus to the control.
+5. Check that pressing Enter or Space invokes the scription action.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/client-side-script/SCR29)
+
+</details>
