@@ -174,3 +174,18 @@ The objective of this technique is to provide a mechanism for re-ordering compon
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/client-side-script/SCR27)
 
 </details>
+
+<details>
+  <summary>What abjective of using an expandable and collapsible menu to bypass block of content?</summary>
+
+This technique allows users to skip repeated material by placing that material in a menu that can be expanded or collpsed under user control. The user can skip the repeated material by collapsing the menu. The user invokes a user interface control to hide or remove the elements of the menu. The resources section lists several techniques for menus, toolbars and trees, any of which can be used to provide a mechanism for skipping navigation.
+
+**Procedure:**
+
+1. Check that some user interface control allows the repeated content to be expanded or collapsed.
+2. Check that when the content is expanded, it is included in the programmatically determined content at a logical place in the reading order.
+3. Check that when the content is collapsed, it is not part or the programmatically determined content.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/client-side-script/SCR28)
+
+</details>
