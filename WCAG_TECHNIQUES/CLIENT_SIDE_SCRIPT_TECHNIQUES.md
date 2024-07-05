@@ -206,3 +206,20 @@ The objective of this technique is to demonstrate how to provide keyboard access
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/client-side-script/SCR29)
 
 </details>
+
+<details>
+  <summary>What abjective of using scripts to change the link text?</summary>
+
+The purpose of this technique is to allow users to chooose to have additional information added to the text of links so that the links can be understood out of context.
+
+**Procedure:**
+
+1. Check that there is a link near the beginning of the page to expand links.
+2. Check that the link identified in step 1 can be identified from link text alone.
+3. Find any links on the page that cannot be identified from link text alone.
+4. Activate the control identified in step 1.
+5. Check taht the purpose of the links identified in step 3 can now be identified from link text alone.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/client-side-script/SCR30)
+
+</details>
