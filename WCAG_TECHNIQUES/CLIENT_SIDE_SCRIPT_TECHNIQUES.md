@@ -223,3 +223,17 @@ The purpose of this technique is to allow users to chooose to have additional in
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/client-side-script/SCR30)
 
 </details>
+
+<details>
+  <summary>What abjective of using script to change the background color or border of the element with focus?</summary>
+
+This purpose of this technique is to allow the author to use JavaScript to apply CSS, in order to make the focus indicator more visible than it would ordinarily be. When an element receives focus, the background color or border is changed to make it visually distinct. Whne the element loses focus, it returns to its normal styling. This technique can be used on any HTML user agent that supports Script and CSS, regardless of whether it supports the :focus pseudo class.
+
+**Procedure:**
+
+1. Tab to each element in the page.
+2. Check that the focus indicator is visible.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/client-side-script/SCR31)
+
+</details>
