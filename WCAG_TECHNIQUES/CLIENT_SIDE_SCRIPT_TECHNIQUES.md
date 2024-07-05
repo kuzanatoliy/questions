@@ -225,15 +225,19 @@ The purpose of this technique is to allow users to chooose to have additional in
 </details>
 
 <details>
-  <summary>What abjective of using script to change the background color or border of the element with focus?</summary>
+  <summary>What abjective of providing client-side validation and adding error text via the DOM?</summary>
 
-This purpose of this technique is to allow the author to use JavaScript to apply CSS, in order to make the focus indicator more visible than it would ordinarily be. When an element receives focus, the background color or border is changed to make it visually distinct. Whne the element loses focus, it returns to its normal styling. This technique can be used on any HTML user agent that supports Script and CSS, regardless of whether it supports the :focus pseudo class.
+The objective of this technique is to demonstrate the display of an error message when client side validation of a form field has failed. Anchor elements are used to display the error messages in a list and are inserted above the fields to be validated. Anchor elements are used in the error messages so that focus can be placed on the error messages(s), drawing the user's attention to it. The href of the anchor elements contain an in-page link which references the fields where error(s) have been found.
 
 **Procedure:**
 
-1. Tab to each element in the page.
-2. Check that the focus indicator is visible.
+1. Load the page.
+2. Enter a valid value in the field(s) associated with an error message and verify that no error messages are displayed.
+3. Enter an invalid value in the field(s) associated with an error message and verify that the correct error message for the field is displayed.
+4. Verify that the error messages receive focus.
+5. Enter a valid value in the field(s) associated with the displayed error message and verify that the error message is removed.
+6. Repeat for all fileds with associated error messages created viea anchor tags.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/client-side-script/SCR31)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/client-side-script/SCR32)
 
 </details>
