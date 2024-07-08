@@ -304,3 +304,12 @@ The objective of this technique is to demonstrate how to invoke a scripting func
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/client-side-script/SCR35)
 
 </details>
+
+<details>
+  <summary>What abjective of providing a mechanism to allow users to display moving, scrolling, or auto-updating text in a static window or area?</summary>
+
+Some Web pages display scrolling text because there is limited space available. Scrolling the text in a small text window makes the content available for users who can read quickly enough, but causes problems for users who read more slowly or use assistive technology. This technique provides a mechanism to stop the movement and make the entire block of thext available statically. The text may be made available in a separated window or in a larger section of the page. Users can then read the text at their own speed.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/client-side-script/SCR35)
+
+</details>
