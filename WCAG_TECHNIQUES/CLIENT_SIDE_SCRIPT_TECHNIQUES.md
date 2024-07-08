@@ -275,3 +275,32 @@ The objective of this technique is to calculate the size and position of element
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/client-side-script/SCR34)
 
 </details>
+
+<details>
+  <summary>What abjective of making actions keyboard accessible by using the onclick event of anchors and buttons?</summary>
+
+The objective of this technique is to demonstrate how to invoke a scripting function in a way that is keyboard accessible by attaching it to a keyboard-accessible control.
+
+**Procedure:**
+
+1. In a user agent that supports Scripting
+
+- Click on the control with the mouse.
+- Check taht the scription action executes properly.
+- If the congrol is an anchor element, check that the URI in the href attribute on the anchor element is not invoked.
+- Check that it is possible to navigate to and give focus to the control via the keyboard.
+- Set keyboard focus to the control.
+- Check that pressing ENTER invokes the scription action.
+- If the control is an anchor element, check that the URI in the href attribute of the anchor element is not invoked.
+
+2. In a user agent that does not supprt Scripting
+
+- Click on the control with the mouse.
+- If the control is an anchor element, check that the URI in the href attribute of the anchor element is invoked.
+- Check that it is possible to novigate to and give focus to the control via the keyboard.
+- Set keyboard focus to the control.
+- If the control is an anchor element, check that pressing ENter invoeks the URI of the anchor element's href attribute.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/client-side-script/SCR35)
+
+</details>
