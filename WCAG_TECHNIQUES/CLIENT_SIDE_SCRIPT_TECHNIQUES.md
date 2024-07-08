@@ -259,3 +259,19 @@ The objective of this technique is to provide a way for users to stop scrolling 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/client-side-script/SCR33)
 
 </details>
+
+<details>
+  <summary>What abjective of calculating size and position in a way that scales with text size?</summary>
+
+The objective of this technique is to calculate the size and position of elements in a way that will scale appropriately as the text size is scaled.
+
+**Procedure:**
+
+1. Open a page that is designed to adjust container sizes as text size changes.
+2. Increase the text size up to 200% using the browser's text size adjustment (not the zoom feature).
+3. Examine the text to ensure the text container size is adjusted to accommodate the size of the text.
+4. Ensure that no text is "clipped" or has disappeared as a result of the increase in text size.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/client-side-script/SCR34)
+
+</details>
