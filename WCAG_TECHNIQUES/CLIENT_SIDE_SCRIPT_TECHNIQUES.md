@@ -241,3 +241,21 @@ The objective of this technique is to demonstrate the display of an error messag
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/client-side-script/SCR32)
 
 </details>
+
+<details>
+  <summary>What abjective of using script to scroll content, and providing a mechanism to puase it?</summary>
+
+The objective of this technique is to provide a way for users to stop scrolling content when the scrolling is created by a script. Scrolling content can be diffficult or impossible to read by users with low vision or with congnitive disabilities. The movement can also be distracting for some people making it difficult for them to concentrate on other parts of the Web page.
+
+**Procedure:**
+
+1. Check that a mechanism is provided to puase the scrolling content.
+2. Use the pause mechanism to pause the scrolling content.
+3. Check that the scrolling has stopped and does not restart by itself.
+4. Check that a mechanism provided to restart the scrolling content.
+5. Use the restart mechanism provided to restart the scrolling content.
+6. Check that the scrolling has resumed from the point where it was stopped.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/client-side-script/SCR33)
+
+</details>
