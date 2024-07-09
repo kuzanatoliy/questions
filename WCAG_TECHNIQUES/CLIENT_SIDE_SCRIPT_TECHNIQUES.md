@@ -313,3 +313,20 @@ Some Web pages display scrolling text because there is limited space available. 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/client-side-script/SCR35)
 
 </details>
+
+<details>
+  <summary>What abjective of creating a conforming alternate version for a web page designed with progressive enhancement?</summary>
+
+This objective of this technique is to offer a conforming alternate version for a web page designed with progressive enhancement. The technique demonstrates how to use a scripting technique to accomplish this by:
+
+1. Storing the initial pre-enhanced version of the web page so that it can act as a "conforming alternate version" for any later enhanced versions of the content.
+2. Inserting a mechanism into all enhanced versions of the web page which allows a user to revert the content back to the stored pre-enhanced Alternate Version.
+
+**Procedure:**
+
+1. Check enhanced versions of the web page contain a link to the "Conforming Alternate Version".
+2. Check tat the alternate version is a conforming alternate version of the original page and that it conforms to WCAG 2.0 at the claimed conformance level.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/client-side-script/SCR38)
+
+</details>
