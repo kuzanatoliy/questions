@@ -310,7 +310,7 @@ The objective of this technique is to demonstrate how to invoke a scripting func
 
 Some Web pages display scrolling text because there is limited space available. Scrolling the text in a small text window makes the content available for users who can read quickly enough, but causes problems for users who read more slowly or use assistive technology. This technique provides a mechanism to stop the movement and make the entire block of thext available statically. The text may be made available in a separated window or in a larger section of the page. Users can then read the text at their own speed.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/client-side-script/SCR35)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/client-side-script/SCR36)
 
 </details>
 
@@ -328,5 +328,27 @@ This objective of this technique is to offer a conforming alternate version for 
 2. Check tat the alternate version is a conforming alternate version of the original page and that it conforms to WCAG 2.0 at the claimed conformance level.
 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/client-side-script/SCR38)
+
+</details>
+
+<details>
+  <summary>What abjective of making content on focus or hover hoverable, dismissible, and persistent?</summary>
+
+Additional content that is displayed when a user moves the pointer over a trigger or moves the keyboard focus to the trigger (for example, a pop-up) must remain visible to allow users time to read and interact with the content and must allow the user to move the pointer over the additional content.
+
+**Procedure:**
+
+For additional content that appears on hover check that:
+
+1. The pointer can be moved over the additional content without the additional content disappearing.
+2. The additional content stays visible and does not automatically close after a time.
+3. The content can be closed without moving the pointer way from the trigger. Either by pressing Esc, by pressing another documented keyboard shortcut, or by activating the trigger.
+
+For additional content that appears on focus check that:
+
+1. The additional content stays visible and does not automatically close after a time.
+2. The content can be closed without moving the focus way from the trigger. Either by pressing Esc, by pressing another other docuemted keyboard shortcut, or by activating the trigger.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/client-side-script/SCR39)
 
 </details>
