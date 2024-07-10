@@ -55,3 +55,16 @@ The objective of this technique is to provide a mechanism to add purely decorati
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/C9)
 
 </details>
+
+<details>
+  <summary>What abjective of using percent for font sizes?</summary>
+
+The objective of this technique is to specify text font size proportionally so that user agents can scale content effectively. If a font-size is specified for the body element, all other elements inherit that value, unless overriden by a more specific selector.
+
+**Procedure:**
+
+1. Check that the value of the CSS property that defines the font size is a percentage.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/C12)
+
+</details>
