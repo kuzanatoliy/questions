@@ -13,3 +13,18 @@ The objective of this technique is to demonstrate how visual appearance may be e
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/C6)
 
 </details>
+
+<details>
+  <summary>What abjective of using CSS to hide a prtion of the link text?</summary>
+
+The objective of this technique is to supplement the link text by adding additional text that describes the unique function of the link and styling the additional text so that is not rendered on the screen by user agents that support CSS. When information in the surrounding context is needed to interpret the displayed link text, this technique provides a complete description of the link's input function while permitting the less complete text to be displayed.
+
+**Procedure:**
+
+1. Check tat an element has been defined that confines its display to a pixel and hides the text.
+2. Check that the element of that class is included in the content of the anchor.
+3. Check that the combined content of the anchor describes the purpose of the link.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/C7)
+
+</details>
