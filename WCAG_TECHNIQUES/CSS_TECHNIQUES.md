@@ -41,3 +41,17 @@ The objective of this technique is to demonstrate how the visual appearance of s
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/C8)
 
 </details>
+
+<details>
+  <summary>What abjective of using CSS to include decorative images?</summary>
+
+The objective of this technique is to provide a mechanism to add purely decorative images and images used for visual formatting to Web content without requiring additional markup within the content. This makes it possible for assistive technologies to ignore the non-text content. Some user agents can ignore or turn off CSS at the user's request, so that background images included with CSS simply "disappear" and do not interfere with display settings such as enlarged fonts or high contrast settings.
+
+**Procedure:**
+
+1. Check for the presence of decorative images.
+2. Check that they are included with CSS.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/C9)
+
+</details>
