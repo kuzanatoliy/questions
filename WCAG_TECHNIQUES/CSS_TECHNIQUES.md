@@ -28,3 +28,16 @@ The objective of this technique is to supplement the link text by adding additio
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/C7)
 
 </details>
+
+<details>
+  <summary>What abjective of using CSS letter-spacing to control spacing within a work?</summary>
+
+The objective of this technique is to demonstrate how the visual appearance of spacing in text may be enhanced via style sheets while still maintaning meaningful text sequencing. The CSS letter-spacing property helps developers control the amount of white space between characters. This is recommended over adding blank characters to control the spacing, since the blank characters can change the meaning and pronunciation of the word.
+
+**Procedure:**
+
+1. Check wheter the CSS letter-spacing property was used to control spacing.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/C8)
+
+</details>
