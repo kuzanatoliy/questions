@@ -81,3 +81,16 @@ The objective of this technique is to specify a named font size that expresses t
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/C13)
 
 </details>
+
+<details>
+  <summary>What abjective of using em units for font sizes?</summary>
+
+The objective of this technique is to specify text font size in em units so that user agents can scale content effectively. Since the em is a property of the font, it scales as the font changes size. If a font-size is specified for the body element, all other elements inherit that value, unless overridden by a more specific selector.
+
+**Procedure:**
+
+1. Check that the value of the CSS property that defines the font size is expressed in em units.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/C14)
+
+</details>
