@@ -94,3 +94,18 @@ The objective of this technique is to specify text font size in em units so that
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/C14)
 
 </details>
+
+<details>
+  <summary>What abjective of using CSS to change the presentation of a user interface component when it receives focus?</summary>
+
+The objective of this technique is to demonstrate how visual appearance may be enhanced via style sheets to provide visual feedback when an interactive element has focus or when a user hovers over it using a pointing device.
+
+**Procedure:**
+
+1. Using a keyboard, tab to he component.
+2. Check that the focus indicator changes color.
+3. Check that the focus indicator is removed when the component loses focus.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/C15)
+
+</details>
