@@ -17,3 +17,12 @@ Because it's possible you're loading stuff the user may never see. Lazy loading 
 [More >>](https://web.dev/articles/lazy-loading#why)
 
 </details>
+
+<details>
+  <summary>Why browser-level lazy loading?</summary>
+
+With lazy loading supported directly by the browser, however, there's no need for an external library. Browser-level lazy loading also ensures that loading of images still works even if the client disables JavaScript.
+
+[More >>](https://web.dev/articles/browser-level-image-lazy-loading#why)
+
+</details>
