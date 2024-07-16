@@ -68,3 +68,16 @@ The objective of this technique is to specify text font size proportionally so t
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/C12)
 
 </details>
+
+<details>
+  <summary>What abjective of using named font sizes?</summary>
+
+The objective of this technique is to specify a named font size that expresses the relative font size desired. These values provide hints so taht the user agent can choose a font-size relative to the inherited font-size.
+
+**Procedure:**
+
+1. Check that the value of the CSS property that defines the font size is one of xx-small, x-small, small, medium, large, x-large, xx-large, smaller, or larger.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/C13)
+
+</details>
