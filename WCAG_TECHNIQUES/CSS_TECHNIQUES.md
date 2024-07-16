@@ -109,3 +109,18 @@ The objective of this technique is to demonstrate how visual appearance may be e
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/C15)
 
 </details>
+
+<details>
+  <summary>What abjective of scaling form elements which contain text?</summary>
+
+The objective of this technique is to ehsure text-based form controls resize when text size is changed in the user agent. This will allow users to enter text and read what they have entered in input boxes because the text is displayed at the size required by the user.
+
+**Procedure:**
+
+1. Enter some text into text based form controls that receive user entered text.
+2. Increase the text size of the content by 200%.
+3. Check that the text in text based form controls has increased by 200%.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/C17)
+
+</details>
