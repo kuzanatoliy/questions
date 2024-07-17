@@ -133,3 +133,16 @@ Web designers sometimes use spacer images (usually 1x1 pixel, transparent GIFs) 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/C18)
 
 </details>
+
+<details>
+  <summary>What abjective of specifying alignment either to the left or right in CSS?</summary>
+
+This technique describes how to align blocks of text either left or right by setting the CSS text-align property.
+
+**Procedure:**
+
+1. Check that the text is aligned either left or right.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/C19)
+
+</details>
