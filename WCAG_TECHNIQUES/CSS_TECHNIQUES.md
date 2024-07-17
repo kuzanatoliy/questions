@@ -174,3 +174,16 @@ Many people with cognitive disabilities have trouble tracking lines of text when
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/C21)
 
 </details>
+
+<details>
+  <summary>What abjective of using CSS to control visual presentation of text?</summary>
+
+The objective of this technique is to demonstrate how CSS can be used to control the visuaal presentation of text. This will allow users to modify, via the user agent, the visual characteristics of the text to meet their requirement. The text characteristics include aspects such as size, color, font family and relative placement.
+
+**Procedure:**
+
+1. Check whether CSS properties were used to control the visual presentation of text.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/C22)
+
+</details>
