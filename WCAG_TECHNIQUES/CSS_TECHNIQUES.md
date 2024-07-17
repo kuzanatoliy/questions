@@ -146,3 +146,17 @@ This technique describes how to align blocks of text either left or right by set
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/C19)
 
 </details>
+
+<details>
+  <summary>What abjective of using relative measurements to set column widths so that lines can average 80 characters or less when the browser is resized?</summary>
+
+The purpose of this technique is to ensure that CSS is used in a way tat allows users to view content in such a way that line length can average 80 characters or less. This makes it possible for users with certain reading or vision disabilities that have trouble keeping their place when reading long lines of text to view and interact with the content more efficiently. This technique also allows for column width to grow wider as font sizes increase, which will reduce the possibility of clipping as the text size increases.
+
+**Procedure:**
+
+1. Test to see that the coluns are defined in relative units.
+2. Check to see that line length can be set to 80 characters or less by resizing the browser window.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/C20)
+
+</details>
