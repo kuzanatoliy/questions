@@ -160,3 +160,17 @@ The purpose of this technique is to ensure that CSS is used in a way tat allows 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/C20)
 
 </details>
+
+<details>
+  <summary>What abjective of specifying line spacing in CSS?</summary>
+
+Many people with cognitive disabilities have trouble tracking lines of text when a block of text is single spaced. Providing spacing between 1.5 to 2 allows them to start a new line more easily once they have finished the previous one.
+
+**Procedure:**
+
+1. Open content in a browser.
+2. Check that the spacing between lines in blocks of text is between 1.5 and 2.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/C21)
+
+</details>
