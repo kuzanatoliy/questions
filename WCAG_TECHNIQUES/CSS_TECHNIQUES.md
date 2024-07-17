@@ -124,3 +124,12 @@ The objective of this technique is to ehsure text-based form controls resize whe
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/C17)
 
 </details>
+
+<details>
+  <summary>What abjective of using CSS margin and padding rules instead of spacer images for layout design?</summary>
+
+Web designers sometimes use spacer images (usually 1x1 pixel, transparent GIFs) for better control over layout, for example in tables or to indent a paragraph. However, Cascading Style Sheets (CSS) allow sufficient control over layout to replace spacer images.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/C18)
+
+</details>
