@@ -187,3 +187,18 @@ The objective of this technique is to demonstrate how CSS can be used to control
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/C22)
 
 </details>
+
+<details>
+  <summary>What abjective of specifying text and background colors of secondary content such as banners, features and navigation in CSS while not specifying text and background colors of the main content?</summary>
+
+Some Web pages use colors to identify different groupings. The objective of this technique is to allow users to select specific color combinations for the text and background of the main content while retaning visual clues to the groupings and organization of the web page. When a user overrides the foreground colors of all the text on a page, visual clues to the grouping and organization of the Web page may be lost, making it much more difficult to understand and use.
+
+**Procedure:**
+
+1. Change the text, link and background colors in the browser settings so they are different from the default color and different from those specified in the secondary content.
+2. Check that the main content uses the new text, link and background colors.
+3. Check that the colors of the text, links and backgrounds in the secondary content has not changed.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/C23)
+
+</details>
