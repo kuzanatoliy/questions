@@ -61,3 +61,5 @@
 [Storages](STORAGES.md)
 
 [ViTest](VITEST.md)
+
+[WEB Performance](WEB_PERFORMANCE.md)
