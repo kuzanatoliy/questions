@@ -202,3 +202,19 @@ Some Web pages use colors to identify different groupings. The objective of this
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/C23)
 
 </details>
+
+<details>
+  <summary>What abjective of using percentage values in CSS for container sizes?</summary>
+
+The objective of this technique is to enable users to increase the size of text without having to scroll horizontally to read that text. To use this technique, an author specifies the width of text containers using percent values.
+
+**Procedure:**
+
+1. Check that all container widths are specified as percentage values.
+2. Increase the text size to 200%.
+3. Check to make sure that horizontal scrolling is not required to read any line of text.
+4. Check that all text is still visible on the page.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/C24)
+
+</details>
