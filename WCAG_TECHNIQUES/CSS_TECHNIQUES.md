@@ -218,3 +218,19 @@ The objective of this technique is to enable users to increase the size of text 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/C24)
 
 </details>
+
+<details>
+  <summary>What abjective of specifying borders and layout in CSS to delineate areas of a Web page while not specifying text and text-background colors?</summary>
+
+The intent of this technique is to specify boders and layout using CSS and leave text and background colors to render according to the user's browser and/or operating system settings. This allows users to view the text in the colors they require while maintaining other aspects of the layout and page design such as columns of text, borders around sections or vertical lines between a menu and main content area. It will also prevent some display issues in some browsers when pages contain Javascript pop-up boxes or drop-down menus and have the colors overridden.
+
+**Procedure:**
+
+1. Open the Web page in a browser that allows users to change colors of HTML content.
+2. Change the text, link and background colors in the browser settings so they are different than those currently set in the browser.
+3. Return to the page and check that it is sisplaying the page in the new text link and background colors.
+4. Check that any borders are still displayed and that the layout is retained.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/C25)
+
+</details>
