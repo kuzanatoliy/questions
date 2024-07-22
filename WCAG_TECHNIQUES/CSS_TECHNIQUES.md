@@ -234,3 +234,18 @@ The intent of this technique is to specify boders and layout using CSS and leave
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/C25)
 
 </details>
+
+<details>
+  <summary>What abjective of making the DOM order match the visual order?</summary>
+
+The objective of this technique is to ensure that the order of content in the source code is the same as the visual presentation of the content. The order of content in the source code can be changed by the author to any number of visual presentations with CSS. Each order may be meaningful in itsef bu may cause confusion for assistive technology users.
+
+**Procedure:**
+
+1. Visually eamine the order of the content in the Web page as it is presented to the end user.
+2. Examine the elements in the DOM using a tool that allows you to see the DOM.
+3. Ensure that the order of the content in the source code sections match the visual presentation of the content in the Web page.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/C27)
+
+</details>
