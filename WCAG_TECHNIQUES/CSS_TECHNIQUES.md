@@ -278,3 +278,17 @@ The objective of this technique is to demonstrate how CSS can be used in combina
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/C29)
 
 </details>
+
+<details>
+  <summary>What abjective of using CSS to replace text with images of text and providing user interface controls to switch?</summary>
+
+The objective of this technique is to demonstrate how CSS can be used to replace structured HTML text with images of text in a way that makes it possible for users to view content according to their preferences. To use this technique, an author starts by creating an HTML page that uses semantic elements to mark up the structure of the page. The autor then designs two or more stylesheets for that page. One stylesheet presents the HTML text as text and the second uses CSS features to replace some of the HTML text with images of text. Finally, though the use of server-size or client-side scripting, the author provides a control that allows the user to switch between the available views.
+
+**Procedure:**
+
+1. Check that the Web page includes a control that allows users to select an alternate presentation.
+2. Check that when the control is activated the resulting page includes text (programmatically determined text) wherever images of text had been used.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/C30)
+
+</details>
