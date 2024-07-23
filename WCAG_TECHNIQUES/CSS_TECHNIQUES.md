@@ -263,3 +263,18 @@ The objective of this technique is to specify the width and/or height of contain
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/C28)
 
 </details>
+
+<details>
+  <summary>What abjective of using a style switcher to provide a conforming alternate version?</summary>
+
+The objective of this technique is to demonstrate how CSS can be used in combination with scripting to provide conforming alternate versions of a Web page. In this technique, an author provides alternative views of the content by providing controls that adjust the CSS that is used to control the visual presentation of content. Controls provided withing the Web page allow users to select or modify the presentation in a way that meets the success criterion at the level claimed.
+
+**Procedure:**
+
+1. Check that the Web page contains controls that allow users to select alternate presentations.
+2. Check that the control changes the presentation by modifying individual CSS style properties or by activationg an alternate style sheet.
+3. Verify that the resulting page is a conforming alternate version for the original page.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/C29)
+
+</details>
