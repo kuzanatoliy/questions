@@ -249,3 +249,17 @@ The objective of this technique is to ensure that the order of content in the so
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/C27)
 
 </details>
+
+<details>
+  <summary>What abjective of specifying the size of text containers using em units?</summary>
+
+The objective of this technique is to specify the width and/or height of containers, that contain thext or that will accept text input, in em units. This will allow user agents that support text resizing to resize the text containers in line with changes in text size settings.
+
+**Procedure:**
+
+1. Identify containers that contain text or allow text input.
+2. Check the container's width and/or height are specified in em units.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/C28)
+
+</details>
