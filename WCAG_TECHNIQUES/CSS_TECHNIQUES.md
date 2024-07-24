@@ -292,3 +292,19 @@ The objective of this technique is to demonstrate how CSS can be used to replace
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/C30)
 
 </details>
+
+<details>
+  <summary>What abjective of using CSS Flexbox to reflow content?</summary>
+
+The objective of this technique is to present content without introducing a horizontal scroll bar at a width equivalent to 320 CSS pixels, or a vertical scroll bar at a height equivalent to 256 CSS pixels for text intended to scroll horizontally. This is done by using layout techniques that adapt to the available viewport space.
+
+**Procedure:**
+
+1. Display the web page in a user agent capable of 400% zoom and set the viewport dimensions (in CSS pixels) to 1280 wide and 1024 high.
+2. Zoom in by 400%.
+3. For content read horizontally, check that all content and functionality is available without horizontal scrolling.
+4. For content read vertically, check tat all content and functionality is available without vertical scrolling.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/C31)
+
+</details>
