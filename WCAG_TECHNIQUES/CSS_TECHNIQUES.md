@@ -324,3 +324,19 @@ The objective of this technique is to be able to present content without introdu
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/C32)
 
 </details>
+
+<details>
+  <summary>What abjective of allowing for reflow with Long URLs and Strings of Text?</summary>
+
+Long sets of characters without a space, such as URLs shown as content, can break reflow when the page is zoomed. The objective of this technique is to present URLs without introducing a horizontal scroll bar at a width equivalent to 320 CSS pixels or a vertical scroll bar at a height equivalent to 256 CSS pixels. This is done by using CSS techniques that adapt to the available viewport space. Note: Using a human readable text link, rather than a long URL, is better for usability and accessibility.
+
+**Procedure:**
+
+1. Display the web page in a user agent capable of 400% zoom and set the viewport dimensions (in CSS pixels) to 1280 wide and 1024 high.
+2. Zoom in by 400%.
+3. For content read horizontally, check that all content and functionality is available without horizontal scrolling.
+4. For content read vertically, check tat all content and functionality is available without vertical scrolling.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/C33)
+
+</details>
