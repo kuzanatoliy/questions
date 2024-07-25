@@ -340,3 +340,21 @@ Long sets of characters without a space, such as URLs shown as content, can brea
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/C33)
 
 </details>
+
+<details>
+  <summary>What abjective of using media queries to un-fixing sticky headers / footers?</summary>
+
+The objective of this technique is to be able to present content with sticky headers and footers when there is enough space. This is done by using min-height, max-height, and min-width media queries techniques that adapt to the available space of the viewport.
+
+**Procedure:**
+
+1. Display content of a device / user agent in portrait mode.
+2. Change the orientation to landscape.
+3. Check whether the sticky header and footer will be un-fixed depending on the existing media query settings.
+4. Display content on a desktop / user agent at a starting viewport width of 1280x1024 CSS pixels.
+5. Change the viewport size in width and height or use the zoom function of the browser.
+6. Check whether the sticky header and footer will be un-fixed at specific sizes depending on the existing media query settings.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/C34)
+
+</details>
