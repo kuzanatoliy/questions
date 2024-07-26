@@ -358,3 +358,18 @@ The objective of this technique is to be able to present content with sticky hea
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/C34)
 
 </details>
+
+<details>
+  <summary>What abjective of allowing for text spacing without wrapping?</summary>
+
+The objective of this technique is to allow a user to override text spacgin via user stylesheet, bookmarklet, extension, or application. Increased spacing between paragraphs, lines, words, and characters benefits people with low vision or some cognitive disabilities. Content needs to allow spacing changes without loss of content or functionality by allowing the elements containing the text to expand as needed.
+
+**Procedure:**
+
+1. Set zoom level to 100%.
+2. Use a tool or another mechanism to apply the text spacing metrics (line height, and paragraph, letter, and word spacing), such as the Text Spacing Bookmarklet or a user style browser plugin.
+3. Check that all content and functionality is available e.g., text in containers is not truncated and does not overlap other content.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/C35)
+
+</details>
