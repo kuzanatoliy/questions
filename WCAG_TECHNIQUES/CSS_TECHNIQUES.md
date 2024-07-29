@@ -388,3 +388,19 @@ The objective of this technique is to allow a user to override text spacgin via 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/C36)
 
 </details>
+
+<details>
+  <summary>What abjective of using CSS max-width and height to fit images?</summary>
+
+The objective of this technique is to be able to present images without introducing a horizontal scroll bar at a width equivalent to 320 CSS pixels, or a vertical scroll bar at a height equivalent to 256 CSS pixels for content intended to scroll horizontally. This is done by using CSS max-width and height property techniques that adapt to the available space and keep the original demensions of the image.
+
+**Procedure:**
+
+1. Display the web page in a user agent capable of 400% zoom and set the viewport dimensions (in CSS pixels) to 1280 wide and 1024 high.
+2. Zoom in by 400%.
+3. For content read horizontally, check that all images fit in their available space without horizontal scrolling.
+4. For content read vertically, check that all images fit in their available space without vertical scrolling.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/C37)
+
+</details>
