@@ -419,3 +419,18 @@ The objective of this technique is to be able to present labels and inputs witho
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/C38)
 
 </details>
+
+<details>
+  <summary>What abjective of using the CSS reduce-motion query to prevent motion?</summary>
+
+The objective of this technique is to allow users to prevent animation from being displayed on Web pages, via the use of the prefers-reduced-motion CSS Media Query.
+
+**Procedure:**
+
+1. Enable the 'Reduce Motion' setting in your system;
+2. Check that the motion is not essential;
+3. Check taht the element does not move.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/C38)
+
+</details>
