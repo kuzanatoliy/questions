@@ -404,3 +404,18 @@ The objective of this technique is to be able to present images without introduc
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/C37)
 
 </details>
+
+<details>
+  <summary>What abjective of using CSS width, max-width and flexbox to fit labels and inputs?</summary>
+
+The objective of this technique is to be able to present labels and inputs without introducing a horizontal scroll bar at a width equivalent to 320 CAA pixels for content intended to scroll vertically. When space is limited in the viewport for the label and input to sit next to each other horizontally, they will be changed to a vertical alignment. This is done by using CSS properties for width, max width and flexbox that adapt to the availble space.
+
+**Procedure:**
+
+1. Display the web page in a user agent capable of 400% zoom and set the viewport dimensions (in CSS pixels) to 1280 wide and 1024 high.
+2. Zoom in by 400%.
+3. For vertically scrolling content, all labels and inputs fit in their available space without horizontal scrolling.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/C38)
+
+</details>
