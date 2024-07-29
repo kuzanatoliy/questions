@@ -431,6 +431,21 @@ The objective of this technique is to allow users to prevent animation from bein
 2. Check that the motion is not essential;
 3. Check taht the element does not move.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/C38)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/C39)
+
+</details>
+
+<details>
+  <summary>What abjective of creating a two-color focus indicator to ensure sufficient contrat with all components?</summary>
+
+The objective of this technique is to create a two-color focus indicator that has sufficient contrast against any solid background color. This technique can avoid the need for multiple classes to ensure sufficient contrast of the focus indicator when viewed against different backgrounds.
+
+**Procedure:**
+
+1. Check that the two colors in the focus indicator have a contrast ratio that is 9:1 or greater with each other.
+2. Check that each color band is at least 2 CSS pixels thick.
+3. Check that the indicator only appears overtop one solid background color at a time.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/C40)
 
 </details>
