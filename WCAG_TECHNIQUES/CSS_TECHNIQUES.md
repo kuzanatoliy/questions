@@ -490,3 +490,17 @@ The objective of this technique is to ensure that user interface components (for
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/C43)
 
 </details>
+
+<details>
+  <summary>What abjective of using CSS :focus-visible to provide keyboard focus indication?</summary>
+
+The objective of this technique is to provide custom styles for interactive elements when they receive keyboard focus. In this example, this is achieved using the CSS :focus-visible pseudo-class.
+
+**Procedure:**
+
+1. Set focus to the interface component using the keyboard (generally, navigating to the component using `Tab/Shift+Tab`).
+2. Verify that once the component has received focus, a focus indicator is visible.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/C45)
+
+</details>
