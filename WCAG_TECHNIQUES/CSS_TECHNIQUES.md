@@ -477,3 +477,16 @@ The objective of this technique is to ensure that links in navigation or paginat
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/C42)
 
 </details>
+
+<details>
+  <summary>What abjective of using CSS scroll-padding to un-obscure content?</summary>
+
+The objective of this technique is to ensure that user interface components (for example: links, button, and form fields) that are initially completely obscured by a fixed-position component can still be accessed by users. In this example, this is achieved using CSS padding and scroll-padding properties to create space underneath the site footer and allow the link in the footer to scroll into view when it is focused with a keyboard.
+
+**Procedure:**
+
+1. Check tat the target has enough spacing so that the space around it measures at least 44px width and 44px height.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/C43)
+
+</details>
