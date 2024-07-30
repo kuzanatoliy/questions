@@ -449,3 +449,18 @@ The objective of this technique is to create a two-color focus indicator that ha
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/C40)
 
 </details>
+
+<details>
+  <summary>What abjective of creating a strong focus indicator within the component?</summary>
+
+The objective of this technique is to create a highly visible focus indicator that has sufficient contrast against the internal background color of a component.
+
+**Procedure:**
+
+1. Place keyboard focus on each focusable user interface element on the page using the keyboard.
+2. Check that the focus indicator area is at least the size of a 2 CSS px border around the component.
+3. Check that the change of contrast of the indicator between focused andd unfocused states has a ratio of 4.5:1 for the minimum focus indicator area.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/C41)
+
+</details>
