@@ -5,3 +5,5 @@
 [Client side script techniques](CLIENT_SIDE_SCRIPT_TECHNIQUES.md)
 
 [CSS techniques](CSS_TECHNIQUES.md)
+
+[Common failures](COMMON_FAILURES.md)
