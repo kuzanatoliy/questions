@@ -464,3 +464,16 @@ The objective of this technique is to create a highly visible focus indicator th
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/C41)
 
 </details>
+
+<details>
+  <summary>What abjective of using min-height and min width to ensure sufficient target spacing?</summary>
+
+The objective of this technique is to ensure that links in navigation or pagination menus will be spaced so that they fall within an area that measures at least 44 x 44 CSS pixels if the target area itself is smaller than that. The aim is to provide an adequate target clearance so the offset to adjacent targets is sufficent to prevent accidental pointer activation of adjacent targets.
+
+**Procedure:**
+
+1. Check tat the target has enough spacing so that the space around it measures at least 44px width and 44px height.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/C42)
+
+</details>
