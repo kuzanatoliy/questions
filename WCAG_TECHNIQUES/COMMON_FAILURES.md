@@ -13,3 +13,24 @@ The describes the failure condition that results when CSS, rather than structura
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F1)
 
 </details>
+
+<details>
+  <summary>What is a failure of success criterion 1.3.1 due to using changes in text presentation to convey information without using the appropriate markup or text?</summary>
+
+The failure occurs when a change in the appearance of text conveys meaning without using appropriate semantic markup. This failure also applies to images of text that are not enclosed in the appropriate semantic markup.
+
+**Procedure:**
+
+1. For images of text:
+
+- Check if any images of text are used to convey structural information of the document.
+- Check that the proper semantic structure (e.g., HTML headings) is used with the text to convey the information.
+
+2. For styled text that conveys information:
+
+- Check if there is any styled text that conveys structural information.
+- Check that in addition to styling, the proper semantic structure is used with the text to convey the information.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F2)
+
+</details>
