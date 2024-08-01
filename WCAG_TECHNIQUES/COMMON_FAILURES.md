@@ -49,3 +49,17 @@ The CSS background image property provides a way to include images in the docume
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F3)
 
 </details>
+
+<details>
+  <summary>What is a failure of success criterion 2.2.2 due to using text-decoration:blink without a mechanism to stop it in less than five seconds?</summary>
+
+CSS defines the blink value for the text-decoration property. When used, it causes any text in elements with this property to blink at a predetermined rate. This cannot be interrupted by the user, nor can it be disabled as a user agent preference. The blinking continues as long as the page is displayed. Therefore, content that uses text-decoration:blink fails the Success Criterion because blinking can continue for more than five seconds.
+
+**Procedure:**
+
+1. Examine inline styles, internal stylesheets, and external stylesheets for the text-decoration property with a value of blink.
+2. If the property is used, determine if the ID class, or element identified by selectors on which this property is defined are used in the document.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F4)
+
+</details>
