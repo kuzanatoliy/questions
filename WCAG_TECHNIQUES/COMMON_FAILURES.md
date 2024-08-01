@@ -34,3 +34,18 @@ The failure occurs when a change in the appearance of text conveys meaning witho
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F2)
 
 </details>
+
+<details>
+  <summary>What is a failure of success criterion 1.1.1 due to using CSS to include images that convey important information?</summary>
+
+The CSS background image property provides a way to include images in the document with CSS without any reference in the HTML code. The CSS background-image property was designed for decorative purposes and it is not possible to associate text alternative with images that are included via CSS. Text alternatives are necessary for people who cannot see images that convey important information. Therefore, it is a failure to use this property to add images to convey important information. This failure would apply equally in a case where the background image was declared in the HTML style attribute, as well as in a case where the background image declaration was created dynamically in a client script.
+
+**Procedure:**
+
+1. Examine all images added to the content via CSS, HTML style attributes, or dynamically in script as background images.
+2. Check that the images do not convey important information.
+3. If an image does convey important information, the information is provided to assistive technologies and is also available when the CSS image is not displayed.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F3)
+
+</details>
