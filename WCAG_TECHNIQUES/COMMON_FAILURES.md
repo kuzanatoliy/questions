@@ -63,3 +63,17 @@ CSS defines the blink value for the text-decoration property. When used, it caus
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F4)
 
 </details>
+
+<details>
+  <summary>What is a failure of success criterion 2.2.2 due to an object or appliet that has blinking content without a mechanism to pause the content that blinks for more than five seconds?</summary>
+
+When content that is rendered by a plug-in or contained in an applet blinks, there may be no way for the user agent to pause the blinking. If neither the plug-in, applet, nor the content itself provides a mechanism to pause the content the user may not have sufficient time to read the content between blinks or it may be so distracting that the user will not be able to read other content on the page.
+
+**Procedure:**
+
+1. Determine if the content continues to blink for longer than 5 seconds.
+2. Determine if there is a means to pause the blinking content.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F7)
+
+</details>
