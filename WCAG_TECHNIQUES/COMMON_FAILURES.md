@@ -92,3 +92,20 @@ This describes a failure condition for all techniques involving captions. If the
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F8)
 
 </details>
+
+<details>
+  <summary>What is a failure of success criterion 3.2.5 due to changing the context when the user removes focus from a form element?</summary>
+
+This document describes a failure that occurs when removing focus from a form element, such as by moving to the next element, couses a change of context.
+
+**Procedure:**
+
+1. Find all form elements.
+2. Go through them in order.
+3. Check if the form submits when you move from one field to the next.
+4. Check if moving from one field to the next launches any new windows.
+5. Check if moving from one field to the next navigates to another screen.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F9)
+
+</details>
