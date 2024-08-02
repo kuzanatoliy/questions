@@ -77,3 +77,18 @@ When content that is rendered by a plug-in or contained in an applet blinks, the
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F7)
 
 </details>
+
+<details>
+  <summary>What is a failure of success criterion 1.2.2 due to captions omitting some dialogue or important sound effects?</summary>
+
+This describes a failure condition for all techniques involving captions. If the "caption" does not include all of the dialogue (eigher verbatim or in essence) as well as all important sounds then the 'Captions' are not real captions.
+
+**Procedure:**
+
+1. View the material with captioning turned on.
+2. Check that all dialogue is accompanied by a caption.
+3. Check that all important sounds are captioned.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F8)
+
+</details>
