@@ -106,3 +106,18 @@ When content includes miltiple formats, one or more user agent or plug-ins are o
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F10)
 
 </details>
+
+<details>
+  <summary>What is a failure of success criterion 2.2.5 due to having a session time limit without a mechanism for saving user's time limit without a mechanism for saving user's input and re-establishing that information upon re authentication?</summary>
+
+Web servers that require user authentication usually have a session mechanism in which a session times out after a period of inactivity from the user. This is sometimes done for security reasons, to protect users who are assumed to have left their computer expsed in a state where someone could do something harmful to them such as transfer bank funds or make an unauthorized purchase. Users with disabilities may actually still be working to complete the form as it may take them longer to complete the form than would normally be expected Upon re-authentication, if the state of users' sessions are not restored, including all data that had been previously entered into the form, they will have to start over. And for these users, it is likely that the session will time out again before they can complete the form. This sets up a situation where a user who needs more time to complete the form can never complete it.
+
+**Procedure:**
+
+1. Provide user input as required but allow the session to time out, then submit the form.
+2. When requested, re-authenticate with the server.
+3. Determine if the function is performed using the previously submitted data.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F12)
+
+</details>
