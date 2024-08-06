@@ -148,3 +148,16 @@ The objective of this technique is to show how indentifying content only by its 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F14)
 
 </details>
+
+<details>
+  <summary>What is a failure of success criterion 4.1.2 due to implementing custom controls that do not use an accessibility API for the technology, or do so incompletely?</summary>
+
+When standard controls from accessible technologies are used, they usually are programmed in a way that uses and supports the accessibility API. However, when custom controls are created, it is up to the control's author to ensure that the control is correctly exposed to users via the platform's accessibility API. If this is not done, then assistive technologies will not be able to understand what the control is or how to operate it or may not even know of its existence.
+
+**Procedure:**
+
+1. Using the accessibility checker for the technology (or if that is not available, inspect the code using a browser's developer tools, or test with an assistive technology), check the controls to see if they support the accessibility API.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F15)
+
+</details>
