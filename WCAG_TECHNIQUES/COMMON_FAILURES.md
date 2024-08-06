@@ -131,6 +131,20 @@ The objective of this technique is to describe the failure that occurs when an i
 
 1. Check that the information conveyed by color differences is not included in the text alternative for the image.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F12)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F13)
+
+</details>
+
+<details>
+  <summary>What is a failure of success criterion 1.3.3 due to identifying content only by its shape or location?</summary>
+
+The objective of this technique is to show how indentifying content only by its visual shape or location makes content difficult to understand and operate. When only visual identification or location is used, users with visual disabilities may find it difficult to locate content since they cannot see the screen or may perceive only a small portion of the screen at one time. Also, location of content can vary if page layout varies due to variations in font, window, or screen size.
+
+**Procedure:**
+
+1. Examine the Web page for textual references to content within the Web page.
+2. Check that the references do not rely on only the visual shape or location of the content.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F14)
 
 </details>
