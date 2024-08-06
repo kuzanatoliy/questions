@@ -121,3 +121,16 @@ Web servers that require user authentication usually have a session mechanism in
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F12)
 
 </details>
+
+<details>
+  <summary>What is a failure of success criterion 1.1.1 and 1.4.1 due to having a text alternative that does not include information that is conveyed by color differences in the image?</summary>
+
+The objective of this technique is to describe the failure that occurs when an image uses color differences to convey information, but the text alternative for the image does not convey that information. This can cause problems for people who are blind or colorblind because they will not be able to perceive the information conveyed by the color differences.
+
+**Procedure:**
+
+1. Check that the information conveyed by color differences is not included in the text alternative for the image.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F12)
+
+</details>
