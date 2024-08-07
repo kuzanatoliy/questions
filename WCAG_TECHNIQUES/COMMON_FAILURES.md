@@ -179,3 +179,17 @@ In this failure technique, there is moving or scrolling content that cannot be p
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F16)
 
 </details>
+
+<details>
+  <summary>What is a failure of Conformance Requirement 1 due to not providing a method for the user to find the alternative conforming version of a non-conforming Web page?</summary>
+
+This failure technique describes the situation in which an alternate, conforming version of the content is provided, but there is no direct way for a user to tell that it is available or where to find it. Such content fails the Success Criterion because the user cannot find the conforming version.
+
+**Procedure:**
+
+1. Identify a nonconforming page that has an alternative conforming version.
+2. Determine if the nonconforming page provides a link to the conforming version.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F19)
+
+</details>
