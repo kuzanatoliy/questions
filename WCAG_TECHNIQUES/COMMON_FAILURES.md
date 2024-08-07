@@ -193,3 +193,16 @@ This failure technique describes the situation in which an alternate, conforming
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F19)
 
 </details>
+
+<details>
+  <summary>What is a failure of Success Criterion 1.1.1 and 4.1.2 due to not updating text alternatives when changes to non-text content occur?</summary>
+
+This objective of this failure conditions is to address situations where the non-text content is updated, but the text alternative is not updated at the same time. If the text in the text alternative cannot still be used in place of the non-text content without losing information or function, then it fails because it is no longer a text alternative for the non-text content.
+
+**Procedure:**
+
+1. Check each text alternative to see if it is describing content other than the currently displayed non text content.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F20)
+
+</details>
