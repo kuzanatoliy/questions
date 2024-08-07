@@ -161,3 +161,21 @@ When standard controls from accessible technologies are used, they usually are p
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F15)
 
 </details>
+
+<details>
+  <summary>What is a failure of success criterion 2.2.2 due to including scrolling content where movements is not essential to the activity without also including a mechanism to pause and restart the content?</summary>
+
+In this failure technique, there is moving or scrolling content that cannot be paused and resumed by users. In this case, some users with low vision or congnitive disabilities will not be able to perceive the content.
+
+**Procedure:**
+
+1. Check that a mechanism is provided in the Web page or user agent to pause moving or scrolling content.
+2. Use the puse mechanism to pause the moving or scrolling content.
+3. Check that the moving or scrolling has stopped and does not restart by itself.
+4. Check that a mechanism is provided in the Web page or user agent to restart the paused content.
+5. Use the restart mechanism provided to restart the moving content.
+6. Check that the movement or scrolling has resumed from the point where it was stopped.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F16)
+
+</details>
