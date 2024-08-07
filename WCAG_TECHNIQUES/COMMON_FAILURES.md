@@ -206,3 +206,21 @@ This objective of this failure conditions is to address situations where the non
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F20)
 
 </details>
+
+<details>
+  <summary>What is a failure of Success Criterion 3.2.5 due to opening windows that are not requested by the user?</summary>
+
+Failure due to opening new windows when the user does not expect them. New windows take the focus away from what the user is reading or doing. This is fine when the user has intacted with a piece of User Interface and expects to get a new window, such as an options dialogue. The failure comes when pop-ups appear unexpectedly.
+
+**Procedure:**
+
+1. Load the Web page.
+2. Check if new (additional) windows open.
+3. Find every actionalbe lement, such as links and buttons, in the Web page.
+4. Activate each element.
+5. Check if activation the element opens a new window.
+6. Check if elements that open new windows have associated text saying that will happen. The text can be displayed in the link, or available through a hidden association such as an HTML title attribute.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F22)
+
+</details>
