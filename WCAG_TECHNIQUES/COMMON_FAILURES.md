@@ -265,3 +265,16 @@ This describes a failure condition when the Web page has a title, but the title 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F25)
 
 </details>
+
+<details>
+  <summary>What is a failure of Sucess Criterion 1.3.3 due to using a graphical symbol alone to convey information?</summary>
+
+The objective of this technique is to show how using a graphical symbol to convey information can make content difficult to comprehend. A graphical symbol may be an image, an image of text or a pictorial or decorative character symbol which imparts information nonverbally. Examples of graphical symbols include an image of a red circle with a line through it a 'smiley' face, or a glyph which represents a check mark, arrow, or other symbol but is not the character with that meaning.
+
+**Procedure:**
+
+1. Check whether there are other means to determine the information conveyed by the non-text marks.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F26)
+
+</details>
