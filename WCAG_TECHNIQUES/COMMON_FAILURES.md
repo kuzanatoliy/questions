@@ -237,3 +237,18 @@ This describes a failure condition for Success Criteria involving sound. If soun
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F23)
 
 </details>
+
+<details>
+  <summary>What is a failure of Sucess Criterion 1.4.3, 1.4.6 and 1.4.8 due to specifying foreground colors without specifying backgfound colors or vice versa?</summary>
+
+Users with vision loss or congnitive, language and learning challenges often prefer specific foreground and background color combinations. In some cases, individuals with low vision will find it much easier to see a Web page that has white text on a back background, and they may have set their user agent to present this contrast. Many user agent make it possible for users to choose apreference about the foreground or background colors they would like to see without overriding all author-specified styles. This makes it possible for users to view pages where colors have not been specified by the author in their preferred color combination.
+
+**Procedure:**
+
+1. Examine the code of the Web page.
+2. Check to see if an author-specified foreground color is present.
+3. Check to see if an author-specified background color is present.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F24)
+
+</details>
