@@ -224,3 +224,16 @@ Failure due to opening new windows when the user does not expect them. New windo
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F22)
 
 </details>
+
+<details>
+  <summary>What is a failure of 1.4.2 due to playing a sound longer than 3 seconds where there is no mechanism to turn it off?</summary>
+
+This describes a failure condition for Success Criteria involving sound. If sound does not turn off automatically within 3 seconds and there is no way to turn the sound off, independently from the overall system volume level, then Success Criterion 1.4.2 would not be met. The sound would fall within this failure condition.
+
+**Procedure:**
+
+1. Check tat there is a mechanism, independent from the overall system volume control, to turn off any sound that plays automatically for more than three seconds.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F23)
+
+</details>
