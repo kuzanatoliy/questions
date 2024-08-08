@@ -252,3 +252,16 @@ Users with vision loss or congnitive, language and learning challenges often pre
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F24)
 
 </details>
+
+<details>
+  <summary>What is a failure of Sucess Criterion 2.4.2 due to the title of a Web page not identifying the contents?</summary>
+
+This describes a failure condition when the Web page has a title, but the title does not identify the contents or purpose of the Web page.
+
+**Procedure:**
+
+1. Check whether the title of each Web page identifies the contents or purpose of the Web page.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F25)
+
+</details>
