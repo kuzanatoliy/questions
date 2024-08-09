@@ -278,3 +278,16 @@ The objective of this technique is to show how using a graphical symbol to conve
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F26)
 
 </details>
+
+<details>
+  <summary>What is a failure of Sucess Criterion 1.1.1 and 1.2.1 due to using text alternatives that are not alternatives (e.g., filenames or placeholder text)?</summary>
+
+This describes a failure condition for all techniques involving text alternatives. If the text in the "text alternative" connot be used in place of the non-text content without losing information or function then alternative to the non-text content.
+
+**Procedure:**
+
+1. Check each text alternative to see if it is not actually a text alternative for the non-text content.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F30)
+
+</details>
