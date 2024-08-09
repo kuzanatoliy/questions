@@ -332,3 +332,17 @@ The objective of this technique is to describe how using white space characters,
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F33)
 
 </details>
+
+<details>
+  <summary>What is a failure of Sucess Criterion 1.3.1 and 1.3.2 due to using white space characters to format tables in plain text content?</summary>
+
+The objective of this technique is to describe how using white space characters, such as space, tab, line break, or carriage return, to format tables in text content is a failure to use structure properly. When tables are created in this manner there is no way to indicate that a cell is intended to be a header cell, no way to associate the table header cells with the table data cells, or to navigate directly to a particular cell in a table.
+
+**Procedure:**
+
+1. Examine the document for visually formatted tables.
+2. Check whether the tables are created using white space characters to layout the tabular data.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F33)
+
+</details>
