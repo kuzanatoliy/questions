@@ -361,3 +361,18 @@ Forms are frequently designed so that they submit automatically when the user ha
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F36)
 
 </details>
+
+<details>
+  <summary>What is a failure of Sucess Criterion 3.2.2 due to launching a new window without prior warning when the selection of a radio button, check box or select list is changed?</summary>
+
+This document describes a failure that occurs when changing the selection of a radio button, a check box or an item in a select list causes a new window to open. It is possible to use scription to create an input element that causes a change of context when the element is selected. Developers can instead use a sumbit button or clearly indicate the expected action.
+
+**Procedure:**
+
+1. Find each form in a page.
+2. For each form control that is a radio button, check box or an item in a select list, check if changing the selection of the control launches a new window.
+3. For each new window resulting from step 2, check if the user is warned in advance.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F37)
+
+</details>
