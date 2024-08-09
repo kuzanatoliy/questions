@@ -305,3 +305,16 @@ Components that have the same function in different Web pages are more easily re
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F31)
 
 </details>
+
+<details>
+  <summary>What is a failure of Sucess Criterion 1.3.2 due to using white dpace characters to control spacing within a word?</summary>
+
+The objective of this technique is to describe how using white space characters, such as space, tab, line break, or carriage return, to format individual words visually can be a failure to present meaningful sequences properly. When blank caracters are inserted to control letter spacing within a word, they may change the interpretation of the word or cause it not to be programmatically recognized as a single word.
+
+**Procedure:**
+
+1. Check wheter any words in the text of the content contain white space characters.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F32)
+
+</details>
