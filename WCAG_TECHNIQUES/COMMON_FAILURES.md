@@ -291,3 +291,17 @@ This describes a failure condition for all techniques involving text alternative
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F30)
 
 </details>
+
+<details>
+  <summary>What is a failure of Sucess Criterion 3.2.4 due to using two different labels for the same function on different Web pages within a set of Web pages?</summary>
+
+Components that have the same function in different Web pages are more easily recognized if they are labeled consistently. If the naming is not consistent, some users may get confused.
+
+**Procedure:**
+
+1. In a set of Web pages, find components with the same function that are repeated in miltiple Web pages.
+2. For each component with the same function found in step #1, check that the naming is consistent.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F31)
+
+</details>
