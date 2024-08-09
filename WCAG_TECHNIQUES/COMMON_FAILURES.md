@@ -307,7 +307,7 @@ Components that have the same function in different Web pages are more easily re
 </details>
 
 <details>
-  <summary>What is a failure of Sucess Criterion 1.3.2 due to using white dpace characters to control spacing within a word?</summary>
+  <summary>What is a failure of Sucess Criterion 1.3.2 due to using white space characters to control spacing within a word?</summary>
 
 The objective of this technique is to describe how using white space characters, such as space, tab, line break, or carriage return, to format individual words visually can be a failure to present meaningful sequences properly. When blank caracters are inserted to control letter spacing within a word, they may change the interpretation of the word or cause it not to be programmatically recognized as a single word.
 
@@ -316,5 +316,19 @@ The objective of this technique is to describe how using white space characters,
 1. Check wheter any words in the text of the content contain white space characters.
 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F32)
+
+</details>
+
+<details>
+  <summary>What is a failure of Sucess Criterion 1.3.1 and 1.3.2 due to using white space characters to create multiple columns in plain text content?</summary>
+
+The objective of this technique is to describe how using white space characters, such as space, tab, line break, or carriage return, to format columns of data in text content is a failure to use structure properly. Assistive technologies will interpret content in the reading order of the current language. Using white space characters to create multiple columns does not provide the information in a natural reading order. Thus, the assistive technology user will not be presented with the information in an understandable manner.
+
+**Procedure:**
+
+1. Examine the document for data or information presented in columnar format.
+2. Check whether the columns are created using white space characters to lay out the information.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F33)
 
 </details>
