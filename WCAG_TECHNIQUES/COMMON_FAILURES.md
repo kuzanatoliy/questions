@@ -376,3 +376,17 @@ This document describes a failure that occurs when changing the selection of a r
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F37)
 
 </details>
+
+<details>
+  <summary>What is a failure of Sucess Criterion 1.1.1 due to not marking up decorative images in HTML in a way that allows assistive technology to ignore them?</summary>
+
+This describes a failure condition for text alternatives for images that should be ignored by AT. If there is no alte attribute at all assistive technologies are not able to ignore the non-text content. The alt attribute must be provided and have a null value to avoid a failure of this Success criterion.
+
+**Procedure:**
+
+1. Check whether the element has no role attribute or has a role attribute value that is not presentation.
+2. Check whether the lement has no alt attribute or has an alt attribute with a value that is not null.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F37)
+
+</details>
