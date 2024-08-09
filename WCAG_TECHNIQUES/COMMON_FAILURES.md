@@ -343,6 +343,21 @@ The objective of this technique is to describe how using white space characters,
 1. Examine the document for visually formatted tables.
 2. Check whether the tables are created using white space characters to layout the tabular data.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F33)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F34)
+
+</details>
+
+<details>
+  <summary>What is a failure of Sucess Criterion 3.2.2 due to automatically submitting a form and presenting new content without prior warning when the last field in the form is given a value?</summary>
+
+Forms are frequently designed so that they submit automatically when the user has filled in all the fields, or when focus leaves the last field. There are two problems with this approach. First is that a disabled user who needs more context may move focus away from the field to the directions on how to fill in the form, or to other text, accidentally submitting the form. The other is that, with some form elements, the value of the field changes as each item is navigated with the keyboard again accidentally submitting the form. It is better to rely on the standard form behavior of the submit button and enter key.
+
+**Procedure:**
+
+1. Enter data in all fields on page starting at top.
+2. Enter data in last fields and exit from it (tab out of it).
+3. Check whether leaving the last field causes change of context.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F36)
 
 </details>
