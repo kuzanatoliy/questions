@@ -421,3 +421,20 @@ Meta http-equiv content="{time} url=..." is often used to automatically redirect
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F40)
 
 </details>
+
+<details>
+  <summary>What is a failure of Success Criterion 2.2.1, 2.2.4, and 3.2.5 due to using meta refresh to reload the page?</summary>
+
+Meta http-equiv of refresh is often used to periodically refresh pages or to redirect users to another page. If the time interval is too short, and there is no way to turn auto-refresh off, people who are blind will not have enough time to make their screen readers read the page before the page refreshes unexpectedly and causes the screen reader to begin reading at the top. Sighted users may also be disoriented by the unexpected refresh.
+
+**Procedure:**
+
+1. Check that the numerical value for seconds until refresh in the content attribute is present.
+2. Check that the numerical value for seconds until refresh in the content attribute is less than one or greater than 72,000.
+3. Check if the page qualifies for Real-time or Essential Exceptions in Success Criterion 2.2.1 Timing Adjustable.
+4. Check if the user is provided an opportunity to turn off, extend, or adjust the timing of the page refresh.
+5. Check if the page does not redirect after the duration specified in the content attribute.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F41)
+
+</details>
