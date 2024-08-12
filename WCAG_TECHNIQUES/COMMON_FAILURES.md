@@ -387,6 +387,20 @@ This describes a failure condition for text alternatives for images that should 
 1. Check whether the element has no role attribute or has a role attribute value that is not presentation.
 2. Check whether the lement has no alt attribute or has an alt attribute with a value that is not null.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F37)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F38)
+
+</details>
+
+<details>
+  <summary>What is a failure of Sucess Criterion 1.1.1 due to provideing text alternative that is not null for images that should be ignored by assistive technology?</summary>
+
+This texhnique describes a failure condition for images that should be ignored by assistive technologies. A text alternative for an image should convey the meaning of the image. When an image is used for decoration, spacing or other purpose that is not part of the meaningful content in the page then the image has no meaning and should be ignored by assistive technologies.
+
+**Procedure:**
+
+1. Identify and img elements that are used for decoration, spacing or other purpose that is not part of the meaningful content in the page.
+2. Check that the alt attribute for these elements is null.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F39)
 
 </details>
