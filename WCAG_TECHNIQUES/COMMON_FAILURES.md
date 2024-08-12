@@ -404,3 +404,20 @@ This texhnique describes a failure condition for images that should be ignored b
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F39)
 
 </details>
+
+<details>
+  <summary>What is a failure due to using meta redirect with a time limit?</summary>
+
+Meta http-equiv content="{time} url=..." is often used to automatically redirect users. When occurs after a time delay, it is an unexpected change of context that may interrupt the user.
+
+**Procedure:**
+
+1. Check that the numerical value for seconds until refresh in the content attribute is present.
+2. Check that the numerical value for seconds until refresh in the content attribute is less than one or greater than 72,000.
+3. Check if the page qualifies for Real-time or Essential Exceptions in Success Criterion 2.2.1 Timing Adjustable.
+4. Check if the user is provided an opportunity to turn off, extend, or adjust the timing of the page refresh.
+5. Check if the page does not redirect after the duration specified in the content attribute.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F40)
+
+</details>
