@@ -465,3 +465,16 @@ This objective of this technique is to describe a failure that occurs when struc
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F43)
 
 </details>
+
+<details>
+  <summary>What is a failure of Success Criterion 2.4.3 due to using tabindex to create a tab order that does not preserve meaning and operability?</summary>
+
+One of the most common causes of this failure occurs when editing a page where tabindex has been used. It is easy for the tab order and the content order to fall out of correspondence when the content is edited but the tabindex attributes are not updated to reflect the changes to the content.
+
+**Procedure:**
+
+1. If tabindex is used, check that the tab order specified by the tabindex attributes follows relationships in the content.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F44)
+
+</details>
