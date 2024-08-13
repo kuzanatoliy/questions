@@ -452,3 +452,16 @@ This failure occurs when JavaScript event handlers are attached to elements to e
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F42)
 
 </details>
+
+<details>
+  <summary>What is a failure of Success Criterion 1.3.1 due to using structural markup in a way that does not represent relationships in the content?</summary>
+
+This objective of this technique is to describe a failure that occurs when structural markup is used to achive a presentational effect, but indicates relationships that do not exist in the content. This is disorienting to users who are depending on those relationships to navigate the content or to understand the relationship of one piece of the content to another. Note that the structural markup such as `<th>` or `<caption>` elements.
+
+**Procedure:**
+
+1. Check that the element's semantic meaning is exposed to assistive technology and appropriate for the content of the element.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F43)
+
+</details>
