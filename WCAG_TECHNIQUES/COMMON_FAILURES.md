@@ -478,3 +478,21 @@ One of the most common causes of this failure occurs when editing a page where t
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F44)
 
 </details>
+
+<details>
+  <summary>What is a failure of Success Criterion 1.3.1 due to using th elements, caption elements, or non-empty summary attributes in layout tables?</summary>
+
+The objective of this technique is to describe a failure that occurs when a table used only for layout includes either th elements, a summary attribute, or a caption element. This is a failure because it uses structural (or semantic) markup only for presentation. The intent of the HTML table elements is to present data.
+
+**Procedure:**
+
+1. Examine the source code of the HTML or XHTML document for the table element.
+2. If the table is used only to visually lay out elements within the content.
+
+- Check that the table does not contain any th elements.
+- Check that the table element does not contain a non-empty summary attribute.
+- Check tat the table element does not contain a caption element.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F46)
+
+</details>
