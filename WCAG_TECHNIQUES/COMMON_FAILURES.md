@@ -496,3 +496,16 @@ The objective of this technique is to describe a failure that occurs when a tabl
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F46)
 
 </details>
+
+<details>
+  <summary>What is a failure of Success Criterion 2.2.2 due to using the blink element?</summary>
+
+The blink element, while not part of the official HTML specification, is supported by many user agents. It causes any text inside the element to blink at a predetermined rate. This cannot be interrupted by the user, nor can it be disabled as a preference. The blinking continues as long as the page is displayed. Therefore, content that uses blink fails the Success Criterion because blinking can continue for more than three seconds.
+
+**Procedure:**
+
+1. Examine code for the presence of the blink element.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F47)
+
+</details>
