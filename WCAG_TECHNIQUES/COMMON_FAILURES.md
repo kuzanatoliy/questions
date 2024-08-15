@@ -509,3 +509,17 @@ The blink element, while not part of the official HTML specification, is support
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F47)
 
 </details>
+
+<details>
+  <summary>What is a failure of Success Criterion 1.3.1 due to using the pre element to markup tabular information?</summary>
+
+This document describes a failure caused by use of the HTML pre element to markup tabular information. The pre element preserves only visual formatting. If the pre element is used to markup tabular information, the visually inmpied logical relationships between the table cells and the headers are lost if the user cannot see the screen or if the visual presentation changes significantly.
+
+**Procedure:**
+
+1. Check to see if the pre element is used.
+2. For each occurrence of the pre element, check whether the enclosed information is tabular.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F48)
+
+</details>
