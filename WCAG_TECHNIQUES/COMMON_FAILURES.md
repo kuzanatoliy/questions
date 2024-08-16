@@ -523,3 +523,21 @@ This document describes a failure caused by use of the HTML pre element to marku
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F48)
 
 </details>
+
+<details>
+  <summary>What is a failure of Success Criterion 1.3.2 due to using an HTML layout table that does not make sense when linearized?</summary>
+
+This failure occurs when a meaningful sequence of content conveyed through presentation is lost because HTML tables used to control the visual placement of the content do not 'linerize' correctly. Tables present content in two visual dimensions, horizontal and vertical. However, screen readers present this two-dimensional content in linear order of the content in the source, beginning with the first cell in the first row and ending with the last cell in the last row. The screen reader reads the table from top to bottom, reading the entire contents of each row before moving to the next row. The completer content of each cell in each row is spoken - including the complete content of any table nested within a cell. This is called linearization.
+
+**Procedure:**
+
+1. Linearize the content in either of the following ways:
+
+- Present the content in source code order;
+- Remove the table markup from around the content.
+
+2. Check that the linear reading order matches any meaningful sequence conveyed through presentation.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F49)
+
+</details>
