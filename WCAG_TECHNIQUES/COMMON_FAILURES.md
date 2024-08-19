@@ -541,3 +541,16 @@ This failure occurs when a meaningful sequence of content conveyed through prese
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F49)
 
 </details>
+
+<details>
+  <summary>What is a failure of Success Criterion 2.2.2 due to a script that causes a blink effect without a mechanism to stop the blinking at 5 seconds or less?</summary>
+
+Scripts can be used to blink content by toggling at 5 seconds or earlier. See using scripts to control blinking and stop it in five seconds or less for information about how to modify the technique to stop the blinking.
+
+**Procedure:**
+
+1. Determine if the blinking stops in 5 seconds or less.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F50)
+
+</details>
