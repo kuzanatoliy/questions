@@ -554,3 +554,18 @@ Scripts can be used to blink content by toggling at 5 seconds or earlier. See us
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F50)
 
 </details>
+
+<details>
+  <summary>What is a failure of Success Criterion 3.2.1 and 3.2.5 due to opening a new window as soon as a new page is loaded?</summary>
+
+Some Web sites open a new window when a page is loaded, to advertise a product or service. The objective of this technique is to ensure that pages do not disorient users by opening up one or more new windows that automatically attain focus as soon as a page is loaded.
+
+**Procedure:**
+
+1. Load a new page.
+2. Check to see whether a new window has been opened as a result of loading the new page.
+3. Check to see whether the new window is automatically given focus.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F52)
+
+</details>
