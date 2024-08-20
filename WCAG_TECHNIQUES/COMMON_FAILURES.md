@@ -569,3 +569,17 @@ Some Web sites open a new window when a page is loaded, to advertise a product o
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F52)
 
 </details>
+
+<details>
+  <summary>What is a failure of Success Criterion 2.1.1 due to using only pointing-device-specific event handlers (including gesture) for a function?</summary>
+
+Some Web sites open a new window when a page is loaded, to advertise a product or service. The objective of this technique is to ensure that pages do not disorient users by opening up one or more new windows that automatically attain focus as soon as a page is loaded.
+
+**Procedure:**
+
+1. Check to see whether pointing-device-specific event handlers are the only means to invoke scription functions.
+2. Check if the function being invoked requires input information about a specific path for a pointing device.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F52)
+
+</details>
