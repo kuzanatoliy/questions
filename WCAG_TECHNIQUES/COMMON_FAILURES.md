@@ -612,3 +612,18 @@ Sever-side scripting languages allow developers to set the non-standard HTTP hea
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F58)
 
 </details>
+
+<details>
+  <summary>What is a failure of Success Criterion 4.1.2 due to using script to make div or span a user interface control in HTML without providing a role for the control?</summary>
+
+This failure domonstrates how using generic HTML elements to create user interface controls can make the controls inaccessible to assistive technology. Assistive technologies rely on knowledge of the role and current state of a component in order to provide that information to the user. Many HTML elements have well defined roles, such as links, buttons, text fields, etc. Generic elemetns such as div and span do not have any predefined roles. When these generic elements are used to create user interface controls in HTLM the assistive tehcnology may not have the necessary information to describe nad interact with the control.
+
+**Procedure:**
+
+1. Examine the parsed source code for elements which have event handlers assigned within the mark-up or via scripting (indicating that the element is a user interface cntrol).
+2. Check if the role of the control is already defined natively in the mark up language.
+3. Check if another valid method, such as the assignment of a fitting WAI-ARIA role, has been used to define the role of the control.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F59)
+
+</details>
