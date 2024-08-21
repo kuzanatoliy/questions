@@ -597,3 +597,18 @@ Content that normally receives focus when the content is accessed by keyboard ma
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F55)
 
 </details>
+
+<details>
+  <summary>What is a failure of Success Criterion 2.2.1 due to using server-side techniques to automatically redirect pages after a time-out?</summary>
+
+Sever-side scripting languages allow developers to set the non-standard HTTP header "Refresh" with a time-out (in seconds) and a URI to which the browser is redirected after the specified time-out. If the time interval is too short, people who are blind will not have enough time to make their screen readers read the page before the page refreshes unexpectedly and causes the screen reader to begin reading at the top. Sighted users may also be disoriented by the unexpected refresh.
+
+**Procedure:**
+
+1. Check to see if the web page automatically redirects to another page after some period of time without the user taking any action.
+2. Check if the page qualifies for Real-time or Essential Exceptions in Success Criterion 2.2.1 Timing Adjustable.
+3. Check if the user is provided an opportunity to turn off, extend, or adjust the timing of the page refresh.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F58)
+
+</details>
