@@ -580,6 +580,20 @@ Some Web sites open a new window when a page is loaded, to advertise a product o
 1. Check to see whether pointing-device-specific event handlers are the only means to invoke scription functions.
 2. Check if the function being invoked requires input information about a specific path for a pointing device.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F52)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F54)
+
+</details>
+
+<details>
+  <summary>What is a failure of Success Criterion 2.1.1, 2.4.7, 2.4.13, and 3.2.1 due to using script to remove focus when focus is received?</summary>
+
+Content that normally receives focus when the content is accessed by keyboard may have this focus removed by scripting. This is sometimes done when designer considers the system focus indicator to be unsightly. However, the system focus indicator is an important part of accessibility for keyboard users. In addition, this practice removes focus from the content entirely, which means that the content can only be operated by a pointing device such as a mouse.
+
+**Procedure:**
+
+1. Use the keyboard to verify that you can get to all interactive elements using the keyboard.
+2. Check that when focus is placed on each element, focus remains there until user moves it.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F55)
 
 </details>
