@@ -627,3 +627,19 @@ This failure domonstrates how using generic HTML elements to create user interfa
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F59)
 
 </details>
+
+<details>
+  <summary>What is a failure of Success Criterion 3.2.5 due to launching a new window when a user enters text into an input field?</summary>
+
+This document describes a failure that occurs when a new window is created in response to a user filling in a text field for other than error reporting.
+
+**Procedure:**
+
+1. Find all text input form fields.
+2. Change the value in each form field.
+3. Check if new windows open.
+4. For any new windows that open, check if they contain an error message and a button that closes the window returning focus to the initiating form element.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F60)
+
+</details>
