@@ -631,7 +631,7 @@ This failure domonstrates how using generic HTML elements to create user interfa
 <details>
   <summary>What is a failure of Success Criterion 3.2.5 due to launching a new window when a user enters text into an input field?</summary>
 
-This document describes a failure that occurs when a new window is created in response to a user filling in a text field for other than error reporting.
+It describes a failure that occurs when a new window is created in response to a user filling in a text field for other than error reporting.
 
 **Procedure:**
 
@@ -641,5 +641,21 @@ This document describes a failure that occurs when a new window is created in re
 4. For any new windows that open, check if they contain an error message and a button that closes the window returning focus to the initiating form element.
 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F60)
+
+</details>
+
+<details>
+  <summary>What is a failure of Success Criterion 3.2.5 due to complete change of main content through an automatic update that the user cannot disable from within the content?</summary>
+
+It describes a failure that occurs when the content in the main viewport is automatically updated, and there is no option for a user to disable this behavior.
+
+**Procedure:**
+
+1. Open the source code in an appropriate editing tool.
+2. Examine the source code thoroughly.
+3. Confirm that content is dynamically generated or the code will trigger a change of context for the viewport on an event or after a time period.
+4. Confirm that there does not exist an approproate mechanism for users to disable this behavior.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F61)
 
 </details>
