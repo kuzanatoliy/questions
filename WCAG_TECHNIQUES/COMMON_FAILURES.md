@@ -673,3 +673,19 @@ This describes a failure condition when the context needed for understanding the
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F63)
 
 </details>
+
+<details>
+  <summary>What is a failure of Success Criterion 1.1.1 due to omitting the alt attribute or text alternative on img elements, area elements, and imput elements of type image?</summary>
+
+This describes a failure condition for text alternatives on images. If there is no source of text to provide an alternative for the image then assistive technologies are not able to identify the image or to convey its purpose to the user. The alt attribute continues to be the preferred way to provide alternative text for images. Appropriate WAI-ARIA attrubutes may be used to provide alternative text as logn as they are accessibility supported.
+
+**Procedure:**
+
+1. Check if the alt attribute is present.
+2. Check if aria-labelledby is accessibility supported.
+3. Check if the aria-label attribute is present AND check if aria-label is accessibility supported.
+4. Check if the title attribute is present AND check if titile is accessibility supported.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F65)
+
+</details>
