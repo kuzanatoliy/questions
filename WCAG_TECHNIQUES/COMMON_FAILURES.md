@@ -689,3 +689,17 @@ This describes a failure condition for text alternatives on images. If there is 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F65)
 
 </details>
+
+<details>
+  <summary>What is a failure of Success Criterion 3.2.3 due to presenting navigation links in a different relative order on different pages?</summary>
+
+This describes a failure condition for all techniques involving naviagtion mechanisms that are repeated on multiple Web pages within a set of Web pages (Success Criterion 3.2.3). If the mechanism presents the order of links in a different order on two or more pages, then the failure is triggered.
+
+**Procedure:**
+
+1. Check to see if a navigation mechanism is being used on more than one Web page.
+2. Check the default presentation of the navigation mechanism on each page to see if the list of links are in the same relative order on each Web page.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F66)
+
+</details>
