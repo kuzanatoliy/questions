@@ -703,3 +703,16 @@ This describes a failure condition for all techniques involving naviagtion mecha
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F66)
 
 </details>
+
+<details>
+  <summary>What is a failure of Success Criterion 1.1.1 and 1.2.1 due to providing long descriptions for non-text content that does not serve the same purpose or does not present the same information?</summary>
+
+The objective of this technique is to describe the failure that occurs when the long description for non-text content does not serve the same purpose or does not present the same information as the non-text content. This can cause problems for people who cannot interpret the non-text content because they rely on the long description to provide the necessary information conveyed by the non-text content. Without a long description that provides complete infromation, a person may not be able to comprehend or interact with the Web page.
+
+**Procedure:**
+
+1. Check that the long description serves the same purpose or presents the same information as the non-text content.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F67)
+
+</details>
