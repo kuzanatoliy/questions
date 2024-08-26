@@ -659,3 +659,17 @@ It describes a failure that occurs when the content in the main viewport is auto
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F61)
 
 </details>
+
+<details>
+  <summary>What is a failure of Success Criterion 2.4.4 due to providing link context only in content that is not related to the link?</summary>
+
+This describes a failure condition when the context needed for understanding the purpose of a link is located in content that is not programmatically determined link context.
+
+**Procedure:**
+
+1. Check whether the context is contained in the same sentence, paragraph, list item, table cell, or associated table headers.
+2. Check wheter the link context can be programmatically determined in some other way, for example by using a WAI-ARIA property such as aria-label, aria-labelledby or aria-describedby on the link to provide sufficient context.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F63)
+
+</details>
