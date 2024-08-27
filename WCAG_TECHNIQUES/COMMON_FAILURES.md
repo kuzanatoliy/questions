@@ -733,6 +733,20 @@ Check that each element has a programmatically determined name using one of the 
 5. the contrlo is an input of type image and the alt attribute provides a text label.
 6. the control is programmatically determined through the value of title attribute.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F67)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F68)
+
+</details>
+
+<details>
+  <summary>What is a failure of Success Criterion 1.4.4 when resizing visually rendered text up to 200 percent causes the text, image or controls to be clipped, truncated or obscured?</summary>
+
+The objective of this failure condition is to describe a problem that occurs when changing the size of text causes text to be clipped, truncated, or obscured, so that it is no longer available to the user. In general, this failure occurs when there is no way for a user agent's layout engine to honor all the layout hints in the HTML at the new font size.
+
+**Procedure:**
+
+1. Increase the text size of the content by 200%;
+2. Check that no text is clipped, truncated or obscured.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F69)
 
 </details>
