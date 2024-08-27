@@ -750,3 +750,17 @@ The objective of this failure condition is to describe a problem that occurs whe
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F69)
 
 </details>
+
+<details>
+  <summary>What is a failure of Success Criterion 1.1.1 due to using text look-alikes to represent text without providing a text alternative?</summary>
+
+The objective of this failure condition is to avoid substituting characters whose glyphs look similar to the intended character, for that intended character. The Unicode character set defines thousands of characters, covering dozens of writing systems. While the glyphs for some of these characters may look like the glyphs for other characters in visual presentation, they are not processed the same by text-to-speech tools.
+
+**Procedure:**
+
+1. Check the characters or character entities used to represent text.
+2. If the characters used do not match teh appropriate characters for the displayed glyphs in the human language of the content, then look-alike glyphs are being used.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F71)
+
+</details>
