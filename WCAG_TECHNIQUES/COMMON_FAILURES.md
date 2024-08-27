@@ -778,3 +778,16 @@ The objective of this failure condition is to avoid the use ASCII art when a tex
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F72)
 
 </details>
+
+<details>
+  <summary>What is a failure of Success Criterion 1.4.1 due to creating links that are not visually evident without color vision?</summary>
+
+The objective of this failure condition is to avoid in which people who cannot perceive color differences cannot identify links. Link underlines or some other non-color visual distinction are required.
+
+**Procedure:**
+
+1. Check that each link in the page that is identifiable by color (hue) is visually identifiable via some other means (e.g., underlined, bolded, italicized, sufficient difference in lightness, etc).
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F73)
+
+</details>
