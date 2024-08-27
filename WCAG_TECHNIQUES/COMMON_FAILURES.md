@@ -716,3 +716,23 @@ The objective of this technique is to describe the failure that occurs when the 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F67)
 
 </details>
+
+<details>
+  <summary>What is a failure of Success Criterion 4.1.2 due to a user interface control not having a programmatically determined name?</summary>
+
+This failure describes a problem that occurs when a form control does not have a name exposed to assistive technologies. The result is that some users will not be able to identify the purpose of the form control. The name can be provided in multiple ways, including the label element. Other options include use of the title attribute and aria-label which are used to directly provide text that is used for the accessibility name or aria-labelledby which indicates an association with but in certain situations may require use of label, title aria-label, or aria-labelledby.
+
+**Procedure:**
+
+Check that each element has a programmatically determined name using one of the following ways:
+
+1. the text label or labels are programmatically associated with the control element via the aria-labelledby attribute.
+2. the control is programmatically determined through the value of its aria-label attribute.
+3. the text label is contained in a label element that is correctly associated to the respective input element via the label's for attribute.
+4. the control is contained within a label element that also contains the label text.
+5. the contrlo is an input of type image and the alt attribute provides a text label.
+6. the control is programmatically determined through the value of title attribute.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F67)
+
+</details>
