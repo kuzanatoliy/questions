@@ -764,3 +764,17 @@ The objective of this failure condition is to avoid substituting characters whos
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F71)
 
 </details>
+
+<details>
+  <summary>What is a failure of Success Criterion 1.1.1 due to using ASCII art without providing a text alternative?</summary>
+
+The objective of this failure condition is to avoid the use ASCII art when a text alternative is not provided. Although ASCII art is implemented as a character string, its meaning comes from the pattern of glyphs formed by a visual presentation of that string, not from the text itself. Therefore ASCII art is non-text content and requires a text alternative. Text alternatives, or links to them, should be placed near the ASCII art in order to be associated with it.
+
+**Procedure:**
+
+1. Access a page with ASCII art.
+2. For each instance of ASCII art, check that it has a text alternative.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F72)
+
+</details>
