@@ -847,3 +847,18 @@ Whether a user interface component has focus is a particularly importatn facet o
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F79)
 
 </details>
+
+<details>
+  <summary>What is a failure of Success Criterion 1.4.4 when text-based form controls do not resize when visually rendered text is resized up to 200%?</summary>
+
+The objective of this failure condition is to describe a problem that occurs when changing the size of text does not cause the text-based form controls to resize accordingly. This means that the user may have difficulty entering text and being able to read what they have entered because the text is not displayed at the text size required by the user.
+
+**Procedure:**
+
+1. Enter some text into text-based form contorls that receive user entered text.
+2. Increase the text size of the content by 200%.
+3. Check that the text in text based form controls has increased by 200%.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/80)
+
+</details>
