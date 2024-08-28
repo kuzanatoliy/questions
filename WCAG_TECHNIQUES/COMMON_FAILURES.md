@@ -805,3 +805,17 @@ The objective of this failure is to avoid situations in which synchromized media
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F74)
 
 </details>
+
+<details>
+  <summary>What is a failure of Success Criterion 1.2.2 by providing synchromized media without captions when the synchronized media present more information than is presented on the page?</summary>
+
+The objective of this failure is to avoid situations in which synchromized media alternatives provide more information than the text for which they are alternatives, but do not provide their own text alternatives to provide access to the extra information.
+
+**Procedure:**
+
+1. Check for captions on synchronized media alternatives.
+2. Check that the synchronized media alternative does not provide more information than is presented on the page in text.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F75)
+
+</details>
