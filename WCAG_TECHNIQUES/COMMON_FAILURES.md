@@ -833,3 +833,17 @@ It describes a failure condition that occurs when the user agent's default visua
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F78)
 
 </details>
+
+<details>
+  <summary>What is a failure of Success Criterion 4.1.2 due to the focus state of a user interface component not being programmatically determinable or no notification of change of focus state available?</summary>
+
+Whether a user interface component has focus is a particularly importatn facet of tis state. Many types of assistive technology rely on tracking the current keyboard focus. Screen readers will more the user's poing of regard to the focused user interface component, and screen magnifiers will change the display of the content so that the focused component is visible. If assistive technology is not notified when focus moves to a new component, the user will become confused when they attempt to interact with the wrong component.
+
+**Procedure:**
+
+1. Using the accessibility checker for the technology, check the controls to see if they expose the focus state through the accessibility API.
+2. Using the accessibility checker for the technology, check whether assistive technology is notified when focus moves from one control to another.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F79)
+
+</details>
