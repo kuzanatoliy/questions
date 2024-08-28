@@ -819,3 +819,17 @@ The objective of this failure is to avoid situations in which synchromized media
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F75)
 
 </details>
+
+<details>
+  <summary>What is a failure of Success Criterion 1.4.11, 2.4.7 and 2.4.13 due to styling element outlines and borders in a way that removes or renders non-visible the visual focus indicator?</summary>
+
+It describes a failure condition that occurs when the user agent's default visual indication of keyboard focus is turned off or rendered non-visible by other styling on the page without providing an author-supplied visual focus indicator. Turning off the focus indicator instructs the user agent not to present the focus indicator. Other styling may make it difficult to see the focus indicator even though it si present, such as outlines that look the same as the focus outline, or thick borders that are the same color as the focus indicator so it cannot be seen ageainst them.
+
+**Procedure:**
+
+1. Set the focus to all focusable elements on a page using the keyboard.
+2. Check that the focus indicator is visible.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F78)
+
+</details>
