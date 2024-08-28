@@ -791,3 +791,17 @@ The objective of this failure condition is to avoid in which people who cannot p
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F73)
 
 </details>
+
+<details>
+  <summary>What is a failure of Success Criterion 1.2.2 and 1.2.8 due to not labeling a synchronized media alternative to text as an alternative?</summary>
+
+The objective of this failure is to avoid situations in which synchromized media alternatives are not labeled with the text for which they are alternatives. Synchronized media alternatives provide enhanced access to users for whom synchromized media is a more effective format than text. Since they are alternatives to text, they do not need themselves to have redundant text alternatives. However, they need to be clearly labeled with the text for which they substitute, so users can find them and so users who normally expect text alternatives to synchronized media know not to look for them.
+
+**Procedure:**
+
+1. Check pages that provide synchromized media alternatives to text.
+2. Check that synchromized media is clearly labeled with the text for which it is an alternative.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F74)
+
+</details>
