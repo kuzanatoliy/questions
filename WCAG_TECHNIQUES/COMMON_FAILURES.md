@@ -875,3 +875,17 @@ This objective of this technique is to describe the failure that occurs when a r
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/81)
 
 </details>
+
+<details>
+  <summary>What is a failure of Success Criterion 3.3.2 by visually formatting a set of phone number fields but not including a text label?</summary>
+
+This failure ensures that people with visual or congnitive disabilities will recognize phone number fields and underatand what information to provide to fill in the fields. Phone numbers are frequently formatted in fixed, distinctive ways, and authors may fell that just providing visual formatting of the fields will be sufficient to identify them. HOwever, even if all the fields have programmatically determined names, a text label myst also identify the set of fields as a phone number.
+
+**Procedure:**
+
+1. For each set of phone number fields in the web page that represents a single phone number, check that the set of fields are labeled with a visible text label that is positioned near the set of phone number fields.
+2. For each set of phone number fields in the web page that represent a single phone number, instructions are provided about how to fill in the fields.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/82)
+
+</details>
