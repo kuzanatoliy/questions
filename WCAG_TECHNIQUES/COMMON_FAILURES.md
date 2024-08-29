@@ -862,3 +862,16 @@ The objective of this failure condition is to describe a problem that occurs whe
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/80)
 
 </details>
+
+<details>
+  <summary>What is a failure of Success Criterion 1.4.1 due to identifying required or error fields using color differences only?</summary>
+
+This objective of this technique is to describe the failure that occurs when a required field or an error field is marked with color differences only, without an alternate way to identify the required field or error field. This can cause problems for people who are blind or colorblind, because they may not be able to perceive the color differences that indicate which field is required or which fields is causing an error.
+
+**Procedure:**
+
+1. Check that an non-color way to identify the required field or error field is provided.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/81)
+
+</details>
