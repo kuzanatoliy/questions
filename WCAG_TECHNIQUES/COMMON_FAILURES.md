@@ -889,3 +889,17 @@ This failure ensures that people with visual or congnitive disabilities will rec
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/82)
 
 </details>
+
+<details>
+  <summary>What is a failure of Success Criterion 1.4.3 and 1.4.6 due to using backround images that do not provide sufficient contrast with foreground text?</summary>
+
+This failure occurs when people with low vision are not able to read text that is displayed over a background image. When there is not sufficient contrast between the background image and the text, features of the background image can be confused with the text making it difficult to accurately read the text.
+
+**Procedure:**
+
+1. Quickcheck: First do a quick check to see if the contrast between the text and the area of the image that is darkest or lightest meets or exceeds that required by the Success Criterion. If the contrast meets or exceeds the specified contrast, then there is not failure.
+2. If the Quickcheck is false, then check to see if the background behind each letter has sufficient contrast with the letter.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/83)
+
+</details>
