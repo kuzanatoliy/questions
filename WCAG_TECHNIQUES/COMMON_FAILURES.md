@@ -939,3 +939,14 @@ This describes the failure condition that results when a Web page opens a dialog
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/85)
 
 </details>
+
+<details>
+  <summary>What is a failure of Success Criterion 4.1.2 due to not providing names for each part of a multi-part form field, such as a US telephone number?</summary>
+
+This describes the failure condition of Success Criterion 4.1.2 where some or all of the parts of multi-part form field do not have names. Ofthen there is a label for the multi part field, which is either programmatically associated with the first part, or not programmatically associated with any parts.
+
+**Procedure:**
+
+1. Check that there is a programmatically determined name for the field.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/86)
