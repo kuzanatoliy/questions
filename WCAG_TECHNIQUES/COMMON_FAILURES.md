@@ -903,3 +903,18 @@ This failure occurs when people with low vision are not able to read text that i
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/83)
 
 </details>
+
+<details>
+  <summary>What is a failure of Success Criterion 2.4.9 due to using a non-specific link such as "click here" or "more" without a mechanism to change the link text to specific text?</summary>
+
+This failure describes a common condition where links such as "click here" or "more" are used as anchor elements where you need to have the surrounding text to understand their purpose and where there isn't any mechanism to make the destination clear by itself, such as a button to expand thelink text.
+
+**Procedure:**
+
+1. Examine each link on the page.
+2. check to see if it has nondescript link text such as "click here" or "more" whose purpose can be determined from the surrounding text but not from the link text alone.
+3. Check to see if there is a mechanism on the page which turns all nondescript links on the page into descriptive links.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/84)
+
+</details>
