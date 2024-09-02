@@ -918,3 +918,24 @@ This failure describes a common condition where links such as "click here" or "m
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/84)
 
 </details>
+
+<details>
+  <summary>What is a failure of Success Criterion 2.4.3 due to using dialogs or menus that are not adjacent to their trigger control in the sequential mavigation order?</summary>
+
+This describes the failure condition that results when a Web page opens a dialog or menu interface component embedded on the page in a way that makes it difficult for a keyboard user to operate because of its position in the sequential navigation order. When the user opens the dialog or menu embedded on the page by activating a button or link, their next action will be to interact with the dialog or menu. If focus is not set to the dialog or menu, and it is not adjacent to the trigger control in the sequential navigation order, it will be difficult for the keyboard user to operate the dialog or menu.
+
+**Procedure:**
+
+1. Activate the trigger control via the keyboard.
+
+- Check whether focus is in the menu or dialog.
+- CHeck whether advancing the focus in the sequential navigation order puts focus in the menu or dialog.
+
+2. Dissmiss the menu or dialog.
+
+- Check whether focus is on the trigger control.
+- Check whether advancing the focus backwards in the sequential navigation order puts focus in the trigger control.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/85)
+
+</details>
