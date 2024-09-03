@@ -950,3 +950,15 @@ This describes the failure condition of Success Criterion 4.1.2 where some or al
 1. Check that there is a programmatically determined name for the field.
 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F86)
+
+<details>
+  <summary>What is a failure of Success Criterion 1.4.8 due to using text that is justified?</summary>
+
+Many people with cognitive disabilities have a great deal of trouble with blocks of text that are justified. The spaces between words create "rivers of white" running down the page, which can make the text difficult for some people to read. This failure describes situations where this confusing text layout occurs. The best way to avoid this problem is not to create text layout that is fully justified.
+
+**Procedure:**
+
+1. Open the page in a common browser.
+2. Verify that content is not justified.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F88)
