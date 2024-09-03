@@ -975,3 +975,16 @@ This failure condition occurs when a link contains only non-text content, such a
 3. Check that the link does not have an accessible name provided in another way such as aria-label or aria-labelledby.
 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F89)
+
+<details>
+  <summary>What is a failure of Success Criterion 1.3.1 for incorrectly associating table headers and content via the headers and id attributes?</summary>
+
+One way for authors to explicitly associate header cells to data cells is by using the id and headers attributes. These allow the author to associate multiple header cells to a particular data cell, which can be nesessary when complex data tables with more than one level of heading are used.
+
+The failure occurs when the relationship between data cells and corresponding header cells cannot be programmatically determined correctly because the association of id and headers attributes is faulty. This can happen, for example, when copying code within tables and forgetting to update the code.
+
+**Procedure:**
+
+1. For tables that associate data cells to header cells via the id and headers attributes, check that the programmatic association is correct.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F90)
