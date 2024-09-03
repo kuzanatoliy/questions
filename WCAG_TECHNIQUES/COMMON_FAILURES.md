@@ -859,7 +859,7 @@ The objective of this failure condition is to describe a problem that occurs whe
 2. Increase the text size of the content by 200%.
 3. Check that the text in text based form controls has increased by 200%.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/80)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F80)
 
 </details>
 
@@ -872,7 +872,7 @@ This objective of this technique is to describe the failure that occurs when a r
 
 1. Check that an non-color way to identify the required field or error field is provided.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/81)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F81)
 
 </details>
 
@@ -886,7 +886,7 @@ This failure ensures that people with visual or congnitive disabilities will rec
 1. For each set of phone number fields in the web page that represents a single phone number, check that the set of fields are labeled with a visible text label that is positioned near the set of phone number fields.
 2. For each set of phone number fields in the web page that represent a single phone number, instructions are provided about how to fill in the fields.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/82)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F82)
 
 </details>
 
@@ -900,7 +900,7 @@ This failure occurs when people with low vision are not able to read text that i
 1. Quickcheck: First do a quick check to see if the contrast between the text and the area of the image that is darkest or lightest meets or exceeds that required by the Success Criterion. If the contrast meets or exceeds the specified contrast, then there is not failure.
 2. If the Quickcheck is false, then check to see if the background behind each letter has sufficient contrast with the letter.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/83)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F83)
 
 </details>
 
@@ -915,7 +915,7 @@ This failure describes a common condition where links such as "click here" or "m
 2. check to see if it has nondescript link text such as "click here" or "more" whose purpose can be determined from the surrounding text but not from the link text alone.
 3. Check to see if there is a mechanism on the page which turns all nondescript links on the page into descriptive links.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/84)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F84)
 
 </details>
 
@@ -936,7 +936,7 @@ This describes the failure condition that results when a Web page opens a dialog
 - Check whether focus is on the trigger control.
 - Check whether advancing the focus backwards in the sequential navigation order puts focus in the trigger control.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/85)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F85)
 
 </details>
 
@@ -949,4 +949,4 @@ This describes the failure condition of Success Criterion 4.1.2 where some or al
 
 1. Check that there is a programmatically determined name for the field.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/86)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F86)
