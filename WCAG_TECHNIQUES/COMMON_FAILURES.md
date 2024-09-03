@@ -962,3 +962,16 @@ Many people with cognitive disabilities have a great deal of trouble with blocks
 2. Verify that content is not justified.
 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F88)
+
+<details>
+  <summary>What is a failure of Success Criterion 2.4.4, 2.4.9 and 4.1.2 due to not providing an accessible name for an image which is the only content in a link?</summary>
+
+This failure condition occurs when a link contains only non-text content, such as an image, and that link cannot be identified by an accessible name.
+
+**Procedure:**
+
+1. Check whether the link contains only non-text content.
+2. Check whether the non-text content has been implemented in a way that it can be ignored by assistive technologies such as using role="presentation" or alt="".
+3. Check that the link does not have an accessible name provided in another way such as aria-label or aria-labelledby.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F89)
