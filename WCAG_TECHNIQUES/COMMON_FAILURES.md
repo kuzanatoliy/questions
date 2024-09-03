@@ -988,3 +988,20 @@ The failure occurs when the relationship between data cells and corresponding he
 1. For tables that associate data cells to header cells via the id and headers attributes, check that the programmatic association is correct.
 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F90)
+
+<details>
+  <summary>What is a failure of Success Criterion 1.3.1 for not correctly marking up table headers?</summary>
+
+This failure occurs when data tables do not use header elements or other appropriate table mark-up roles to make the headers programmatically determinable from within table content. Making headers programmatically determinable is especially important when data cells are only intelligible together with header information. When screen reader users navigate through the table content horizontally or vertically, the headers that change can be read out to provide the necesssary context for the information in the data cells.
+
+**Procedure:**
+
+For all data tables, check if table headers can be correctly programmatically determined by use of one of the following mechanisms:
+
+1. headers marked up with table header elements;
+2. scope attributes on th for tables with more than a single row or column of table headers;
+3. headers and data cells associated using headers and id attributes;
+4. headers marked up as td elements with the scope attribute;
+5. headers marked up with ARIA role attributes rowheader or columnheader.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F91)
