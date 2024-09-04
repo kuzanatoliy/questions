@@ -1032,3 +1032,21 @@ This failure occurs when an audio or video element with an audio track contains 
 5. Check if no command or control has been provided to stop or pause the media element.
 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F93)
+
+<details>
+  <summary>What is a failure of Success Criterion 1.4.4 due to incorrect use of viewport units to resize text?</summary>
+
+The objective of this technique is to document the failure of thext to re-scale hwen viewport units are used on text. As these units are relative to the viewport it means they cannot be resized by zooming or adjusting text-size.
+
+**Procedure:**
+
+1. Visit the page to be tested.
+2. Use any of the following methods to resize text when available:
+
+- the zoom feature of the browser,
+- the text-sizing feature of the browser,
+- on-page controls for resizing text.
+
+3. Check that the text resizes by one of the methods above, and can be resized to at least 200% of the default.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F94)
