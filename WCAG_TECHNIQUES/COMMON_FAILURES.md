@@ -1050,3 +1050,15 @@ The objective of this technique is to document the failure of thext to re-scale 
 3. Check that the text resizes by one of the methods above, and can be resized to at least 200% of the default.
 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F94)
+
+<details>
+  <summary>What is a failure of Success Criterion 1.4.13 due to content shown on hover not being hoverable?</summary>
+
+The objective of this failure is to describe a situation where users find it difficult or impossible to move the pointer over additional content that appears on hover. For users of screen magnification software, the new content is often not fully visible in the current magnifed section. In order to perceive it, it is therefore critical for these users to be able to move the pointer away from the trigger and over the additional content, and thereby change the position of the magnified section, without this content disappearing.
+
+**Procedure:**
+
+1. The pointer can be moved over the new content without the additional content disappearing.
+2. The appearance of the additional content is content is controlled by the user agent, not the author.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F95)
