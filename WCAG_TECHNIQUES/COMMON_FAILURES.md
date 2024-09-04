@@ -1005,3 +1005,15 @@ For all data tables, check if table headers can be correctly programmatically de
 5. headers marked up with ARIA role attributes rowheader or columnheader.
 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F91)
+
+<details>
+  <summary>What is a failure of Success Criterion 1.3.1 due to the use of role presentation on content which conveys semantic information?</summary>
+
+This failure occurs when a rolw presentation is applied to an element whose purpose is to convey information or relationships in the content. Elements such as table, can convey information about the content contained in them via their semantic markup. The WAI-ARIA role of presentation on the other hand, is intended to suppress semantic information of content from the accessibility API and prevent user agents from conveying that information to the user. Use of the presentation role or content which should convey semantic information may prevent the user from understanding that content.
+
+**Procedure:**
+
+1. Check if an element which conveys information, structure, or relationships through its semantic markup.
+2. Element has the attribute role="presentation".
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F92)
