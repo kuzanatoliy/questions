@@ -1017,3 +1017,18 @@ This failure occurs when a rolw presentation is applied to an element whose purp
 2. Element has the attribute role="presentation".
 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F92)
+
+<details>
+  <summary>What is a failure of Success Criterion 1.4.2 for absence of a way to pause or stop an HTML5 media element that autoplays?</summary>
+
+This failure occurs when an audio or video element with an audio track contains the autoplay attribute and does not contain the muted attribute, and no controls or commands have been provided to pause or stop the media resource.
+
+**Procedure:**
+
+1. Check if an audio or video element has an active audio track.
+2. Check if the audio or video lasts longer than 3 seconds.
+3. Check if the element has an autoplay attribute.
+4. Check if the element does not have a muted attribute.
+5. Check if no command or control has been provided to stop or pause the media element.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F93)
