@@ -1062,3 +1062,17 @@ The objective of this failure is to describe a situation where users find it dif
 2. The appearance of the additional content is content is controlled by the user agent, not the author.
 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F95)
+
+<details>
+  <summary>What is a failure due to the accessible name not containing the visible label text?</summary>
+
+The objective of this Failure is to describe situations where speech input users cannot reliably spek the name of a control because it differs from the visible label.
+
+**Procedure:**
+
+For all controls with a visible label, check that:
+
+1. The accessbile name is the same as the visible label.
+2. The accessible name contains a match for the string of the visible label.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F96)
