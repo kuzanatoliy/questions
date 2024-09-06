@@ -1076,3 +1076,17 @@ For all controls with a visible label, check that:
 2. The accessible name contains a match for the string of the visible label.
 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F96)
+
+<details>
+  <summary>What is a failure due to locking the orientation to landscape or portrait view?</summary>
+
+The objective of this technique is to describe how restricting the view of content to a single orientation is a failure to allow content to be viewed in myltiple orientations. When content is presented with a restriction to a specific orientation users myst orient their devices to view the content in the orientation that the author imposed. Some users have their devices mounted in a fixed orientation, and if the content cannot be viewed in that orientation it creates problems for the user.
+
+**Procedure:**
+
+1. Open the content in landscape view. Check that the content is oriented for this view.
+2. Open the content in portrait view. Check that the content is oriented for this view.
+3. Check if portrait or landscape view is essential for the viewing and operation of the content.
+4. If there are any controls in the content, user agent, operating system, or device that restrict or allow orientation changes, check that the controls can be set to allow checks #1 and #2 to be true.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F97)
