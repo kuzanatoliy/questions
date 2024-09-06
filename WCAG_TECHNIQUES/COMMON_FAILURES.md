@@ -1090,3 +1090,16 @@ The objective of this technique is to describe how restricting the view of conte
 4. If there are any controls in the content, user agent, operating system, or device that restrict or allow orientation changes, check that the controls can be set to allow checks #1 and #2 to be true.
 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F97)
+
+<details>
+  <summary>What is a failure due to interactions being limited to touch-only on touchscreen devices?</summary>
+
+The objective of this Failure is to describe situations where users on devices that have a touchscreen are unable to use other input modalities available to them.
+
+**Procedure:**
+
+1. Open the content on a device with touchscreen and at least one additional input modality - this includes touch-enabled laptops and touchscreen devices with a paired external keyboard and mouse.
+2. Check that all interactive controls can be operated using not only the touchscreen, but also the additional input mechanisms.
+3. If the presence of the touchscreen caused interactive controls not to be displayed, check that there are alternative controls/ways for users of other additional input mechanisms to operate the content.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F98)
