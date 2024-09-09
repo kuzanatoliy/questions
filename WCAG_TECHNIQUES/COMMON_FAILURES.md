@@ -1103,3 +1103,17 @@ The objective of this Failure is to describe situations where users on devices t
 3. If the presence of the touchscreen caused interactive controls not to be displayed, check that there are alternative controls/ways for users of other additional input mechanisms to operate the content.
 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F98)
+
+<details>
+  <summary>What is a failure of Success Criterion 2.1.4 due to implementing character key shortcuts that cannot be turned off or remapped?</summary>
+
+When keyboard shortcuts using only character keys are implemented, voice commands can inadvertently trigger functionality. Character key shortcuts use a single key such as a letter key, punctuation, number, or symbol characters.
+
+**Procedure:**
+
+1. If loading the page sets focus to an input, click on an empty part of the page to ensure that no inputs are in focus.
+2. Press keys identified by the author as shortcut keys, or if this information is not available, press all printing characters. Do not press non-printing modifier and control keys sucha as Ctrl, Alt, Esc, Arrow keys and (where present) the function keys F1-F12. Also exempt are Space, Enter, Return, Tab, and the Delete key.
+3. Hold the Shift key and press the same keys again.
+4. Check whether a function has been trigger by pressing the keys.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F99)
