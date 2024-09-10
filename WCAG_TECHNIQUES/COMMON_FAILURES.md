@@ -1130,3 +1130,23 @@ This describes the failure condition that results when an author, having detecte
 3. CHeck if portrait or landscape view is essential for the viewing and operation of the content.
 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F100)
+
+<details>
+  <summary>What is a failure of Success Criterion 2.5.2 due to activationg a control on the down-event?</summary>
+
+The objective of this Failure is to describe situations where:
+
+- Controls are set to activate functionality on the down-event of a pointer;
+- No further mechanism to abort or undo is available;
+- The up-event does not reverse the outcome of the activation;
+- It is not essential for the functionality to execute and complete on the down-event.
+
+**Procedure:**
+
+Open the content on a device with pointer inputs (mouse, touchscreen, stylus) and for all available controls (buttons, links complex widgets):
+
+1. Trigger down-events and check if functionality is executed prior to the up event.
+2. If functionality was executed on the down-event, check if triggering the up event reverses the outcome.
+3. Evaluate if it could be deemed essential for the controls to execute and complete functionality on the down-event.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F101)
