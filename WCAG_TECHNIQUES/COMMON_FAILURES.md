@@ -1117,3 +1117,16 @@ When keyboard shortcuts using only character keys are implemented, voice command
 4. Check whether a function has been trigger by pressing the keys.
 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F99)
+
+<details>
+  <summary>What is a failure of Success Criterion 1.3.4 due to showing a message asking to reorient device?</summary>
+
+This describes the failure condition that results when an author, having detected a device orientation that is considered undesirable, displays a message telling the user to reorient the device instead of the author reorienting all the content.
+
+**Procedure:**
+
+1. Open the content in landscape view. Check if a message appears asking to reorient the device.
+2. Open the content in portrait view. Check if a message appears asking to reorient the device.
+3. CHeck if portrait or landscape view is essential for the viewing and operation of the content.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F100)
