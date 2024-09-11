@@ -1163,3 +1163,25 @@ It describes a failure that occurs when a change of the viewport width to 320px 
 3. For each content element that is not provided at the viewport width of 320px, check that there is a way to reach the same or equivalent content via disclosure widgets, pop-ups, or links to other views.
 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F102)
+
+<details>
+  <summary>What is a failure of Success Criterion 4.1.3 due to providing status messages that cannot be programmatically determined through role or properties?</summary>
+
+The objective of this technique is to describe a failure where status messages are used in content but are not communicated to the user due to a lack of appropriate roles or properties.
+
+**Procedure:**
+
+For content that is dynamically added to the page:
+
+1. Check that the element containing the updated content does not take focus.
+2. Check that the new content provides information to the user on one of the following:
+
+- the success or result of an action
+- the waiting state of an application
+- the progress of a process
+- the existence of errors.
+
+3. Check that the element containing the new content does not have a pre-existing aria role of status, alert, log, or progressbar, or an aria-live attribute.
+4. Check that the status message is not surfaced by assistive technology.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F103)
