@@ -1150,3 +1150,16 @@ Open the content on a device with pointer inputs (mouse, touchscreen, stylus) an
 3. Evaluate if it could be deemed essential for the controls to execute and complete functionality on the down-event.
 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F101)
+
+<details>
+  <summary>What is a failure of Success Criterion 1.4.10 due to content disappearing and not being available when content has reflowed?</summary>
+
+It describes a failure that occurs when a change of the viewport width to 320px makes content disappear that was available at wider viewport widths. Some content available at wider widths may not be shown in the same way or at the same position at the viewport width of 320px, simply because there is less space to display it. This content, however should still be available after reflow to 320px viewport width, either by being repositioned in a single column view, or through some interaction offering the information in some other way, for example, in a disclosure area, a dialog, or via a link to another view.
+
+**Procedure:**
+
+1. Check visible content elements at a desctop viewport width such as 1280px.
+2. Set the viewport width to 320px by narrowing the browser window, or by zooming in so that the viewport width is now 320px.
+3. For each content element that is not provided at the viewport width of 320px, check that there is a way to reach the same or equivalent content via disclosure widgets, pop-ups, or links to other views.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F102)
