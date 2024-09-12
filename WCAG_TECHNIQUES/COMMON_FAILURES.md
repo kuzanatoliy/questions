@@ -951,6 +951,8 @@ This describes the failure condition of Success Criterion 4.1.2 where some or al
 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F86)
 
+</details>
+
 <details>
   <summary>What is a failure of Success Criterion 1.4.8 due to using text that is justified?</summary>
 
@@ -962,6 +964,8 @@ Many people with cognitive disabilities have a great deal of trouble with blocks
 2. Verify that content is not justified.
 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F88)
+
+</details>
 
 <details>
   <summary>What is a failure of Success Criterion 2.4.4, 2.4.9 and 4.1.2 due to not providing an accessible name for an image which is the only content in a link?</summary>
@@ -976,6 +980,8 @@ This failure condition occurs when a link contains only non-text content, such a
 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F89)
 
+</details>
+
 <details>
   <summary>What is a failure of Success Criterion 1.3.1 for incorrectly associating table headers and content via the headers and id attributes?</summary>
 
@@ -988,6 +994,8 @@ The failure occurs when the relationship between data cells and corresponding he
 1. For tables that associate data cells to header cells via the id and headers attributes, check that the programmatic association is correct.
 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F90)
+
+</details>
 
 <details>
   <summary>What is a failure of Success Criterion 1.3.1 for not correctly marking up table headers?</summary>
@@ -1006,6 +1014,8 @@ For all data tables, check if table headers can be correctly programmatically de
 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F91)
 
+</details>
+
 <details>
   <summary>What is a failure of Success Criterion 1.3.1 due to the use of role presentation on content which conveys semantic information?</summary>
 
@@ -1017,6 +1027,8 @@ This failure occurs when a rolw presentation is applied to an element whose purp
 2. Element has the attribute role="presentation".
 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F92)
+
+</details>
 
 <details>
   <summary>What is a failure of Success Criterion 1.4.2 for absence of a way to pause or stop an HTML5 media element that autoplays?</summary>
@@ -1032,6 +1044,8 @@ This failure occurs when an audio or video element with an audio track contains 
 5. Check if no command or control has been provided to stop or pause the media element.
 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F93)
+
+</details>
 
 <details>
   <summary>What is a failure of Success Criterion 1.4.4 due to incorrect use of viewport units to resize text?</summary>
@@ -1051,6 +1065,8 @@ The objective of this technique is to document the failure of thext to re-scale 
 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F94)
 
+</details>
+
 <details>
   <summary>What is a failure of Success Criterion 1.4.13 due to content shown on hover not being hoverable?</summary>
 
@@ -1062,6 +1078,8 @@ The objective of this failure is to describe a situation where users find it dif
 2. The appearance of the additional content is content is controlled by the user agent, not the author.
 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F95)
+
+</details>
 
 <details>
   <summary>What is a failure due to the accessible name not containing the visible label text?</summary>
@@ -1077,6 +1095,8 @@ For all controls with a visible label, check that:
 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F96)
 
+</details>
+
 <details>
   <summary>What is a failure due to locking the orientation to landscape or portrait view?</summary>
 
@@ -1091,6 +1111,8 @@ The objective of this technique is to describe how restricting the view of conte
 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F97)
 
+</details>
+
 <details>
   <summary>What is a failure due to interactions being limited to touch-only on touchscreen devices?</summary>
 
@@ -1103,6 +1125,8 @@ The objective of this Failure is to describe situations where users on devices t
 3. If the presence of the touchscreen caused interactive controls not to be displayed, check that there are alternative controls/ways for users of other additional input mechanisms to operate the content.
 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F98)
+
+</details>
 
 <details>
   <summary>What is a failure of Success Criterion 2.1.4 due to implementing character key shortcuts that cannot be turned off or remapped?</summary>
@@ -1118,6 +1142,8 @@ When keyboard shortcuts using only character keys are implemented, voice command
 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F99)
 
+</details>
+
 <details>
   <summary>What is a failure of Success Criterion 1.3.4 due to showing a message asking to reorient device?</summary>
 
@@ -1130,6 +1156,8 @@ This describes the failure condition that results when an author, having detecte
 3. CHeck if portrait or landscape view is essential for the viewing and operation of the content.
 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F100)
+
+</details>
 
 <details>
   <summary>What is a failure of Success Criterion 2.5.2 due to activationg a control on the down-event?</summary>
@@ -1151,6 +1179,8 @@ Open the content on a device with pointer inputs (mouse, touchscreen, stylus) an
 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F101)
 
+</details>
+
 <details>
   <summary>What is a failure of Success Criterion 1.4.10 due to content disappearing and not being available when content has reflowed?</summary>
 
@@ -1163,6 +1193,8 @@ It describes a failure that occurs when a change of the viewport width to 320px 
 3. For each content element that is not provided at the viewport width of 320px, check that there is a way to reach the same or equivalent content via disclosure widgets, pop-ups, or links to other views.
 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F102)
+
+</details>
 
 <details>
   <summary>What is a failure of Success Criterion 4.1.3 due to providing status messages that cannot be programmatically determined through role or properties?</summary>
@@ -1185,3 +1217,5 @@ For content that is dynamically added to the page:
 4. Check that the status message is not surfaced by assistive technology.
 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F103)
+
+</details>
