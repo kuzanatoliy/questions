@@ -1219,3 +1219,24 @@ For content that is dynamically added to the page:
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F103)
 
 </details>
+
+<details>
+  <summary>What is a failure of Success Criterion 1.4.12 due to clipped or overlapped content when text spacing is adjusted?</summary>
+
+The purpose of this technique is to identify and test a failure condition where part of the content clips and is unreadable when the user overrides the spacing of the text within the boundaries set out in the Text Spacing success criterion. In general, this failure occurs when text is presented in a size-constrained block which does not expand if the size of the content increases.
+
+**Procedure:**
+
+1. Open the page and review the available content.
+2. Override the CSS on the page using a user stylesheet, bookmarklet, extension, or application with the values listed in the success criterion:
+
+- Line height to at lest 1.5 times the font size;
+- Spacing following paragraphs to at least 2 times the font size;
+- Letter spacing to at least 0.12 times the font size;
+- Word spacing to 0.16 times the font size.
+
+3. Check if any content is clipped, obscured, or lost due to the new text spacing.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F104)
+
+</details>
