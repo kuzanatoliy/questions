@@ -1240,3 +1240,16 @@ The purpose of this technique is to identify and test a failure condition where 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F104)
 
 </details>
+
+<details>
+  <summary>What is a failure of Success Criterion 2.5.1 due to providing functionality via a path-based gesture without simple pointer alternative?</summary>
+
+The objective of this Failure is to describe situations where authors have implemented a function that is operated via a path-based gesture, and no alternative ways of operating this function via simple pointer gestures exist.
+
+**Procedure:**
+
+1. Check that controls are available through which the same function can be carried out via simple taps or clicks.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F105)
+
+</details>
