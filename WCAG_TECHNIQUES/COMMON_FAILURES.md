@@ -1267,3 +1267,17 @@ This describes the failure condition that results when motion actuation can not 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F106)
 
 </details>
+
+<details>
+  <summary>What is a failure of Success Criterion 1.3.5 due to incorrect autocomplete attribute values?</summary>
+
+The purpose of this technique is to identify a failure condition where form inputs do not have the correct autocomplete attribute values for inputs that request information about the user of the form.
+
+**Procedure:**
+
+1. Check that the form field has an autocomplete attribute and value pair that does not match the purpose of the input.
+2. Check that the input purpose is not communicated programmatically through any other method.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F107)
+
+</details>
