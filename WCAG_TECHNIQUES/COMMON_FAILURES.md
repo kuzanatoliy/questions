@@ -1253,3 +1253,17 @@ The objective of this Failure is to describe situations where authors have imple
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F105)
 
 </details>
+
+<details>
+  <summary>What is a failure due to inability to deactivate notion actuation?</summary>
+
+This describes the failure condition that results when motion actuation can not be deactivated. People who may accidentally activate sensors due to tremors or other motor impairments need the ability to turn off motion acuation to prevent such accidental triggering of functions.
+
+**Procedure:**
+
+1. Check if the use of a motion sensor is essential or required to make the function accessibility supported.
+2. Check if there is a user setting which disables the motion detection.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F106)
+
+</details>
