@@ -1281,3 +1281,17 @@ The purpose of this technique is to identify a failure condition where form inpu
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F107)
 
 </details>
+
+<details>
+  <summary>What is a failure of Success Criterion 2.5.7 Dragging Movements due to not providing a single pointer method for the user to operate a function that does not require a dragging movement?</summary>
+
+The objective of this failure is to avoid situations in which people with motor impairmetns who cannot operate content because the only way to actuate a fucntion is by dragging a target element from its initial position to some other position. The failure occurs when there is no alternative single pointer input available to actuate the function. The alternative may involve a series of single pointer interactions.
+
+**Procedure:**
+
+1. Check the interface for the presence of functions triggered by dragging movements.
+2. Check that there is a single pointer input alternative ot operate the same function.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F108)
+
+</details>
