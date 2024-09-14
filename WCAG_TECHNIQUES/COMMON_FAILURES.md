@@ -1295,3 +1295,17 @@ The objective of this failure is to avoid situations in which people with motor 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F108)
 
 </details>
+
+<details>
+  <summary>What is a failure of Success Criterion 3.3.8 and 3.3.9 due to preventing password or code re-entry in the same format?</summary>
+
+Requiring users to authenticate by entering a password or code in a different format from which it was originally created is a failure to meet Success Criteria 3.3.8 and 3.3.9. The string to be entered could include a password, verification code, or any string of characters the user has to remember or record to authenticate.
+
+**Procedure:**
+
+1. Check if the structure of the input field(s) prevents the user from pasting or auto-filling the entire password or code in the format in which it was originally created.
+2. Confirm that no other acceptable authentication methods are present that satisfy Success Criteria 3.3.8 and 3.3.9.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F109)
+
+</details>
