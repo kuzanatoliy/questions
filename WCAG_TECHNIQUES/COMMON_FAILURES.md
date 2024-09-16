@@ -1309,3 +1309,16 @@ Requiring users to authenticate by entering a password or code in a different fo
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F109)
 
 </details>
+
+<details>
+  <summary>What is a failure of Success Criterion 2.4.11 Focus Not Obscured due to a sticky footer or header completely hiding focused elements?</summary>
+
+The objective of this failure is to avoid situations in which people using a keyboard interface cannot see where the indicator is due to other authored content.
+
+**Procedure:**
+
+1. Check whether the focused element is completely obscured by other content.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F110)
+
+</details>
