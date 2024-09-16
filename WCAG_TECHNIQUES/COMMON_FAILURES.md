@@ -1322,3 +1322,18 @@ The objective of this failure is to avoid situations in which people using a key
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F110)
 
 </details>
+
+<details>
+  <summary>What is a failure of Success Criteria 1.3.1, 2.5.3, and 4.1.2 due to a control with visible label text but no accessible name?</summary>
+
+The objective of this failure is to describe situations where speech input users cannot reliably speak the name of a control because although it has a visible label, it lacks an accessible name.
+
+**Procedure:**
+
+1. The control has a visible text label.
+2. The control has an accessible name.
+3. The accessible name contains the text that appears as the visible label.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/failures/F111)
+
+</details>
