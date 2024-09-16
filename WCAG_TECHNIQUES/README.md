@@ -7,3 +7,5 @@
 [CSS techniques](CSS_TECHNIQUES.md)
 
 [Common failures](COMMON_FAILURES.md)
+
+[General techniques](GENERAL_TECHNIQUES.md)
