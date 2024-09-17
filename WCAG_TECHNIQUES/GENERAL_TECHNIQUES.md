@@ -45,3 +45,19 @@ The objective of this technique is to provide users with all the time they need 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G5)
 
 </details>
+
+<details>
+  <summary>What abjective of providing a movie with extended audio descriptions?</summary>
+
+The objective of this technique is to provide a second version of video content that provides extended audion descriptions. One of the difficult things about creating traditional audio descriptions is that the narrotor somethimes has to provide a lot of information during very short pauses in dialogue. Extended audion description temporatily pauses the audion and video to allow critical information to be delivered when pauses in dialogue are insufficient for adequeate description.
+
+**Procedure:**
+
+1. Open the version of the movie that includes extended audio descriptions.
+2. Check that the video halts for extended audio description when there is not enough space to include necessary narration between the natural dialogue.
+3. Check that the necessary information is in the audio description.
+4. If the alternate version(s) are on a separate page, check for the availability of link(s) to allow the user to get to the other versions.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G8)
+
+</details>
