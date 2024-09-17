@@ -32,3 +32,16 @@ The objective of this technique is to provide a way to pause movement or scrolli
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G4)
 
 </details>
+
+<details>
+  <summary>What abjective of allowing users to complete an activity without any time limit?</summary>
+
+The objective of this technique is to provide users with all the time they need to complete an activity. This technique involves providing a speciafied activity which does not require timed interaction. Users are allowed as much time as they need to interact with the activity.
+
+**Procedure:**
+
+1. Determine if any timed interactions are present.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G5)
+
+</details>
