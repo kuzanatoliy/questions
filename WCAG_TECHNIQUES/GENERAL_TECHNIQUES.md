@@ -92,3 +92,17 @@ The objective of this technique is to allow assistive technology to understand W
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G10)
 
 </details>
+
+<details>
+  <summary>What abjective of creating content that blinks for less than 5 seconds?</summary>
+
+The objective of this technique is to minimize the distraction cuased by blinking content and enable users to re-focus on the other content on the page.
+
+**Procedure:**
+
+1. Find all items that blink.
+2. For each item that blinks, determine if the interval between the start and end of the blinking is less than five seconds.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G11)
+
+</details>
