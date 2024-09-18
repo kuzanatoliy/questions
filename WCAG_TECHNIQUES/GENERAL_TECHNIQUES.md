@@ -106,3 +106,17 @@ The objective of this technique is to minimize the distraction cuased by blinkin
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G11)
 
 </details>
+
+<details>
+  <summary>What abjective of describing what will happen before a change to a form control that causes a change of context to occur is made?</summary>
+
+The objective of this technique is to provide infromtation to users about what will happen when a chage to a form control results in a change of context. Because changing the value of a form control does not typically result in a change of context it is important that authors provide instructions that make the user aware of the behavior in advance. where possible, it is a good idea to programmatically assocate the instructions describing the change with the form control itself.
+
+**Procedure:**
+
+1. Locate content where changing the setting of a form contrl results in a change of context.
+2. Check to see that an explanation of what will happen when the control is changed is available prior to the controls activation.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G13)
+
+</details>
