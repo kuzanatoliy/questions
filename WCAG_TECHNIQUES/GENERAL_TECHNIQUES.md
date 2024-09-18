@@ -133,3 +133,16 @@ The objective of this technique is to ensure that when color differences are use
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G14)
 
 </details>
+
+<details>
+  <summary>What abjective of using a tool to ensure that content does not violate the general flash threshold or red flash threshold?</summary>
+
+The purpose of testing for violations of the general and red flash thresholds is to allow people who have photosensitive seizures to viwe Web sites without encountering material that is likely to cause a seizure. Warnings can be provided but people may miss them and children may not be able to read or understand them. With this technique all material is checked and if it violates flash or red flash thresholds it is either not put on the site or it is modified so that it does not violate the thresholds.
+
+**Procedure:**
+
+1. Check to see that content does not violate the general flash and/or red flash threshold use a toll to detmine that neither the General Flash nor Red Flash threshold were exceeded.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G15)
+
+</details>
