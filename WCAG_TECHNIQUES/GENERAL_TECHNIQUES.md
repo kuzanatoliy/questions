@@ -120,3 +120,16 @@ The objective of this technique is to provide infromtation to users about what w
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G13)
 
 </details>
+
+<details>
+  <summary>What abjective of ensuring that information conveyed by color differences is also available in text?</summary>
+
+The objective of this technique is to ensure that when color differences are used to convey information, such as required form fields, the information conveyed by the color differences are also conveyed explicitly in text.
+
+**Procedure:**
+
+1. Check taht the information conveyed is also available in thext and that the text is not conditional content.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G14)
+
+</details>
