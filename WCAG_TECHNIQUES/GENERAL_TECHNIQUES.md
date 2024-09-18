@@ -61,3 +61,16 @@ The objective of this technique is to provide a second version of video content 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G8)
 
 </details>
+
+<details>
+  <summary>What abjective of creating captions for live synchronized media?</summary>
+
+The objective of this technique is to allow users who cannot hear to be able to access real-time synchronized media broadcasts. It is more difficult to create accurate real-time captions because there is little time to correct mistakes or to listen a second time or consult someone to be sure the words are accurately reproduced. It is also harder to simplify or paraphrase information if is flowing too quickly.
+
+**Procedure:**
+
+1. Check that a procedure and policy are in place to ensure that captions are delivered in real-time.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G9)
+
+</details>
