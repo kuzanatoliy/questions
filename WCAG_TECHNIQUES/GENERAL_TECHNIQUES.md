@@ -74,3 +74,21 @@ The objective of this technique is to allow users who cannot hear to be able to 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G9)
 
 </details>
+
+<details>
+  <summary>What abjective of creating components using a technology that supports the accessibility API features of the platforms on which the user agents will be run to expose the names and roles, allow user-settable properties to be directly set, and provide notification of changes?</summary>
+
+The objective of this technique is to allow assistive technology to understand Web content so that it can convey equivalent information to the user through an alternate user interface.
+
+**Procedure:**
+
+1. Render content using an accessible User Agent.
+2. Use an Accessibility Tool designed for the Accessibility API of the User agent to evaluate each user interface component.
+3. Check that name and role for each user interface component is found by the tool.
+4. Change the values on the component.
+5. Check that the Accessibility tool is alerted.
+6. Check that the component works with assistive technologies.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G10)
+
+</details>
