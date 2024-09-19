@@ -186,3 +186,17 @@ The obective of this technique is to make sure that users can read text that is 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G18)
 
 </details>
+
+<details>
+  <summary>What abjective of ensuring that no component of the content flashes more than three times in any 1-second period?</summary>
+
+The obective of this technique is to avoid flashing at rates that are known to cause seizures if the flashes are bright and large enough. Since some users may be using screen enlargers, this technique limits the flashing of any size content to no more than three flashes in any 1-second period.
+
+**Procedure:**
+
+1. Check that there are no more than three flashes during any 1-second period.
+2. If there are three flashes, check that the Light/Dark status at the end of the 1-second period is the same as at the start.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G19)
+
+</details>
