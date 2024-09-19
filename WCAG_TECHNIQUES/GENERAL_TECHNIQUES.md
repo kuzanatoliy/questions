@@ -166,3 +166,23 @@ The obective of this technique is to make sure that users can read text that is 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G17)
 
 </details>
+
+<details>
+  <summary>What abjective of ensuring that a contrast ratio of at least 4.5:1 exists between text and background behind the text?</summary>
+
+The obective of this technique is to make sure that users can read text that is presented over a background. For Success Criterion 1.4.3, this technique describes the minimym contrast ration for text that is less than 18(if not blod) point ad less than 14 point(if blod). For Success Criterion 1.4.6, this technique relaxes the 7:1 contrast ratio requirement for text that is at least 18 point (if not blod) or at least 14 point (if blod).
+
+**Procedure:**
+
+1. Measure the relative luminance of each letter using the formula: L = 0.2126 _ R + 0.7152 _ G + 0.0722 \* B.
+2. Measure the relative luminance of the background pixels immediately next to the letter using same formula.
+3. Calculate the contrast ratio using the following formula: (L1 + 0.05) / (L2 + 0.05), where:
+
+- L1 is the relative luminance of the lighter of the foreground or background colors;
+- L2 is the relative luminance of the darker of the foreground or background colors.
+
+4. Check that the contrast ratio is equal to or greater than 4.5:1.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G18)
+
+</details>
