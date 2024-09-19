@@ -146,3 +146,23 @@ The purpose of testing for violations of the general and red flash thresholds is
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G15)
 
 </details>
+
+<details>
+  <summary>What abjective of ensuring that a contrast ratio of at least 7:1 exists between text and background behind the text?</summary>
+
+The obective of this technique is to make sure that users can read text that is presented over a background. This technique goes beyond the 4.5:1 contrast technique to provide a higher level of contrast to make it easier for people with low vision to read.
+
+**Procedure:**
+
+1. Measure the relative luminance of each letter using the formula: L = 0.2126 _ R + 0.7152 _ G + 0.0722 \* B.
+2. Measure the relative luminance of the background pixels immediately next to the letter using same formula.
+3. Calculate the contrast ratio using the following formula: (L1 + 0.05) / (L2 + 0.05), where:
+
+- L1 is the relative luminance of the lighter of the foreground or background colors;
+- L2 is the relative luminance of the darker of the foreground or background colors.
+
+4. Check that the contrast ratio is equal to or greater than 7:1.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G17)
+
+</details>
