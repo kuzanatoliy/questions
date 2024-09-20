@@ -258,3 +258,20 @@ The obective of this technique is to make the definition of a word, phrase, or a
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G55)
 
 </details>
+
+<details>
+  <summary>What abjective of mixing audio files so that non-speech sounds are at least 20 decibels lower than the speech audio content?</summary>
+
+The obective of this technique is to allow authors to include sound behind speech without making it too hard for people with hearing problems to understand the speech. Making sure that the foreground speech is 20 db louder than the background sound makes the speech 4 times louder than the background audio. For information on Decibels.
+
+**Procedure:**
+
+1. Locate loud values of background content between foreground speech.
+2. Measure the volume in dB SPL.
+3. Measure the volume of the foreground speech in dB SPL.
+4. Subtract the values.
+5. Check that the result is 20 or greater.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G56)
+
+</details>
