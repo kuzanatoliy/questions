@@ -200,3 +200,18 @@ The obective of this technique is to avoid flashing at rates that are known to c
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G19)
 
 </details>
+
+<details>
+  <summary>What abjective of ensuring that users are not trapped in content?</summary>
+
+The obective of this technique is to ensure that keyboard users do not become trapped in a subset of the content that can only be exited using a mouse or pointing device. A common example is content rendered by plug-ins. Plug-ins are user agents tat render content inside the user agent host window and respond to all user actions that takes place while the plug-in has the focus. If the plug-in does not provide a keyboard mecahnism to return forcus to the parent window, users who must use the keyboard may become trapped in the plug-in content.
+
+**Procedure:**
+
+1. Tab through content from start to finish.
+2. Check to see that keyboard focus is not trapped in any of the content.
+3. If keyboard focus appears to be trapped in any of the content, check that help information is available expaining how to exit the content and can be accessed via the keyboard.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G21)
+
+</details>
