@@ -244,3 +244,17 @@ The obective of this technique is to allow users who cannot hear or read text ra
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G54)
 
 </details>
+
+<details>
+  <summary>What abjective of linking to definitions?</summary>
+
+The obective of this technique is to make the definition of a word, phrase, or abbreviation available by providing the definition, either within the same Web page or in a different Web page, and establishing a link between the item and its definition.
+
+**Procedure:**
+
+1. Check that at least the first instance of the item is a link.
+2. Check that each link navigates to the definition of the item.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G55)
+
+</details>
