@@ -215,3 +215,17 @@ The obective of this technique is to ensure that keyboard users do not become tr
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G21)
 
 </details>
+
+<details>
+  <summary>What abjective of identifying the purpose of a link using link text combined with the text of the enclosing sentence?</summary>
+
+The obective of this technique is to identify the purpose of a link from the link and its sentence context. The sentence enclosing the link provides context for an otherwise unclear link. The description lets a user distinguish this link from links in the Web page that lead to other destinations and helps the user determine whether to follow the link. Note that simply providing the URI of the destination is generally not sufficiently descriptive.
+
+**Procedure:**
+
+1. Check that the link is part of a sentence.
+2. Check that text of the link combined with the text of its enclosing sentence describes the purpose of the link.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G53)
+
+</details>
