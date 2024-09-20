@@ -229,3 +229,18 @@ The obective of this technique is to identify the purpose of a link from the lin
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G53)
 
 </details>
+
+<details>
+  <summary>What abjective of including a sign language interpreter in the video stream?</summary>
+
+The obective of this technique is to allow users who cannot hear or read text rapidly to be able to access synchronized media material.
+
+**Procedure:**
+
+1. Have someone watch the program who can hear and is familiar with the sign language being used.
+2. Check to see if there is a sign language interpreter on screen.
+3. Check to see that dialogue and important sounds are being conveyed by the interpreter visible on screen.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G54)
+
+</details>
