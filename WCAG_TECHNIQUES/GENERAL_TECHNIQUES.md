@@ -319,3 +319,17 @@ The objective of this technique is to ensure that interactive elements receive f
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G59)
 
 </details>
+
+<details>
+  <summary>What abjective of playing a sound that turns off automatically within three seconds?</summary>
+
+The purpose of this technique is to allow autoris to play a sound on their Web page but avoid the problem of users not being able to use their screen readers due to interference by the content sound. It also allows the author to avoid putting controls on the Web page to control the sound - and the problem faced by users with screen readers in finding the control.
+
+**Procedure:**
+
+1. Load the Web page.
+2. Check that all sound that plays automatically stops in 3 seconds or less.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G60)
+
+</details>
