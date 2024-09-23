@@ -304,3 +304,18 @@ With this technique, a link to the collated document of captions and audio descr
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G58)
 
 </details>
+
+<details>
+  <summary>What abjective of placing the interactive elements in an order that follows sequences and relationships within the content?</summary>
+
+The objective of this technique is to ensure that interactive elements receive focus in an order that follows sequences and relationships in the content. When designing the content, the interactive elements such as links and form controls are placed in the content so that the default tab order follows the sequences and relationships in the content. Each technology defines its defautl tab order, so the mechanism for placing the controls in the content will depend on the technology used.
+
+**Procedure:**
+
+1. Determine the order of interactive elements in the content.
+2. Determine the logical order of interactive elements.
+3. Check tat the order of the interactive elements in the content is the same as the logical order.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G59)
+
+</details>
