@@ -13,3 +13,10 @@
 **Aritifical General Intelligence**, also known as strong AI, can understand, learn, and apply knowledge in a broad range of tasks at the level of a human being. However, it's important to note that such AI, capable of matching human intelligence, has yet to be developed.
 
 </details>
+
+<details>
+  <summary>What is an Artificial Super Intelligence(ASI)?</summary>
+
+Superintelligent AI is a type of AI that surpasses human intelligence across all tasks. While this concept is mainly speculative, and such an AI is yet to be developed, it's often featured in tech discussions and sci-fi literature.
+
+</details>
