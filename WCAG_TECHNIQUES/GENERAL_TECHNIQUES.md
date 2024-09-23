@@ -286,6 +286,21 @@ The obective of this technique is to ensure that the order of content presented 
 1. Linearize content using a standard approach for the technology.
 2. Check to see if the order of content yields the same meaning as the original.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G56)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G57)
+
+</details>
+
+<details>
+  <summary>What abjective of placing a link to the alternative for time-based media immediately next to the non-text content?</summary>
+
+With this technique, a link to the collated document of captions and audio description is provided. The collated document could be at another location on the same Web page or at another URI. A link to the collated document is immediately adjacent to the non-text content. The link can be immediately before or after the synchronized media content. If the collated document is on the same Web page as other content the put "End of document" at the end so that they know when to stop reading and retur nto their previous place. If a Back button will not take the person back to the point from which they jumped, then a link back to the non-text content location is provided.
+
+**Procedure:**
+
+1. Check for the presence of a link immediately before of after the non-text content.
+2. Check that it is a valid link that points directly to the collated document of this particular synchronized media.
+3. Check for the availability of a link or back function to get the user back to the original location of the synchronized media content.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G58)
 
 </details>
