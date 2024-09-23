@@ -275,3 +275,17 @@ The obective of this technique is to allow authors to include sound behind speec
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G56)
 
 </details>
+
+<details>
+  <summary>What abjective of ordering the content in a meaningful sequence?</summary>
+
+The obective of this technique is to ensure that the order of content presented to assistive technologies allows the user to make sense of the content. Some techniques permit the content to be rendered visually in a meaningful sequence even if this is different from the order in which the content is encoded in the underlying source file.
+
+**Procedure:**
+
+1. Linearize content using a standard approach for the technology.
+2. Check to see if the order of content yields the same meaning as the original.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G56)
+
+</details>
