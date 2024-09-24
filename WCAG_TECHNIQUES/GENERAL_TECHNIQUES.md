@@ -348,3 +348,22 @@ The objective of this technique is to make content easiear to use by making the 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G61)
 
 </details>
+
+<details>
+  <summary>What abjective of providing a gloassary?</summary>
+
+The objective of this technique is to make the definition of a word, phrase, or abbreviation available by providign the definition in a glossary. A glossary is an alphabetical list of words, hprases, and abbreviations with their definitions. Glossaries are most appropriate when the words, phrases, and abbreviations used within the content relate to a specific descipline or technology area. A glossary can also provide the pronunciation of a word or phrase.
+
+**Procedure:**
+
+1. Check tat either
+
+- The glossary is included in the Web page, or
+- A mechanisms is available to locate the glossary.
+
+2. Check that each word, phrase or abbreviation to be defined is defined in the glossary.
+3. Check that the glossary contains only one definition for each item.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G62)
+
+</details>
