@@ -387,3 +387,21 @@ The site map serves several purposes.
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G63)
 
 </details>
+
+<details>
+  <summary>What abjective of providing a Table of Contents?</summary>
+
+The table of contents serves two purposes:
+
+- It gives users an overview of the document's contents and organization.
+- It allows readers to go directly to a specific section of an on-line document.
+
+**Procedure:**
+
+1. Check tat a table of contents or a link to a table of contents exists in the document.
+2. Check taht the values and order of the entries in the table of contents correspond to the names and order of the sections of the document.
+3. Check that the entries in the table of contents link to the correct sections of the document.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G64)
+
+</details>
