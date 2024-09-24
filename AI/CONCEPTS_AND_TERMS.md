@@ -34,3 +34,10 @@ AI focuses on giving computers human-like abilities, while ML trains them to do 
 Language modeling is fundamental to LLMs and involves predicting the next word (token) given the context of the preceding words, using mathematical calculations and probability. With its self-attention mechanism, the transformer architecture enables LLMs to effectively learn and generate language by capturing dependencies and patterns within the input data.
 
 </details>
+
+<details>
+  <summary>What is a Natural Language Processing (NLP)?</summary>
+
+Natural language processing is a subfield of AI that focuses on the interaction between computers and humans through natural language. It can combine ML models and techniques with specific language algorithms to decode human language. NLP enables computer systems to understand, iterpret, generate, and manipulate natural language text and speech. At a high level NLP takes human language as an input, processes it, and converts it into the language of numbers that the computer will understand, and vice versa.
+
+</details>
