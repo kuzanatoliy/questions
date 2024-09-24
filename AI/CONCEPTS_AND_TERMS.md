@@ -15,13 +15,6 @@ AI focuses on giving computers human-like abilities, while ML trains them to do 
 </details>
 
 <details>
-  <summary>What is a Generative AI (GenAI)?</summary>
-
-**Generative AI** is a branch of artificial intelligence that utilizes Machine Learning (ML), specifically deep learning techniques implemented through powerful neural networks, to anylyze massive datasets, and identify patterns. NLP helps it underatnd textual data. Byleveraging these patterns, GenAI can then produce entirely new and original content, like realistic images, music, text video, or other creative formats.
-
-</details>
-
-<details>
   <summary>What is a Deep Learning (DL)?</summary>
 
 **Deep Learning** is a subset of ML that users multi-layered artificail neural networks to deliver state-of-the-art accuracy in object detection, speech recognition, and language translation tasks. DL systems process and analyze various data, such as images, sound, and text, in a way similar to the human brain.
@@ -29,9 +22,25 @@ AI focuses on giving computers human-like abilities, while ML trains them to do 
 </details>
 
 <details>
+  <summary>What is a Generative AI (GenAI)?</summary>
+
+**Generative AI** is a branch of artificial intelligence that utilizes Machine Learning (ML), specifically deep learning techniques implemented through powerful neural networks, to anylyze massive datasets, and identify patterns. NLP helps it underatnd textual data. Byleveraging these patterns, GenAI can then produce entirely new and original content, like realistic images, music, text video, or other creative formats.
+
+</details>
+
+<details>
   <summary>What is a Language Modeling?</summary>
 
 Language modeling is fundamental to LLMs and involves predicting the next word (token) given the context of the preceding words, using mathematical calculations and probability. With its self-attention mechanism, the transformer architecture enables LLMs to effectively learn and generate language by capturing dependencies and patterns within the input data.
+
+</details>
+
+<details>
+  <summary>What types of language mdels could be mentioned?</summary>
+
+**Large Language Models (LLMs)** - the advanced version of LMs, are trained on larger datasets and use advanced techniques such as deep learning and transformers to analyze complex relationships between words.
+
+**Small language models (SLMs)** - are compact versions of LLMs that require less training data, have simpler architectures, and are quicker to develop. They are suitable for specific tasks and domains, offering focused expertise and devices with limited processing power.
 
 </details>
 
