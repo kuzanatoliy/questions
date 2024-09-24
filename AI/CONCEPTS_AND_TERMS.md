@@ -15,6 +15,13 @@ AI focuses on giving computers human-like abilities, while ML trains them to do 
 </details>
 
 <details>
+  <summary>What is a Generative AI (GenAI)?</summary>
+
+**Generative AI** is a branch of artificial intelligence that utilizes Machine Learning (ML), specifically deep learning techniques implemented through powerful neural networks, to anylyze massive datasets, and identify patterns. NLP helps it underatnd textual data. Byleveraging these patterns, GenAI can then produce entirely new and original content, like realistic images, music, text video, or other creative formats.
+
+</details>
+
+<details>
   <summary>What is a Deep Learning (DL)?</summary>
 
 **Deep Learning** is a subset of ML that users multi-layered artificail neural networks to deliver state-of-the-art accuracy in object detection, speech recognition, and language translation tasks. DL systems process and analyze various data, such as images, sound, and text, in a way similar to the human brain.
