@@ -367,3 +367,23 @@ The objective of this technique is to make the definition of a word, phrase, or 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G62)
 
 </details>
+
+<details>
+  <summary>What abjective of providing a site map?</summary>
+
+The site map serves several purposes.
+
+- It provides an overview of the entire siete.
+- It helps users understand what the site contains and how the content is organized.
+- It offers and alternative to complex navigation bars that may be different ad different parts of the site.
+
+**Procedure:**
+
+1. Check tat the site contains a site map.
+2. Check that the links in the site map lead to the corresponding sections of the site.
+3. For each link in the site map, check that the target page contains a link to the site map.
+4. For each page in the site, check that the page can be reached by following some set of links that start at the site map.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G63)
+
+</details>
