@@ -36,15 +36,6 @@ Language modeling is fundamental to LLMs and involves predicting the next word (
 </details>
 
 <details>
-  <summary>What types of language mdels could be mentioned?</summary>
-
-**Large Language Models (LLMs)** - the advanced version of LMs, are trained on larger datasets and use advanced techniques such as deep learning and transformers to analyze complex relationships between words.
-
-**Small language models (SLMs)** - are compact versions of LLMs that require less training data, have simpler architectures, and are quicker to develop. They are suitable for specific tasks and domains, offering focused expertise and devices with limited processing power.
-
-</details>
-
-<details>
   <summary>What is a Natural Language Processing (NLP)?</summary>
 
 Natural language processing is a subfield of AI that focuses on the interaction between computers and humans through natural language. It can combine ML models and techniques with specific language algorithms to decode human language. NLP enables computer systems to understand, iterpret, generate, and manipulate natural language text and speech. At a high level NLP takes human language as an input, processes it, and converts it into the language of numbers that the computer will understand, and vice versa.

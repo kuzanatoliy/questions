@@ -10,27 +10,6 @@
 </details>
 
 <details>
-  <summary>What is an Encoder?</summary>
-
-The encoder takes an input sequence (prompt), scans it by traversing through multiple internal layers, and identifies relevant blocks. It is then passed to the decoder utilizing a self-attention mechanism.
-
-</details>
-
-<details>
-  <summary>What is a Self-attention mechanism?</summary>
-
-The self-attention mechanism helps the system comprehend and process the relationships between words in a sentence or a paragraph. It lives within the “context window”, a dynamic memory for your conversation.
-
-</details>
-
-<details>
-  <summary>What is a Decoder?</summary>
-
-Decoder receives relevant blocks from the encoder and generates output using the provided context.
-
-</details>
-
-<details>
   <summary>What are Limitations of Generative AI and Mitigation Techniques?</summary>
 
 - **Cognitive Limitations** - LLMs don't think like humans, and they don’t know if their responses are good or bad. They lack introspection, and they can't understand everything. They might make mistakes, produce fake facts (“hallucinate”) or be biased.
