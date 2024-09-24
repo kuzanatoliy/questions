@@ -8,9 +8,16 @@ AI is a science that helps computers and machines act “smart,” think like hu
 </details>
 
 <details>
-  <summary>What is an Machine learning?</summary>
+  <summary>What is a Machine learning?</summary>
 
 AI focuses on giving computers human-like abilities, while ML trains them to do these tasks. Unlike traditional programming, ML doesn't use explicit logic coding. Instead of manually setting search engine rules, computer models now learn user preferences and provide personalized content for each person.
+
+</details>
+
+<details>
+  <summary>What is a Deep Learning (DL)?</summary>
+
+**Deep Learning** is a subset of ML that users multi-layered artificail neural networks to deliver state-of-the-art accuracy in object detection, speech recognition, and language translation tasks. DL systems process and analyze various data, such as images, sound, and text, in a way similar to the human brain.
 
 </details>
 
