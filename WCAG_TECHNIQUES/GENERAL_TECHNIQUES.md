@@ -333,3 +333,18 @@ The purpose of this technique is to allow autoris to play a sound on their Web p
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G60)
 
 </details>
+
+<details>
+  <summary>What abjective of presenting repeated components it the same relative order each time they appear?</summary>
+
+The objective of this technique is to make content easiear to use by making the placement of repeated components more predictable. This technique helps maintain consistent layout or presentation between Web pages by presenting components that are repeated in these Web units in the same relative order each time they appear. Other components can be inserted between them, but their relative order is not changed.
+
+**Procedure:**
+
+1. List components that are repeated on teach Web page in a set of Web pages.
+2. For each component check taht it appears in the same relative order with regard to other repeated components on each Web page where it appears.
+3. For each navigational component, check that the links or programmatic references are always in the same relative order.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G61)
+
+</details>
