@@ -405,3 +405,28 @@ The table of contents serves two purposes:
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G64)
 
 </details>
+
+<details>
+  <summary>What abjective of providing a breadcrumb trail?</summary>
+
+A breadcrumb trail helps the user to visualize how content has been structured adn how to navigate back to previous Web pages, and may identify the current location within a series of Web pages. A breadcrumb trail either displays locations in the path the user took to reach the Web page, or it displays the location of the current Web page within the organization of the site.
+
+**Procedure:**
+
+1. Navigate to a Web page.
+2. Check that a breadcrumb trail is displayed.
+3. Check that the breadcrumb trail displays the correct navigational sequence to reach the current location or the correct hierarchical path to the current location within the site structure.
+4. For a breadcrumb trail that does not include the current location:
+
+- Check that all elements in the breadcrumb trail are implemented as links.
+
+5. For a breadcrumb trail that does include the current location:
+
+- Check that all elements except for the current location are implemented as links.
+- Check that the current location is not implemented as a link.
+
+6. Check that all links navigate to the correct Web page as specified by teh breadcrumb trail.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G65)
+
+</details>
