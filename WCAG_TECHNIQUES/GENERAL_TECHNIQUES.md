@@ -445,3 +445,21 @@ This technique provides a short text alternative for Live audio-only and live vi
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G68)
 
 </details>
+
+<details>
+  <summary>What abjective of providing an alternative for time based media?</summary>
+
+The purpose of this technique is to provide an accessible alternative way of presenting the information in a synchronized media presentation.
+
+**Procedure:**
+
+1. View the synchronized media presentation while referring to the alternative for time-based media.
+2. Check that the dialogue in the alternative for time-based media matches the dialogue in the synchronized media presentation.
+3. Check that the alternative for time-based media has descriptions of sounds.
+4. Check that the alternative for time-based media has descriptions of setting ans setting changes.
+5. Check that the alternative for time-based media has descriptions of actions and expressions of any 'actors' (people, animals etc).
+6. If the alternate version(s) are on a separate page, check for the availability of link(s) to allow the user to get to the other versions.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G69)
+
+</details>
