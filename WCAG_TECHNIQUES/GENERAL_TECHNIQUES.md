@@ -463,3 +463,17 @@ The purpose of this technique is to provide an accessible alternative way of pre
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G69)
 
 </details>
+
+<details>
+  <summary>What abjective of providing a function to search an online dictionary?</summary>
+
+The objective of this technique is to provide the definition of words, phrases, jargon, or abbreviation expansions by adding a mechanism to access an on-line dictionary to the Web page. This technique uses existing resources on the Web to provide the definition rather than requiring the author to create a glossary or other mechanism within the site. By providing access from within the Web page, a user can easily locate the desired definition. This technique can only be used if the online dictionary returns the correct defintion.
+
+**Procedure:**
+
+1. Check that a mechanism exists within the Web page to search for the word, phrase, or abbreviation via an on-line dictionary.
+2. Check that the result of the search of the dictionary for the word, phrase, or abbreviation is the correct definition.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G70)
+
+</details>
