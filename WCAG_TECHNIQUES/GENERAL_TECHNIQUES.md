@@ -477,3 +477,18 @@ The objective of this technique is to provide the definition of words, phrases, 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G70)
 
 </details>
+
+<details>
+  <summary>What abjective of providing a help link on every Web page?</summary>
+
+The objective of this technique is to provide context sensitive help for users as they enter data in forms by providing at least one link to the help information on each Web page. The link targets a help page with information specific to that Web page. Another approach is to provide a help link for every interactive control. Positioning this link immediately before or after the control allows users to easily tab to it if they have problems in the control. Displaying the help information in a nyw browser window ensures that any data that has already been entered into the form will not be lost.
+
+**Procedure:**
+
+1. Identify a Web page that contais forms. Determine if there is at least one link to help information explaining how to complete the form on this Web page.
+2. Determine if there is at least one linkg to help information explaining how to completer the form on this Web page.
+3. Determine of there are links either before or after each interective control to information specific to that control.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G71)
+
+</details>
