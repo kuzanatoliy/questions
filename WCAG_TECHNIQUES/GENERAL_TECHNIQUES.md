@@ -430,3 +430,18 @@ A breadcrumb trail helps the user to visualize how content has been structured a
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G65)
 
 </details>
+
+<details>
+  <summary>What abjective of providing a short text alternative that describes the purpose of live audio-only and live video-only content?</summary>
+
+This technique provides a short text alternative for Live audio-only and live video-only content. This text may be used in combination with a full text alternative for time-based media, or in combination with audio description. Those alternatives, however, are not part of this technique. The purpose of this technique is to ensure that the user can determine what the non-text content is, even if they cannot access it.
+
+**Procedure:**
+
+1. Remove, hide, or mast the non-text content.
+2. Display the sort text alternative(s).
+3. CHeck that the purpose of the non-text content is clear, even if content is lost.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G68)
+
+</details>
