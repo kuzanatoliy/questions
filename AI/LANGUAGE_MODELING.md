@@ -57,3 +57,11 @@ After IDs are assigned to tokens, they need to be converted into a set of number
 The input or prompt is then tokenized, converting the text into smaller units. Each token is assigned a numberid ID based on the model's vocabulary. This vocabulary is a list where each unique token from the training dataset is associated with a unique index.
 
 </details>
+
+<details>
+
+  <summary>What is a Prompt?</summary>
+
+A prompt is a set of instructions or a question that acts as the initial input for an LLM. It essentially defines the task you want the LLM to perform. It provies context, specifies the desired output format or style, and guides the LLM towards a specific outcome.
+
+</details>
