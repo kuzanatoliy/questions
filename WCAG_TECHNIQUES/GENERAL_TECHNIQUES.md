@@ -492,3 +492,19 @@ The objective of this technique is to provide context sensitive help for users a
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G71)
 
 </details>
+
+<details>
+  <summary>What abjective of providing a long description in another location with a link to it that is immediately adjacent to the non-text content?</summary>
+
+The objective of this technique is to provide a way to link to remove long descriptions in technologies that do not have a long description feature built directly into them or where the feature is known to not be supported.
+
+**Procedure:**
+
+1. Check for the presence of a link immediately before or after the non-text content.
+2. Check that the link is a valid link that points directly to the long description of this particular non-text content.
+3. Check that the long description conveys the same information as the non-text content.
+4. Check for the availability of a link or back function to get the user back to the original location of the non-text content.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G73)
+
+</details>
