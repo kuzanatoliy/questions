@@ -59,9 +59,15 @@ The input or prompt is then tokenized, converting the text into smaller units. E
 </details>
 
 <details>
-
   <summary>What is a Prompt?</summary>
 
 A prompt is a set of instructions or a question that acts as the initial input for an LLM. It essentially defines the task you want the LLM to perform. It provies context, specifies the desired output format or style, and guides the LLM towards a specific outcome.
+
+</details>
+
+<details>
+  <summary>What is a Prompt engineering?</summary>
+
+The prompt engineering is a crucial skill in artificial intelligence, involving crafting prompts to guide an AI tool's responses. To gain this skill, one must learn about AI behavior, language nuances, and the specific requirements of the AI tool.
 
 </details>
