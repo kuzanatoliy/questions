@@ -36,3 +36,10 @@ The encoder takes an input sequence (prompt), scans it by traversing through mul
 The self-attention mechanism helps the system comprehend and process the relationships between words in a sentence or a paragraph. It lives within the “context window”, a dynamic memory for your conversation.
 
 </details>
+
+<details>
+  <summary>What is a Positional Encoding?</summary>
+
+The model processes embeddings using many layers of neural networks. An essential part of this processing is positional encoding, where special vectors are added directly to the embeddings. They have the same dimension as embeddings and help to preserve sequence information. Thus, even if the same word appears in different positions, its resulting vector representation will be different.
+
+</details>
