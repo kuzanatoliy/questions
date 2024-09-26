@@ -50,3 +50,10 @@ The model processes embeddings using many layers of neural networks. An essentia
 After IDs are assigned to tokens, they need to be converted into a set of numbers that define each token's initial semantic meaning. This process employs neural networks and is called embedding. The result of the embedding process is a set of vectors called embeddings. They are used in the transformer model for further processing.
 
 </details>
+
+<details>
+  <summary>What is an Input?</summary>
+
+The input or prompt is then tokenized, converting the text into smaller units. Each token is assigned a numberid ID based on the model's vocabulary. This vocabulary is a list where each unique token from the training dataset is associated with a unique index.
+
+</details>
