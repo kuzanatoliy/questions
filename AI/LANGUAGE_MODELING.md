@@ -43,3 +43,10 @@ The self-attention mechanism helps the system comprehend and process the relatio
 The model processes embeddings using many layers of neural networks. An essential part of this processing is positional encoding, where special vectors are added directly to the embeddings. They have the same dimension as embeddings and help to preserve sequence information. Thus, even if the same word appears in different positions, its resulting vector representation will be different.
 
 </details>
+
+<details>
+  <summary>What is an Embedding?</summary>
+
+After IDs are assigned to tokens, they need to be converted into a set of numbers that define each token's initial semantic meaning. This process employs neural networks and is called embedding. The result of the embedding process is a set of vectors called embeddings. They are used in the transformer model for further processing.
+
+</details>
