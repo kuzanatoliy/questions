@@ -508,3 +508,18 @@ The objective of this technique is to provide a way to link to remove long descr
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G73)
 
 </details>
+
+<details>
+  <summary>What abjective of providing a long description in text near the non-text content, with a reference to the location of the long description in the short description?</summary>
+
+The objective of this technique is to provide a long description without requiring the user to jump off to another location for the description. It also allows all users to see the description which may be useful to anyone who might miss some features in the non-text content.
+
+**Procedure:**
+
+1. Check that the short text alternative includes the location of the long description.
+2. Check that the long description is near the non-text content both visually and in the linear reading order.
+3. Check that the long description conveys the same information as the non-text content.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G74)
+
+</details>
