@@ -523,3 +523,18 @@ The objective of this technique is to provide a long description without requiri
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G74)
 
 </details>
+
+<details>
+  <summary>What abjective of providing a mechanism to postpone any updating of content?</summary>
+
+The objective of this technique is to ensure that users can pospone automatic updates of content, or other non-emergency interruptions. This can be accomplished either through a preference or by alerting users of an imminent update and allowing them to suppress it. If a preference is provided, automatic content update can be disabled by defautl and users can specify the frequency of automatic content updates if they choose to enable the setting.
+
+**Procedure:**
+
+1. Find pages with content that automatically updates.
+2. For each automatic update, look for a mechanism to adjust the timing of the updates.
+3. Check that automatic updating is disabled by default or that the user is warned before an automatic update occurs and allowed to suppress it.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G75)
+
+</details>
