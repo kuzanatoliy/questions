@@ -538,3 +538,18 @@ The objective of this technique is to ensure that users can pospone automatic up
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G75)
 
 </details>
+
+<details>
+  <summary>What abjective of providing a mechanism to request an update of the content instead of updating automatically?</summary>
+
+The objective of this technique is to let the user control if and when content is updated, in order to avoid confusion or disorientation caused by automatic refreshes that cause a change of context. Users of screen readers may find automatic updates confusing because it is not always clear what is happening. When a page is refreshed, the screen reader's "virtual cursor", which marks the user's current location on the page, is moved to the top of the page. People who use screen magnification software and people with reading disabilities may also be disoriented when pages are refreshed automatically.
+
+**Procedure:**
+
+1. Find mechanisms to update the content.
+2. For each such mechanism, check if it allows the user to request an update.
+3. For each such mechanism, check if it can cause an automatic update.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G76)
+
+</details>
