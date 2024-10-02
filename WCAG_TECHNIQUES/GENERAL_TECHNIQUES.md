@@ -553,3 +553,18 @@ The objective of this technique is to let the user control if and when content i
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G76)
 
 </details>
+
+<details>
+  <summary>What abjective of providing a second, user-selectable, audio track that includes audio descriptions?</summary>
+
+The objective of this technique is to provide an audio (spoken) version of information that is provided visually so that it is possible for people who cannot see to be able to understand audio-visual material.
+
+**Procedure:**
+
+1. Check that the ability exists to turn on the audio track that includes audio descriptions. For example, by using a control within the content itself or by selecting a control or preference in the media player or operating sustem.
+2. Listen to the synchronized media.
+3. Check to see if gaps in dialogue are used to convey important information regarding visual content.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G78)
+
+</details>
