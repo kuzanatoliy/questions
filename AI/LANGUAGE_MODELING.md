@@ -71,3 +71,10 @@ A prompt is a set of instructions or a question that acts as the initial input f
 The prompt engineering is a crucial skill in artificial intelligence, involving crafting prompts to guide an AI tool's responses. To gain this skill, one must learn about AI behavior, language nuances, and the specific requirements of the AI tool.
 
 </details>
+
+<details>
+  <summary>What is a Transformer Atchitecture?</summary>
+
+The operation of transformers relies on generating output based on the probability distribution of the next token in a sequence. This process naturally leads to non-deterministic responses, allowing for varied outputs under identical initial conditions.
+
+</details>
