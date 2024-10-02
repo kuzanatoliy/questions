@@ -101,3 +101,12 @@ LLMs perform extensive computations using a complex array of internal settings a
 - **Privacy and Legal Concerns** - LLMs may store and utilize input data. As such, issues surrounding data protection responsibilities, rights, and compliance with legal regulations arise when using LLMs.
 
 </details>
+
+<details>
+  <summary>What are types of hallucinations?</summary>
+
+- **Factual Inaccuracies** - This type of hallucination includes generation text that contains factual errors or that is not based on reality due to a lack of explicit real-world knowledge.
+- **Fabrication or Misrepresentation** - This type of hallucination includes creating atrificial sources, making unfonded claims, or designing entirely fictional scenarios. No such links, presentations, or articles exist in this case, but the names and links look like real ones.
+- **Nonsensical Output** - LLMs may somethimes respond with completely random, unrelated, or nonsensical answers in real-world context.
+
+</details>
