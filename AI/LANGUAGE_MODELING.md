@@ -85,3 +85,10 @@ The operation of transformers relies on generating output based on the probabili
 LLMs produce text based on examples and patterns observed in their training data. They mirror all the characteristics of this data, including biases, inaccuracies, and topic specification. The training dataset is relevant up to the cut-off date of the training process. After this date, the model's database does not receive updates or incorporate new information unless retrained or supplemented with external, up-to-date data sources.
 
 </details>
+
+<details>
+  <summary>What is a Decision Logic Transparency?</summary>
+
+LLMs perform extensive computations using a complex array of internal settings and parameters. This complexity often makes the input-output relationships within these models difficult to decipher, causing most commercial LMSs to operate as "black boxes".
+
+</details>
