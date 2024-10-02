@@ -92,3 +92,12 @@ LLMs produce text based on examples and patterns observed in their training data
 LLMs perform extensive computations using a complex array of internal settings and parameters. This complexity often makes the input-output relationships within these models difficult to decipher, causing most commercial LMSs to operate as "black boxes".
 
 </details>
+
+<details>
+  <summary>What are limitations of LLMs?</summary>
+
+- **Cognitive Constraints and Interaction Challenges** - LLMs perceive and process information differently from humans, leading to potential output limitations. They might make mistakes, produce fake facts, or generate biased responses.
+- **Security Risks** - The complex nature of LLMs does not make them immune to risks. They may be susceptible to various forms of cyber threats, including being tricked, attaked, or misused.
+- **Privacy and Legal Concerns** - LLMs may store and utilize input data. As such, issues surrounding data protection responsibilities, rights, and compliance with legal regulations arise when using LLMs.
+
+</details>
