@@ -78,3 +78,10 @@ The prompt engineering is a crucial skill in artificial intelligence, involving 
 The operation of transformers relies on generating output based on the probability distribution of the next token in a sequence. This process naturally leads to non-deterministic responses, allowing for varied outputs under identical initial conditions.
 
 </details>
+
+<details>
+  <summary>What is a Training Data?</summary>
+
+LLMs produce text based on examples and patterns observed in their training data. They mirror all the characteristics of this data, including biases, inaccuracies, and topic specification. The training dataset is relevant up to the cut-off date of the training process. After this date, the model's database does not receive updates or incorporate new information unless retrained or supplemented with external, up-to-date data sources.
+
+</details>
