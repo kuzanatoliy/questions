@@ -581,3 +581,17 @@ Some users who have difficulty sounding out (decoding) words in written text fin
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G79)
 
 </details>
+
+<details>
+  <summary>What abjective of providing a submit button to initiate a change of context?</summary>
+
+The objective of this technique is to provide a mechanism that allows users to explicitly request changes of context. Since the intended use of a submit button is to generate an HTTP request that submits data entered in a form, this is an appropriate control to use for causing a change of context and is a practice that does not create confusion for users.
+
+**Procedure:**
+
+1. Find all forms in the content.
+2. For each form, check that it has a sumit button.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G80)
+
+</details>
