@@ -568,3 +568,16 @@ The objective of this technique is to provide an audio (spoken) version of infor
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G78)
 
 </details>
+
+<details>
+  <summary>What abjective of providing a spoken version of the text?</summary>
+
+Some users who have difficulty sounding out (decoding) words in written text find it very helpful to hear the text read aloud. This service can now be provided easily uding either recorded human speech or synthetic speech. For example, there are a number of products that authors can use to convert text to synthetic speech, then save the spoken version as an audio file. A link to the spoken version can then be provided within the content. Const depends in part on the quality of the voice used and whether the text is likely to change frequently.
+
+**Procedure:**
+
+1. Check if a spoken version of the content is available.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G79)
+
+</details>
