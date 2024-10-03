@@ -595,3 +595,19 @@ The objective of this technique is to provide a mechanism that allows users to e
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G80)
 
 </details>
+
+<details>
+  <summary>What abjective of providing a synchronized video of the sign language interpreter that can be displayed in a different viewport or overlaid on the image by the player?</summary>
+
+The objective of this technique is to allow users who cannot hear or read text rapidly to be able to access synchronized media material without affecting the presentation of the material for all viewers.
+
+**Procedure:**
+
+1. Enable the display of the sign-language window in the player.
+2. Have someone watch the program who can hear and is familiar with the sign language being used.
+3. Check to see if there is a sign language interpreter on screen or in a separate window.
+4. Check to see that dialogue and important sounds are being conveyed by the interpreter and are synchronized with the audio.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G81)
+
+</details>
