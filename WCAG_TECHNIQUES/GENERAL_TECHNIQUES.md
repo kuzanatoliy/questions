@@ -611,3 +611,18 @@ The objective of this technique is to allow users who cannot hear or read text r
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G81)
 
 </details>
+
+<details>
+  <summary>What abjective of providing a text alternative that identifies the purpose of the non-text content?</summary>
+
+The purpose of this technique is to provide useful information via the text alternative even if the full function of the non-text content cannot be provided.
+
+**Procedure:**
+
+1. Remove, hide, or mask the non-text content.
+2. Replace it with the text alternative.
+3. Check that the purpose of the non-text content is clear - even if function is lost.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G82)
+
+</details>
