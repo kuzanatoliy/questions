@@ -110,3 +110,12 @@ LLMs perform extensive computations using a complex array of internal settings a
 - **Nonsensical Output** - LLMs may somethimes respond with completely random, unrelated, or nonsensical answers in real-world context.
 
 </details>
+
+<details>
+  <summary>What are types of Security Risks?</summary>
+
+- **Jaibreak Attacks** - This term refers to attempts to `break out` of the restrictions intentionally set by the development team to prevent the model's misuse for illegal or unintended purposes. Attackers often employ various tricks, such as inputting specific combinations of symbols, letters, binary code, base-64 encoding, or queries in different languages.
+- **Prompt Injection** - It is about manipulating an LLM or LLM-based application and giving it what looks like new instructions and basically hijacking the system.
+- **Data Pisoning/Backdoor Attacks** - LLMs learn from the data on which they are trained. If this training data contains harmful or malicious content, it can influence the model's behavior, leading to dangerous and harmful outputs.
+
+</details>
