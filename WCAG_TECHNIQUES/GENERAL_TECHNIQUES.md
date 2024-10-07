@@ -626,3 +626,18 @@ The purpose of this technique is to provide useful information via the text alte
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G82)
 
 </details>
+
+<details>
+  <summary>What abjective of providing text descriptions to identify required fields that were not completed?</summary>
+
+The objective of this technique is to notify the user when a field that must be completed has not been completed. When users fail to provide input for any mandatory form fields, information is provided in text to enable the users to identify which fields were omitted. Another approach, using server-side validation, is to re-display the form (including any previously entered data), with either a text description at the location of the omitted mandatory field, or a text description that identifies the omitted mandatory fields.
+
+**Procedure:**
+
+1. Fill out a form, deliverately leaving one or more required fields blank, and submit it.
+2. Check that a text description is provided identifying the mandatory field(s) that was not completed.
+3. Check that other data previously entered by the user is re-displayed, unless the cata is in a security related field where it would be inappropriate to retain the data for re-display.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G83)
+
+</details>
