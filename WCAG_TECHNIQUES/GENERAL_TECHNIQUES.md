@@ -655,3 +655,18 @@ When users enter input that is validated, and errors are detected, the nature of
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G84)
 
 </details>
+
+<details>
+  <summary>What abjective of providing a text description when user input falls outside the required format or values?</summary>
+
+The objective of this technique is to provide assistance in correctiong input errors where the information supplied by the user is not accepted. When users enter data input that is validated, and input errors are detected, information about the nature and location of the input error is provided in text to enable the users to identify the problem. One approach is to use client-side validation and provide an alert dialog box that described the error immediately when users enter invalid data in field. Another approach, using server-side validation, is to re-display the form, and a text description at the top of the page that indicates the fact that there was an error, describes the nature of the problem, and provides ways to easily loccate the field(s) with a problem.
+
+**Procedure:**
+
+1. Fill out a form, deliberately enter user input that falls outside the required format or values.
+2. Check that a text description is provided that identifies the field in error and provides some information about the nature of the invalid entry and how to fix it.
+3. Check that other data previously entered by the user is re-displayed, unless the data is in a security related field where it would be inappropriate to retain the data for re display.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G85)
+
+</details>
