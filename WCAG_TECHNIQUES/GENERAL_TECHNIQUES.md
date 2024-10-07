@@ -641,3 +641,17 @@ The objective of this technique is to notify the user when a field that must be 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G83)
 
 </details>
+
+<details>
+  <summary>What abjective of providing a text description when the user provides information that is not in the list of allowd values?</summary>
+
+When users enter input that is validated, and errors are detected, the nature of the error needs to be described to the user in manner they can access. One approach is to present and alert dialog that describes fields with errors when the user attempts to submit the form. Another approach, if validation is done by the server, is to return the form and a text description at the top of the page that indicates the fact that there was a validation problem, describes the nature of the problem, and provides ways to locate the field(s) with a problem easily. The "in text" portion of the Success Criterion underscores that it is not sufficient simply to indicate that a field has an error by putting an asterisk on its label or turning the label red. A text description of the problem should be provided.
+
+**Procedure:**
+
+1. Enter invalid data in a form filed.
+2. Check that information is provided in text about the problem.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G84)
+
+</details>
