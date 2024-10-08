@@ -670,3 +670,17 @@ The objective of this technique is to provide assistance in correctiong input er
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G85)
 
 </details>
+
+<details>
+  <summary>What abjective of providing a text summary can be understood by people with lower secondary education level reading ability?</summary>
+
+The objective of this technique is to provide a summary of complex content. The summary is provided in addition to the original content.
+
+**Procedure:**
+
+1. Measure the readability of the summary.
+2. Check that the summary requires reading ability less advanced than the lower secondary education level.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G86)
+
+</details>
