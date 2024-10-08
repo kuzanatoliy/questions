@@ -684,3 +684,18 @@ The objective of this technique is to provide a summary of complex content. The 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G86)
 
 </details>
+
+<details>
+  <summary>What abjective of providing closed captions?</summary>
+
+The objective of this technique is to provide a way for people who have hearing impairments or otherwise have trouble hearing the dialogue in synchronized media material to be able to view the material and see the dialogue and sounds without requiring people who are not deaf to watch the captions. With this technique all of the dialogue and important sounds are embedded as text in a fashion that causes the text not to be visible unless the user requests it. As a result they are visible only when needed. This requires special support for captioning in the user agent.
+
+**Procedure:**
+
+1. Turn on the closed caption fature of the media player.
+2. View the synchronized media content.
+3. Check that captions.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G87)
+
+</details>
