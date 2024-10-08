@@ -119,3 +119,15 @@ LLMs perform extensive computations using a complex array of internal settings a
 - **Data Pisoning/Backdoor Attacks** - LLMs learn from the data on which they are trained. If this training data contains harmful or malicious content, it can influence the model's behavior, leading to dangerous and harmful outputs.
 
 </details>
+
+<details>
+  <summary>What are technical parameters of LM?</summary>
+
+- **Model Type & Complexity** - Different models excel at various tasks. Identify your use case to determine the most suitable model type. Model complexity, often measured by the number of parameters, influences performance and resource requirements. More complex models can handle more sophisticated tasks. However, they require more computing power, ptentially increasing training and inference costs.
+- **Training Data Size & Diversity** - Larger and more diverse datasets generally lead to better model performance. LLMs trained on extensive data often generalize better accross various tasks. However, this comes at the cost of interpretability. SLMs, with their focused training, provide more interpretable outputs, which can be crucial for tasks like sentiment anlysis. It's essential to note that details regarding training datasets may be considered proprietary and not disclosed by model vendors.
+- **Consuming Options & Scalability** - Consider how you'll consume the model and whether your needs might grow over time. Choose a model with a deployment option that suits your infrastructure and scales to meet your evolving demands.
+- **Context Window** - Determines how much "memory" the model has when processing information. The context window includes the sizes in tokens of your inputs and model outputs within one dialogue. A larger context size can lead to a better understanding of complex relationships within text. It also increases computaitonal demands and makes it harder for the model to focus on the most relevant information.
+- **Knowledge Cut-Off** - Refers to the date the model's training data is current. Recent knowledge cut-off is crucial for tasks requiring up-to-date information or projects in fast-changing fields. However, knowledge cut-off might be less critical for tasks not relying on recent information or where factual accuracy isn't primary.
+- **Cost** - Consider the contimuous costs of utilizing the model. LLMs often demand more resources than their smaller, less sophisticated SLM counterparts. This could lead to increased costs for tasks needing frequent model interaction. Pricing strategies for commercial models and tools can range from pay-per-use, where costs depend on the volume of tokens processed, to subscription models, where you pay a fixed rate and gain access to a certain capacity or number of tokens per period. Remember that the model considers all your history inside one dialogue when counting the cost of conversation.
+
+</details>
