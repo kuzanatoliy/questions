@@ -699,3 +699,18 @@ The objective of this technique is to provide a way for people who have hearing 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G87)
 
 </details>
+
+<details>
+  <summary>What abjective of providing descriptive titles?</summary>
+
+The objective of this technique is to give each Web page a descriptive title. Descriptive titles help users find content, orient themselves within it, and navigate through it. A descriptive title allows a user to easily identify what Web page they are using and to tell when the Web page has changed. The title can be used to dientify the Web page without requiring users to read or interpret page content. Users can more quickly identify the content they need when accurate, descriptive titles apear in site maps or lists of search results. When descriptive titles are used within link text, they help users navigate more precisely to the content they are interested in.
+
+**Procedure:**
+
+1. Check that the Web page has a title.
+2. Check that the title is relevant to the content of the Web page.
+3. Check that the Web page can be identified using the title.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G88)
+
+</details>
