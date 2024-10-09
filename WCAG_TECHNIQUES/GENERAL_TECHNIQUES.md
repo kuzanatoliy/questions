@@ -714,3 +714,17 @@ The objective of this technique is to give each Web page a descriptive title. De
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G88)
 
 </details>
+
+<details>
+  <summary>What abjective of providing expected data format and example?</summary>
+
+The objective of this technique is to help the user avoid input errors by informing them about restrictions on the format of data that they must enter. This can be done by describing characteristics of the format or providing a sample of the format the data should have.
+
+**Procedure:**
+
+1. Identify form controls that will only accept user input data in a given format.
+2. Determine if each of the form controls identified in 1 provides information about the expected format.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G88)
+
+</details>
