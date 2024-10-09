@@ -131,3 +131,13 @@ LLMs perform extensive computations using a complex array of internal settings a
 - **Cost** - Consider the contimuous costs of utilizing the model. LLMs often demand more resources than their smaller, less sophisticated SLM counterparts. This could lead to increased costs for tasks needing frequent model interaction. Pricing strategies for commercial models and tools can range from pay-per-use, where costs depend on the volume of tokens processed, to subscription models, where you pay a fixed rate and gain access to a certain capacity or number of tokens per period. Remember that the model considers all your history inside one dialogue when counting the cost of conversation.
 
 </details>
+
+<details>
+  <summary>What are behavioral parameters of LM?</summary>
+
+- **Performance** - This ecompasses accuracy, fluency, and coherence in the model's output. Evaluate how well them model performs on tasks specific to your needs. Consider factors like generalizability to handle various real-world data and processing speed.
+- **Explainability & Transparency** - Understanding how the model arrives at its outputs can be crucial. Some models offer more interpretable outputs than others using clear terms, which might be important for tasks requiring reasoning behind the model's decisions.
+- **Bias and Fairness** - Language models can inherit biases from their training data. Assess potential biases to ensure the model aligns with your ethical considerations.
+- **Safety and Security** - Security features are crucial to prevent model misuse and ensure data privacy. Assess the models regarding their compliance with industry or regional stanards and your project requirements.
+
+</details>
