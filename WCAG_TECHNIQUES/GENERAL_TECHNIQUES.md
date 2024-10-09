@@ -741,3 +741,16 @@ The objective of this technique is to permit individuals who rely on keyboard in
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G90)
 
 </details>
+
+<details>
+  <summary>What abjective of providing link text that describes the purpose of a link?</summary>
+
+The objective of this technique is to describe the purpose of a link in the text of the link. The description lets a user distinguish this link from links in the Web page that lead to other destinations and helps the user determine whether to follow the link.
+
+**Procedure:**
+
+1. Check that text of the link desctives the purpose of the link.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G91)
+
+</details>
