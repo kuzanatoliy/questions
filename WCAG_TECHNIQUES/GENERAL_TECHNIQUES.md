@@ -725,6 +725,19 @@ The objective of this technique is to help the user avoid input errors by inform
 1. Identify form controls that will only accept user input data in a given format.
 2. Determine if each of the form controls identified in 1 provides information about the expected format.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G88)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G89)
+
+</details>
+
+<details>
+  <summary>What abjective of providing keyboard-triggered event handlers?</summary>
+
+The objective of this technique is to permit individuals who rely on keyboard interface to access the functionality of the content. To do this, make sure that all event handlers triggered by non-keyboard interface to access the functionality of the content. To do this, make sure that all event handlers triggered by non-keyboard UI events are also associated with a keyboard-based event, or provide redundant keyboard-based mechanisms to accomplish the functionality provided by other device specific functions.
+
+**Procedure:**
+
+1. Check that all functionality can be accessed using only the keyboard.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G90)
 
 </details>
