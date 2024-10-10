@@ -799,3 +799,16 @@ The objective of this technique is to create a text alternative that serves the 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G94)
 
 </details>
+
+<details>
+  <summary>What abjective of providing short text alternatives that provide a brief description of the non-text content?</summary>
+
+This technique is used when the text needed to serve the same purpose and present the same information as the original non-text content is too lengthy or when this goal cannot be achieved with text alone. In that case this technique is used to probide a short text alternative that briefly describes the non-text content.
+
+**Procedure:**
+
+1. Check for the presence of a short text alternative that provides a brief description of the non-text content.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G95)
+
+</details>
