@@ -812,3 +812,16 @@ This technique is used when the text needed to serve the same purpose and presen
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G95)
 
 </details>
+
+<details>
+  <summary>What abjective of providing textual identification of items that otherwise rely only on sensory information to be understood?</summary>
+
+The objective of this technique is to ensure that items within a Web page are referenced in the content not only by shape, size, sound or location, but also in ways that do not depend on that sensofy perception. For example, a reference may also describe the function of the item or its label.
+
+**Procedure:**
+
+1. Check that the reference contains additional information that allows the item to be located and identified without any knowledge of its shape, size, or relatibe position.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G96)
+
+</details>
