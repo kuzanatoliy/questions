@@ -783,3 +783,19 @@ The objective of this technique is to provide a way for people who are deaf or o
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G93)
 
 </details>
+
+<details>
+  <summary>What abjective of providing short text alternative for non-text content that serves the same purpose and presents the same information as the non-text content?</summary>
+
+The objective of this technique is to create a text alternative that serves the same purpose and presents the same information as the original non-text content. As a result, it is possible to remove the non-text content and replace it with the texxt alternative and no functionality or information would be lost. This text alternative should not necessarily describe the non-text content. It should serve the same purpose and convey the same information. This may sometimes result in a text alternative that looks like a description of the non-text content. But this would only be true if that was the best way to serve the same purpose.
+
+**Procedure:**
+
+1. Remove, hide, or mask the non-text content.
+2. Replace it with the text alternative.
+3. Check that nothing is lost.
+4. If the non-text content contains words that are important to understanding the content, the words are included in the text alternative.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G94)
+
+</details>
