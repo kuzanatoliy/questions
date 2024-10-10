@@ -769,3 +769,17 @@ The objective of this technique is to provide a long text alternative that serve
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G92)
 
 </details>
+
+<details>
+  <summary>What abjective of providing open (always visible) captions?</summary>
+
+The objective of this technique is to provide a way for people who are deaf or otherwise have trouble hearing the dialogue in audio visual material to be able to view the material. With this technique all of the dialogue and important sounds are embedded as text in the video track. As a result they are always visible and no special support for captioning is required by the user agent.
+
+**Procedure:**
+
+1. Watch the synchronized media with closed captioning turned off.
+2. Check that captions are visible.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G93)
+
+</details>
