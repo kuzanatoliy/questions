@@ -754,3 +754,18 @@ The objective of this technique is to describe the purpose of a link in the text
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G91)
 
 </details>
+
+<details>
+  <summary>What abjective of providing long description for non-text content that serves the same purpose and presents the same information?</summary>
+
+The objective of this technique is to provide a long text alternative that serves the same purpose and presents the same information as the original non-text content when a short text alternative is not sufficient.
+
+**Procedure:**
+
+1. Remove, hide, or mask the non-text content.
+2. Display the long description.
+3. Check that the long description conveys the same information conveyed by the non-text content.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G92)
+
+</details>
