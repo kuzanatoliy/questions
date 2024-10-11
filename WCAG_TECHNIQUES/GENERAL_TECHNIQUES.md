@@ -840,3 +840,18 @@ The objective of this technique is to make the expanded forma of an abbreviation
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G97)
 
 </details>
+
+<details>
+  <summary>What abjective of providing the ability for the user to review and correct answers before submitting?</summary>
+
+The objective of this technique is to provide users with a way to ensure their imput is correct before completing an irreversible transaction. Testing, financial, and legal applications permit transactions to occur which cannot be "undone". It is therefore important that there be no errors in the data submission, as the user will not have the opportunity to correct the error once the transaction has been committed.
+
+**Procedure:**
+
+1. Check that the user is promted to review and confirm data.
+2. If user data are collected in multiple steps, the user is allowd to return to previous stpes to review and change data.
+3. Determine if a summary of all data input by the user is provided before the transaction is committed and a method is provided to correct errors if necessary.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G98)
+
+</details>
