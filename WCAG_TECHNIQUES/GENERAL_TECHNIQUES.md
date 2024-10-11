@@ -855,3 +855,18 @@ The objective of this technique is to provide users with a way to ensure their i
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G98)
 
 </details>
+
+<details>
+  <summary>What abjective of providing the ability to recover deleted information?</summary>
+
+When a Web application provides the capability of deleting information, the server can provide a means to recover information that was deleted in error by a user. One approach is to delay deleting the data by merely marking it for deletion or moving it to a holding area and waiting some period of time before actually deleting it. During this time period, the user can request that the data be restored or can retrive it ffrom the holding area. Another approach is to record all delete transactions in such a way that data can be restored if requested by the user such as in the edit history stored by wikis and source control applications. The retrievable information that is stored should be that which would be needed to correct the transaction.
+
+**Procedure:**
+
+1. Identify functionality that allows deleting content.
+2. Delete content and attempt to recover it.
+3. Check if deleted information can be recovered.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G99)
+
+</details>
