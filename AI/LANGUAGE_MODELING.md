@@ -141,3 +141,13 @@ LLMs perform extensive computations using a complex array of internal settings a
 - **Safety and Security** - Security features are crucial to prevent model misuse and ensure data privacy. Assess the models regarding their compliance with industry or regional stanards and your project requirements.
 
 </details>
+
+<details>
+  <summary>What are benchmarks?</summary>
+
+- **Perplexity** - This classic metric measures how well a model predicts the net word in a sequence. Lower perplexity scores indicate better performance, as the model effectively chooses the most likely word from a large vocabulary. However, perplexity can be misleading as it doesn't directly assess real-world tasks or consider factors like fluency or coherence.
+- **General Language Understanding Evaluation (GLUE) and SuperGLUE** - The General Language Understanding Evaluation (GLUE) benchmark test an LLM's natural language understanding capabilities and was notable upon its release for its variety of assessments. SuperGLUE improves upon GLUE with a more diverse and challenging collection of tasks that assess a model's performance accross subtasks and metrics, with their average providing an overall score. Analyzing performance across these diverse tasks gives you a broader understanding of the model's strengths and weaknesses.
+- **Measuring Massive Multitask Language Understanding(MMLU)** - This benchmark goes beyound traditional NLP tasks, assessing the model's understanding across various subjects and domains. It includes questions from humanities, sciences, and other fieds, providing a more comprehensive evaluation of the model's general knowledge and reasoning capabilites.
+- **Human evaluation** - Human judgment is crucial in assessing fluency, choherence, and task specific success.
+
+</details>
