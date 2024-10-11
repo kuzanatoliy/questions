@@ -825,3 +825,18 @@ The objective of this technique is to ensure that items within a Web page are re
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G96)
 
 </details>
+
+<details>
+  <summary>What abjective of providing the first use of an abbreviation immediately before or after the expanded form?</summary>
+
+The objective of this technique is to make the expanded forma of an abbreviation available by associating the expanded form with its abbreviation the first time it occurs within a Web page. The expansion of any abbreviation can be found by searching the Web page for the first use.
+
+**Procedure:**
+
+1. Search for the first use of that abbreviation in the authored component.
+2. Check that the first use is immediately preceded or followed by the expanded form of the abbreviation.
+3. Check that the expanded form is the correct expanded form for the use of the abbreviation.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G97)
+
+</details>
