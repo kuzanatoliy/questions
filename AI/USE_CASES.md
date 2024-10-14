@@ -128,3 +128,40 @@ _Use cases:_
 - Create training/guides based on product documentation.
 
 </details>
+
+<details>
+  <summary>What are Dev user cases?</summary>
+
+**Business/Applica tion Logic Implementation**
+
+- Implement complex algorithms or calculations, such as those required for financial modeling or data analysis;
+- Implement data validation or transformation logic, such as converting data from one format to another or ensuring data integrity in a database.
+
+**API/3rd - Party Integration**
+
+- Provide third-party API or services integration, such as payment gateways and messaging services.
+- Integrate systems, tools, and components such as database management systems and cloud-native service APIs.
+
+**Unit Test Coverage**
+
+- Spend up unit test writing for greenfield projects by providing test code in real time;
+- Generate unit tests for large legacy codebases to ensure changes don't introduce bugs;
+- Generating end-to-end unit tests for API testing and other kinds of integration testing.
+
+**Code Refactoring**
+
+- Suggest code snippets that implement best practices for security coding, such as defense against SQL injection;
+- Identify and consolidate duplicate code blocks to reduce code redundancy and maintenance effors;
+
+**Code Explanation and Documentation**
+
+- Generate inline code comments to explain what a specific line or block of code does;
+- Automatically add code annotations for classes, functions, and methods to provide context and expalin their purpose;
+- Provide real-time explanations for complex code, helping developers to quickly understand unfamiliar code and reduce the time required to onboard new team members;
+
+**Programming Language Conversion**
+
+- Convert Java code Python code;
+- Convert code written in one language to another for cross platform compatibility.
+
+</details>
