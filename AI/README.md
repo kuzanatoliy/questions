@@ -10,4 +10,4 @@
 
 [Language modeling](LANGUAGE_MODELING.md)
 
-[Software development lifecycle use cases](SDLC_USE_CASES.md)
+[Use cases](USE_CASES.md)

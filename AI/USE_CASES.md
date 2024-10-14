@@ -1,4 +1,6 @@
-# Software development lifecycle use cases
+# Use cases
+
+### Software Development Lifecycle
 
 <details>
   <summary>How AI tools help for analysis?</summary>
@@ -73,5 +75,56 @@ _Use cases:_
 - Monitor and analyze how te software is used and its performance;
 - Detect and fix bugs and errors.
 - Provide feedback and suggestions for improvement.
+
+</details>
+
+### Gen AI
+
+<details>
+  <summary>What are BA user cases?</summary>
+
+**Domain and Competitor Analysis**
+
+- Identify common concepts, actors, processes, and personas for a given domain;
+- Answer general research questions;
+- Summarize competitors, trends, and current market approaches to address business problems;
+- Provide quick access to a generalized knowledge base.
+
+**Requirments Elicitation and Analysis**
+
+- Idnetify common cncepts, actors, processes, and personas for a given domain;
+- Answer general/research questions;
+- Summarize competitors, trends, and current market approaches to address business problems;
+- Provide quick access to a generalized knowledge base;
+- Summarize long docuemnts into a more condensed format;
+- Suggest a list of questions for stakeholder surveys and refinement sessions;
+- Jump-start brainsotrming activities;
+- Identify features and milestones based on progject overview and high-level scenario description.
+
+**Backlog Creation**
+
+- Generate a list of functional or nonfunctional requirements;
+- Backlog generation: create a list of use cases, epics, and user stores in the preferred format;
+- Write acceptance criteria in Gherkin format for happy path and error scenarios.
+
+**Process and Data Modeling**
+
+- Generate a process breakdown;
+- Propose a data model based on a description or requirements input;
+- Generate a PlantUML diagram.
+
+**Communications and Stakeholder Management**
+
+- Create a stakeholder management and communication plan;
+- Support change management activities, identifying and summarizing scope changes;
+- Prepare meeting minutes from high-level notes or record transcript;
+- Write emails and proofread correspondence.
+
+**Knowledge Management and Training**
+
+- Quickly transform requirements and information from one format to another;
+- Summarize sprint or phase outcomes based on completed stories;
+- Provide project updates and release documentation;
+- Create training/guides based on product documentation.
 
 </details>
