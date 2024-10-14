@@ -165,3 +165,55 @@ _Use cases:_
 - Convert code written in one language to another for cross platform compatibility.
 
 </details>
+
+<details>
+  <summary>What are QA user cases?</summary>
+
+**Test Case Design and Development**
+
+- Analyze requirements and automatically generate tests to cover application or component functionality;
+- Generate user acceptance test, steps, and feature files;
+- Analyze source code and APIs and automatically generate test tht target program implementation.
+
+**Test Code Generation and Maintenance**
+
+- Generate executable test scripts for automated unit, integration, and system-level testing to address both funcional and nonfunctional testing;
+- Migrate existing test scripts from one language, framework, or platform to another;
+- Update test scripts as the application evolves;
+- Create scripts for configuring an environment;
+- Improve existing scripts.
+
+**Test Planning, Execution, and Results Analysis**
+
+- Identify test techniques;
+- Generate comprehensive test strategies and plans;
+- Prioritize or shedule tests for execcution;
+- Automatically summarize results or bug reports, including grouping similar failures and root cause analysis;
+- Automated failure triage, including categorization and severity assignment;
+- Suggest test deliverables.
+
+**Test Case Maintenance and Management**
+
+- Generate test cases based on the provided data model and use cases;
+- Update test cases over builds to keep pace with changes;
+- Identify duplicate test cases to reduce redundancy and maintenance effors;
+- Convert test from one format or test case management system to another;
+- Symplify complex tests to reduce the number of steps and improve readability, underandability, and efficiency.
+
+**Test Data Generation and Management**
+
+- Create SQL or API requests to generate test data;
+- Automatically generate different types of test data based on predefined prompts, a description of data characteristics, or application fields.
+- Convert test data from one format or database platform to another;
+- Systematically update or append test data with new or modified values;
+- Roll back test data configuration.
+
+**Test Results Analysis and Defect Management**
+
+- Organize and structure a report in a specific format;
+- Automatically summarize results of bug reports;
+- Group similar features or identify common relationships or possible root causes for failures;
+- Automated failure triage, incuding categorization and severity assignment;
+- Assess test result reports.
+
+</details>
