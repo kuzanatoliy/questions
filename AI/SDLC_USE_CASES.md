@@ -62,3 +62,16 @@ _Use cases:_
 - Get a manual for a specific sysmtem.
 
 </details>
+
+<details>
+  <summary>How AI tools help for maintenance?</summary>
+
+**Maintenance** - Help with maintenance and support tasks by enhancing the usability and functionality of the software.
+
+_Use cases:_
+
+- Monitor and analyze how te software is used and its performance;
+- Detect and fix bugs and errors.
+- Provide feedback and suggestions for improvement.
+
+</details>
