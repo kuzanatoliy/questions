@@ -52,3 +52,13 @@ _Use cases:_
 - Configure and deploy the software using chatbots and scripts.
 
 </details>
+
+<details>
+  <summary>How AI tools help for deployment?</summary>
+
+_Use cases:_
+
+- Write scripts;
+- Get a manual for a specific sysmtem.
+
+</details>
