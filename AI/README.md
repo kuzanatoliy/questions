@@ -9,3 +9,5 @@
 [Generative AI](GENERATIVE_AI.md)
 
 [Language modeling](LANGUAGE_MODELING.md)
+
+[Software development lifecycle use cases](SDLC_USE_CASES.md)
