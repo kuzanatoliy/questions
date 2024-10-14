@@ -39,3 +39,16 @@ _Use cases:_
 - Assist with debugging and refactoring.
 
 </details>
+
+<details>
+  <summary>How AI tools help for testing?</summary>
+
+**Testing** - Improve the reliability and security of the testing and deployment outcomes.
+
+_Use cases:_
+
+- Generate test cases and scripts based on the user stories and design specifications;
+- Run automated tests and report the results;
+- Configure and deploy the software using chatbots and scripts.
+
+</details>
