@@ -870,3 +870,17 @@ When a Web application provides the capability of deleting information, the serv
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G99)
 
 </details>
+
+<details>
+  <summary>What abjective of providing a short text alternative which is the accepted name or a descriptive name of the non-text content?</summary>
+
+The objective of this technique is to allow users to identify the non-text content even if the non-text content is intended to provide a specific sensory experience. For example, a deafperson may want to know what an audio instrumental file is - even if they cannot hear it. Similarly, a blind person may want to know what the subject of a visual image is - even if they cannot see it.
+
+**Procedure:**
+
+1. Check that short text alternative provides a descriptive name.
+2. Check that short text alternative provides a name that has be previously been given to the non-text content by the author or another.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G100)
+
+</details>
