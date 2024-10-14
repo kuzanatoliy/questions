@@ -26,3 +26,16 @@ _Use cases:_
 - Suggest optimal design patterns nd solutions.
 
 </details>
+
+<details>
+  <summary>How AI tools help for implementation?</summary>
+
+**Implementation** - Help with coding and development tasks by increasing the speed and efficiency of the coding and development outcomes.
+
+_Use cases:_
+
+- Generate code based on the user stories and architectural models;
+- Suggest code improvements and best practices;
+- Assist with debugging and refactoring.
+
+</details>
