@@ -884,3 +884,22 @@ The objective of this technique is to allow users to identify the non-text conte
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G100)
 
 </details>
+
+<details>
+  <summary>What abjective of providing the definition of a word or phrase used in an unusual or resticted way?</summary>
+
+The objective of this technique is to provide a definition for any word used in an unusual or restricted way.
+
+A word is used in an unusual or restricted way when:
+
+- dictionalries give several definitions of the word but one specific definition must be used in order to understand the content;
+- a specific definition must be used in order to understand the content and dictionaries list that definition as rare, archaic, obsolete, etc.;
+- the author creates a new definition that must be used in order to understand the content.
+
+**Procedure:**
+
+1. Check that a definition is provided for the word or phrase.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G101)
+
+</details>
