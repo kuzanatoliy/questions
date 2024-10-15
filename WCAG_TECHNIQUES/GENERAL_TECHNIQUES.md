@@ -903,3 +903,18 @@ A word is used in an unusual or restricted way when:
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G101)
 
 </details>
+
+<details>
+  <summary>What abjective of providing the expansion or explanation of an abbreviation?</summary>
+
+The objective of this technique is to provide information necessary to understand an abbreviation.
+
+**Procedure:**
+
+1. If the abbreviation has no expanded form, an explanation is provided.
+2. If the expanded form of the abbreviation is in a different language than the content, an explanation is provided.
+3. Otherwise, the expanded form is provided.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G102)
+
+</details>
