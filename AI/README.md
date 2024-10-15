@@ -9,3 +9,5 @@
 [Generative AI](GENERATIVE_AI.md)
 
 [Language modeling](LANGUAGE_MODELING.md)
+
+[Use cases](USE_CASES.md)
