@@ -935,18 +935,15 @@ The objective of this technique is to provide visual illustrations that help use
 </details>
 
 <details>
-  <summary>What abjective of saving data so that it can be used after a user re-authenticates?</summary>
+  <summary>What abjective of using "activate" rather than "focus" as a trigger for changes of context?</summary>
 
-Web servers that require user authentication often terminate the session after a set period of time if there is no activity from the user. If the user is unable to input the data quickly enough and the session times out before they submit, the server will require re-authentication before procceeding. When this happens, the server stores the data in a temporary cache while the user logs in, and when the user has re-authenticated, the data is made available from the cache and the form is processed as if there had never been a session time-out. The server does not keep the cache indefinitely, merely long enough to ensure success after re-authentication in a single user session, such as one day.
+The objective of this technique is to provide a method for activating things that is predictable by the user. Users with cognitive disabilities and people using screen readers or screen magnifiers may be confused by an unexpected event such as automatic form submission or activation of a function that causes a change of context.
 
 **Procedure:**
 
-1. Log in and begin the timed activity.
-2. Allow the session to time out.
-3. Submit the data.
-4. Re-authenticate.
-5. Check that the process can continue and be completed without loss of data, including the original data and any changes made after re-authentication.
+1. Using a keyboard, cycle focus through all content.
+2. Check that not changes of context occur when any component receives focus.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G105)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G107)
 
 </details>
