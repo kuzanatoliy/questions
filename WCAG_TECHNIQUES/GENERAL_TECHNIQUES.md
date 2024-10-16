@@ -918,3 +918,18 @@ The objective of this technique is to provide information necessary to understan
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G102)
 
 </details>
+
+<details>
+  <summary>What abjective of providing visual illustrations, pictures, and symbols to help explain ideas, events, and processes?</summary>
+
+The objective of this technique is to provide visual illustrations that help users with reading disabilites understand difficult text that describes concepts or processes. The illustrations are provided in addition to the text.
+
+**Procedure:**
+
+1. Identify text taht discusses ideas or processes that must be understood in order to use the content.
+2. Check if visual illustations are available in the content or through links within the content.
+3. Check that visual illustrations show the concepts or processes discussed in the text.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G103)
+
+</details>
