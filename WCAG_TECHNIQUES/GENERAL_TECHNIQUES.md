@@ -962,3 +962,18 @@ The objective of this technique is to allow assistive technology to understand W
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G108)
 
 </details>
+
+<details>
+  <summary>What abjective of using an instant client-side redirect?</summary>
+
+The objective of this technique is to enable redirects on the client side without confusing the user. Redirects are preferably implemented on the server side, because a server-side redirect does not cause new content to be displayed before the server sends the content located at the new URI. However, authors do not always have control over server-side technologies; in that case, they can use a client-side redirect. A client-side redirect is implemented by code inside the content that instructs the user agent to retrieve content from a different URI. It is important that the redirecting page or Web page only contains information related to the redirect.
+
+**Procedure:**
+
+1. Find each link or programmatic reference to another page or Web page.
+2. For each link or programmatic reference, check if the referenced Web page contains code that causes a client-side redirect.
+3. For each link or programmatic reference that causes a client-side redirect, check if the redirect is implemented without a time limit or delay and that the page only contatins information related to the redirect.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G110)
+
+</details>
