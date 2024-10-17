@@ -947,3 +947,18 @@ The objective of this technique is to provide a method for activating things tha
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G107)
 
 </details>
+
+<details>
+  <summary>What abjective of using markup features to expose the name and role, allow user-settable properties to be directly set, and provide notification of changes?</summary>
+
+The objective of this technique is to allow assistive technology to understand Web content so that it can convey equivalent information to the user through and alternate user interface and allow them to operate controls through the AT.
+
+**Procedure:**
+
+1. Visually inspect the markup or use a tool.
+2. Check that proper markup is used such that the name and role, for each user interface component can be determined.
+3. Check taht proper markup is used such that the user interface components that accept user input can all be operated from AT.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G108)
+
+</details>
