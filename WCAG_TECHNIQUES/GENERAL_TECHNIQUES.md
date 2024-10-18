@@ -990,3 +990,16 @@ The objective of this technique is to ensure that when color differentces are us
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G111)
 
 </details>
+
+<details>
+  <summary>What abjective of using inline definitions?</summary>
+
+The objective of this technique is to provide a definition in context for any word used in an unusual or restricted way. The definition is provided in the text, either just before or just after the word is used. The definition may be included in the same sentence as the word that is being defined, or in a separate sentence.
+
+**Procedure:**
+
+1. Check that the word is defined in text either before or after the first occurrence of the word.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G112)
+
+</details>
