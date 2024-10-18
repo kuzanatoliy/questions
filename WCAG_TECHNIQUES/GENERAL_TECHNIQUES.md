@@ -1003,3 +1003,17 @@ The objective of this technique is to provide a definition in context for any wo
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G112)
 
 </details>
+
+<details>
+  <summary>What abjective of using semantic elements to mark up structure?</summary>
+
+The objective of this technique is to mark up the structure of the Web content using the appropriate semantic elements. In other words, the elements are used according to their meaning, not because of the way they appear visually.
+
+**Procedure:**
+
+1. Check if there are parts of the content that have a semantic function.
+2. For each part that has a semantic function, if corresponding semantic markup exists in the technology, check that the content has been marked up using that semantic markup.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G115)
+
+</details>
