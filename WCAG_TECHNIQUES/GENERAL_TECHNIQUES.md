@@ -977,3 +977,16 @@ The objective of this technique is to enable redirects on the client side withou
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G110)
 
 </details>
+
+<details>
+  <summary>What abjective of using color and pattern?</summary>
+
+The objective of this technique is to ensure that when color differentces are used to convey information within non-text content, patterns are included to convey the same information in a manner that does not depend on color.
+
+**Procedure:**
+
+1. Check that all information that is conveyed using color is also conveyed using patterns that do not rely on color.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G111)
+
+</details>
