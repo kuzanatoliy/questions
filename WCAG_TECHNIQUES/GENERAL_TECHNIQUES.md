@@ -1017,3 +1017,17 @@ The objective of this technique is to mark up the structure of the Web content u
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G115)
 
 </details>
+
+<details>
+  <summary>What abjective of using text to convey information that is conveyed by variations in presentation of text?</summary>
+
+The objective of this technique is to ensure that information conveyed through variations in the formatting of text is conveyed in text as well. When the visual appearance of text is varied to convey information, state the infroamtion explicitly in the text. Variations in the visual appearance can be made by changes in font face, font size, underline, strike through and various other text attributes. When these types of variations convey information, that information needs to be available elsewhere in the content via text. Including additional sections in the document or an inline description where the variation in presentation of text occurs can be used to convey the information.
+
+**Procedure:**
+
+1. Find items where variations in presentation of text are used to convey information.
+2. For those items, check to determine if information conveyed visually is also stated explicitly in text.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G117)
+
+</details>
