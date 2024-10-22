@@ -1059,3 +1059,19 @@ The objective of this technique is to make the pronunciation of a word available
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G121)
 
 </details>
+
+<details>
+  <summary>What abjective of adding a link at the beginning of a block of repeated content to go to the end of the block?</summary>
+
+The objective of this technique is to provide a mechanism to bypass a block of matterial by skipping to the end of the block. The first link in the block or the link directly preceding the block moves focus to the content immediately after the block. Activating the link advances the keyboard focus past the block. When there are multiple blocks to be skipped, the user skips from block to block via these links.
+
+**Procedure:**
+
+1. Check taht a link is the last focusable control before the block of repeated content or the first link in the block.
+2. Check that teh description of the link communicates that it skips the block.
+3. Check that the link is either always visible or visible when it has keyboard focus.
+4. Check that after activating the link, the keyboard focus has moved to the content immediately after the block.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G123)
+
+</details>
