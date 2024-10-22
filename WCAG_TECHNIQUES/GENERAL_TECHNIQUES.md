@@ -1045,3 +1045,17 @@ The objective of this technique is to make the pronunciation of a word available
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G120)
 
 </details>
+
+<details>
+  <summary>What abjective of linking to pronunciations?</summary>
+
+The objective of this technique is to make the pronunciation of a word available by providing information about the pronunciation, either within the same Web page or in a different Web page, and establishing a link between the item and its pronunciation.
+
+**Procedure:**
+
+1. Check that at least the first instance of the item is a link.
+2. Check that each link navigates to information about the pronunciation of the item.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G121)
+
+</details>
