@@ -1031,3 +1031,17 @@ The objective of this technique is to ensure that information conveyed through v
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G117)
 
 </details>
+
+<details>
+  <summary>What abjective of providing the pronunciation immediately following the word?</summary>
+
+The objective of this technique is to make the pronunciation of a word available by providing the pronunciation after the word at least the first time it occurs within a Web page.
+
+**Procedure:**
+
+1. Search for the first use of that word in the Web page.
+2. Check that the first use is immediately followed by the pronunciation of the word.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G120)
+
+</details>
