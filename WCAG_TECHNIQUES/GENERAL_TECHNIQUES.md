@@ -1075,3 +1075,19 @@ The objective of this technique is to provide a mechanism to bypass a block of m
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G123)
 
 </details>
+
+<details>
+  <summary>What abjective of adding links at the top of the page to each area of the content?</summary>
+
+The objective of this technique is to provide a mechanism to bypass blocks of material by providing a list of links to the different sections of the content. The links in this list, like a small table of contents at the beginning a list of links to the different sections of the content. The links in this list, like a small table of contents at the beginning of the content, set focus to the different sections of the content. This technique is particularly useful for pages with many independent sections, such as portals. It may also be combined with other techniquest for skipping blocks within a section.
+
+**Procedure:**
+
+1. Check that the only controls in the Web page that precede the link are other links in the set.
+2. Check that the description of each link communicates that it links to some section of the content.
+3. Check that the link is either always visible or visible when it has keyboard focus.
+4. Check that activating the link moves the focus to that section of the content.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G124)
+
+</details>
