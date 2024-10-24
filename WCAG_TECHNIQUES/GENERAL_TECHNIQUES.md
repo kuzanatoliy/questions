@@ -1091,3 +1091,16 @@ The objective of this technique is to provide a mechanism to bypass blocks of ma
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G124)
 
 </details>
+
+<details>
+  <summary>What abjective of providing links to navigate to related Web pages?</summary>
+
+The objective of this technique is to make it possible for user to locate additional inforamtion by providing links to related Web pages. It is one of a series of techniques for locating content that are sufficient for addressing Success Criterion 2.4.5. Links are a basic component of the World Wide Web. They are the mechanism that makes the Web an interconnected Web of content. Most authors employ this technique automatically when creating Web pages.
+
+**Procedure:**
+
+1. Check whether the link leads to related information.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G125)
+
+</details>
