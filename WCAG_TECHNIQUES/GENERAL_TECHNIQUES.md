@@ -1104,3 +1104,18 @@ The objective of this technique is to make it possible for user to locate additi
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G125)
 
 </details>
+
+<details>
+  <summary>What abjective of providing a list of links to all other Web pages?</summary>
+
+The objective of this technique is to provide a list of links to all the Web pages in the set on each Web page. It is one of a series of techniques for locating content that are sufficient for addressing Succes Criterion 2.4.5. This technique is only effective for small sets of Web pages; if the list of links is longer than the rest of the content in the Web page, it may make the Web page more difficult for users to understand and use.
+
+**Procedure:**
+
+1. Check that each Web page contains a list of links to the other Web pages in the site.
+2. Check that the links in the list lead to the corresponding Web pages.
+3. Check that the list contents a link for every Web page in the site.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G126)
+
+</details>
