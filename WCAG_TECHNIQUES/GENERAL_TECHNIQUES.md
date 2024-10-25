@@ -1119,3 +1119,17 @@ The objective of this technique is to provide a list of links to all the Web pag
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G126)
 
 </details>
+
+<details>
+  <summary>What abjective of identifying a Web page's relationship to a larger collection of Web pages?</summary>
+
+The objective of this technique is to enable users to identify the relationship between the current Web page and other Web pages in the same collection. In some cases this can be done programmatically - for example by using the rel attribute of the link element in HTML. In other cases the information is provided by inluding the relevant information in the title of the Web page.
+
+**Procedure:**
+
+1. Check if the title of the Web page describes the Web page's relationship to the collection to which it belongs.
+2. Check if the Web page includes metadata identifying the Web page's relationship to the collection to which it belongs.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G127)
+
+</details>
