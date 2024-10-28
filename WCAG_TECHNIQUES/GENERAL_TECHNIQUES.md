@@ -1133,3 +1133,17 @@ The objective of this technique is to enable users to identify the relationship 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G127)
 
 </details>
+
+<details>
+  <summary>What abjective of indicating current location within navigation bars?</summary>
+
+The objective of this technique is to help orient the user by providing information about the current location via the navigational user iterface component. This technique is especially useful when the Web pages are steps in a task that must be processed in order. Providing this indication helps the user to better understand their place in the sequence. The location may be indicated by adding an icon or text, or by changing the state of the item.
+
+**Procedure:**
+
+1. Check that the user is given an indication of the currently selected item within the navigational unit.
+2. Check that the selected item matches the content which is being displayed.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G128)
+
+</details>
