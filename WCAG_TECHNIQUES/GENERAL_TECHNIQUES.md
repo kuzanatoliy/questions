@@ -1161,3 +1161,17 @@ The objective of this technique is to make section headings within Web content d
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G130)
 
 </details>
+
+<details>
+  <summary>What abjective of providing descriptive headings?</summary>
+
+The objective of this technique is to ensure that the label for any interactive component within Web content makes the component's purpose clear. Using the appropriate technology specific techniques for technologies for associating labels with interactive controls allows assistive technology to recognize the label and present it to the user, therefore allowing the user to identify the purpose of the control. The label may also be used to include text or a text symbol indicating that input is required.
+
+**Procedure:**
+
+1. Identify the purpose of the interface component.
+2. Check that each hlabel makes the component's purpose clear.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G131)
+
+</details>
