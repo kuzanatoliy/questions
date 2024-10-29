@@ -1147,3 +1147,17 @@ The objective of this technique is to help orient the user by providing informat
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G128)
 
 </details>
+
+<details>
+  <summary>What abjective of providing descriptive headings?</summary>
+
+The objective of this technique is to make section headings within Web content descriptive. Descriptive headings and titles work together to give users and overview of the content and its organization. Descriptive headings identiy sections of the content in relation both to the Web page as a whole and to other sections of the same Web page.
+
+**Procedure:**
+
+1. Determine if the Web page contains headings.
+2. Check that each heading identifies its section of the content.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G130)
+
+</details>
