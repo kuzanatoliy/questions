@@ -1189,3 +1189,18 @@ The objective of this technique is to minimize the risk that users with disabili
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G133)
 
 </details>
+
+<details>
+  <summary>What abjective of using the accessibility API features of a technology to expose names and roles, to allow user-setable properties to be directly set, and to provide notification of changes?</summary>
+
+The objective of this technique is to allow assistive technology to understand Web content so that it can convey equivalent information to the user through an alternate user interface.
+
+**Procedure:**
+
+1. Render content using an accessible User Agent.
+2. Use an Accessibility Tool designed for the Accessibility API of the User agent to evaluate each user interface component.
+3. Check that name and role for each user interface component are found by the tool.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G135)
+
+</details>
