@@ -1175,3 +1175,17 @@ The objective of this technique is to ensure that the label for any interactive 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G131)
 
 </details>
+
+<details>
+  <summary>What abjective of providing a checkbox on the first page of a multipart form that allows users to ask for longer session time limit or no session time limit?</summary>
+
+The objective of this technique is to minimize the risk that users with disabilities will lose their work by providing a checkbox to request additional time to complete multipart forms. The checkbox can allow the user to requiest a specific amount of additional time or an indefinite extension.
+
+**Procedure:**
+
+1. Check that the Web page includes a checkbox to request additional time to complete the form.
+2. Check that if the checkbox is checked, additional time is provided to complete the form.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G133)
+
+</details>
