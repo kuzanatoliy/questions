@@ -1204,3 +1204,18 @@ The objective of this technique is to allow assistive technology to understand W
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G135)
 
 </details>
+
+<details>
+  <summary>What abjective of providing a link at the beginning of a nonconforming Web page that points to a conforming alternate version?</summary>
+
+The objective of this technique is to enable users to access alternate content that conforms to WCAG if the primary content or the default content that users encounter when visiting a particular URI, does not conform. The alternate page or conforming alternate version, may make some design or functionality compromises in order to conform, but must meet the requirements described in the definition in order to be a conforming alternate version.
+
+**Procedure:**
+
+1. Identify a page that does not conform to WCAG at the claimed conformance level.
+2. Determine if the page contains a link to a conforming alternate version of the page.
+3. Determine if the alternate version is a conforming alternate version of the original page and that it conforms to WCAG 2.0 at the climed conformance level.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G136)
+
+</details>
