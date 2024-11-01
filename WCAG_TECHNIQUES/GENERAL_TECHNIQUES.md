@@ -1249,3 +1249,17 @@ The objective of this technique is to help users find input errors where the inf
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G139)
 
 </details>
+
+<details>
+  <summary>What abjective of separating information and structure from presentation to enable different presentations?</summary>
+
+The objective of this technique is to facilitate the interaction of assistive technology with content by logically separationg the content's structural encoding from the presentational encoding. Structural encoding is the indication of elements such as headings, paragraphs, lists, tables, etc., and is done by using technology features reserved for the purpose. By contrast, presentational encoding is the indication of formatting effects, such as typeface, color, size, position, borders, etc., and is also supported by technology features.
+
+**Procedure:**
+
+1. Examine the encoding of a docuemnt.
+2. Check that structural information and functionality are explicitly provided and is logically separated from presentational information.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G140)
+
+</details>
