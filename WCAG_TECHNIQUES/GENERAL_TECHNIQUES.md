@@ -1219,3 +1219,16 @@ The objective of this technique is to enable users to access alternate content t
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G136)
 
 </details>
+
+<details>
+  <summary>What abjective of using semantic markup whenever color cues are used?</summary>
+
+The objective of this technique is to combine color and semantic markup to convey information. Most users can quickly scan the contnet to locate information conveyed by using color. For users who cannot see color, semantic markup can provide a different type of cue. User agents can then make this type of structure perceivable to the user, for example using a different visual presentation for different types of structures or by using a different voice or pitch in an auditory presentation.
+
+**Procedure:**
+
+1. Check that the same information is available through semantic markup.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G138)
+
+</details>
