@@ -1232,3 +1232,20 @@ The objective of this technique is to combine color and semantic markup to conve
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G138)
 
 </details>
+
+<details>
+  <summary>What abjective of creating a mechanism that allows users to jump to errors?</summary>
+
+The objective of this technique is to help users find input errors where the information supplied by the user is not accepted. This includes fields with missing required information and fields with incorrect information. When users enter data input that is checked, and input errors are detected, a link to that the user does not have to search for it. One approach is to use server-side validation, and to re-display the form, and a text description at the top of the page that indicates the fact that there was an input error, describes the nature of the problem, and provides a link the field(s) with a problem.
+
+**Procedure:**
+
+1. Fill out a form, deliverately leaving a required (mandatory) field blank, and make an input error on another field and submit the form.
+2. Check that a text message is provided that identifies the field that is missing required data.
+3. Check that a text message is provided that identifies the field with the input error.
+4. Check that there is a link to each field that is missing required data from the missing data message.
+5. Check that there is a link to the list of errors from the error message.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G139)
+
+</details>
