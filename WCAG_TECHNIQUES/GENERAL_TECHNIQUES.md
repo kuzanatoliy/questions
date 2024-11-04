@@ -1307,3 +1307,18 @@ The objective of this technique is to provide information via the text alternati
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G143)
 
 </details>
+
+<details>
+  <summary>What abjective of ensuring that the Web Page contains another CAPTCHA serving the same purpose using a different modality?</summary>
+
+The objective of this technique is to reduce occasions in which a user with a disability cannot complete a CAPTCHA task. Because there are alternate CAPTCHA tasks that use different modalities, a user is more likely to be able to completer one of the tasks successfully.
+
+**Procedure:**
+
+1. Remove, hide or mask the CAPTCHA.
+2. Replace it with the text alternative.
+3. Check taht the text alternative describes the purpose of the CAPTCHA.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G144)
+
+</details>
