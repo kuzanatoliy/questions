@@ -1263,3 +1263,17 @@ The objective of this technique is to facilitate the interaction of assistive te
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G140)
 
 </details>
+
+<details>
+  <summary>What abjective of organizing a page using headings?</summary>
+
+The objective of this technique is to ensure that sections have headings that identify them. Success Criterion 1.3.1 requires that the headings be marked such taht they can be programmatically identified.
+
+**Procedure:**
+
+1. Examine a page with content organized into sections.
+2. Check that a heading for each section exists.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G141)
+
+</details>
