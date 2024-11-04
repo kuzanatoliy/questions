@@ -1277,3 +1277,18 @@ The objective of this technique is to ensure that sections have headings that id
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G141)
 
 </details>
+
+<details>
+  <summary>What abjective of using a technology that has commonly-available user agents that support zoom?</summary>
+
+The objective of this technique is to ensure content can be scaled uniformly by using a Web technology supported by user agents that change text size via a Zoom tool.
+
+**Procedure:**
+
+1. Display content in a user agent.
+2. Zoom content to 200%.
+3. Check whether all content and functionality is available.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G142)
+
+</details>
