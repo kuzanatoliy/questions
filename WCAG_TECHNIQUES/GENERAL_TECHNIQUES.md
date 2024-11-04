@@ -1292,3 +1292,18 @@ The objective of this technique is to ensure content can be scaled uniformly by 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G142)
 
 </details>
+
+<details>
+  <summary>What abjective of providing a text alternative that describes the purpose of the CAPTCHA?</summary>
+
+The objective of this technique is to provide information via the text alternative that identifies the non-text content as a CAPTCHA. Such tests often involve asking the user to type in text taht is presented in an obscured image or audio file. From the text alternative, the user can tell that the CAPTCHA requires completing a task and what type of task it is.
+
+**Procedure:**
+
+1. Remove, hide or mask the CAPTCHA.
+2. Replace it with the text alternative.
+3. Check taht the text alternative describes the purpose of the CAPTCHA.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G143)
+
+</details>
