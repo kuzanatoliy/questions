@@ -1322,3 +1322,18 @@ The objective of this technique is to reduce occasions in which a user with a di
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G144)
 
 </details>
+
+<details>
+  <summary>What abjective of ensuring that a contrast ratio of at least 3:1 exists between text and background behind the text?</summary>
+
+The objective of this technique is to make sure that users can read text that is presented over a background. This technique relaxes the 4.5:1 contrast ratio requirement for text that is at least 18 point or at least 14 point.
+
+**Procedure:**
+
+1. Measure the relative luminance of each letter using the formula: L = 0.2126 _ R + 0.7152 _ G + 0.0722 \* B.
+2. Measure the relative luminance of the background pixels immediately next to the letter using same formula.
+3. Calculate the contrast ratio using the following formula.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G145)
+
+</details>
