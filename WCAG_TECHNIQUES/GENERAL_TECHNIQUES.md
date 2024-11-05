@@ -1337,3 +1337,18 @@ The objective of this technique is to make sure that users can read text that is
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G145)
 
 </details>
+
+<details>
+  <summary>What abjective of using liquid layout?</summary>
+
+The objective of this technique is to be able to present content without introducing horizontal scroll bars by using layout techniques that adapt to the available horizontal space. Liquid layouts define layout regions that both resize with text, and reflow as needed to display the region on the screen. Althogh the exact layout therefore varies, the relationship of elements and the reading order remains the same. This is an effective way to create designs that present well on different devices and for users with different font size preferences.
+
+**Procedure:**
+
+1. Display content in a user agent.
+2. Increase text size to 200%.
+3. Check whether all content and functionality is available with no horizontal scrolling.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G146)
+
+</details>
