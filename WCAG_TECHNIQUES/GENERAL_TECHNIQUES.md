@@ -1368,3 +1368,17 @@ The objective of this technique is to make sure that users can read text that is
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G148)
 
 </details>
+
+<details>
+  <summary>What abjective of using user interface components that are highlighted by the user agent when they receive focus?</summary>
+
+The objective of this technique is to ensure that the fucused component can be visually identified by the user by relying on user agent support. It is common for user agents to highlight standard controls in some way when they receive focus. UAAG-conformant user agents do so when they statisfy checkpoint 10.2 "Highlight selection, content focus, enable elements, visited links". When authors use standard controls for which the user agent provides this support, users are informed of the focus location in a standard, predictable way.
+
+**Procedure:**
+
+1. Set focus to the control.
+2. Check whether the user agent has highlighted the control in some way.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G149)
+
+</details>
