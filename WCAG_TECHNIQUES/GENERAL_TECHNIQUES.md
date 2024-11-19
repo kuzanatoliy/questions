@@ -1352,3 +1352,19 @@ The objective of this technique is to be able to present content without introdu
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G146)
 
 </details>
+
+<details>
+  <summary>What abjective of not specifying background color, not specifying text color, and not using technology features that change those defaults?</summary>
+
+The objective of this technique is to make sure that users can read text that is presented over a background. With this technique the author avoids having to do any contrast measures by simply not specifying the text color and not specifying the background. As a result the colors of both are completely determined by the user agent.
+
+**Procedure:**
+
+1. Loo in all places that text color can be specified.
+2. Check that text color is not specified.
+3. Look in all areas that background color or image used as a background can be specified.
+4. Check that no background color or image used as background is specified.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G148)
+
+</details>
