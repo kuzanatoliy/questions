@@ -1382,3 +1382,17 @@ The objective of this technique is to ensure that the fucused component can be v
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G149)
 
 </details>
+
+<details>
+  <summary>What abjective of providing text based alternatives for live audio-only content?</summary>
+
+The objective of this technique is to allow users who cannot hear to be able to access real-time audio broadcasts. It is more difficult to create accurate real-time alternatives because there is little time to correct mistakes, to listen a second time or to consult someone to be sure the words are accurately reproduced. It is also harder to simplify or paraphrase information if it is flowing too quickly.
+
+**Procedure:**
+
+1. Check that a procedure and policy is in place to ensure that text alternatives are delivered in real-time.
+2. Check that procedure and policy are working by conducting a random sample to see if text alternatives appear.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G150)
+
+</details>
