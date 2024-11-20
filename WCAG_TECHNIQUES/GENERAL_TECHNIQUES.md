@@ -1396,3 +1396,18 @@ The objective of this technique is to allow users who cannot hear to be able to 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G150)
 
 </details>
+
+<details>
+  <summary>What abjective of providing a link to a text transcript of a prepared statement or script if the script is followed?</summary>
+
+The objective of this technique is to provide a transcript or script if the live audio content is following a set script. Because it is prepared in advance, the script can be more accurate and complete than live transcription. However, the script will not be synchronized with the audio as it plays. Live audio should not deviate from the script for this technique.
+
+**Procedure:**
+
+1. Check for the presence of a link that points directly to the script or transcript.
+2. Check that the live audio follows the script.
+3. If the alternate version(s) are on a separate page, check for the availability of link(s) to allow the user to get to the other version.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G151)
+
+</details>
