@@ -1440,3 +1440,17 @@ The objective of this technique is to ensure that the text of the Web page is no
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G153)
 
 </details>
+
+<details>
+  <summary>What abjective of providing a checkbox in addition to submit button?</summary>
+
+The objective of this technique is to provide a checkbox that users must select to indicate they have reviewd their input and are ready for it to be commited. This is important when the nature of the transaction is such that it may not be reversible if input errors are susequently discovered or when the result of an action is that data is deleted. The author provides a checkbox that is not selected when the page loads, with a label like "I confirm that the input is correct and am ready to submit" or "I confirm that I wish to delete this data". The checkbox should be located near the submitted, the input is rejected and the user is prompted to review their entry, select the checkbox, and resubmit. Only if the checkbox is selected will the input be accepted and the transaction processed.
+
+**Procedure:**
+
+1. Check that a checkbox indication user confirmation of the input or action is provided in addition to the submit button.
+2. Check tha if the checkbox is not selected when the form is submitted, the inptu is rejected and the user is prompted to review their entry, select the checkbox, and resubmit.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G155)
+
+</details>
