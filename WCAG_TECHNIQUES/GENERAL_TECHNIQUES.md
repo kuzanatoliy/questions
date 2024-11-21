@@ -1411,3 +1411,18 @@ The objective of this technique is to provide a transcript or script if the live
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G151)
 
 </details>
+
+<details>
+  <summary>What abjective of setting amimated gif images to stop blinking after n cycles (within 5 seconds)?</summary>
+
+The objective of this technique is to ensure that animated gif images stop blinking within five seconds. There are three aspects of the design of animated gif images that work together to determine how long the image blinks
+
+**Procedure:**
+
+1. Display an animated gif and time how long it animates.
+2. Alternatively, use an image editor to determine the number of frames, the frame rate, and the number of repetitions. Calculate the product of the number of frames multiplied by the frame rate times the number of repetitions. If frame rates are not uniform, calcuate the product of the sum of the frame rates multiplied by the number of repetitions.
+3. Using either method, the duration of animation should be less than or equal to 5 seconds.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G152)
+
+</details>
