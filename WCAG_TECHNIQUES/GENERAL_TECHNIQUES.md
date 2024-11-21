@@ -1415,7 +1415,7 @@ The objective of this technique is to provide a transcript or script if the live
 <details>
   <summary>What abjective of setting amimated gif images to stop blinking after n cycles (within 5 seconds)?</summary>
 
-The objective of this technique is to ensure that animated gif images stop blinking within five seconds. There are three aspects of the design of animated gif images that work together to determine how long the image blinks
+The objective of this technique is to ensure that animated gif images stop blinking within five seconds. There are three aspects of the design of animated gif images that work together to determine how long the image blinks.
 
 **Procedure:**
 
@@ -1424,5 +1424,19 @@ The objective of this technique is to ensure that animated gif images stop blink
 3. Using either method, the duration of animation should be less than or equal to 5 seconds.
 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G152)
+
+</details>
+
+<details>
+  <summary>What abjective of making the text easier to read?</summary>
+
+The objective of this technique is to ensure that the text of the Web page is not difficult to read. Users with disabilities that make it difficult to decode words and sentences are likely to have trouble reading and understanding complex text. If the text does not require reading ability more advanced than the lower secondary education level, no supplements or alternative versions are needed.
+
+**Procedure:**
+
+1. Measure the readability of the text.
+2. Check that the text requires reading ability less advanced than the lower secondary education level.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G153)
 
 </details>
