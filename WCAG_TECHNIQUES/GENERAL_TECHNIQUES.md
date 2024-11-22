@@ -1454,3 +1454,20 @@ The objective of this technique is to provide a checkbox that users must select 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G155)
 
 </details>
+
+<details>
+  <summary>What abjective of using a technology that has commonly-available user agents that can change the foreground and background of blocks of text?</summary>
+
+Some people with cognitive disabilities require specific color combinations of foreground text and background to help them successfully understand the contents of the Web page. Most popular browsers provide the option to change colors settings globally within the browser. In this case the colors selected by the user wverride the foreground and background colors specified byt the Web author.
+
+In order to meet this success criterion, the Web author would design the page so that it works with browsers that have these controls, and the author does not override these controls.
+
+**Procedure:**
+
+1. Open the Web page in a browser that allows users to change colors of HTML content.
+2. Change the foreground and background colors in the browser settings so they are different than those specified in the content.
+3. Return to the page and check that the new specified foreground text and background colors in the browser override the colors specified in the content.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G156)
+
+</details>
