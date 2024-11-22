@@ -1471,3 +1471,17 @@ In order to meet this success criterion, the Web author would design the page so
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G156)
 
 </details>
+
+<details>
+  <summary>What abjective of incorporationg a live audio captioning service into a Web page?</summary>
+
+The objective of this technique is to use a real-time caption service to provide a text version of live audio content. Such services use a trained human operator who listens in to what is being said and uses a special keyboard to enter the text with only a small delay. They are able to capture a live event with a high degree of fidelity, and also to insert notes on any non spoken audio which is essential to understanding the event. The viewport containing the caption text is available on the same Web page as the live audion conent.
+
+**Procedure:**
+
+1. Check that the Web page contains a viewport associated with the live audion content.
+2. Check that the text of the live audion content appears in the viewport with less than 30 seconds delay.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G157)
+
+</details>
