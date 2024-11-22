@@ -1485,3 +1485,24 @@ The objective of this technique is to use a real-time caption service to provide
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G157)
 
 </details>
+
+<details>
+  <summary>What abjective of providing an alternative for time-based media for audio-only content?</summary>
+
+The purpose of this technique is to provide an accessible alternative way of presenting the information in an audio-only presentation.
+
+**Procedure:**
+
+1. View the audio-only content while referring to the alternative for time-based media.
+2. Check that the dialogue in the transcript matches the dialogue and information presented in the audio-only presentation.
+3. If the audio includes multiple voices, check that the transcript identifies who is speaking for all dialogue.
+4. Check that at least one of the following is true:
+
+- The transcript itself can be programmatically determined from the text alternative for the audio-only content.
+- The transcript is referred to from the programmatically determined text alternative for the audio-only content.
+
+5. If the alternate version(s) are on a separate page, check for the availability of link(s) to allow the user to get to the other versions.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G158)
+
+</details>
