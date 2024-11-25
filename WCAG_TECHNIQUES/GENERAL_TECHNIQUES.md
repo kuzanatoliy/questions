@@ -1506,3 +1506,24 @@ The purpose of this technique is to provide an accessible alternative way of pre
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G158)
 
 </details>
+
+<details>
+  <summary>What abjective of providing an alternative for time-based media for video-only content?</summary>
+
+The purpose of this technique is to provide an accessible alternative way of presenting the information in a video-only presentation.
+
+**Procedure:**
+
+1. View the video-only content while referring to the alternative for time-based media.
+2. Check that the information in the transcript includes the same information that is in the video-only presentation.
+3. If the video includes multiple people or characters, check that the transcript identifies which person or character is associated with each action described.
+4. Check that at least one of the following is true:
+
+- The transcript itself can be programmatically determined from the text alternative for the video-only content.
+- The transcript is referred to from the programmatically determined text alternative for the video-only content.
+
+5. If the alternate version(s) are on a separate page, check for the availability of link(s) to allow the user to get to the other versions.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G159)
+
+</details>
