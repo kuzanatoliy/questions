@@ -1590,3 +1590,17 @@ The objective of this technique is to provide users with a mechanism turning sta
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G163)
 
 </details>
+
+<details>
+  <summary>What abjective of providing a stated time within which an online request (or transaction) may be amended or canceled by the user after making the request?</summary>
+
+The objective of this technique is to allow users to recover from errors made when placing an order by providing them with a period of time during which they can cancel or change the order. In general, a contract or an order is a leagal commitment and cannot be canceled. However, a Web site may choose to offer this capability, and it provides a way for users to recover from errors.
+
+**Procedure:**
+
+1. Check that the Web page describes the time period to cancel or change an order.
+2. Check that the Web page describes the process for canceling or changing an order.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G164)
+
+</details>
