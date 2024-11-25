@@ -1559,3 +1559,18 @@ Providing a search function that searches your Web pages is a design strategy th
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G161)
 
 </details>
+
+<details>
+  <summary>What abjective of positioning labels to maximize predictability of relationships?</summary>
+
+When labels for form fields are positioned where the user expects them visually, it is easier to understand complex forms and to locate specific fields. Labels for most fields are positioned immediately before the field, that is, for left-to-right languages, either to the left of the fields or above it, and for right-to-left languages, to the right of the field or above it. Labels for radio buttons and checkboxes are positioned after the field.
+
+**Procedure:**
+
+1. Check that the form field has a visible label.
+2. If the form field is a checkbox or radio button, check that the label is immediately after the field.
+3. If the form field is not a checkbox or radio button, check that the label is immediately before the field.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G162)
+
+</details>
