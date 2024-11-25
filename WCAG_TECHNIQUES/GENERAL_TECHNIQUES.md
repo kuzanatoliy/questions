@@ -1527,3 +1527,18 @@ The purpose of this technique is to provide an accessible alternative way of pre
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G159)
 
 </details>
+
+<details>
+  <summary>What abjective of providing sign language versions of information, ideas, and processes that must be understood in order to use the content?</summary>
+
+For some people who are deaf or have certain congnitive disabilities, sign language may be their first language. A sign language version of the page may be easier for them to understand than a written language version. The objective of this technique is to provide sign language content is provided in addition to the text.
+
+**Procedure:**
+
+1. Identify text that discusses ideas or processes that must be understood in order to use the content.
+2. Check if sign language supplements to the text are available in the content or through links within the content.
+3. Check that the sign language supplements show the concepts or processes discussed in the text.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G160)
+
+</details>
