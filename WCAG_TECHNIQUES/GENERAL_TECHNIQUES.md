@@ -1604,3 +1604,18 @@ The objective of this technique is to allow users to recover from errors made wh
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G164)
 
 </details>
+
+<details>
+  <summary>What abjective of using the default focus indicator for the platform so that high visibility defautl focus indicators will carry over?</summary>
+
+Operating systems have a native indication of focus, which is available in many user agents. The default rendering of the focus indicator isn't always highly visible and may even be difficult to see against certain backgrounds. However, many platforms allow the user to customize the rendering of this focus indicator. Assistive technology can also change the appearance of the native fucus indicator. If you use the native focus indicator any system-wide settings for its visibility will carry over to the Web page. If you draw your own focus indicator, for example by coloring sections of the page in response to user action, these settings will not carry over, and AT will not usually be able to find your focus indicator.
+
+**Procedure:**
+
+1. Use the features of your platform to customize the appearacne of the focus indicator.
+2. Tab through the page, nothing the path of the focus.
+3. Check that hte focus indicator for each control is visible.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G165)
+
+</details>
