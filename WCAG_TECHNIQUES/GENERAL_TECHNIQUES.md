@@ -1574,3 +1574,19 @@ When labels for form fields are positioned where the user expects them visually,
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G162)
 
 </details>
+
+<details>
+  <summary>What abjective of using standard diacritical marks that can be turned off?</summary>
+
+The objective of this technique is to provide users with a mechanism turning standard diacritical marks on or off.
+
+**Procedure:**
+
+1. Check that the default version of the content users diacritical marks.
+2. Check that there is a mechamism to turn diacritical marks on or off.
+3. Check that using the mechanism to turn off diactirical marks results in content that does not display diacritical marks.
+4. Check that using the mechanism to turn on diacritical marks results in content that displays diacritical marks.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G163)
+
+</details>
