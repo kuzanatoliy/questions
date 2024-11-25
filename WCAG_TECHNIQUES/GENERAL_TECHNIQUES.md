@@ -1542,3 +1542,20 @@ For some people who are deaf or have certain congnitive disabilities, sign langu
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G160)
 
 </details>
+
+<details>
+  <summary>What abjective of providing a search function to help users find content?</summary>
+
+Providing a search function that searches your Web pages is a design strategy that offers users a way to find content. Users can locate content by searching for specific words or phrases, without needing to understand or navigate through the structure of the Web site. This can be a quicker or easier way to find content, particularly on large sites.
+
+**Procedure:**
+
+1. Check that the Web page contains a search form or a link to a search page.
+2. Type text into the search form that occurs in the set of Web pages.
+3. Activate teh search.
+4. Check taht the user is taken to a page that contains the search term.
+5. Check that the user is taken to a page that contains a list of linsk to pages containing the serch term.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G161)
+
+</details>
