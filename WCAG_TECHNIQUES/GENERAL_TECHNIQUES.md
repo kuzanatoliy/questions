@@ -1619,3 +1619,16 @@ Operating systems have a native indication of focus, which is available in many 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G165)
 
 </details>
+
+<details>
+  <summary>What abjective of providing audio that describes the important video content and describinig it as such?</summary>
+
+Video-only content is inaccessible to people who are blind and to some who have low vision. Therefore, it is important for them to have an audio alternative. One way of doing this is to provide an audio track describing the information in the video. The audio should be a common audio format used on the internet. such as MP3.
+
+**Procedure:**
+
+1. Check that there is link to an audio alternative which describes the contents of the video immediately before or after the video-only content.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G166)
+
+</details>
