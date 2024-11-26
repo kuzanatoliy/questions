@@ -1661,3 +1661,17 @@ The abjective of the technique is to seek confirmation from the user that the se
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G168)
 
 </details>
+
+<details>
+  <summary>What abjective of aligning text on only one side?</summary>
+
+Many people with cognitive disabilities have a great deal of trouble with blocks of text that are justified (aligned to both the left and the right margins). The spaces between words create "rivers of white" running down the page, which can make the text difficult for some people to read. This failure describes situatios where this confusing text layout occurs. The best way to avoid this problem is not to create text layout that is fully sustified.
+
+**Procedure:**
+
+1. Open the page in a common browser.
+2. Verify that content is not justified (aligned to both the left and the right margins).
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G169)
+
+</details>
