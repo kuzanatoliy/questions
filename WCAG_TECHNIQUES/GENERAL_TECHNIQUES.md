@@ -1632,3 +1632,17 @@ Video-only content is inaccessible to people who are blind and to some who have 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G166)
 
 </details>
+
+<details>
+  <summary>What abjective of using an adjacent button to label the purpose of a field?</summary>
+
+When a button invokes a function on an input field, has a clear text label, and is rendered adjacent to the input field, the button also acts as a label for the input field. This label helps users understand the purpose of the field without introducing repetive text on the Web page. Buttons that label single text fields typically follow the input field.d
+
+**Procedure:**
+
+1. Check that the field and button are adjacent to one another in the programmatically determined reading sequence.
+2. Check that the field and button are visually rendered adjacent to one another.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G168)
+
+</details>
