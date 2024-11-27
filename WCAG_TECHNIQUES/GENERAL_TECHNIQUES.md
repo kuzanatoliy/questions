@@ -1675,3 +1675,18 @@ Many people with cognitive disabilities have a great deal of trouble with blocks
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G169)
 
 </details>
+
+<details>
+  <summary>What abjective of providing a control near the beginning of the Web page that turns off sounds that play automatically?</summary>
+
+The intent of this technique is to allow a user to turn off sounds that start automatically when a page loads. The control to turn off the sounds should be located near the beginning of the page to allow the control to be easily and quickly discovered by users. This is useful for those who utilize assistive technologies and those who may not.
+
+**Procedure:**
+
+1. Load a Web page.
+2. Check for music or sounds that start automatically.
+3. Check that a control that allows the user to turn off the sounds is provided near the beginning of the page.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G170)
+
+</details>
