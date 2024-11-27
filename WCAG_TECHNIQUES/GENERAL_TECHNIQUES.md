@@ -1690,3 +1690,18 @@ The intent of this technique is to allow a user to turn off sounds that start au
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G170)
 
 </details>
+
+<details>
+  <summary>What abjective of playing sounds only on user request?</summary>
+
+The intent of this technique is to allow a user to control the user of sounds in Web content. Someone that uses a screen reader may find it very distracting and difficult to listen to their screen reader if there are also sounds coming from Web content. Providing a way to play sounds only upon request will give a user the control needed to listen to any sounds or other audio without interfering with the output from a screen reader.
+
+**Procedure:**
+
+1. Load a Web page.
+2. Check that no sounds play automatically.
+3. Check that there is a way for a user to start sounds manually.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G171)
+
+</details>
