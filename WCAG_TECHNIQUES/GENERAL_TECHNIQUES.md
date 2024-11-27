@@ -1736,3 +1736,18 @@ The objective of this technique is to provide a second version of video content 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G173)
 
 </details>
+
+<details>
+  <summary>What abjective of providing a control with a sufficient contrast ratio that allows users to switch to a presentation that uses sufficient contrast?</summary>
+
+When the contrast between the text and its background for some portion of the page has not been designed to meet the contrast level for Success Criterion 1.4.3 or 1.4.6, it is possible to meet these guidelines using the "Slternate Version" clause in the conformance requirements. A link or control on the page can either change the page so that all aspects conform, or it could take the viewer to a new version of the page that does conform at the desired level. Placing the link or control prominently on the page will assist users in accessing the conforming content readily.
+
+**Procedure:**
+
+1. Check that a link or control exists on the original page that provides access to the alternate version.
+2. Check that the link or control on the original page conforms to all success criteria for the conformance level being tested.
+3. Check that the alterante version meets the contrast and all other success criteria for the conformance level being tested.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G174)
+
+</details>
