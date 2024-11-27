@@ -1705,3 +1705,18 @@ The intent of this technique is to allow a user to control the user of sounds in
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G171)
 
 </details>
+
+<details>
+  <summary>What abjective of providing a mechanism to remove full justification of text?</summary>
+
+The objective of this technique is to provide a version of the page that does not have full justification (justified both left and right).
+
+**Procedure:**
+
+1. Open a page with full justification.
+2. Check that there si a feature to remove the full justification.
+3. Check that the feature removes the full justification.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G172)
+
+</details>
