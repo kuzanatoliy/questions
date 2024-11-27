@@ -1720,3 +1720,19 @@ The objective of this technique is to provide a version of the page that does no
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G172)
 
 </details>
+
+<details>
+  <summary>What abjective of providing a version of a movie with audio descriptions?</summary>
+
+The objective of this technique is to provide a second version of video content that provides audio descriptions so that it is possible for people who cannot see to be able to understand audio-visual material.
+
+**Procedure:**
+
+1. Open the version of the media that includes audio description.
+2. Listen to the movie.
+3. Check to see if gaps in dialogue are used to convey importatn information regarding visual content.
+4. If the alternate version(s) are on a separate page, check for the availability of link(s) to allow the user to get to the other versions.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G173)
+
+</details>
