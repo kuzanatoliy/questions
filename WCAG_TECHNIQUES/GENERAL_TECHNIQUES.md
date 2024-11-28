@@ -1798,3 +1798,20 @@ The objective of this technique is to suggest correct text where the information
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G177)
 
 </details>
+
+<details>
+  <summary>What abjective of providing controls on the Web page that allow users to incrementally change the size of all text on the page up to 200 percent?</summary>
+
+The purpose of this technique is to provide a mechanism on the Web page to incrementally increase the size of text. Many people with low vision do not use magnifying software, and they may not be familiar with their browser's text size adjustments. This may be particularly true of older people who are learning about computers later in life and who may be experiencing age related vision loss. It may also be true of some people with cognitive disabilities who require increased font size.
+
+**Procedure:**
+
+1. Set the viewport size to 1024px by 768px or lrger.
+2. Increase the text size and check to see if the text size incresed.
+3. Check that the text size can be increased to 200% of the original size.
+4. Check that after increaseing the text size to 200% of the original size, there is no loss of content or functionality.
+5. Decrease the text size to its defautl value and check to see if it in fact returned to the default size.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G178)
+
+</details>
