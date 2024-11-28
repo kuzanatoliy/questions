@@ -1782,3 +1782,19 @@ The purpose of this technique is to provide and easy way to pass the success cri
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G176)
 
 </details>
+
+<details>
+  <summary>What abjective of providing suggested correction text?</summary>
+
+The objective of this technique is to suggest correct text where the information supplied by the user is not accepted and possible correct text is known. The suggestions may include correct spelling or similar text from a known pool of possible text.
+
+**Procedure:**
+
+1. Identify form fields where correct text could be inferred from incorrect text.
+2. Fill out the form, deliberately filling in the identified form fields with incorrect text.
+3. Check that the user is presented with suggestions for the correct text.
+4. Check that teh suggestion s are provided next to the form field or a link to the suggestions is provided close to the form field.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G177)
+
+</details>
