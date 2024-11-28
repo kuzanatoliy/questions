@@ -1751,3 +1751,19 @@ When the contrast between the text and its background for some portion of the pa
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G174)
 
 </details>
+
+<details>
+  <summary>What abjective of providing a multi color selection tool on the page for foreground and background colors?</summary>
+
+The objective of this technique is to include a control on a Web page or set of Web pages that allows users to specify preferred foreground and background colors for the content. This technique can be implemented using any technology that allows users to store preferences that can be used across pages. Using this technique, and author includes a color picker control on the site which allows users to select and save foreground and background color preferences for use on other pages in a site pages are designed to look for these preferences and adapt accordingly when saved settins are found.
+
+**Procedure:**
+
+1. Check that there is a control on the page that is identified as a color selection tool.
+2. Check that the color selection tool provides a variety of colors choices for the text and background.
+3. Select new colors for the text and background using the tool.
+4. Check that the content is updated to use the selected color combinations.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G175)
+
+</details>
