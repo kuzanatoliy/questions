@@ -1767,3 +1767,18 @@ The objective of this technique is to include a control on a Web page or set of 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G175)
 
 </details>
+
+<details>
+  <summary>What abjective of keeping the flashing area small enough?</summary>
+
+The purpose of this technique is to provide and easy way to pass the success criterion for things that flash, but are small.
+
+**Procedure:**
+
+1. The small safe area is calculated.
+2. Check taht only one area of the screen is flashing at any time.
+3. Check that the floshing content would fit inot a contiguous container whose are is less than the small safe area.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G176)
+
+</details>
