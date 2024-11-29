@@ -1815,3 +1815,17 @@ The purpose of this technique is to provide a mechanism on the Web page to incre
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G178)
 
 </details>
+
+<details>
+  <summary>What abjective of ensuring that there is no loss of content or functionality when the text resizes and text containers do not chante their width?</summary>
+
+Some user agent support changing the size of text without changing other dimensions of the text container. Loss of content or functionality can occur when the text overflows the space that was allocated for it. However, the layout properties may provide a way to continue to display the content effectively. The block sizes may be defined wide enough that the text does not overflow when resized by 200%. Thext amy wrap when it no longer fits within the block, and the block may be tall enough that all the text continues to fit in the block. The block may provide scrollbars when the resized text no longer fits.
+
+**Procedure:**
+
+1. Increase text size to 200%.
+2. Check whetehr all content and functionality is available.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G179)
+
+</details>
