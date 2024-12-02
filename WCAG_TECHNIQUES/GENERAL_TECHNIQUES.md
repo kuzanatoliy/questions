@@ -1829,3 +1829,20 @@ Some user agent support changing the size of text without changing other dimensi
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G179)
 
 </details>
+
+<details>
+  <summary>What abjective of providing the user with a means to set the time limit to 10 times the defautl time limit?</summary>
+
+The objective of this technique is to give people with disabilities enough time to complete tasks which may take them longer than someone without those challenges. Some mechanism such as a preference setting or a control on the page lets the user change the time limits to at least 10 times the default time limit. Preferably the mechanism would have a vairable adjustment that lets the user change the time limit to any value in its range but could also provide ways to change time limit by discrete increments. The user chagne s the time limit at the beginning of their session, before any activity that has time limit.
+
+**Procedure:**
+
+1. Check to see if there is a mechanism to set the time limit to 10 times the default time limit.
+2. Change the time limit to a new value that is 10 times the default time limit.
+3. Perform an action that has a time limit has passed.
+4. Wait unitl the default time limit has passed.
+5. Check that the time limit does not expire until the limit specified in step 2 has passed.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G180)
+
+</details>
