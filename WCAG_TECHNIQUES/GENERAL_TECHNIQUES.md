@@ -1846,3 +1846,21 @@ The objective of this technique is to give people with disabilities enough time 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G180)
 
 </details>
+
+<details>
+  <summary>What abjective of encoding user data as hidden or encrypted data in a re-authorization page?</summary>
+
+Web servers that require user quthentication often terminate the session after a set period of time if there is no activity from the user. If the user is unable to input the data quickly enough and the session times out before they submit, the server will require re-authentication before proceeding. When this happens, the server passes (as hidden data) the information from the form into the page that is used for re-authentication. Then, when the user re-authenticates, the server can use the infromation passed on from the re-authentication. Then, when the user re-authenticates, the server can use the information passed on from the re-authentication page to submit the form directly or to present a page that includes the data that is to be submitted for review. In this technique, the server does not have to store any user-submitted data on server. This is an important technique for those cases where it is either illegal or a security risk for the server to store information temporarily. It also is useful in that it frees the server from having to maintain the stored infroamtion and reconnect it with the newly authenticated session.
+
+**Procedure:**
+
+1. Log in and begin the timed activity.
+2. Allow the session to time out.
+3. Submit the data.
+4. Re-authenticate.
+5. Check that the process can continue and be completed without loss of data, including the original data and any changes made after re-authentication.
+6. Check that the process used to save the information submitted in step 3 is not stored on the server.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G181)
+
+</details>
