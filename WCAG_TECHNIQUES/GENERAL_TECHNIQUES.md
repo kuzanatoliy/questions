@@ -1864,3 +1864,17 @@ Web servers that require user quthentication often terminate the session after a
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G181)
 
 </details>
+
+<details>
+  <summary>What abjective of ensuring that additional visual cues are available when text color differences are used to convey information?</summary>
+
+The intent of this technique is to provide a redundatn visual cue for users who may not be able to discern a difference in text color. Color is commonly used to indicate the different status of words that are part of a paragraph or other block of text or where special characters or graphics cannot be used to indicate which words have special status. For example, scattered words in text may be hypertext links that are marked as such by being printed in a different color. This technique describes a way to provide cues in addition to color so that users who may have difficulty perceiving color differences or have low vision can identify them.
+
+**Procedure:**
+
+1. Locate all instances where the color of text is used to convey information.
+2. Check that any text where color is used to convey information is also styled or uses a font that makes it visually distinct from other text around it.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G182)
+
+</details>
