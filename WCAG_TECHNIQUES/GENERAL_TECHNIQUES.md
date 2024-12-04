@@ -1878,3 +1878,17 @@ The intent of this technique is to provide a redundatn visual cue for users who 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G182)
 
 </details>
+
+<details>
+  <summary>What abjective of using a contrast ratio of 3:1 with surrounding text and providing additional visuzl cues on hover for links or controls where color alone is used to identify them?</summary>
+
+The intent of this technique is to provide a redundatn visual cue for users who may not be able to discern a difference in text color. Color is commonly used to indicate words that are links within a paragraph or ohter block of text. For example, scattered words in text may be hypertext links that are identified only by a difference in color with surrounding text. This technique describes a way to provide a difference in contrast rather than relying on hue.
+
+**Procedure:**
+
+1. Check that the relative luminance of the color of the text differs from the relative luminance of the surrounding text by a contrast ratio of at least 3:1.
+2. Check that hovering over the link causes a visual enhancement.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G183)
+
+</details>
