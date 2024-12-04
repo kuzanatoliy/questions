@@ -1892,3 +1892,17 @@ The intent of this technique is to provide a redundatn visual cue for users who 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G183)
 
 </details>
+
+<details>
+  <summary>What abjective of providing text instructions at the beginning of a form or set of fields that describes the necessary input?</summary>
+
+The objective of this technique is to help the user avoid input errors by informing them ahead of thime about restrictions of the format of data that they must enter. Instructions on such restictions are provided at the top of forms. This technique works best for forms that have a small number of fields or those where many form fields require data in the same format. In these cases, it is more efficient to describe the format once in instructions at the top of the form rather than repeating the same information for each field that has the same resticted format requirement.
+
+**Procedure:**
+
+1. Identify form controls that will only accept user input data in a given format.
+2. Determine if instructions are provided at the top of the form about the expected format of each of the form controls identified in 1.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G184)
+
+</details>
