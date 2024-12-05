@@ -1906,3 +1906,17 @@ The objective of this technique is to help the user avoid input errors by inform
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G184)
 
 </details>
+
+<details>
+  <summary>What abjective of linking to all of the pages on the site from the home page?</summary>
+
+The objective of this technique is to make it possible for users to locate all the information in a small Web site by providing links to all Web pages from the home page. When the number of pages in the site is small enough, the home page can contain site map infromation directly. The other pages in the Web site contain links to the home page.
+
+**Procedure:**
+
+1. Check that the home page contains links to all other pages in the Web site.
+2. Check taht all other pages in the Web site contain links to the home page.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G185)
+
+</details>
