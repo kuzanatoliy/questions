@@ -1920,3 +1920,18 @@ The objective of this technique is to make it possible for users to locate all t
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G185)
 
 </details>
+
+<details>
+  <summary>What abjective of using a control in the Web page that stops moving, blinking, or auto-updating content?</summary>
+
+The objective of this technique is to provide the user a control the allows him to stop moving or blinking content. Since the control is in the web page, the control itself meets the appropriate level of WCAG conformance e.g., it has appropriate contrast, it has a name that identifies it , it is keyboard accessible. The control is either at the top of the page or adjacent to the moving content. A single control may stop all moving or blinkign content on the page, or there may be separate controls for separate parts of the content.
+
+**Procedure:**
+
+1. Check that there is a control on the Web page to stop the motion.
+2. Activate the control.
+3. Check that the motion, blinking or auto updating has stopped.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G186)
+
+</details>
