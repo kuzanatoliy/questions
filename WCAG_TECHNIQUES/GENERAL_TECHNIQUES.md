@@ -1935,3 +1935,19 @@ The objective of this technique is to provide the user a control the allows him 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G186)
 
 </details>
+
+<details>
+  <summary>What abjective of providing a button on the page to increase line spaces and paragraph spaces?</summary>
+
+Many people with cognitive disabilities have a trouble reading text that is single spaced. A button that increases the line height will help them read the content. In order to retain the separation of paragraphs, the space between paragraphs should also increase so that it is at least 1.5 times as height as the line spacing.
+
+**Procedure:**
+
+1. Check that there is a button or link on the page that increases the size of the line height and the paragraph spacing, which is labeled as such.
+2. Activate the button or link.
+3. Check that teh button or link increaes the line height to at least 1.5 (150%)
+4. Checkt htat the button or link increases the paragraph spacing at least 1.5 times greater than the line spacing.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G188)
+
+</details>
