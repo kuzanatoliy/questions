@@ -1981,3 +1981,18 @@ The objective of this technique is to provide the user with a control near the b
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G189)
 
 </details>
+
+<details>
+  <summary>What abjective of providing a link adjacent to or associated with a non-conforming object that links to a conforming alternate version?</summary>
+
+It is better for all objects on a page to conform, but there are ceratin circumstances where that may not be possible. There may be situations when an object or section of content targets people with certain disabilities while those same attributes make it inaccessible for someone else. There may also be other reasons not to have a conforming object on the Web page. When an object does not conform, then a link to a conforming alternate version is adjacent to the non-conforming object in the linear reading order or is associated with the non-conforming content. The conforming alternate version conveys the same information as the non-conforming version.
+
+**Procedure:**
+
+1. Check to see if there is a non-conforming object on the Web Page.
+2. Check to see if there is a link to an identifiable conforming version of the object directly after the non-conforming object in the linear reading order.
+3. Check to see if the link goes to a conforming version.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G190)
+
+</details>
