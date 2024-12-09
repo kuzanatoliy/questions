@@ -1996,3 +1996,18 @@ It is better for all objects on a page to conform, but there are ceratin circums
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G190)
 
 </details>
+
+<details>
+  <summary>What abjective of providing a link, button, or other mechanism that reloads the page without any blinking content?</summary>
+
+This is a general technique for allowing people who cannot use a page with blinking content to turn the blinking content off. Conformance requirement 1 allows for conforming alternate pages to be used to meet conformance. This technique is an example of that approach applied to success criteria 2.2.2.
+
+**Procedure:**
+
+1. Check that there is a mechanism to reload page to turn off blinking.
+2. Check that reloaded page has no blinking.
+3. Check that the reloaded page has all the information and functionality of the original page.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G191)
+
+</details>
