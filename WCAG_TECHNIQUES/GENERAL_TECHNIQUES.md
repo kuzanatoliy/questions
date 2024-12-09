@@ -2011,3 +2011,17 @@ This is a general technique for allowing people who cannot use a page with blink
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G191)
 
 </details>
+
+<details>
+  <summary>What abjective of providing help by an assistant in the Web page?</summary>
+
+The purpose of this technique is to provide help using a multimedia avatar that provides assistance in using the Web page. An abatar can be particularly helpful to people with cognitive disabilities who may have trouble reading text. The use of visuals will help some people to fucus on the material presented.
+
+**Procedure:**
+
+1. Check that there is an assistant in the Web page.
+2. Check that the assistant provides infromation to help understand the content of the page.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G193)
+
+</details>
