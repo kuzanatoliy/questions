@@ -1951,3 +1951,33 @@ Many people with cognitive disabilities have a trouble reading text that is sing
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G188)
 
 </details>
+
+<details>
+  <summary>What abjective of providing a control near the beginning of the Web page that changes the link text?</summary>
+
+The objective of this technique is to provide the user with a control near the beginning of the page that takes the user to a conforming alternate version of the Web page where the link text alone of each link is sufficient to determine its purpose out of context.
+
+**Procedure:**
+
+1. Check that there is a control near the beginning of the Web page to change link thext.
+2. Activate the control.
+3. Check that all links in the resulting Web page have link text that describes their purpose.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G189)
+
+</details>
+
+<details>
+  <summary>What abjective of providing a control near the beginning of the Web page that changes the link text?</summary>
+
+The objective of this technique is to provide the user with a control near the beginning of the page that takes the user to a conforming alternate version of the Web page where the link text alone of each link is sufficient to determine its purpose out of context.
+
+**Procedure:**
+
+1. Check that there is a control near the beginning of the Web page to change link thext.
+2. Activate the control.
+3. Check that all links in the resulting Web page have link text that describes their purpose.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G189)
+
+</details>
