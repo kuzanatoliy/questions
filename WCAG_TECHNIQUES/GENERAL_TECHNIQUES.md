@@ -2041,3 +2041,20 @@ In this technique spell checking and suggestions for text are provided. Often pe
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G194)
 
 </details>
+
+<details>
+  <summary>What abjective of using an author-supplied, visible focus indicator?</summary>
+
+The objective of this technique is enhance the focus indicator in the browser, by creating a visible one in the content. The default focus indicator in some browsers is a thin, dotted black line. It can be difficult to see the line when it is around a form element which already has an outline, when the focused element is inside a table cell, when the focused element is very small, or when the background of the page is a dark color. Some browsers use a pale blue outline, which can be difficult to see on some backgrounds.
+
+**Procedure:**
+
+1. Navigate to the componentn and check that it has a visible focus indicator.
+2. Check that the focus indicator area is at least the size of a 1 CSS px border around the component.
+3. If the focus indicator area is not at least equal to the area of a 1 CSS pixel border, check that it has an area of at least 4 CSS pixels along the shortest side of the component.
+4. Check that the change of contrast of the indicator between focused and unfocused states has a ratio of 3:1 or more for the minimum focus indicator area.
+5. If the focus indicator does not have 3:1 contrast ratio with its adjacent colors, check that it is at least 2px thick.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G195)
+
+</details>
