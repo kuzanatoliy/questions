@@ -2025,3 +2025,19 @@ The purpose of this technique is to provide help using a multimedia avatar that 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G193)
 
 </details>
+
+<details>
+  <summary>What abjective of providing spell checking and suggestions for text input?</summary>
+
+In this technique spell checking and suggestions for text are provided. Often people with cognitive disabilities have trouble spelling a word, but may be able to get the spelling approximately correct. A spell checking program will save them time-consuming research on how to spell the word. This may also be true for blind and low vision users who might make a mistake when typing. It will also help people with dexterity disabilities who may be using a head pointer, or who may have scanning software which makes it very slow and difficult to type. A spell-checking solution that provides word suggestion(s) and a simple mechanism to select one and input it into the text input field provides important help for these users and others.
+
+**Procedure:**
+
+1. Check that there is a form field on the page.
+2. Enter a misspeled word.
+3. Check that a suggested spelling is presented.
+4. CHeck that a mechanism is available to enter the suggested word into the form.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G194)
+
+</details>
