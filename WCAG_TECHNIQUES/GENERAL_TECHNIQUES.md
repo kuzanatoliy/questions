@@ -2058,3 +2058,18 @@ The objective of this technique is enhance the focus indicator in the browser, b
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G195)
 
 </details>
+
+<details>
+  <summary>What abjective of using a text alternative on one item within a group of images that describes all items in the group?</summary>
+
+The objective of this technique is to avoid unnecessary duplication that occurs when a grouping of adjacent non-text content is used to present information or functionality.
+
+**Procedure:**
+
+1. Check that one item in the group includes a text alternative that serves the equivalent purpose for the entire gropu.
+2. Check that the other items in the group are marked in a way that can be ignored by assistive technologies.
+3. Check that the items marked in a way that can be ignored by assistive technologies are adacent to the item that contains the text alternative for the group.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G196)
+
+</details>
