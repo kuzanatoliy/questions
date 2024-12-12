@@ -2073,3 +2073,17 @@ The objective of this technique is to avoid unnecessary duplication that occurs 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G196)
 
 </details>
+
+<details>
+  <summary>What abjective of using labels, names, and text alternatives consistently for content that has the same functionality?</summary>
+
+The purpose of this technique is to help users with cognitive disabilities, blindness and vision loss to understand what will happen when they interact with a fucntion on a Web page. If there are different labels on user interface components that have the same function, the user will not know that they have encountered a component with the same function and will not know what to expect. This could lead to many unnecessary errors. It is also recommended that this approach to consistent labelling be applied across the Web site.
+
+**Procedure:**
+
+1. Check that each component is associated with text that identifies it.
+2. Check that this associated text is identical for each user interface component with the same function.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G197)
+
+</details>
