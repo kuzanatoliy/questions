@@ -2087,3 +2087,17 @@ The purpose of this technique is to help users with cognitive disabilities, blin
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G197)
 
 </details>
+
+<details>
+  <summary>What abjective of providing a way for the user to turn the time limit off?</summary>
+
+The objective of this technique is to provide a mechanism for people who cannot complete tasks wighin a specified time limit to turn off the time limit.
+
+**Procedure:**
+
+1. Check that there is a mechanism to turn off any time limits near the top of the page.
+2. Verify that the time limit for the page is long enough that a user can easisly navigate to the mechanism even kf they are 10 times slower than most users.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G198)
+
+</details>
