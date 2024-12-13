@@ -2101,3 +2101,18 @@ The objective of this technique is to provide a mechanism for people who cannot 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G198)
 
 </details>
+
+<details>
+  <summary>What abjective of providing success feedback when data is submitted successfully?</summary>
+
+The objective of this technique is to reduce the effort required for users to confirm that an action, such as submitting a Web form, was completed successfully. This can be accomplished by providing consistently presented feedback that explicitly indicates success of an action, rather than requiring a user to navigate through content to discover if the action was successful.
+
+**Procedure:**
+
+1. Fill in form fields with no errors.
+2. Submit the form.
+3. Check that a feedback message on the screen confirms that the submission was successful.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G199)
+
+</details>
