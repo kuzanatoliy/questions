@@ -2116,3 +2116,12 @@ The objective of this technique is to reduce the effort required for users to co
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G199)
 
 </details>
+
+<details>
+  <summary>What abjective of opening new windows and tabs from a link only when necessary?</summary>
+
+The objective of this technique is to limit the use of links or buttons that open new windows or tabs within Web content.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G200)
+
+</details>
