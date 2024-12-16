@@ -2139,3 +2139,17 @@ The objective of this technique is to provide a warning before automatically ope
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G201)
 
 </details>
+
+<details>
+  <summary>What abjective of ensuring keyboard control for all functionality?</summary>
+
+The objective of this technique is to provide keyboard operation for all the functionality of the page. When all functionality of content can be operated through a keyboard or keyboard interface, it can be operated by those with no vision as well as by those who must use alternate keybaords or input devices that act as keybaord emulators like speech input software or on-screen keyboards.
+
+**Procedure:**
+
+1. Identify all functionality on the content.
+2. Check that all functionality can be accessed using only the keyboard or keyboard interface.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G202)
+
+</details>
