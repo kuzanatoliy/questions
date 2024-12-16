@@ -2153,3 +2153,17 @@ The objective of this technique is to provide keyboard operation for all the fun
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G202)
 
 </details>
+
+<details>
+  <summary>What abjective of using a static text alternative to describe a talking head video?</summary>
+
+The purpose of this technique is to provide an alternative to audio description for synchronized media that has no important time based information contained in the video portion of the media. This particularly applies to "talking head" videos where a person is talking in froont of an unchanging background, such as a press conference, company president talk, or government announcement, etc. In this case there are no "important visual details" which would warrant audio description.
+
+**Procedure:**
+
+1. Check that there is no important time-based information in the video track.
+2. Check that the programmatically associated description of the media contrains any context of the content that is not contained in the audio track.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G203)
+
+</details>
