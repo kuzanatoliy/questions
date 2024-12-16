@@ -2125,3 +2125,17 @@ The objective of this technique is to limit the use of links or buttons that ope
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G200)
 
 </details>
+
+<details>
+  <summary>What abjective of giving users advanced warning when opening a new window?</summary>
+
+The objective of this technique is to provide a warning before automatically opening a new window or tab. Opening new windows automatically when a link is activated can be disorienting for people who have difficulty perceiving visual content, and for some people with cognitive disabilities, if they are not warned in advance. Providing a warning allows the user to decide it they want to leave the current window, and the warning will help them find their way back, if they do decide they would like to go to the new window. It will help them understand that the "back" button will not work and that they have to return to the last window they had open, in order to find their previous location.
+
+**Procedure:**
+
+1. Check that there is a warning spoken in assistive technology that this link opens to a new window.
+2. Check that there is a visual warning in text that this link opens to a new window.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G201)
+
+</details>
