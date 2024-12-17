@@ -2183,3 +2183,16 @@ This technique helps avoid situations where horizontal scrolling may occur. Many
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G204)
 
 </details>
+
+<details>
+  <summary>What abjective of including a text cue for colored form control labels?</summary>
+
+The objective of this technique is to combine color and text or character cues to convey information. Most users can quickly scan the content to locate information conveyed by using color differences. Users who cannot see color can look or listen for text cues; people using Braille displays of other tactile interfaces can detect text cues by touch.
+
+**Procedure:**
+
+1. Check tat the same information is available through text or character cues.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G205)
+
+</details>
