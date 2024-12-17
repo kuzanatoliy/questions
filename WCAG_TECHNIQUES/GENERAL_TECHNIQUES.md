@@ -2167,3 +2167,19 @@ The purpose of this technique is to provide an alternative to audio description 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G203)
 
 </details>
+
+<details>
+  <summary>What abjective of not interfering with the user agent's reflow of text as the viewing window is narrowed?</summary>
+
+This technique helps avoid situations where horizontal scrolling may occur. Many people with cognitive disabilities and low version users who do not use assistive technology have a great deal of trhouble with blocks of text that require horizontal scrolling. It involves not interfering with the reflow of text if the window is narrowed. One of the best ways to do this is to define widths of text block containers in percentages.
+
+**Procedure:**
+
+1. Open the content that contains a block of text in a common user agent.
+2. Check to see if the user agent has a setting that needs to be enabled to allow for reflow, and if so, enable it.
+3. Narrow the viewing window to 1/4 of the screen width.
+4. Check to see that the content does not require horizontal scrolling to read a line of text.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G204)
+
+</details>
