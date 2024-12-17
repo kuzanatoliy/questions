@@ -2212,3 +2212,20 @@ There may be situations where an author needs to use a layout that requires hori
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G206)
 
 </details>
+
+<details>
+  <summary>What abjective of ensuring that a contrast ratio of 3:1 is provided for icons?</summary>
+
+The objective of this technique is to ensure graphical icons provide enough contrast for people with vision impairments. Not all graphics are within the scope of SC 1.4.11 Non-text contrast but if the icons are required to understand the content, then the icons need to have a contrast ratio of at least 3:1.
+
+**Procedure:**
+
+1. Determine the foreground color of the graphical object.
+2. Determine the adjacent background color. If the background color is a gradient or pattern, identify the color with the least contrast to the foreground color.
+3. Check that the contrast ratio is equal to or greater than 3:1.
+4. If part of the background area does not meet 3:1 with the foreground, assume that parts of the icon adjacent to the area or areas are not visible.
+5. Check that the icon is still recognizable without any area of insufficient contrast.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G207)
+
+</details>
