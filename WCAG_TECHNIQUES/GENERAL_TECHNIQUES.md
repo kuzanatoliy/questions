@@ -2196,3 +2196,19 @@ The objective of this technique is to combine color and text or character cues t
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G205)
 
 </details>
+
+<details>
+  <summary>What abjective of providing options within the content to switch to a layout that does not require the user to scroll horizontally to read a line of text?</summary>
+
+There may be situations where an author needs to use a layout that requires horizontal scrolling. In that case, it is sufficient to provide options within the content that switch to a layout that does not require the user to scroll horizontally to read a line of text. This may be achived using standard style switching technology.
+
+**Procedure:**
+
+1. Open the content that requires horizontal scrolling on a full screen window.
+2. Check that there is an option within the content to switch to a layout that does not require the user to scroll horizontally to read a line of text.
+3. Activate the option.
+4. CHeck to make sure that horizontal scrolling is not required to read any line of text.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G206)
+
+</details>
