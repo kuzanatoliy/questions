@@ -2229,3 +2229,16 @@ The objective of this technique is to ensure graphical icons provide enough cont
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G207)
 
 </details>
+
+<details>
+  <summary>What abjective of including the text of the visiblel label as part of the accessible name?</summary>
+
+The objective of this technique is to ensure that speech input users can operate web content reliably.
+
+**Procedure:**
+
+1. The accessible name of the control contains the same letters in the same order as the visible label.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G208)
+
+</details>
