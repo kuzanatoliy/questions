@@ -2256,3 +2256,18 @@ The objective of this technique is to ensure people with moderately low vision c
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G209)
 
 </details>
+
+<details>
+  <summary>What abjective of ensuring that drag-and-drop actions ca be canceled?</summary>
+
+The objective of this technique is to ensure that users who use a path-based drag-and-drop action to meve an item from the initial location to a drop target can abort the action after picking up the target. This can be done either by releasing the item outside a drop area, or by moving the item back to its original position in a separate action that undoes the firts action. A third option is to have a step after the element is dropped onto target, either with a dialog asking for confirmation of the action when the item is dropped, or providing an undo command.
+
+**Procedure:**
+
+1. Releasing the picked-up item outside a drop target.
+2. Dragging the picked-up item back to its old position.
+3. A confirmation dialog or an undo control appears after the item has been dropped.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G210)
+
+</details>
