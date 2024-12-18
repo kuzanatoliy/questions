@@ -2271,3 +2271,19 @@ The objective of this technique is to ensure that users who use a path-based dra
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G210)
 
 </details>
+
+<details>
+  <summary>What abjective of matching the accessible name to the visible label?</summary>
+
+The objective of this technique is to ensure that speech input users can operate web content reliably while not adversely affecting other users of assistive technology.
+
+**Procedure:**
+
+1. For input controls, examine each inptu that has adjacent text which serves as its label.
+2. For each input, check that the label's entire string of text matches the accessible name for the input, according to the accessible name computation.
+3. For buttons, links, menus and other non-input controls, examine each control that contains text which serves as its label.
+4. For each non-input control, check that the label's entire string of text matches the accessible name for the input.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G211)
+
+</details>
