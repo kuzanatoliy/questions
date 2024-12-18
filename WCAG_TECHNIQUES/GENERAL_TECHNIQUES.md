@@ -2242,3 +2242,17 @@ The objective of this technique is to ensure that speech input users can operate
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G208)
 
 </details>
+
+<details>
+  <summary>What abjective of providing sufficient contrast at the boundaries between adjoining colors?</summary>
+
+The objective of this technique is to ensure people with moderately low vision can distinguish boundaries between adjoining segments of color.
+
+**Procedure:**
+
+1. Measure the contrast ratio of each color compared to the adjacent color(s) or border (if present).
+2. Check that the contrast ratio is at least 3:1 for each adjacent color or border (if present).
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G209)
+
+</details>
