@@ -2287,3 +2287,18 @@ The objective of this technique is to ensure that speech input users can operate
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G211)
 
 </details>
+
+<details>
+  <summary>What abjective of using native ccontrols to ensure functionality is triggered on the up-event?</summary>
+
+The objective of this technique is to ensure that users who attempt to interact with a control do not trigger the action of the event accidentally. This can be accomplished most directly by relying on the pointer's up-event.
+
+**Procedure:**
+
+1. Activate the down-event then move the pointer outside the target before triggering the up-event, and then release the pointer to trigger the up-event.
+2. Check that the action was not triggered when the pointer is released outside of the hit area for the target.
+3. If the action is triggered, check that the action is reversible.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G212s)
+
+</details>
