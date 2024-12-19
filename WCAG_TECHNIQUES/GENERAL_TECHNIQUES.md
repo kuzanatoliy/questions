@@ -2299,6 +2299,23 @@ The objective of this technique is to ensure that users who attempt to interact 
 2. Check that the action was not triggered when the pointer is released outside of the hit area for the target.
 3. If the action is triggered, check that the action is reversible.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G212s)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G212)
+
+</details>
+
+<details>
+  <summary>What abjective of providing conventional controls and an application setting for motion activated input?</summary>
+
+The objective of this technique is to ensure that:
+
+1. People who use mounted devices or who cannot precisely manipulate a device are able to provide inputs through more conventional user interface components.
+2. People who may accidentally activate sensors due to tremors or other motor impairments have the ability to turn off motion actuation to prevent such accidental triggering of functions.
+
+**Procedure:**
+
+1. Check that there is a mechanism to perform the same function that does not rely on a sensor.
+2. Check taht there is a user setting which disables the motion detection.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G213)
 
 </details>
