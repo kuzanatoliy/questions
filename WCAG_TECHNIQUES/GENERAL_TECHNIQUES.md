@@ -2319,3 +2319,17 @@ The objective of this technique is to ensure that:
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G213)
 
 </details>
+
+<details>
+  <summary>What abjective of using a control to allow access to content in different orientations which is otherwise restricted?</summary>
+
+The objective of this technique is to allow users to access content in the way the user prefers. A content provider may expect that most users will view content using a specific device orientation or may expect that a user will want to maintain the original view within the device. As a result the provider then prevents the content from rotating. By providing a control to allow the user to rotate the content, someone who needs to use a particular orientation will be able to view the content in a comfortable manner. For exmple, a person who cannot hold the device and has it mounted attached to a wheelchair or bed.
+
+**Procedure:**
+
+1. Check for a control within the user interface to change the orientation of the content.
+2. Check that when the control is operated that the content changes orientation.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G214)
+
+</details>
