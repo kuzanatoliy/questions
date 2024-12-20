@@ -2333,3 +2333,16 @@ The objective of this technique is to allow users to access content in the way t
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G214)
 
 </details>
+
+<details>
+  <summary>What abjective of providing controls to achieve the same result as path based or multipoint gestures?</summary>
+
+The objective of this technique is to ensure that users who have difficulties performing path-based gestures can operate a content slider with a single pointer. A content slider contains chinks of content in a row. Usually several chinks of content are hidden, and only one chunk is visible at any time. Left and right horizontal swiping over the visible part of the slider brings adjacent hidden chinks of content into view. Providing controls as alternative means of input allows advancing the slider with single pointer input.
+
+**Procedure:**
+
+1. Check that single pointer operable controls exist over or adjacent to the content slider that advance to adjacent chunks.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G215)
+
+</details>
