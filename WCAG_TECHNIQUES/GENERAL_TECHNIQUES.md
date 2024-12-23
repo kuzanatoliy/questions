@@ -2359,3 +2359,16 @@ The objective of this technique is to ensure that users who have difficulties pe
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G216)
 
 </details>
+
+<details>
+  <summary>What abjective of providing a mechanism to allow users to remap or turn off character key shortcuts?</summary>
+
+Some authors provide shortcuts in their applications to allow for faster user interaction. However, where such shortcuts involve only character keys without modifies, they create challenges for speech input users as well as some keyboard users who lack the ability to type accurately.
+
+**Procedure:**
+
+1. Determine if the user has the ability either to turn off the shortcut or to remap it to a combination that includes one or more modifier keys.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G217)
+
+</details>
