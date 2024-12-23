@@ -2346,3 +2346,16 @@ The objective of this technique is to ensure that users who have difficulties pe
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G215)
 
 </details>
+
+<details>
+  <summary>What abjective of providing single point activation for a control slider?</summary>
+
+The objective of this technique is to ensure that users who have difficulties performing path-based gestures can operate a control slider. A control slider is a track with a "thumb" that you move along the track to set a value.
+
+**Procedure:**
+
+1. Check that the value of the control slider can be set with a tap or click using pointer.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G216)
+
+</details>
