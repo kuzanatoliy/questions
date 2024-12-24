@@ -2372,3 +2372,20 @@ Some authors provide shortcuts in their applications to allow for faster user in
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G217)
 
 </details>
+
+<details>
+  <summary>What abjective of email link authentication?</summary>
+
+The objective of this technique is to provice an easy way for users to authenticate without needing a password. This technique involves provideing an authentication mechanism where the user can enter their email address, and they are sent an email with a link to click. When the user click the link in the email, they are directed back to the website and automatically logged in.
+
+**Procedure:**
+
+1. Enter a vaild emeial address and use the email-link feature.
+2. Check that the email is received.
+3. Check that selecting the link opens the website.
+4. Check that the user account is logged in.
+5. Check that no object recognition test is used as part of the authenticaation process.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G218)
+
+</details>
