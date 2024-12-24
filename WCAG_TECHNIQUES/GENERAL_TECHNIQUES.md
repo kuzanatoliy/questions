@@ -2403,3 +2403,18 @@ The objective of this technique is to ensure that people with motor impairments 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G219)
 
 </details>
+
+<details>
+  <summary>What abjective of providing a contact-us link in a consistent location?</summary>
+
+The objective of this technique is to provide a mechanism for finding contact detaisl in a consistent location across pages to make it easier for users to find it. The interactive item in the Web page is a link to the contact details page. The programmatic and visual location is consistent on each page in the set of web pages, when viewed within the same size viewport. Activating the link brings users to a Web page with contact details such as a phone number and/or email address.
+
+**Procedure:**
+
+1. Determine if this is a set of web pages with blocks of content that are repeated on multiple pages.
+2. Determine if at least one of the following is included or linked in a consistent location: human contact details, human contact mechanism, self-help option, a fully automated mechanism.
+3. Without changing the viewport size, check that the identified help is present on all other web pages within that set of web pages.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G220)
+
+</details>
