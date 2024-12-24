@@ -2389,3 +2389,17 @@ The objective of this technique is to provice an easy way for users to authentic
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G218)
 
 </details>
+
+<details>
+  <summary>What abjective of ensuring that an alternative is available for dragging movements that operate on content?</summary>
+
+The objective of this technique is to ensure that people with motor impairments who cannot carry out dragging movements are presented with an alternative single pointer interaction that does not involve dragging.
+
+**Procedure:**
+
+1. Check the interface for the presence of function triggered by dragging movements.
+2. Check that there is a single pointer activation alternative that does not require dragging to operate the same function.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G219)
+
+</details>
