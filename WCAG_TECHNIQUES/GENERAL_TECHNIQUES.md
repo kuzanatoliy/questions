@@ -2418,3 +2418,17 @@ The objective of this technique is to provide a mechanism for finding contact de
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G220)
 
 </details>
+
+<details>
+  <summary>What abjective of providing data from a previous step in a process?</summary>
+
+The objective of this technique is to provide information that was previously provided by the user or by the system, rather than requiring the user to remember and re-enter the information from a previous step. This improves success for individulas with cognitive and learning disabilities and memory impairments.
+
+**Procedure:**
+
+1. Check if the information has already been requested on a previous step of the process.
+2. Check that the information entered previously is prepopulated in the fields or displayed on the page.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G221)
+
+</details>
