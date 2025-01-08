@@ -9,3 +9,5 @@
 [Common failures](COMMON_FAILURES.md)
 
 [General techniques](GENERAL_TECHNIQUES.md)
+
+[HTML Techniques](HTML_TECHNIQUES.md)
