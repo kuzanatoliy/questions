@@ -13,7 +13,7 @@ The objective of this technique is to provide a mechanism to bypass blocks of ma
 4. Check that activating the link moves the focus to the main content.
 5. Check that after activationg the link, the keyboard focus has moved to the main content.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G1)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G1)
 
 </details>
 
@@ -29,7 +29,7 @@ The objective of this technique is to provide a way to pause movement or scrolli
 3. Use the mechanism provided to restart the moving content.
 4. Check that the movement or scrolling has resumed from the point where it was stopped.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G4)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G4)
 
 </details>
 
@@ -42,7 +42,7 @@ The objective of this technique is to provide users with all the time they need 
 
 1. Determine if any timed interactions are present.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G5)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G5)
 
 </details>
 
@@ -58,7 +58,7 @@ The objective of this technique is to provide a second version of video content 
 3. Check that the necessary information is in the audio description.
 4. If the alternate version(s) are on a separate page, check for the availability of link(s) to allow the user to get to the other versions.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G8)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G8)
 
 </details>
 
@@ -71,7 +71,7 @@ The objective of this technique is to allow users who cannot hear to be able to 
 
 1. Check that a procedure and policy are in place to ensure that captions are delivered in real-time.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G9)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G9)
 
 </details>
 
@@ -89,7 +89,7 @@ The objective of this technique is to allow assistive technology to understand W
 5. Check that the Accessibility tool is alerted.
 6. Check that the component works with assistive technologies.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G10)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G10)
 
 </details>
 
@@ -103,7 +103,7 @@ The objective of this technique is to minimize the distraction cuased by blinkin
 1. Find all items that blink.
 2. For each item that blinks, determine if the interval between the start and end of the blinking is less than five seconds.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G11)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G11)
 
 </details>
 
@@ -117,7 +117,7 @@ The objective of this technique is to provide infromtation to users about what w
 1. Locate content where changing the setting of a form contrl results in a change of context.
 2. Check to see that an explanation of what will happen when the control is changed is available prior to the controls activation.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G13)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G13)
 
 </details>
 
@@ -130,7 +130,7 @@ The objective of this technique is to ensure that when color differences are use
 
 1. Check taht the information conveyed is also available in thext and that the text is not conditional content.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G14)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G14)
 
 </details>
 
@@ -143,7 +143,7 @@ The purpose of testing for violations of the general and red flash thresholds is
 
 1. Check to see that content does not violate the general flash and/or red flash threshold use a toll to detmine that neither the General Flash nor Red Flash threshold were exceeded.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G15)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G15)
 
 </details>
 
@@ -163,7 +163,7 @@ The obective of this technique is to make sure that users can read text that is 
 
 4. Check that the contrast ratio is equal to or greater than 7:1.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G17)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G17)
 
 </details>
 
@@ -183,7 +183,7 @@ The obective of this technique is to make sure that users can read text that is 
 
 4. Check that the contrast ratio is equal to or greater than 4.5:1.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G18)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G18)
 
 </details>
 
@@ -197,7 +197,7 @@ The obective of this technique is to avoid flashing at rates that are known to c
 1. Check that there are no more than three flashes during any 1-second period.
 2. If there are three flashes, check that the Light/Dark status at the end of the 1-second period is the same as at the start.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G19)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G19)
 
 </details>
 
@@ -212,7 +212,7 @@ The obective of this technique is to ensure that keyboard users do not become tr
 2. Check to see that keyboard focus is not trapped in any of the content.
 3. If keyboard focus appears to be trapped in any of the content, check that help information is available expaining how to exit the content and can be accessed via the keyboard.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G21)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G21)
 
 </details>
 
@@ -226,7 +226,7 @@ The obective of this technique is to identify the purpose of a link from the lin
 1. Check that the link is part of a sentence.
 2. Check that text of the link combined with the text of its enclosing sentence describes the purpose of the link.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G53)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G53)
 
 </details>
 
@@ -241,7 +241,7 @@ The obective of this technique is to allow users who cannot hear or read text ra
 2. Check to see if there is a sign language interpreter on screen.
 3. Check to see that dialogue and important sounds are being conveyed by the interpreter visible on screen.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G54)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G54)
 
 </details>
 
@@ -255,7 +255,7 @@ The obective of this technique is to make the definition of a word, phrase, or a
 1. Check that at least the first instance of the item is a link.
 2. Check that each link navigates to the definition of the item.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G55)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G55)
 
 </details>
 
@@ -272,7 +272,7 @@ The obective of this technique is to allow authors to include sound behind speec
 4. Subtract the values.
 5. Check that the result is 20 or greater.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G56)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G56)
 
 </details>
 
@@ -286,7 +286,7 @@ The obective of this technique is to ensure that the order of content presented 
 1. Linearize content using a standard approach for the technology.
 2. Check to see if the order of content yields the same meaning as the original.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G57)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G57)
 
 </details>
 
@@ -301,7 +301,7 @@ With this technique, a link to the collated document of captions and audio descr
 2. Check that it is a valid link that points directly to the collated document of this particular synchronized media.
 3. Check for the availability of a link or back function to get the user back to the original location of the synchronized media content.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G58)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G58)
 
 </details>
 
@@ -316,7 +316,7 @@ The objective of this technique is to ensure that interactive elements receive f
 2. Determine the logical order of interactive elements.
 3. Check tat the order of the interactive elements in the content is the same as the logical order.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G59)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G59)
 
 </details>
 
@@ -330,7 +330,7 @@ The purpose of this technique is to allow autoris to play a sound on their Web p
 1. Load the Web page.
 2. Check that all sound that plays automatically stops in 3 seconds or less.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G60)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G60)
 
 </details>
 
@@ -345,7 +345,7 @@ The objective of this technique is to make content easiear to use by making the 
 2. For each component check taht it appears in the same relative order with regard to other repeated components on each Web page where it appears.
 3. For each navigational component, check that the links or programmatic references are always in the same relative order.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G61)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G61)
 
 </details>
 
@@ -364,7 +364,7 @@ The objective of this technique is to make the definition of a word, phrase, or 
 2. Check that each word, phrase or abbreviation to be defined is defined in the glossary.
 3. Check that the glossary contains only one definition for each item.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G62)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G62)
 
 </details>
 
@@ -384,7 +384,7 @@ The site map serves several purposes.
 3. For each link in the site map, check that the target page contains a link to the site map.
 4. For each page in the site, check that the page can be reached by following some set of links that start at the site map.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G63)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G63)
 
 </details>
 
@@ -402,7 +402,7 @@ The table of contents serves two purposes:
 2. Check taht the values and order of the entries in the table of contents correspond to the names and order of the sections of the document.
 3. Check that the entries in the table of contents link to the correct sections of the document.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G64)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G64)
 
 </details>
 
@@ -427,7 +427,7 @@ A breadcrumb trail helps the user to visualize how content has been structured a
 
 6. Check that all links navigate to the correct Web page as specified by teh breadcrumb trail.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G65)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G65)
 
 </details>
 
@@ -442,7 +442,7 @@ This technique provides a short text alternative for Live audio-only and live vi
 2. Display the sort text alternative(s).
 3. CHeck that the purpose of the non-text content is clear, even if content is lost.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G68)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G68)
 
 </details>
 
@@ -460,7 +460,7 @@ The purpose of this technique is to provide an accessible alternative way of pre
 5. Check that the alternative for time-based media has descriptions of actions and expressions of any 'actors' (people, animals etc).
 6. If the alternate version(s) are on a separate page, check for the availability of link(s) to allow the user to get to the other versions.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G69)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G69)
 
 </details>
 
@@ -474,7 +474,7 @@ The objective of this technique is to provide the definition of words, phrases, 
 1. Check that a mechanism exists within the Web page to search for the word, phrase, or abbreviation via an on-line dictionary.
 2. Check that the result of the search of the dictionary for the word, phrase, or abbreviation is the correct definition.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G70)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G70)
 
 </details>
 
@@ -489,7 +489,7 @@ The objective of this technique is to provide context sensitive help for users a
 2. Determine if there is at least one linkg to help information explaining how to completer the form on this Web page.
 3. Determine of there are links either before or after each interective control to information specific to that control.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G71)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G71)
 
 </details>
 
@@ -505,7 +505,7 @@ The objective of this technique is to provide a way to link to remove long descr
 3. Check that the long description conveys the same information as the non-text content.
 4. Check for the availability of a link or back function to get the user back to the original location of the non-text content.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G73)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G73)
 
 </details>
 
@@ -520,7 +520,7 @@ The objective of this technique is to provide a long description without requiri
 2. Check that the long description is near the non-text content both visually and in the linear reading order.
 3. Check that the long description conveys the same information as the non-text content.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G74)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G74)
 
 </details>
 
@@ -535,7 +535,7 @@ The objective of this technique is to ensure that users can pospone automatic up
 2. For each automatic update, look for a mechanism to adjust the timing of the updates.
 3. Check that automatic updating is disabled by default or that the user is warned before an automatic update occurs and allowed to suppress it.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G75)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G75)
 
 </details>
 
@@ -550,7 +550,7 @@ The objective of this technique is to let the user control if and when content i
 2. For each such mechanism, check if it allows the user to request an update.
 3. For each such mechanism, check if it can cause an automatic update.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G76)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G76)
 
 </details>
 
@@ -565,7 +565,7 @@ The objective of this technique is to provide an audio (spoken) version of infor
 2. Listen to the synchronized media.
 3. Check to see if gaps in dialogue are used to convey important information regarding visual content.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G78)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G78)
 
 </details>
 
@@ -578,7 +578,7 @@ Some users who have difficulty sounding out (decoding) words in written text fin
 
 1. Check if a spoken version of the content is available.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G79)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G79)
 
 </details>
 
@@ -592,7 +592,7 @@ The objective of this technique is to provide a mechanism that allows users to e
 1. Find all forms in the content.
 2. For each form, check that it has a sumit button.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G80)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G80)
 
 </details>
 
@@ -608,7 +608,7 @@ The objective of this technique is to allow users who cannot hear or read text r
 3. Check to see if there is a sign language interpreter on screen or in a separate window.
 4. Check to see that dialogue and important sounds are being conveyed by the interpreter and are synchronized with the audio.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G81)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G81)
 
 </details>
 
@@ -623,7 +623,7 @@ The purpose of this technique is to provide useful information via the text alte
 2. Replace it with the text alternative.
 3. Check that the purpose of the non-text content is clear - even if function is lost.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G82)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G82)
 
 </details>
 
@@ -638,7 +638,7 @@ The objective of this technique is to notify the user when a field that must be 
 2. Check that a text description is provided identifying the mandatory field(s) that was not completed.
 3. Check that other data previously entered by the user is re-displayed, unless the cata is in a security related field where it would be inappropriate to retain the data for re-display.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G83)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G83)
 
 </details>
 
@@ -652,7 +652,7 @@ When users enter input that is validated, and errors are detected, the nature of
 1. Enter invalid data in a form filed.
 2. Check that information is provided in text about the problem.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G84)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G84)
 
 </details>
 
@@ -667,7 +667,7 @@ The objective of this technique is to provide assistance in correctiong input er
 2. Check that a text description is provided that identifies the field in error and provides some information about the nature of the invalid entry and how to fix it.
 3. Check that other data previously entered by the user is re-displayed, unless the data is in a security related field where it would be inappropriate to retain the data for re display.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G85)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G85)
 
 </details>
 
@@ -681,7 +681,7 @@ The objective of this technique is to provide a summary of complex content. The 
 1. Measure the readability of the summary.
 2. Check that the summary requires reading ability less advanced than the lower secondary education level.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G86)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G86)
 
 </details>
 
@@ -696,7 +696,7 @@ The objective of this technique is to provide a way for people who have hearing 
 2. View the synchronized media content.
 3. Check that captions.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G87)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G87)
 
 </details>
 
@@ -711,7 +711,7 @@ The objective of this technique is to give each Web page a descriptive title. De
 2. Check that the title is relevant to the content of the Web page.
 3. Check that the Web page can be identified using the title.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G88)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G88)
 
 </details>
 
@@ -725,7 +725,7 @@ The objective of this technique is to help the user avoid input errors by inform
 1. Identify form controls that will only accept user input data in a given format.
 2. Determine if each of the form controls identified in 1 provides information about the expected format.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G89)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G89)
 
 </details>
 
@@ -738,7 +738,7 @@ The objective of this technique is to permit individuals who rely on keyboard in
 
 1. Check that all functionality can be accessed using only the keyboard.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G90)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G90)
 
 </details>
 
@@ -751,7 +751,7 @@ The objective of this technique is to describe the purpose of a link in the text
 
 1. Check that text of the link desctives the purpose of the link.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G91)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G91)
 
 </details>
 
@@ -766,7 +766,7 @@ The objective of this technique is to provide a long text alternative that serve
 2. Display the long description.
 3. Check that the long description conveys the same information conveyed by the non-text content.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G92)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G92)
 
 </details>
 
@@ -780,7 +780,7 @@ The objective of this technique is to provide a way for people who are deaf or o
 1. Watch the synchronized media with closed captioning turned off.
 2. Check that captions are visible.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G93)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G93)
 
 </details>
 
@@ -796,7 +796,7 @@ The objective of this technique is to create a text alternative that serves the 
 3. Check that nothing is lost.
 4. If the non-text content contains words that are important to understanding the content, the words are included in the text alternative.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G94)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G94)
 
 </details>
 
@@ -809,7 +809,7 @@ This technique is used when the text needed to serve the same purpose and presen
 
 1. Check for the presence of a short text alternative that provides a brief description of the non-text content.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G95)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G95)
 
 </details>
 
@@ -822,7 +822,7 @@ The objective of this technique is to ensure that items within a Web page are re
 
 1. Check that the reference contains additional information that allows the item to be located and identified without any knowledge of its shape, size, or relatibe position.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G96)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G96)
 
 </details>
 
@@ -837,7 +837,7 @@ The objective of this technique is to make the expanded forma of an abbreviation
 2. Check that the first use is immediately preceded or followed by the expanded form of the abbreviation.
 3. Check that the expanded form is the correct expanded form for the use of the abbreviation.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G97)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G97)
 
 </details>
 
@@ -852,7 +852,7 @@ The objective of this technique is to provide users with a way to ensure their i
 2. If user data are collected in multiple steps, the user is allowd to return to previous stpes to review and change data.
 3. Determine if a summary of all data input by the user is provided before the transaction is committed and a method is provided to correct errors if necessary.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G98)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G98)
 
 </details>
 
@@ -867,7 +867,7 @@ When a Web application provides the capability of deleting information, the serv
 2. Delete content and attempt to recover it.
 3. Check if deleted information can be recovered.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G99)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G99)
 
 </details>
 
@@ -881,7 +881,7 @@ The objective of this technique is to allow users to identify the non-text conte
 1. Check that short text alternative provides a descriptive name.
 2. Check that short text alternative provides a name that has be previously been given to the non-text content by the author or another.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G100)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G100)
 
 </details>
 
@@ -900,7 +900,7 @@ A word is used in an unusual or restricted way when:
 
 1. Check that a definition is provided for the word or phrase.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G101)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G101)
 
 </details>
 
@@ -915,7 +915,7 @@ The objective of this technique is to provide information necessary to understan
 2. If the expanded form of the abbreviation is in a different language than the content, an explanation is provided.
 3. Otherwise, the expanded form is provided.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G102)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G102)
 
 </details>
 
@@ -930,7 +930,7 @@ The objective of this technique is to provide visual illustrations that help use
 2. Check if visual illustations are available in the content or through links within the content.
 3. Check that visual illustrations show the concepts or processes discussed in the text.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G103)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G103)
 
 </details>
 
@@ -944,7 +944,7 @@ The objective of this technique is to provide a method for activating things tha
 1. Using a keyboard, cycle focus through all content.
 2. Check that not changes of context occur when any component receives focus.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G107)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G107)
 
 </details>
 
@@ -959,7 +959,7 @@ The objective of this technique is to allow assistive technology to understand W
 2. Check that proper markup is used such that the name and role, for each user interface component can be determined.
 3. Check taht proper markup is used such that the user interface components that accept user input can all be operated from AT.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G108)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G108)
 
 </details>
 
@@ -974,7 +974,7 @@ The objective of this technique is to enable redirects on the client side withou
 2. For each link or programmatic reference, check if the referenced Web page contains code that causes a client-side redirect.
 3. For each link or programmatic reference that causes a client-side redirect, check if the redirect is implemented without a time limit or delay and that the page only contatins information related to the redirect.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G110)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G110)
 
 </details>
 
@@ -987,7 +987,7 @@ The objective of this technique is to ensure that when color differentces are us
 
 1. Check that all information that is conveyed using color is also conveyed using patterns that do not rely on color.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G111)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G111)
 
 </details>
 
@@ -1000,7 +1000,7 @@ The objective of this technique is to provide a definition in context for any wo
 
 1. Check that the word is defined in text either before or after the first occurrence of the word.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G112)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G112)
 
 </details>
 
@@ -1014,7 +1014,7 @@ The objective of this technique is to mark up the structure of the Web content u
 1. Check if there are parts of the content that have a semantic function.
 2. For each part that has a semantic function, if corresponding semantic markup exists in the technology, check that the content has been marked up using that semantic markup.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G115)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G115)
 
 </details>
 
@@ -1028,7 +1028,7 @@ The objective of this technique is to ensure that information conveyed through v
 1. Find items where variations in presentation of text are used to convey information.
 2. For those items, check to determine if information conveyed visually is also stated explicitly in text.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G117)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G117)
 
 </details>
 
@@ -1042,7 +1042,7 @@ The objective of this technique is to make the pronunciation of a word available
 1. Search for the first use of that word in the Web page.
 2. Check that the first use is immediately followed by the pronunciation of the word.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G120)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G120)
 
 </details>
 
@@ -1056,7 +1056,7 @@ The objective of this technique is to make the pronunciation of a word available
 1. Check that at least the first instance of the item is a link.
 2. Check that each link navigates to information about the pronunciation of the item.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G121)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G121)
 
 </details>
 
@@ -1072,7 +1072,7 @@ The objective of this technique is to provide a mechanism to bypass a block of m
 3. Check that the link is either always visible or visible when it has keyboard focus.
 4. Check that after activating the link, the keyboard focus has moved to the content immediately after the block.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G123)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G123)
 
 </details>
 
@@ -1088,7 +1088,7 @@ The objective of this technique is to provide a mechanism to bypass blocks of ma
 3. Check that the link is either always visible or visible when it has keyboard focus.
 4. Check that activating the link moves the focus to that section of the content.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G124)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G124)
 
 </details>
 
@@ -1101,7 +1101,7 @@ The objective of this technique is to make it possible for user to locate additi
 
 1. Check whether the link leads to related information.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G125)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G125)
 
 </details>
 
@@ -1116,7 +1116,7 @@ The objective of this technique is to provide a list of links to all the Web pag
 2. Check that the links in the list lead to the corresponding Web pages.
 3. Check that the list contents a link for every Web page in the site.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G126)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G126)
 
 </details>
 
@@ -1130,7 +1130,7 @@ The objective of this technique is to enable users to identify the relationship 
 1. Check if the title of the Web page describes the Web page's relationship to the collection to which it belongs.
 2. Check if the Web page includes metadata identifying the Web page's relationship to the collection to which it belongs.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G127)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G127)
 
 </details>
 
@@ -1144,7 +1144,7 @@ The objective of this technique is to help orient the user by providing informat
 1. Check that the user is given an indication of the currently selected item within the navigational unit.
 2. Check that the selected item matches the content which is being displayed.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G128)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G128)
 
 </details>
 
@@ -1158,7 +1158,7 @@ The objective of this technique is to make section headings within Web content d
 1. Determine if the Web page contains headings.
 2. Check that each heading identifies its section of the content.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G130)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G130)
 
 </details>
 
@@ -1172,7 +1172,7 @@ The objective of this technique is to ensure that the label for any interactive 
 1. Identify the purpose of the interface component.
 2. Check that each hlabel makes the component's purpose clear.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G131)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G131)
 
 </details>
 
@@ -1186,7 +1186,7 @@ The objective of this technique is to minimize the risk that users with disabili
 1. Check that the Web page includes a checkbox to request additional time to complete the form.
 2. Check that if the checkbox is checked, additional time is provided to complete the form.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G133)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G133)
 
 </details>
 
@@ -1201,7 +1201,7 @@ The objective of this technique is to allow assistive technology to understand W
 2. Use an Accessibility Tool designed for the Accessibility API of the User agent to evaluate each user interface component.
 3. Check that name and role for each user interface component are found by the tool.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G135)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G135)
 
 </details>
 
@@ -1216,7 +1216,7 @@ The objective of this technique is to enable users to access alternate content t
 2. Determine if the page contains a link to a conforming alternate version of the page.
 3. Determine if the alternate version is a conforming alternate version of the original page and that it conforms to WCAG 2.0 at the climed conformance level.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G136)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G136)
 
 </details>
 
@@ -1229,7 +1229,7 @@ The objective of this technique is to combine color and semantic markup to conve
 
 1. Check that the same information is available through semantic markup.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G138)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G138)
 
 </details>
 
@@ -1246,7 +1246,7 @@ The objective of this technique is to help users find input errors where the inf
 4. Check that there is a link to each field that is missing required data from the missing data message.
 5. Check that there is a link to the list of errors from the error message.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G139)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G139)
 
 </details>
 
@@ -1260,7 +1260,7 @@ The objective of this technique is to facilitate the interaction of assistive te
 1. Examine the encoding of a docuemnt.
 2. Check that structural information and functionality are explicitly provided and is logically separated from presentational information.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G140)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G140)
 
 </details>
 
@@ -1274,7 +1274,7 @@ The objective of this technique is to ensure that sections have headings that id
 1. Examine a page with content organized into sections.
 2. Check that a heading for each section exists.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G141)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G141)
 
 </details>
 
@@ -1289,7 +1289,7 @@ The objective of this technique is to ensure content can be scaled uniformly by 
 2. Zoom content to 200%.
 3. Check whether all content and functionality is available.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G142)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G142)
 
 </details>
 
@@ -1304,7 +1304,7 @@ The objective of this technique is to provide information via the text alternati
 2. Replace it with the text alternative.
 3. Check taht the text alternative describes the purpose of the CAPTCHA.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G143)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G143)
 
 </details>
 
@@ -1319,7 +1319,7 @@ The objective of this technique is to reduce occasions in which a user with a di
 2. Replace it with the text alternative.
 3. Check taht the text alternative describes the purpose of the CAPTCHA.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G144)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G144)
 
 </details>
 
@@ -1334,7 +1334,7 @@ The objective of this technique is to make sure that users can read text that is
 2. Measure the relative luminance of the background pixels immediately next to the letter using same formula.
 3. Calculate the contrast ratio using the following formula.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G145)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G145)
 
 </details>
 
@@ -1349,7 +1349,7 @@ The objective of this technique is to be able to present content without introdu
 2. Increase text size to 200%.
 3. Check whether all content and functionality is available with no horizontal scrolling.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G146)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G146)
 
 </details>
 
@@ -1365,7 +1365,7 @@ The objective of this technique is to make sure that users can read text that is
 3. Look in all areas that background color or image used as a background can be specified.
 4. Check that no background color or image used as background is specified.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G148)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G148)
 
 </details>
 
@@ -1379,7 +1379,7 @@ The objective of this technique is to ensure that the fucused component can be v
 1. Set focus to the control.
 2. Check whether the user agent has highlighted the control in some way.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G149)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G149)
 
 </details>
 
@@ -1393,7 +1393,7 @@ The objective of this technique is to allow users who cannot hear to be able to 
 1. Check that a procedure and policy is in place to ensure that text alternatives are delivered in real-time.
 2. Check that procedure and policy are working by conducting a random sample to see if text alternatives appear.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G150)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G150)
 
 </details>
 
@@ -1408,7 +1408,7 @@ The objective of this technique is to provide a transcript or script if the live
 2. Check that the live audio follows the script.
 3. If the alternate version(s) are on a separate page, check for the availability of link(s) to allow the user to get to the other version.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G151)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G151)
 
 </details>
 
@@ -1423,7 +1423,7 @@ The objective of this technique is to ensure that animated gif images stop blink
 2. Alternatively, use an image editor to determine the number of frames, the frame rate, and the number of repetitions. Calculate the product of the number of frames multiplied by the frame rate times the number of repetitions. If frame rates are not uniform, calcuate the product of the sum of the frame rates multiplied by the number of repetitions.
 3. Using either method, the duration of animation should be less than or equal to 5 seconds.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G152)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G152)
 
 </details>
 
@@ -1437,7 +1437,7 @@ The objective of this technique is to ensure that the text of the Web page is no
 1. Measure the readability of the text.
 2. Check that the text requires reading ability less advanced than the lower secondary education level.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G153)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G153)
 
 </details>
 
@@ -1451,7 +1451,7 @@ The objective of this technique is to provide a checkbox that users must select 
 1. Check that a checkbox indication user confirmation of the input or action is provided in addition to the submit button.
 2. Check tha if the checkbox is not selected when the form is submitted, the inptu is rejected and the user is prompted to review their entry, select the checkbox, and resubmit.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G155)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G155)
 
 </details>
 
@@ -1468,7 +1468,7 @@ In order to meet this success criterion, the Web author would design the page so
 2. Change the foreground and background colors in the browser settings so they are different than those specified in the content.
 3. Return to the page and check that the new specified foreground text and background colors in the browser override the colors specified in the content.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G156)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G156)
 
 </details>
 
@@ -1482,7 +1482,7 @@ The objective of this technique is to use a real-time caption service to provide
 1. Check that the Web page contains a viewport associated with the live audion content.
 2. Check that the text of the live audion content appears in the viewport with less than 30 seconds delay.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G157)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G157)
 
 </details>
 
@@ -1503,7 +1503,7 @@ The purpose of this technique is to provide an accessible alternative way of pre
 
 5. If the alternate version(s) are on a separate page, check for the availability of link(s) to allow the user to get to the other versions.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G158)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G158)
 
 </details>
 
@@ -1524,7 +1524,7 @@ The purpose of this technique is to provide an accessible alternative way of pre
 
 5. If the alternate version(s) are on a separate page, check for the availability of link(s) to allow the user to get to the other versions.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G159)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G159)
 
 </details>
 
@@ -1539,7 +1539,7 @@ For some people who are deaf or have certain congnitive disabilities, sign langu
 2. Check if sign language supplements to the text are available in the content or through links within the content.
 3. Check that the sign language supplements show the concepts or processes discussed in the text.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G160)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G160)
 
 </details>
 
@@ -1556,7 +1556,7 @@ Providing a search function that searches your Web pages is a design strategy th
 4. Check taht the user is taken to a page that contains the search term.
 5. Check that the user is taken to a page that contains a list of linsk to pages containing the serch term.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G161)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G161)
 
 </details>
 
@@ -1571,7 +1571,7 @@ When labels for form fields are positioned where the user expects them visually,
 2. If the form field is a checkbox or radio button, check that the label is immediately after the field.
 3. If the form field is not a checkbox or radio button, check that the label is immediately before the field.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G162)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G162)
 
 </details>
 
@@ -1587,7 +1587,7 @@ The objective of this technique is to provide users with a mechanism turning sta
 3. Check that using the mechanism to turn off diactirical marks results in content that does not display diacritical marks.
 4. Check that using the mechanism to turn on diacritical marks results in content that displays diacritical marks.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G163)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G163)
 
 </details>
 
@@ -1601,7 +1601,7 @@ The objective of this technique is to allow users to recover from errors made wh
 1. Check that the Web page describes the time period to cancel or change an order.
 2. Check that the Web page describes the process for canceling or changing an order.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G164)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G164)
 
 </details>
 
@@ -1616,7 +1616,7 @@ Operating systems have a native indication of focus, which is available in many 
 2. Tab through the page, nothing the path of the focus.
 3. Check that hte focus indicator for each control is visible.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G165)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G165)
 
 </details>
 
@@ -1629,7 +1629,7 @@ Video-only content is inaccessible to people who are blind and to some who have 
 
 1. Check that there is link to an audio alternative which describes the contents of the video immediately before or after the video-only content.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G166)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G166)
 
 </details>
 
@@ -1643,7 +1643,7 @@ When a button invokes a function on an input field, has a clear text label, and 
 1. Check that the field and button are adjacent to one another in the programmatically determined reading sequence.
 2. Check that the field and button are visually rendered adjacent to one another.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G167)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G167)
 
 </details>
 
@@ -1658,7 +1658,7 @@ The abjective of the technique is to seek confirmation from the user that the se
 2. Check that a request to confirma the selected actions is presented.
 3. Check that the action can be confirmed and canceled.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G168)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G168)
 
 </details>
 
@@ -1672,7 +1672,7 @@ Many people with cognitive disabilities have a great deal of trouble with blocks
 1. Open the page in a common browser.
 2. Verify that content is not justified (aligned to both the left and the right margins).
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G169)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G169)
 
 </details>
 
@@ -1687,7 +1687,7 @@ The intent of this technique is to allow a user to turn off sounds that start au
 2. Check for music or sounds that start automatically.
 3. Check that a control that allows the user to turn off the sounds is provided near the beginning of the page.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G170)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G170)
 
 </details>
 
@@ -1702,7 +1702,7 @@ The intent of this technique is to allow a user to control the user of sounds in
 2. Check that no sounds play automatically.
 3. Check that there is a way for a user to start sounds manually.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G171)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G171)
 
 </details>
 
@@ -1717,7 +1717,7 @@ The objective of this technique is to provide a version of the page that does no
 2. Check that there si a feature to remove the full justification.
 3. Check that the feature removes the full justification.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G172)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G172)
 
 </details>
 
@@ -1733,7 +1733,7 @@ The objective of this technique is to provide a second version of video content 
 3. Check to see if gaps in dialogue are used to convey importatn information regarding visual content.
 4. If the alternate version(s) are on a separate page, check for the availability of link(s) to allow the user to get to the other versions.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G173)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G173)
 
 </details>
 
@@ -1748,7 +1748,7 @@ When the contrast between the text and its background for some portion of the pa
 2. Check that the link or control on the original page conforms to all success criteria for the conformance level being tested.
 3. Check that the alterante version meets the contrast and all other success criteria for the conformance level being tested.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G174)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G174)
 
 </details>
 
@@ -1764,7 +1764,7 @@ The objective of this technique is to include a control on a Web page or set of 
 3. Select new colors for the text and background using the tool.
 4. Check that the content is updated to use the selected color combinations.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G175)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G175)
 
 </details>
 
@@ -1779,7 +1779,7 @@ The purpose of this technique is to provide and easy way to pass the success cri
 2. Check taht only one area of the screen is flashing at any time.
 3. Check that the floshing content would fit inot a contiguous container whose are is less than the small safe area.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G176)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G176)
 
 </details>
 
@@ -1795,7 +1795,7 @@ The objective of this technique is to suggest correct text where the information
 3. Check that the user is presented with suggestions for the correct text.
 4. Check that teh suggestion s are provided next to the form field or a link to the suggestions is provided close to the form field.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G177)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G177)
 
 </details>
 
@@ -1812,7 +1812,7 @@ The purpose of this technique is to provide a mechanism on the Web page to incre
 4. Check that after increaseing the text size to 200% of the original size, there is no loss of content or functionality.
 5. Decrease the text size to its defautl value and check to see if it in fact returned to the default size.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G178)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G178)
 
 </details>
 
@@ -1826,7 +1826,7 @@ Some user agent support changing the size of text without changing other dimensi
 1. Increase text size to 200%.
 2. Check whetehr all content and functionality is available.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G179)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G179)
 
 </details>
 
@@ -1843,7 +1843,7 @@ The objective of this technique is to give people with disabilities enough time 
 4. Wait unitl the default time limit has passed.
 5. Check that the time limit does not expire until the limit specified in step 2 has passed.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G180)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G180)
 
 </details>
 
@@ -1861,7 +1861,7 @@ Web servers that require user quthentication often terminate the session after a
 5. Check that the process can continue and be completed without loss of data, including the original data and any changes made after re-authentication.
 6. Check that the process used to save the information submitted in step 3 is not stored on the server.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G181)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G181)
 
 </details>
 
@@ -1875,7 +1875,7 @@ The intent of this technique is to provide a redundatn visual cue for users who 
 1. Locate all instances where the color of text is used to convey information.
 2. Check that any text where color is used to convey information is also styled or uses a font that makes it visually distinct from other text around it.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G182)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G182)
 
 </details>
 
@@ -1889,7 +1889,7 @@ The intent of this technique is to provide a redundatn visual cue for users who 
 1. Check that the relative luminance of the color of the text differs from the relative luminance of the surrounding text by a contrast ratio of at least 3:1.
 2. Check that hovering over the link causes a visual enhancement.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G183)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G183)
 
 </details>
 
@@ -1903,7 +1903,7 @@ The objective of this technique is to help the user avoid input errors by inform
 1. Identify form controls that will only accept user input data in a given format.
 2. Determine if instructions are provided at the top of the form about the expected format of each of the form controls identified in 1.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G184)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G184)
 
 </details>
 
@@ -1917,7 +1917,7 @@ The objective of this technique is to make it possible for users to locate all t
 1. Check that the home page contains links to all other pages in the Web site.
 2. Check taht all other pages in the Web site contain links to the home page.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G185)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G185)
 
 </details>
 
@@ -1932,7 +1932,7 @@ The objective of this technique is to provide the user a control the allows him 
 2. Activate the control.
 3. Check that the motion, blinking or auto updating has stopped.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G186)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G186)
 
 </details>
 
@@ -1948,7 +1948,7 @@ Many people with cognitive disabilities have a trouble reading text that is sing
 3. Check that teh button or link increaes the line height to at least 1.5 (150%)
 4. Checkt htat the button or link increases the paragraph spacing at least 1.5 times greater than the line spacing.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G188)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G188)
 
 </details>
 
@@ -1963,7 +1963,7 @@ The objective of this technique is to provide the user with a control near the b
 2. Activate the control.
 3. Check that all links in the resulting Web page have link text that describes their purpose.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G189)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G189)
 
 </details>
 
@@ -1978,7 +1978,7 @@ The objective of this technique is to provide the user with a control near the b
 2. Activate the control.
 3. Check that all links in the resulting Web page have link text that describes their purpose.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G189)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G189)
 
 </details>
 
@@ -1993,7 +1993,7 @@ It is better for all objects on a page to conform, but there are ceratin circums
 2. Check to see if there is a link to an identifiable conforming version of the object directly after the non-conforming object in the linear reading order.
 3. Check to see if the link goes to a conforming version.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G190)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G190)
 
 </details>
 
@@ -2008,7 +2008,7 @@ This is a general technique for allowing people who cannot use a page with blink
 2. Check that reloaded page has no blinking.
 3. Check that the reloaded page has all the information and functionality of the original page.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G191)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G191)
 
 </details>
 
@@ -2022,7 +2022,7 @@ The purpose of this technique is to provide help using a multimedia avatar that 
 1. Check that there is an assistant in the Web page.
 2. Check that the assistant provides infromation to help understand the content of the page.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G193)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G193)
 
 </details>
 
@@ -2038,7 +2038,7 @@ In this technique spell checking and suggestions for text are provided. Often pe
 3. Check that a suggested spelling is presented.
 4. CHeck that a mechanism is available to enter the suggested word into the form.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G194)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G194)
 
 </details>
 
@@ -2055,7 +2055,7 @@ The objective of this technique is enhance the focus indicator in the browser, b
 4. Check that the change of contrast of the indicator between focused and unfocused states has a ratio of 3:1 or more for the minimum focus indicator area.
 5. If the focus indicator does not have 3:1 contrast ratio with its adjacent colors, check that it is at least 2px thick.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G195)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G195)
 
 </details>
 
@@ -2070,7 +2070,7 @@ The objective of this technique is to avoid unnecessary duplication that occurs 
 2. Check that the other items in the group are marked in a way that can be ignored by assistive technologies.
 3. Check that the items marked in a way that can be ignored by assistive technologies are adacent to the item that contains the text alternative for the group.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G196)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G196)
 
 </details>
 
@@ -2084,7 +2084,7 @@ The purpose of this technique is to help users with cognitive disabilities, blin
 1. Check that each component is associated with text that identifies it.
 2. Check that this associated text is identical for each user interface component with the same function.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G197)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G197)
 
 </details>
 
@@ -2098,7 +2098,7 @@ The objective of this technique is to provide a mechanism for people who cannot 
 1. Check that there is a mechanism to turn off any time limits near the top of the page.
 2. Verify that the time limit for the page is long enough that a user can easisly navigate to the mechanism even kf they are 10 times slower than most users.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G198)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G198)
 
 </details>
 
@@ -2113,7 +2113,7 @@ The objective of this technique is to reduce the effort required for users to co
 2. Submit the form.
 3. Check that a feedback message on the screen confirms that the submission was successful.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G199)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G199)
 
 </details>
 
@@ -2122,7 +2122,7 @@ The objective of this technique is to reduce the effort required for users to co
 
 The objective of this technique is to limit the use of links or buttons that open new windows or tabs within Web content.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G200)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G200)
 
 </details>
 
@@ -2136,7 +2136,7 @@ The objective of this technique is to provide a warning before automatically ope
 1. Check that there is a warning spoken in assistive technology that this link opens to a new window.
 2. Check that there is a visual warning in text that this link opens to a new window.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G201)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G201)
 
 </details>
 
@@ -2150,7 +2150,7 @@ The objective of this technique is to provide keyboard operation for all the fun
 1. Identify all functionality on the content.
 2. Check that all functionality can be accessed using only the keyboard or keyboard interface.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G202)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G202)
 
 </details>
 
@@ -2164,7 +2164,7 @@ The purpose of this technique is to provide an alternative to audio description 
 1. Check that there is no important time-based information in the video track.
 2. Check that the programmatically associated description of the media contrains any context of the content that is not contained in the audio track.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G203)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G203)
 
 </details>
 
@@ -2180,7 +2180,7 @@ This technique helps avoid situations where horizontal scrolling may occur. Many
 3. Narrow the viewing window to 1/4 of the screen width.
 4. Check to see that the content does not require horizontal scrolling to read a line of text.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G204)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G204)
 
 </details>
 
@@ -2193,7 +2193,7 @@ The objective of this technique is to combine color and text or character cues t
 
 1. Check tat the same information is available through text or character cues.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G205)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G205)
 
 </details>
 
@@ -2209,7 +2209,7 @@ There may be situations where an author needs to use a layout that requires hori
 3. Activate the option.
 4. CHeck to make sure that horizontal scrolling is not required to read any line of text.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G206)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G206)
 
 </details>
 
@@ -2226,7 +2226,7 @@ The objective of this technique is to ensure graphical icons provide enough cont
 4. If part of the background area does not meet 3:1 with the foreground, assume that parts of the icon adjacent to the area or areas are not visible.
 5. Check that the icon is still recognizable without any area of insufficient contrast.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G207)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G207)
 
 </details>
 
@@ -2239,7 +2239,7 @@ The objective of this technique is to ensure that speech input users can operate
 
 1. The accessible name of the control contains the same letters in the same order as the visible label.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G208)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G208)
 
 </details>
 
@@ -2253,7 +2253,7 @@ The objective of this technique is to ensure people with moderately low vision c
 1. Measure the contrast ratio of each color compared to the adjacent color(s) or border (if present).
 2. Check that the contrast ratio is at least 3:1 for each adjacent color or border (if present).
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G209)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G209)
 
 </details>
 
@@ -2268,7 +2268,7 @@ The objective of this technique is to ensure that users who use a path-based dra
 2. Dragging the picked-up item back to its old position.
 3. A confirmation dialog or an undo control appears after the item has been dropped.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G210)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G210)
 
 </details>
 
@@ -2284,7 +2284,7 @@ The objective of this technique is to ensure that speech input users can operate
 3. For buttons, links, menus and other non-input controls, examine each control that contains text which serves as its label.
 4. For each non-input control, check that the label's entire string of text matches the accessible name for the input.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G211)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G211)
 
 </details>
 
@@ -2299,7 +2299,7 @@ The objective of this technique is to ensure that users who attempt to interact 
 2. Check that the action was not triggered when the pointer is released outside of the hit area for the target.
 3. If the action is triggered, check that the action is reversible.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G212)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G212)
 
 </details>
 
@@ -2316,7 +2316,7 @@ The objective of this technique is to ensure that:
 1. Check that there is a mechanism to perform the same function that does not rely on a sensor.
 2. Check taht there is a user setting which disables the motion detection.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G213)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G213)
 
 </details>
 
@@ -2330,7 +2330,7 @@ The objective of this technique is to allow users to access content in the way t
 1. Check for a control within the user interface to change the orientation of the content.
 2. Check that when the control is operated that the content changes orientation.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G214)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G214)
 
 </details>
 
@@ -2343,7 +2343,7 @@ The objective of this technique is to ensure that users who have difficulties pe
 
 1. Check that single pointer operable controls exist over or adjacent to the content slider that advance to adjacent chunks.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G215)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G215)
 
 </details>
 
@@ -2356,7 +2356,7 @@ The objective of this technique is to ensure that users who have difficulties pe
 
 1. Check that the value of the control slider can be set with a tap or click using pointer.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G216)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G216)
 
 </details>
 
@@ -2369,7 +2369,7 @@ Some authors provide shortcuts in their applications to allow for faster user in
 
 1. Determine if the user has the ability either to turn off the shortcut or to remap it to a combination that includes one or more modifier keys.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G217)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G217)
 
 </details>
 
@@ -2386,7 +2386,7 @@ The objective of this technique is to provice an easy way for users to authentic
 4. Check that the user account is logged in.
 5. Check that no object recognition test is used as part of the authenticaation process.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G218)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G218)
 
 </details>
 
@@ -2400,7 +2400,7 @@ The objective of this technique is to ensure that people with motor impairments 
 1. Check the interface for the presence of function triggered by dragging movements.
 2. Check that there is a single pointer activation alternative that does not require dragging to operate the same function.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G219)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G219)
 
 </details>
 
@@ -2415,7 +2415,7 @@ The objective of this technique is to provide a mechanism for finding contact de
 2. Determine if at least one of the following is included or linked in a consistent location: human contact details, human contact mechanism, self-help option, a fully automated mechanism.
 3. Without changing the viewport size, check that the identified help is present on all other web pages within that set of web pages.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G220)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G220)
 
 </details>
 
@@ -2429,7 +2429,7 @@ The objective of this technique is to provide information that was previously pr
 1. Check if the information has already been requested on a previous step of the process.
 2. Check that the information entered previously is prepopulated in the fields or displayed on the page.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G221)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G221)
 
 </details>
 
@@ -2444,6 +2444,6 @@ The objective of this technique is enhance the focus indicator in the browser, b
 2. Check that the focus indicator area is at least double the size of a 1 CSS px border around the component.
 3. Check that the change of contrast of the indicator between focused and unfocused states has a ratio 4.5:1 or more for the minimum focus indicator area.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G223)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/general/G223)
 
 </details>
