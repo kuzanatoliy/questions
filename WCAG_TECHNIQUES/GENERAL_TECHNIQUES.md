@@ -2432,3 +2432,18 @@ The objective of this technique is to provide information that was previously pr
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G221)
 
 </details>
+
+<details>
+  <summary>What abjective of using an author-supplied, highly visible focus indicator?</summary>
+
+The objective of this technique is enhance the focus indicator in the browser, by creating a highly visible one in the content.
+
+**Procedure:**
+
+1. Navigate to the component and check that it has a visible focus indicator that is not obscured by other content.
+2. Check that the focus indicator area is at least double the size of a 1 CSS px border around the component.
+3. Check that the change of contrast of the indicator between focused and unfocused states has a ratio 4.5:1 or more for the minimum focus indicator area.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/css/G223)
+
+</details>
