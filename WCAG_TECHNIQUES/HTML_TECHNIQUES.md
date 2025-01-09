@@ -27,3 +27,17 @@ The objective of this technique is to provide text alternatives that serve the s
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H24)
 
 </details>
+
+<details>
+  <summary>What abjective of providing a title using the title element?</summary>
+
+All HTML documents, including those in frames, have a title element in the head section that defines in a simple phrase the purpose of the document. This helps users to orient themselves within the site quickly without having to search for orientation information in the body of the page.
+
+**Procedure:**
+
+1. Examine the source code of the HTML document and check that a non-empty title element appears in the head section.
+2. Check that the title element describes the docuemnt.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H25)
+
+</details>
