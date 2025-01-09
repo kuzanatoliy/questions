@@ -41,3 +41,16 @@ All HTML documents, including those in frames, have a title element in the head 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H25)
 
 </details>
+
+<details>
+  <summary>What abjective of providing definitions for abbreviations by using the abbr element?</summary>
+
+The objective of this technique is to provide expansions or definitions for abbreviations by using the abbr element. IT is always appropriate to use abbr element for any abbreviation, including acronyms and initialisms.
+
+**Procedure:**
+
+1. Check that an expansion or definition is provided for each abbreviation via abbr.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H28)
+
+</details>
