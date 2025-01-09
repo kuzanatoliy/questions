@@ -13,3 +13,17 @@ The objective of this technique is to provide both text and iconic representatio
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H2)
 
 </details>
+
+<details>
+  <summary>What abjective of providing text alternatives for the area elements of image maps?</summary>
+
+The objective of this technique is to provide text alternatives that serve the same purpose as the selectable regions of an image map. An image map is an image divided into selectable regions defined by area elements. Each area is a link to another Web page or another part of the current Web page. The alt attribute of each area element serves the same purpose as the selectable are of the image.
+
+**Procedure:**
+
+1. Check that the area element has an alt attribute.
+2. Check that the text alternative specified by the alt attribute serves the same purpose as the part of image map image referenced by teh are element of the image map.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H24)
+
+</details>
