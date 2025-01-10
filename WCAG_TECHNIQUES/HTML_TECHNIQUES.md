@@ -54,3 +54,19 @@ The objective of this technique is to provide expansions or definitions for abbr
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H28)
 
 </details>
+
+<details>
+  <summary>What abjective of providing link text that describes the purpose of a link for anchor elements?</summary>
+
+The objective of this technique is to describe the purpose of a link by providing descriptive text as the content of the an element. The description lets a user distinguish this link from other links in the Web page and helps the user determine whetehr to follow the link. The URI of the destination is generally not sufficiently descriptive.
+
+**Procedure:**
+
+1. Check that text or a text alternative for non-text content is included in the an element.
+2. If an img element is the only content of the a element, check that its text alternative describes the purpose of the link.
+3. If the element contains one or more img element(s) and the text alternative of the img element(s) is empty, check that the text of the link describes the purpose of the link.
+4. If the a element only contains text, check that the text describes the purpose of the link.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H30)
+
+</details>
