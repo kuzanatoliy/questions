@@ -70,3 +70,17 @@ The objective of this technique is to describe the purpose of a link by providin
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H30)
 
 </details>
+
+<details>
+  <summary>What abjective of providing submit buttons?</summary>
+
+The objective of this technique is to provide a mechanism that allows users to explicitly request changes of context. The intended use of a submit button is to generate an HTTP request that submits data entered in a form, so it is an appropriate control to use for causing a change of context.
+
+**Procedure:**
+
+1. Find all forms in the content.
+2. For each form, check that it has submit button.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H32)
+
+</details>
