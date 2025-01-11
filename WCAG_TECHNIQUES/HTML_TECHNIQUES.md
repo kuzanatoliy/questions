@@ -109,6 +109,6 @@ The objective of this technique is to demonstrate how to use Unicode right to le
 2. When text changes direction, check whether neutral characters such as spaces or punctuation occur adjacent tot text that is rendered in the non-default direction.
 3. When check #2 is true and the HTML bidirectional algorithm would produce the wrong placement of the neutral characters, check whether the neutral characters are followed by Unicode right-to-left or left-to-right marks that cause neutral characters to be placed as part of the preceding characters.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H33)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H34)
 
 </details>
