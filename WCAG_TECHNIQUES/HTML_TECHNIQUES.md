@@ -84,3 +84,16 @@ The objective of this technique is to provide a mechanism that allows users to e
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H32)
 
 </details>
+
+<details>
+  <summary>What abjective of supplementing link text with the title attribute?</summary>
+
+The objective of this technique is to demonstrate how to use a title attribute on an anchor element to provide additional text describing a link. The title attribute is used to provide additional information to help clarify or further describe the purpose of a link. If the supplementary information provided through the title attribute is something the user should know before following the link, such as a warning, then it should be provided in the link thext rather than in the title attribute.
+
+**Procedure:**
+
+1. For each anchor element that has a title attribute, check that the title attribute together with the link text describes the purpose of the link.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H33)
+
+</details>
