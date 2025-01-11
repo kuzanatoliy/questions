@@ -97,3 +97,18 @@ The objective of this technique is to demonstrate how to use a title attribute o
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H33)
 
 </details>
+
+<details>
+  <summary>What abjective of using a unicode right-to-left mark (RLM) or left-to-right mark (LRM) to mix text direction inline?</summary>
+
+The objective of this technique is to demonstrate how to use Unicode right to left marks and left-to-right marks to override the HTML bidrectional algorithm when it produces undesirable results. This may be necessary, for instance, when placing neutral characters such as spaces or punctuation between different directional text runs. The concepts used in this technique are described in Inline markup and bidirectional text in HTML.
+
+**Procedure:**
+
+1. Examine the source for places where text changes direction.
+2. When text changes direction, check whether neutral characters such as spaces or punctuation occur adjacent tot text that is rendered in the non-default direction.
+3. When check #2 is true and the HTML bidirectional algorithm would produce the wrong placement of the neutral characters, check whether the neutral characters are followed by Unicode right-to-left or left-to-right marks that cause neutral characters to be placed as part of the preceding characters.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H33)
+
+</details>
