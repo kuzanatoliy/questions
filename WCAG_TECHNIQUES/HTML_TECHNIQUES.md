@@ -157,3 +157,20 @@ The objective of this technique is to programmatically associate captions for da
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H39)
 
 </details>
+
+<details>
+  <summary>What abjective of using description lists?</summary>
+
+The objective of this technique is to provide the description of names or terms by presentiong them in a description list. The list is marked up using the dl element. Within the list, each term is put in a separate dt element, and its description goes in the dd element directly following it. Multiple terms can be associated with a single description, as can a single term with multiple descriptions, provided that semantic sequence is maintained. The title attribute can be used to provide additional information about the description list. Usage of description lists ensures that temrs and their desctions are semantically related even as presentaion format changes, as well as ensuring that these terms and desctions are semantically grouped as a unit.
+
+**Procedure:**
+
+1. Check that the list is contained within a dl element.
+2. Check that each term in the list being described is contained iwthin a dt element.
+3. Check that when there is more than one term that shares the same description that the dt elements immediately follow each other.
+4. Check that the description for each term is contained in one or more dd elements.
+5. Check that the one or more dd elements immediately follow the one or more dt elements containing the term being described.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H40)
+
+</details>
