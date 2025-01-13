@@ -126,3 +126,20 @@ For input elements of type image, the alt attribute of the input element is used
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H36)
 
 </details>
+
+<details>
+  <summary>What abjective of using alt attributes on img elements?</summary>
+
+When using the img element, specify a short text alternative with the alt attribute. Note. The value of this attribute is referred to as "alt text".
+
+When an image contains words that are important to understanding the content, the alt text should inculde those words. This will allow the alt text to play the same function on the page as the image. Note that it does not necessarily describe the visual characterisics of the image itself but must convey the same meaning as the image.
+
+**Procedure:**
+
+1. Examine each img element in the content.
+2. Check that each img element which conveys meaning contains an alt attribute.
+3. If the image contains words that are important to understanding the content, the words are included int the text alternative.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H37)
+
+</details>
