@@ -112,3 +112,17 @@ The objective of this technique is to demonstrate how to use Unicode right to le
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H34)
 
 </details>
+
+<details>
+  <summary>What abjective of using alt attributes on images used as submit buttons?</summary>
+
+For input elements of type image, the alt attribute of the input element is used to provide a functional label. This label indicates the button's function, but does not attempt to describe the image. This label indicates the button's function, but does not attempt to describe the image. The label is especially important if there are multiple submit buttons on the page that each lead to different results.
+
+**Procedure:**
+
+1. For all input elements that have a type attribute value of image, check for the presence of an alt attribute.
+2. Check that the value of the alt attribute describes the button's function.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H36)
+
+</details>
