@@ -143,3 +143,17 @@ When an image contains words that are important to understanding the content, th
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H37)
 
 </details>
+
+<details>
+  <summary>What abjective of using caption elements to associate data table captions with data tables?</summary>
+
+The objective of this technique is to programmatically associate captions for data tables where captions are provided in the presentation. The caption for a table is a table identifier and acts like a title or heading for the table.
+
+**Procedure:**
+
+1. Check that the table includes a caption element.
+2. Check that the text that titles or describes the table is included in hte caption element.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H39)
+
+</details>
