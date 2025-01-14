@@ -230,3 +230,18 @@ The objective of this technique is to use the label element to explicitly associ
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H44)
 
 </details>
+
+<details>
+  <summary>What abjective of using ol, ul and dl for list or groups of links?</summary>
+
+The objective of this technique is to create list of related items using list elements appropriate for their purpose. The ol element is used when the list is ordered and the ul element is used when the list is unordered. Description lists dl are used to group name-value pairs of inromation, for example: terms and definitions or questions and answers. Although the use of this markup can make lists more readable, not all lists need markup. For instance, sentance, sentences that contain comma-separated lists may not need list markup.
+
+**Procedure:**
+
+1. Check that content that has the visual appearance of a list is marked as an unordered list.
+2. Check that content that has the visual appearance of a numbered list is marked as an ordered list.
+3. Check that content is marked as a description list when groups of name-value pairs, for example: terms and definitions or questions and answers, are presented in the form of a list.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H48)
+
+</details>
