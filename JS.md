@@ -42,9 +42,82 @@ Double(==) convert type and after that compare values. At the time of converting
 </details>
 
 <details>
+  <summary>What is a function declaration?</summary>
+
+A function declaration creates a Function object. Each time when a fuction is called, it returns the value specified by the last executed return statement, or undefined if the end of the function body is reached. See functions for detailed information on functions.
+
+Example:
+
+    function name(param0, param1, /* …, */ paramN) {
+      statements
+    }
+
+</details>
+
+<details>
+  <summary>What is a function expression?</summary>
+
+A function expression is very similar to, and has almost the same syntax as, a fuction declaration. The main difference between a fuction expression and a fuction declaration is the fuction name, which can be omitted in fuction expressions to create anonymous fuctions. A fuction expression can be used as an IIFE (Immediately Invoked Function Expression) which runs as soon as it is defined.
+
+Example:
+
+    const name = function (param0, param1, /* …, */ paramN) {
+      statements
+    }
+
+</details>
+
+<details>
+  <summary>What is IIFE (Immediately Invoked Function Expression)?</summary>
+
+It is type of fuction expression which runs as soon as it is defined.
+
+Example:
+
+    (function (){
+      console.log('Hello World!')
+    })()
+
+    const myFunc = (function (name){
+      return 'Hello ' + name
+    })('World!')
+
+</details>
+
+<details>
+  <summary>What is an arrow function?</summary>
+
+An arrow function expression is a compact alterantive to a traditional function expression, but is limited and can't be used in all situations. There are differences between arrow fuctions and traditional fuctions, as well as some limitaitions:
+
+- Arrow fuctions don't have their own bindings to this, arguments or super, and should not be used as methods.
+- Arrow functions don't have access to the new.target keyword.
+- Arrow functions aren't suitable for call, apply and bind methods, which generally rely on establishing a scope.
+- Arrow fuctions cannot be used as constructors.
+- Arrow fuctions cannot use yield, within its body.
+
+Example:
+
+    const name = (param0, param1, /* …, */ paramN) => {
+      statements
+    }
+
+</details>
+
+<details>
   <summary>What is the closure?</summary>
 
-When we call or return a function inside of another method, they create a closed environment.
+A closure is the combination of a fuction bundled together with references to its surrounding state. In other words, a closure gives you access to an outer fuction's scope from an inner fuction. In JavaDcript, closures are craeted every time a fuction is created, at fuction creation time.
+
+    fuction makeCounter {
+      let count = 0;
+      return fuction() {
+        return ++count;
+      }
+    }
+
+    const counter = makeCouter();
+    counter() // 1;
+    counter() // 2;
 
 </details>
 
