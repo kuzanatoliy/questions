@@ -174,3 +174,17 @@ The objective of this technique is to provide the description of names or terms 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H40)
 
 </details>
+
+<details>
+  <summary>What abjective of using h1-h6 to identify headings?</summary>
+
+The objective of this technique is to use HTML heading markup to provide semantic code for headings in the content. Heading markup will allow assistive technologies to present the heading status of text to a user. A screen reader can recognize the code and announce the text as a heading with its level, beep or provide some other auditory indicator. Screen readers are also able to navigate heading markup which can be an effective way for screen reader users to more quickly find the content of interest. Assistive technologies that alter the authored visual display will also be able to provide and appropriate alterante visual display for headings that can be identified by heading markup.
+
+**Procedure:**
+
+1. Check that heading markup is used when content is a heading and the heading markup indicates the appropriate heading level for the content.
+2. Check that heading markup is not used when content is not a heading.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H42)
+
+</details>
