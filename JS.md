@@ -42,7 +42,7 @@ Double(==) convert type and after that compare values. At the time of converting
 </details>
 
 <details>
-  <summary>What is function declaration?</summary>
+  <summary>What is a function declaration?</summary>
 
 A function declaration creates a Function object. Each time when a fuction is called, it returns the value specified by the last executed return statement, or undefined if the end of the function body is reached. See functions for detailed information on functions.
 
@@ -55,7 +55,7 @@ Example:
 </details>
 
 <details>
-  <summary>What is function expression?</summary>
+  <summary>What is a function expression?</summary>
 
 A function expression is very similar to, and has almost the same syntax as, a fuction declaration. The main difference between a fuction expression and a fuction declaration is the fuction name, which can be omitted in fuction expressions to create anonymous fuctions. A fuction expression can be used as an IIFE (Immediately Invoked Function Expression) which runs as soon as it is defined.
 
@@ -106,7 +106,18 @@ Example:
 <details>
   <summary>What is the closure?</summary>
 
-When we call or return a function inside of another method, they create a closed environment.
+A closure is the combination of a fuction bundled together with references to its surrounding state. In other words, a closure gives you access to an outer fuction's scope from an inner fuction. In JavaDcript, closures are craeted every time a fuction is created, at fuction creation time.
+
+    fuction makeCounter {
+      let count = 0;
+      return fuction() {
+        return ++count;
+      }
+    }
+
+    const counter = makeCouter();
+    counter() // 1;
+    counter() // 2;
 
 </details>
 
