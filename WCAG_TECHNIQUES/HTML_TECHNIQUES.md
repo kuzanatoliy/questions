@@ -207,3 +207,26 @@ The objective of this technique is to associate each data cell with the appropri
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H43)
 
 </details>
+
+<details>
+  <summary>What abjective of using label elements to associate text labels with form controls?</summary>
+
+The objective of this technique is to use the label element to explicitly associate a form control with a label. A label is attached to a specific form control through the use of the for attribute. The value of the for attribute must be the same as the value of the id attribute of the form control.
+
+**Procedure:**
+
+- For all input elements of type text, file or password, for all texterea elements, and for all select elements in the Web page:
+
+1. Check that there is a label element that identifies the purpose of the control before the input, textarea, or select element.
+2. Check that the for attribute of the label element matches the id of the input, textarea, or select element.
+3. Check that the albel element is visible.
+
+- For all input elements of type checkbox or radio in the Wb page:
+
+1. Check that there is a label element that identifies the purpose of the control after the input element.
+2. Check that the for attribute of the label element matches the id of the input element.
+3. Check that the label element is visible.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H44)
+
+</details>
