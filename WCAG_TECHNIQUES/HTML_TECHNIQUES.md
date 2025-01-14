@@ -188,3 +188,22 @@ The objective of this technique is to use HTML heading markup to provide semanti
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H42)
 
 </details>
+
+<details>
+  <summary>What abjective of using id and headers attributes to associate data cells with header cells in data tables?</summary>
+
+The objective of this technique is to associate each data cell with the appropriate headers. This technique adds a headers attribute to each data cell. It also adds an id attribute to any cell used as a header for other cells. The headers attribute of a cell contains a list of the id attributes of the associated header cells. If there is more than one id, they are separated by spaces.
+
+**Procedure:**
+
+1. Check for layout tables: determine whether the content has a relationship with other content in both its column and its row. If "no", the table is a layout table. If "yes", the table is a data table.
+2. For data tables, check that any cell that is associated with more than one row and/or one column header contains a headers attribute that list the id for all headers associated with that cell.
+3. For data tables where any cell contains an id or headers attribute:
+
+- Checka that each id listed in the headers attribute of the data cell matches the id attribute of a cell that is used as a header element.
+- Check that the headers attribute of a data cell contains the id attribute of all headers associated with the data cell.
+- Check that all ids are unique.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H43)
+
+</details>
