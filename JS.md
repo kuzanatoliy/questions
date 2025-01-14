@@ -68,6 +68,23 @@ Example:
 </details>
 
 <details>
+  <summary>What is IIFE (Immediately Invoked Function Expression)?</summary>
+
+It is type of fuction expression which runs as soon as it is defined.
+
+Example:
+
+    (function (){
+      console.log('Hello World!')
+    })()
+
+    const myFunc = (function (name){
+      return 'Hello ' + name
+    })('World!')
+
+</details>
+
+<details>
   <summary>What is the closure?</summary>
 
 When we call or return a function inside of another method, they create a closed environment.
