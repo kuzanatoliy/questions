@@ -61,7 +61,7 @@ A function expression is very similar to, and has almost the same syntax as, a f
 
 Example:
 
-    const name = (param0, param1, /* …, */ paramN) => {
+    const name = function (param0, param1, /* …, */ paramN) {
       statements
     }
 
@@ -81,6 +81,25 @@ Example:
     const myFunc = (function (name){
       return 'Hello ' + name
     })('World!')
+
+</details>
+
+<details>
+  <summary>What is an arrow function?</summary>
+
+An arrow function expression is a compact alterantive to a traditional function expression, but is limited and can't be used in all situations. There are differences between arrow fuctions and traditional fuctions, as well as some limitaitions:
+
+- Arrow fuctions don't have their own bindings to this, arguments or super, and should not be used as methods.
+- Arrow functions don't have access to the new.target keyword.
+- Arrow functions aren't suitable for call, apply and bind methods, which generally rely on establishing a scope.
+- Arrow fuctions cannot be used as constructors.
+- Arrow fuctions cannot use yield, within its body.
+
+Example:
+
+    const name = (param0, param1, /* …, */ paramN) => {
+      statements
+    }
 
 </details>
 
