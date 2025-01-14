@@ -55,6 +55,19 @@ Example:
 </details>
 
 <details>
+  <summary>What is function expression?</summary>
+
+A function expression is very similar to, and has almost the same syntax as, a fuction declaration. The main difference between a fuction expression and a fuction declaration is the fuction name, which can be omitted in fuction expressions to create anonymous fuctions. A fuction expression can be used as an IIFE (Immediately Invoked Function Expression) which runs as soon as it is defined.
+
+Example:
+
+    const name = (param0, param1, /* …, */ paramN) => {
+      statements
+    }
+
+</details>
+
+<details>
   <summary>What is the closure?</summary>
 
 When we call or return a function inside of another method, they create a closed environment.
