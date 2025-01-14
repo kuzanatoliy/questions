@@ -42,6 +42,19 @@ Double(==) convert type and after that compare values. At the time of converting
 </details>
 
 <details>
+  <summary>What is function declaration?</summary>
+
+A function declaration creates a Function object. Each time when a fuction is called, it returns the value specified by the last executed return statement, or undefined if the end of the function body is reached. See functions for detailed information on functions.
+
+Example:
+
+    function name(param0, param1, /* …, */ paramN) {
+      statements
+    }
+
+</details>
+
+<details>
   <summary>What is the closure?</summary>
 
 When we call or return a function inside of another method, they create a closed environment.
