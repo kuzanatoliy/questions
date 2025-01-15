@@ -245,3 +245,17 @@ The objective of this technique is to create list of related items using list el
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H48)
 
 </details>
+
+<details>
+  <summary>What abjective of using semantic markup to mark emphasized or special text?</summary>
+
+The objective of this technique is to demonstrate how semantic markup can be used to mark emphasised or special text so that it can be programmatically determined. Using semantic markup to mark emphasized or special text also provides structrue to the document. User agents can then make the structure perceivable to the user, for example using a different visual presentation for different types of structures or by using a different voice or pitch in an auditory presentation.
+
+**Procedure:**
+
+1. Examine the content for information that is conveyed through variations in presentation of text.
+2. Check that appropriate semantic markup have been used to mark the text that conveys information through variations in text.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H49)
+
+</details>
