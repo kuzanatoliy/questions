@@ -286,3 +286,17 @@ The objective of this technique is to provide a text alternative for content ren
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H53)
 
 </details>
+
+<details>
+  <summary>What abjective of using the dfn element to identify the defining instance of a word?</summary>
+
+The objective of this technique is to use the dfn to mark the use of a word or phrase where it is defined. The dfn element is used to indicate the defining instance of the enclossed term. In other words, it marks the occurrence of the term where the term is defined. Note that it encloses the term, not the difinition. This technique would be used in combination with Using inline definitions to provide the definition.
+
+**Procedure:**
+
+1. Identify all words that are defined inline in the text, that is where the definition occurs in a sentence near an occurrence of the word.
+2. Check that each word that is defined inline is contained in a dfn element.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H54)
+
+</details>
