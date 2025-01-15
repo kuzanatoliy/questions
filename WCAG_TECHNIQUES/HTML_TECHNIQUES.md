@@ -259,3 +259,17 @@ The objective of this technique is to demonstrate how semantic markup can be use
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H49)
 
 </details>
+
+<details>
+  <summary>What abjective of using table markup to present tabular infroamtion?</summary>
+
+The objective of this technique is to present tabular infroamtion in a way that preserves relationships within the infroamtion even when users cannot see the table or the presentation format is changed. Inforamtion is considered tabular when logical relationships among text, numbers, images, or other data exist in two dimensions. These relationships are represented in columns and rows, and the columns and rows must be recognizable in order for the logical relationships to be perceived.
+
+**Procedure:**
+
+1. Check for the presence of tabular information.
+2. For each occurrence of tabular inforamtion: check that table markup with at least the elements table, tr, th, and td is used.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H51)
+
+</details>
