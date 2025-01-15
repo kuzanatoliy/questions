@@ -273,3 +273,16 @@ The objective of this technique is to present tabular infroamtion in a way that 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H51)
 
 </details>
+
+<details>
+  <summary>What abjective of using the body of the object element?</summary>
+
+The objective of this technique is to provide a text alternative for content rendered using the object element. The body of the object element can be used to provide a complete text alternative for the object, or may contain additional non-text content with text alternatives.
+
+**Procedure:**
+
+1. Check that the body of each object element contains a text alternative for the object.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H53)
+
+</details>
