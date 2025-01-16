@@ -315,3 +315,17 @@ The objective of this technique is to identify changes in the text direction of 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H56)
 
 </details>
+
+<details>
+  <summary>What abjective of using the language attribute on the HTML element?</summary>
+
+The objective of this technique is to identify the default language of a document by providing the lang attribute on the html element.
+
+**Procedure:**
+
+1. Check that the html element has a lang attribute.
+2. Check that the value of the lang attribute conforms to tags for identifying languages or its successor and reflects the primary language used by the Web page.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H57)
+
+</details>
