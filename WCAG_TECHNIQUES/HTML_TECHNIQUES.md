@@ -300,3 +300,18 @@ The objective of this technique is to use the dfn to mark the use of a word or p
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H54)
 
 </details>
+
+<details>
+  <summary>What abjective of using the dir attribute on an inline element to resolve problems with nested directional runs?</summary>
+
+The objective of this technique is to identify changes in the text direction of text that includes nested directional runs by providing the dir attribute on inline elements. A nested directional run is a run of text that includes mixed directional text, for example, a paragraph in English containing a quoted Hebrew sentence which in turn includes an English phrase. Use of the dir attribute on an enclosing span or other inline element may be necessary because the Unicode bidrectional algorithm can produce undesirable results when mixed directional text contains spaces or punctuation. The concepts used in this technique are described in What you need to know about the bidi algorithm and inline markup.
+
+**Procedure:**
+
+1. Examine the text direction of text in the document.
+2. If the text direction is right-to-left, check that for the ancestor element that has a dir attribute, the attribute has the value rtl.
+3. If the text direction is left-to-right, check that there is no ancestor element with a dir attribute, or that for the ancestor element that has a dir attribute, the attribute has the value ltr.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H56)
+
+</details>
