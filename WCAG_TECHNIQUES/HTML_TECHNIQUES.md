@@ -349,3 +349,17 @@ For each lang attribute in the document:
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H58)
 
 </details>
+
+<details>
+  <summary>What abjective of using the ruby element?</summary>
+
+The objective of this technique is to use ruby annotation to provide information about the pronunciation and meaning of a run of text where meaning is determined by pronunciation.
+
+**Procedure:**
+
+1. Check that a rt element contains pronunication infromation for each run of text defined by the rb element.
+2. If simple Ruby markup is used, check that the rp element is present to indicate to user agents that do not support Ruby annotations that the text in the rt element provides the pronunciation information.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H62)
+
+</details>
