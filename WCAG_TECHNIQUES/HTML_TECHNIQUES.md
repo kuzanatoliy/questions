@@ -329,3 +329,23 @@ The objective of this technique is to identify the default language of a documen
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H57)
 
 </details>
+
+<details>
+  <summary>What abjective of using language attributes to identify changes in the human language?</summary>
+
+The objective of this technique is to clearly identify any changes in language on a page by using the lang attribute.
+
+**Procedure:**
+
+For each element in the document:
+
+1. Check that the human language of the content of the lement is the same as the inherited language for the element.
+
+For each lang attribute in the document:
+
+1. Check that the value of the lang attribute.
+2. Check that the language code matches the language of the content it applies to.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H58)
+
+</details>
