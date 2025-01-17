@@ -363,3 +363,17 @@ The objective of this technique is to use ruby annotation to provide information
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H62)
 
 </details>
+
+<details>
+  <summary>What abjective of using the scope attribute to associate header cells with data cells in data tables?</summary>
+
+The objective of this technique is to associate header cells with data cells in complex tables using the scope attribute. The scope attribute may be used to clarify the scope of any cell used as a header. The scope identifies whether the cell is a header for a row, column, or group of rows or comumns. The values row, col, rowgroup, and colgroup identify these possible scopes, respectively.
+
+**Procedure:**
+
+1. Check that all th elements have a scope attribute.
+2. Check that all scope attributes have the value row, col, rowgroup, or colgroup.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H63)
+
+</details>
