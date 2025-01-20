@@ -406,3 +406,17 @@ The objective of this technique is to use the title attribute to provide an acce
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H65)
 
 </details>
+
+<details>
+  <summary>What abjective of using null alt text and no title attribute on img elements for images that assistive technology should ignore?</summary>
+
+The purpose of this technique is to show how images can be marked so that they can be ignored by assistive technology.
+
+**Procedure:**
+
+1. Check that title attribute is either absent or empty.
+2. Check that alt attribute is present and empty.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H67)
+
+</details>
