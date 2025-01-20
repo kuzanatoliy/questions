@@ -420,3 +420,23 @@ The purpose of this technique is to show how images can be marked so that they c
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H67)
 
 </details>
+
+<details>
+  <summary>What abjective of providing heading elements at the beginning of each section of content?</summary>
+
+The objective of this technique is to use section headings to convey the structure of the content. Heading markup can be used:
+
+- to indicate start of main content;
+- to mark up section headings within the main content area;
+- to demarcate different navigational sections like top or main navigation, left or secondary navigation and footer navigation;
+- to mark up images of text that are used as headings;
+- to allow users the ability to navigate a page by sections or skip repeated blocks of information.
+
+**Procedure:**
+
+1. Check that the content is divided into separate sections.
+2. Check that each section on the page starts with a headings.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H69)
+
+</details>
