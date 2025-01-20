@@ -391,3 +391,18 @@ The objective of this technique is to demonstrate the use of the title attribute
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H64)
 
 </details>
+
+<details>
+  <summary>What abjective of using the title attribute to identify form controls when the label element cannot be used?</summary>
+
+The objective of this technique is to use the title attribute to provide an accessible name for form controls when the visual design does not include text on the screen that can be associated with the control as a label. User agents, including assistive technology, can speak the title attribute.
+
+**Procedure:**
+
+1. Check that the control has a title attribute.
+2. Check that the purpose of the form control is clear to users who can see the control.
+3. Check that the title attribute identifies the purpose of the control and that it matches the apparent visual purpose.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H65)
+
+</details>
