@@ -440,3 +440,17 @@ The objective of this technique is to use section headings to convey the structu
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H69)
 
 </details>
+
+<details>
+  <summary>What abjective of providing a description for groups of from controls using fieldset and legent elements?</summary>
+
+The objective of this technique is to provide a semantic grouping for related form controls. This allows users to understand the relationship of the controls and interact with the form more quickly and effectively.
+
+**Procedure:**
+
+1. Check that the group of logically related input or select elements are contained within fieldset elements.
+2. Check that each fieldset has a legend element that is the first child in the fieldset and includes a description for that group.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H71)
+
+</details>
