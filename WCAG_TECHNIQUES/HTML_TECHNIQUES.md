@@ -377,3 +377,17 @@ The objective of this technique is to associate header cells with data cells in 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H63)
 
 </details>
+
+<details>
+  <summary>What abjective of using the title attribute of the iframe lement?</summary>
+
+The objective of this technique is to demonstrate the use of the title attribute of the iframe element to describe its contents. This provides a label for the iframe so users can determine which frame to enter and explore in details. It does not label the content inside the iframe.
+
+**Procedure:**
+
+1. Check each iframe element in the HTML source code for the presence of a title attribute.
+2. Check that the title attribute contains text that describes the iframe's content.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H64)
+
+</details>
