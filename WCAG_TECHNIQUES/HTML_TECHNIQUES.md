@@ -454,3 +454,19 @@ The objective of this technique is to provide a semantic grouping for related fo
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H71)
 
 </details>
+
+<details>
+  <summary>What abjective of using meta refresh to create an instant client-side redirect?</summary>
+
+The objective of this technique is to enable redirects on the client side without confusing the user. Redirects are preferebly implemented on the server side, but authours do not always have control over server-side technologies.
+
+**Procedure:**
+
+Find all meta elements in the document that contain the http-equiv attribute with value refresh, check that:
+
+1. The content attribute has a number with a value of 0.
+2. The number is followed by; URL=anyURL (where anyURL stands for the URI that should replace the current page).
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H76)
+
+</details>
