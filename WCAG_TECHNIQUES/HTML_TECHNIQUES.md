@@ -470,3 +470,17 @@ Find all meta elements in the document that contain the http-equiv attribute wit
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H76)
 
 </details>
+
+<details>
+  <summary>What abjective of identifying the purpose of a link using link text combined with its enclosing list item?</summary>
+
+The objective of this technique is to identify the purpose of a link from the link and its list item context. The list imte enclosing the link provides context for an otherwise unclear link when the list item is the nearest enclosing block-level ancestor element. The description lets a user distinguish this link from links in the Web page that lead to other destinations and helps the user determine whether to follow the link. Note that simply providing the URI of the destination is generally not sufficiently descriptive.
+
+**Procedure:**
+
+1. Check that the link is part of a list item.
+2. Check that text of the link combined with the text of its enclosing list item describes the purpose of the link.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H77)
+
+</details>
