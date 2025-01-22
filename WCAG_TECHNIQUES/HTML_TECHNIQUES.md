@@ -498,3 +498,17 @@ The objective of this technique is to identify the purpose of a link from the li
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H78)
 
 </details>
+
+<details>
+  <summary>What abjective of identifying the purpose of a link using link in a data table using the link text combined with its enclosing table cell and associated table header cells?</summary>
+
+The objective of this technique is to identify the purpose of a link from the link in its data table context. This context is the table cell enclosing the link and the cell's associated table header cells. The data table context provides the purpose for an otherwise unclear link when the table cell is the nearest enclosing block-level ancestor element. IT lets a user distinguish this link from other links in the Web page that lead to other desinations and helps the user determine whether to follow the link. Note that simply providing the URI of the destination is not sufficiently descriptive for people with disabilities especially those with cognitive disabilities.
+
+**Procedure:**
+
+1. Check that the link is in a talbe cell.
+2. Check that text of the link combined with the text of the associated table header cells describes the purpose of the link.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H79)
+
+</details>
