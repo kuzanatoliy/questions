@@ -512,3 +512,17 @@ The objective of this technique is to identify the purpose of a link from the li
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H79)
 
 </details>
+
+<details>
+  <summary>What abjective of identifying the purpose of a link using link text combined with the preceding heading element?</summary>
+
+The objective of this technique is to identify the purpose of a from the context provided by its heading context. The preceding heading provides context for an otherwise unclear link. The description lets a user distinguish this link from links in the Web page that lead to other destinations and helps the user determine whether to follow the link.
+
+**Procedure:**
+
+1. Find the heading element that precedes the link.
+2. Check that the text of the link combined with the text of that heading describes the purpose of the link.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H80)
+
+</details>
