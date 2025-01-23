@@ -526,3 +526,18 @@ The objective of this technique is to identify the purpose of a from the context
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H80)
 
 </details>
+
+<details>
+  <summary>What abjective of identifying the purpose of a link in a nested list using link text combined with the parent list item under which the list is nested?</summary>
+
+The objective of this technique is to describe the purpose of a link in a nested list from the context provided by the list item under which the list is nested. This list item provides context for an otherwise unclear link. The description lets a user distinguish this link fro mlinks in the Web page that lead to other destinations and helps the user determine whether to follow the link.
+
+**Procedure:**
+
+1. Find the link's parent ul or ol element.
+2. Check that this list element (ul, ol) is a descendant of an li element.
+3. Check that the text of the link combined with the text of that parent li element describes the purpose of the link.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H81)
+
+</details>
