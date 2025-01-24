@@ -541,3 +541,18 @@ The objective of this technique is to describe the purpose of a link in a nested
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H81)
 
 </details>
+
+<details>
+  <summary>What abjective of using the target attribute to open a new window on user request and indicating this in link text?</summary>
+
+The objective of this technique is to avoid confusion that may be caused by the appearance of new windows that were not requested by the user. Suddenly opening new windows can disorient users or be missed completely by some. In HTML, the target attribute can be used to open a new window.
+
+**Procedure:**
+
+1. Activate each link in the document to check if it opens a new window.
+2. For each link that opens a new window, check that it uses the target attribute.
+3. Check that the link text contains information indicating that the link will opwn in a new window.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H83)
+
+</details>
