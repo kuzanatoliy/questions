@@ -570,3 +570,17 @@ The objective of this technique is to allow the user to control when an action i
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H84)
 
 </details>
+
+<details>
+  <summary>What abjective of using optgroup to group option elements inside a select?</summary>
+
+The objective of this technique is to group items in a selection list. A selection list is a set of allowd values for a form control such as a multi-select list or a combo box. Often selection list have groups of related options. Those groups should be semantically identified, rather than being delimiter with "dummy" list entries, for example: an option element containing only a series of dashes to create a horizontal line. Semantically identifying groups of options helps to visually break up long list so that users can more easily locate what they are interested in.
+
+**Procedure:**
+
+1. Check the set of options within a selection list to see if there are groups of related options.
+2. If there are groups of related options, they should be grouped with optgroup.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H85)
+
+</details>
