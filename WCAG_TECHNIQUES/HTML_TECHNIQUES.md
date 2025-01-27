@@ -556,3 +556,17 @@ The objective of this technique is to avoid confusion that may be caused by the 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H83)
 
 </details>
+
+<details>
+  <summary>What abjective of using a button with a select element to perform an action?</summary>
+
+The objective of this technique is to allow the user to control when an action is performed, rather than having the action occur as a side effect of choosing a value for the select element. The user may inspect the different values of the select element, or may accidentally choose the wrong value, without causing the action to occur. When the user is satisfied with their choice, they select the button to perform the action.
+
+**Procedure:**
+
+1. Check that focus (including keyboard focus) on an option in the select element does not result in any actions.
+2. Check that selecting the button performs the action associated with the current select value.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H84)
+
+</details>
