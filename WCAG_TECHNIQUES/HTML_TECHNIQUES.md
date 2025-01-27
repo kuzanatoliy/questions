@@ -584,3 +584,21 @@ The objective of this technique is to group items in a selection list. A selecti
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H85)
 
 </details>
+
+<details>
+  <summary>What abjective of providing text alternatives for emojis, emoticons ASCII art, and leetspeak?</summary>
+
+Emojis are very popular and are frequently used online to help provide more context and expression to text based communication. Emojis come with their own pre-defined names that might not always match what the author is intending to communicate. For example, the emoji of a black right-facing triangle is described by default as black right-pointing pointer, which would be confusing if a designer had changed its rotation or color, or if it was being used to give the accessible name to a "play" button in a multimedia player.
+
+**Procedure:**
+
+1. Check to see that the content contains emojis, emoticons, ASCII art, or leetspeak.
+2. Check that each emoji has a text alternative that serves an equivalent purpose.
+3. Check that each ASCII artwork, emoticon, and / or Leetspeak either:
+
+- is marked up as an image with a text alternative that serves an equivalent purpose;
+- has a text alternative immediately before or after.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H86)
+
+</details>
