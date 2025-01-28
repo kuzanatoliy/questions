@@ -602,3 +602,18 @@ Emojis are very popular and are frequently used online to help provide more cont
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H86)
 
 </details>
+
+<details>
+  <summary>What abjective of using the title attribute to provide context-sensitive help?</summary>
+
+The objective of this technique is to use HTML according to its specification. Technology specifications define the meaning and proper handling of features of the technology. Using those features in the manner described by the specification ensures that user agents, including assistive technologies, will be able to present representations of the feature that are accurate to the author's intent and interoperable with each other.
+
+**Procedure:**
+
+1. Check that the page uses only elements, attributes, and attribute values that are defined in the specification.
+2. Check that elements attributes, and values are used in the manner prescribed by the specification.
+3. Check that the page can be parsed correctly, according to the rules of the specification.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H88)
+
+</details>
