@@ -660,3 +660,16 @@ The objective of this technique is to use standard HTML form controls and link e
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H91)
 
 </details>
+
+<details>
+  <summary>What abjective of using the track element to provide captions?</summary>
+
+The objective of this technique is to use the HTML track element to specify a captions timed text track for a video element. Caption timed text tracks contain transcription or translation of the dialogue, should effects, relevant musical cues, and other relevant audio information, suitable for when sound is unavailable or not clearly audible.
+
+**Procedure:**
+
+1. Check that the video contains a track element of kind captions in the language of the video.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H95)
+
+</details>
