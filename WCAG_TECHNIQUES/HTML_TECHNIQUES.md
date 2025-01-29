@@ -617,3 +617,18 @@ The objective of this technique is to use HTML according to its specification. T
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H88)
 
 </details>
+
+<details>
+  <summary>What abjective of using the title attribute to provide context-sensitive help?</summary>
+
+The objective of this technique is to provide context sensitive help for users as they enter data in forms by providing the help infromation in a title attribute. The help may include format information or examples of input.
+
+**Procedure:**
+
+1. Identify form controls that require text input.
+2. Check that each form control has an explicitly associated label.
+3. Check that each form control has context-sensitive help provided in the title attribute.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H89)
+
+</details>
