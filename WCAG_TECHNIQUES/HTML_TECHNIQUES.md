@@ -632,3 +632,31 @@ The objective of this technique is to provide context sensitive help for users a
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H89)
 
 </details>
+
+<details>
+  <summary>What abjective of indicating required form controls using label or legend?</summary>
+
+The objective of this technique is to provide a clear indication that a specific form control in a Web application or form is required for successful data submission. A symbol or text indicating that the control is required is programmatically associated with the field by using the label element, or the legend for groups of controls associated viea fieldset. If a symbol is used, the user is advised of its meaning before the first use.
+
+**Procedure:**
+
+1. For each required form control, check that the required status is indicated in the form control's label or legend.
+2. For each indicator of required status that is not provided in text, check that the meaning of the indicator is explained before the form control that uses it.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H90)
+
+</details>
+
+<details>
+  <summary>What abjective of using HTML form controls and links?</summary>
+
+The objective of this technique is to use standard HTML form controls and link elements to provide keyboard operation and assistive technology interoperability of interactive user interface elements.
+
+**Procedure:**
+
+1. Inspect the HTML source code.
+2. For each instance of links and form elements, check that the name, value, and state are specified as indicated in the table above.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H91)
+
+</details>
