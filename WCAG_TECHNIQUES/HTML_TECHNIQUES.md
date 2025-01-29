@@ -673,3 +673,16 @@ The objective of this technique is to use the HTML track element to specify a ca
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H95)
 
 </details>
+
+<details>
+  <summary>What abjective of using the track element to provide audio descriptions?</summary>
+
+The objective of this technique is to use the HTML track element to specify a descriptions timed text track for a video element. Audio description timed text tracks contain textual descriptions of the video component of the media resource, intended for audio synthesis when the visual component is obscured, unavailable, or not usable. The user agent makes the cues available to the user in a non-visual fashion, for instance, by synthesizing them into speech.
+
+**Procedure:**
+
+1. Check that the video contains a track elemetn of kind="descriptions" in the language of the video.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H96)
+
+</details>
