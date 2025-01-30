@@ -713,3 +713,18 @@ The objective of this technique is to programmatically link a pre-defined and pu
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H98)
 
 </details>
+
+<details>
+  <summary>What abjective of providing a page-selection mechanism?</summary>
+
+The objective of this technique is to ensure that a page-selection mechanism is provided that makes available programmatically all set page locations in the digital publication.
+
+**Procedure:**
+
+1. Check that a page-selection mechanism exists in the publication.
+2. Check that all the static page break locations in the publication are represented in the selection mechanism.
+3. Check that the entries in the page-selection mechanism link to the correct location in the publication.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H99)
+
+</details>
