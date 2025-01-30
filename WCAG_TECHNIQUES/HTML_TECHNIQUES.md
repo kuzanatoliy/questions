@@ -742,3 +742,18 @@ The objective of this technique is to provide examples of properly marked up ema
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H100)
 
 </details>
+
+<details>
+  <summary>What abjective of using semantic HTML elements to identify regions of a page?</summary>
+
+The objective of this technique is to provide programmatic access to sections of a web page. Lnadmark roles programmatically identify sections of a page. Browsers don't expose landmarks directly to users, but they they are made availabel to them by assistive technology and browser extensions to help navigation to various sections of a page.
+
+**Procedure:**
+
+1. Examine each HTML element that creates a landmark role.
+2. Examine whetehr the correct element has been used to mark up content. For example: a nav element has been used to mark up a section with navigation links, or the main element is used to contain the page's main content.
+3. If a landmark region needs to have an accessible name to be exposed as a landmark, check to see that there is accessible name.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H101)
+
+</details>
