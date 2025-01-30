@@ -699,3 +699,17 @@ The objective of this technique is to group navigation links using the HTML nav 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H97)
 
 </details>
+
+<details>
+  <summary>What abjective of using HTML 5.2 autocomplete attributes?</summary>
+
+The objective of this technique is to programmatically link a pre-defined and published taxonomic term to the input, so that the inputs can also be machine-interpreted. This way the input will always have a common, referable and identifiable value associated to it, no matter what language is used, or what visible on-screen term is used to label the input. Then it can be further customized or otherwise machine-manipulated to help users.
+
+**Procedure:**
+
+1. The form field has a valid and well-formed autocomplete attribute and value pair.
+2. The purpose of the form field indicated by the label corresponds with the autocomplete token on the input.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H98)
+
+</details>
