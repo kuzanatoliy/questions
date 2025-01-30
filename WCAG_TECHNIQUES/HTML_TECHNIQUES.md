@@ -728,3 +728,17 @@ The objective of this technique is to ensure that a page-selection mechanism is 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H99)
 
 </details>
+
+<details>
+  <summary>What abjective of providing properly marked up email and password inputs?</summary>
+
+The objective of this technique is to provide examples of properly marked up email and password inputs. This technique involves providing form mechanism where the user can enter their email address and password to log into the website.
+
+**Procedure:**
+
+1. Check that each input for authentication includes an appropriate accessbile-name.
+2. Check that each input for authentication allows pasting.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H100)
+
+</details>
