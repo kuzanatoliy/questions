@@ -686,3 +686,16 @@ The objective of this technique is to use the HTML track element to specify a de
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H96)
 
 </details>
+
+<details>
+  <summary>What abjective of grouping related links using the nav element?</summary>
+
+The objective of this technique is to group navigation links using the HTML nav element. The nav element is one of several sectioning elements in HTML. Use of this markup can make groups of links easier to locate and skip past by users of assistive technology such as screen readers. Using semantic structures allow custom style sheets to be used to change the presentation of groups of links while preserving their relationship. When the nav element is employed more than once on a page, distinguish the navigation groups by using an aria-labelledby or aria-label attribute.
+
+**Procedure:**
+
+1. Check that links that are visually grouped and represent a section of the page are enclosed in a nav element.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H97)
+
+</details>
