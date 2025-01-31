@@ -757,3 +757,20 @@ The objective of this technique is to provide programmatic access to sections of
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H101)
 
 </details>
+
+<details>
+  <summary>What abjective of creating modal dialogs with the HTML dialog element?</summary>
+
+Website suthors often use modal dialogs to foucs a user's attention on information, or a task-related activity beyond the scope of the primary page's content.
+
+**Procedure:**
+
+1. Find the components on the page that invoke modal dialog elements.
+2. Check that each dialog can be opened using the keyboard to activate the invoking element.
+3. When the modal dialog is opened, check that focus has moved to it / one of its focusable descendants.
+4. While the modal dialog is open, check that keyboard focus cannot move to elements of the primary document.
+5. When the modal dialog is closed, check that focus is placed back onto the invoking element, if the lement still exists on the page.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/html/H102)
+
+</details>
