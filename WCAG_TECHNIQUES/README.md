@@ -11,3 +11,5 @@
 [General techniques](GENERAL_TECHNIQUES.md)
 
 [HTML Techniques](HTML_TECHNIQUES.md)
+
+[PDF Techniques](PDF_TECHNIQUES.md)

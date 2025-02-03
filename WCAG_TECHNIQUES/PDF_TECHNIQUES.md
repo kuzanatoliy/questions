@@ -1,0 +1,19 @@
+# PDF Techniques
+
+<details>
+  <summary>Applying text alternatives to images with the Alt entry in PDF documents?</summary>
+
+The objective of this technique is to provide text alternatives for images via an /Alt entry in the property list for a Tag. This is normally accomplished using a tool for authoring PDF.
+
+**Procedure:**
+
+1. Verify the images have /Alt entries on an enclosing tag by one of the following:
+
+- Read teh PDF document with a screen reader, listening to hear that the equivalent text is read when tabbing to the non-text object or hearing the alternative text read when reading the content line-by-line.
+- Using a PDF editor, check that a text alternative is displayed for each image.
+- Use a tool which is capable of showing the /Alt entry value, such as aDesigner, to open the PDF document and view the GUI summary to read the text alternatives for images.
+- Use a tool that exposes the document through the accessibility API and verify that images have required text equivalents.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/pdf/PDF1)
+
+</details>
