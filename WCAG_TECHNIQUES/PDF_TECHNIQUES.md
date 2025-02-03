@@ -1,7 +1,7 @@
 # PDF Techniques
 
 <details>
-  <summary>Applying text alternatives to images with the Alt entry in PDF documents?</summary>
+  <summary>What purpose of applying text alternatives to images with the Alt entry in PDF documents?</summary>
 
 The objective of this technique is to provide text alternatives for images via an /Alt entry in the property list for a Tag. This is normally accomplished using a tool for authoring PDF.
 
@@ -15,5 +15,21 @@ The objective of this technique is to provide text alternatives for images via a
 - Use a tool that exposes the document through the accessibility API and verify that images have required text equivalents.
 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/pdf/PDF1)
+
+</details>
+
+<details>
+  <summary>What purpose of creating bookmarks in PDF documents?</summary>
+
+The intent of this technique is to make it possible for users to locate content using bookmarks in long documents.
+
+A person with cognitive disabilities may prefer a hierarchical outline that provides an overview of the document rather than reading and traversing through many pages. This is also a conventional means of navigating a document that benefits all users.
+
+**Procedure:**
+
+1. Check that the Bookmarks panel displays bookmarks.
+2. Check that the bookmarks link to the correct sections in the document.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/pdf/PDF2)
 
 </details>
