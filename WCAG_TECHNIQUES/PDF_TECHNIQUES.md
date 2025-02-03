@@ -54,3 +54,22 @@ The intent of this technique is to ensure that users can navigate through conten
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/pdf/PDF3)
 
 </details>
+
+<details>
+  <summary>What purpose of hiding decorative images with the Artifact tag in PDF documents?</summary>
+
+The purpose of this technique is to show how purely decorative images in PDF documents can be marked so that they can be ignored by Assistive Technology by using the /Artifact tag. This is typically accomplished by using a tool for authoring PDF.
+
+**Procedure:**
+
+1. For an image that is purely decorative, use one of the following to verify that it is marked as an artifact:
+
+- Read the PDF document with a screen reader, listening to hear that the docorative images is not announced when reading the content line-by-line.
+- Using a PDF editor, make sure the decorative image is marked as an artifact.
+- Reflow the doucment and make sure the decorative image does not appear on the page.
+- Use a tool that is capable of showing the /Artifact entry or property list, such as aDesigner, to open the PDF document and verify that decoartive images are marked as artifacts.
+- Use a tool that exposes the document through the accessibility API and verify that the decorative image is not exposed through the API.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/pdf/PDF4)
+
+</details>
