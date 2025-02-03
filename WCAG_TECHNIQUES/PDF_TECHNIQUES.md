@@ -33,3 +33,24 @@ A person with cognitive disabilities may prefer a hierarchical outline that prov
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/pdf/PDF2)
 
 </details>
+
+<details>
+  <summary>What purpose of ensuring correct tab and reading order in PDF documents?</summary>
+
+The intent of this technique is to ensure that users can navigate through content in a logical order that is consistent with the meaning of the content. Correct tab and reading order is typically accomplished using a tool for authoring PDF.
+
+**Procedure:**
+
+1. Verify that the content is in the correct reading order by one of the following:
+
+- Read the PDF document with a screen reader or a tool that reads aloud, listening to hear that each element is read in the correct order.
+- Use a tool that exposes the document through the accessibility API, and verify that the reading order is correct.
+
+2. Verify that the tab order is correct for focusable content by one of the following:
+
+- Use the tab key to traverse the focus order in the document.
+- Use a tool that is capable of showing the page object entry that specifies the tab order setting to open the PDF document and view the setting.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/pdf/PDF3)
+
+</details>
