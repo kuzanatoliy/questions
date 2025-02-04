@@ -88,3 +88,21 @@ The purpose of this technique is to notify the user when a field that must be co
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/pdf/PDF5)
 
 </details>
+
+<details>
+  <summary>What purpose of using table elements for table markup in PDF Documents?</summary>
+
+The purpose of this technique is to show how tables in PDF documents can be marked up so that they are recognized by assistive technology. This is typically accomplished by using a tool for authoring PDF.
+
+**Procedure:**
+
+1. For each table, confirm one of the following:
+
+- Read the PDF document with a screen reader, listening to hear that the tabular information is presented in a way that preserves logical relationships among the table header and data cells.
+- Using a PDF editor, verify that the appropriate TR, TH, and TD tags are in the proper reading order and hierarchy in the table tree.
+- Use a tool which is capable of showing the table elements to open the PDF document, view the table structure, and verify that it contains the approproate TR, TH, TD structures.
+- Use a tool that exposes the document through the accessibility API, and verify that the table structure contains the appropriate TR, TH, and TD structures, and that they are in the proper reading order and hierarchy.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/pdf/PDF5)
+
+</details>
