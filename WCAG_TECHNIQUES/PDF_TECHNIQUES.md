@@ -73,3 +73,18 @@ The purpose of this technique is to show how purely decorative images in PDF doc
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/pdf/PDF4)
 
 </details>
+
+<details>
+  <summary>What purpose of indicating required form controls in PDF forms?</summary>
+
+The purpose of this technique is to notify the user when a field that must be completed has not been competed in a PDF form. Required fields are implemented using the /Ff entry in the form field's dictionary. This is normally accomplished using a tool for authoring PDFs.
+
+**Procedure:**
+
+1. Check that the required status is indicated in the form contrl's label.
+2. Leave the fields blank and submit the form. Check that an alert describing the error is provided.
+3. Use a tool that exposes the document through the accessibility API and verify that the required property is indicated.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/pdf/PDF5)
+
+</details>
