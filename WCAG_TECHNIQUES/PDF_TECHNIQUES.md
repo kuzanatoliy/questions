@@ -103,6 +103,24 @@ The purpose of this technique is to show how tables in PDF documents can be mark
 - Use a tool which is capable of showing the table elements to open the PDF document, view the table structure, and verify that it contains the approproate TR, TH, TD structures.
 - Use a tool that exposes the document through the accessibility API, and verify that the table structure contains the appropriate TR, TH, and TD structures, and that they are in the proper reading order and hierarchy.
 
-[More >>](https://www.w3.org/WAI/WCAG22/Techniques/pdf/PDF5)
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/pdf/PDF6)
+
+</details>
+
+<details>
+  <summary>What purpose of performing OCR on a scanned PDF document to provide actual text?</summary>
+
+The purpose of this technique is to ensure that visually rendered text is presented in such a manner that it can be perceived without its visual presntation interfering with its readability.
+
+**Procedure:**
+
+For each page converted to text using OCR, ensure that the resulting PDF has been converted correctly, using one of the following ways:
+
+1. Read teh PDF document with a screen reader or a tool that reads aloud listening to hear that all text is read correctly and in the correct reading order.
+2. Save the document as text and check that the converted text is complete and in the correct reading order.
+3. Use a tool that is capable of showing the converted content to open the PDF document and verify that all text was converted and is in the correct reading order.
+4. Use a tool that exposes the document through the accessibility API and verify that all text was converted and is in the correct reading order.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/pdf/PDF7)
 
 </details>
