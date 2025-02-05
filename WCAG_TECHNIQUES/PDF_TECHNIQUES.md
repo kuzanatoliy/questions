@@ -124,3 +124,21 @@ For each page converted to text using OCR, ensure that the resulting PDF has bee
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/pdf/PDF7)
 
 </details>
+
+<details>
+  <summary>What purpose of providing definitions for abbreviations via an E entry for a strcuture element?</summary>
+
+The purpose of this technique is to provide an expansion or definition of an abbreviation for the first occurrence of the abbreviation. For example, a reference to an abbreviation, such as "WCAG", should be available as "Web Content Accessibility Guidelines (WCAG)" on its first occurrence in a document.
+
+**Procedure:**
+
+Verify that the first occurrence of abbreviations that require expansion text have /E entries on an enclosing tag by one of the following and that both the abbreviation and the expansion text are provided:
+
+- In a PDF editor, locate the tag for the text that is the abbreviation, and check that an expansion or definition is provided for each abbreviaotion in the Expansion Text field in the corresponding tag's properties.
+- Read the PDF document with a screen reader, listening to hear that on the first occurence, the abbreviation and expansion are read when the screen reader reads the content line-by-line.
+- Use a tool that is capable of showing the /E entry value, such as aDesigner to open the PDF document and view the GUI summary to read the text expansions for abbreviations.
+- Use a tool that exposes the document through the accessibility API and verify that the text expaonsion of the abbreviation is properly implemented.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/pdf/PDF8)
+
+</details>
