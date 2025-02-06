@@ -142,3 +142,21 @@ Verify that the first occurrence of abbreviations that require expansion text ha
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/pdf/PDF8)
 
 </details>
+
+<details>
+  <summary>What purpose of providing headings by marking content with heading tags in PDF documents?</summary>
+
+The purpose of this technique is to show how headings in PDF documents can be marked so that they are recognized by assistive technologies. Headings are marked up using the heading elements (H, H1, H2, ... H6) in the structure tree. This is typically accomplished by using a tool for authoring PDF.
+
+**Procedure:**
+
+For all PDF content that is divied into separate sections, use one of the following to verify that headings are tagged correctly:
+
+- Read the PDF document with a screen reader, listening to hear that the list of headings is announced correctly.
+- Using a PDF editor, make sure that headings are tagged correctly.
+- Use a tool that is capable of showing the /Headn entries to open the PDF document and verify that headings are tagged correctly.
+- Use a tool that exposes the document through the accessibility API and verify that the headings are tagged correctly.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/pdf/PDF9)
+
+</details>
