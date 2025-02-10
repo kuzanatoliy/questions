@@ -160,3 +160,20 @@ For all PDF content that is divied into separate sections, use one of the follow
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/pdf/PDF9)
 
 </details>
+
+<details>
+  <summary>What purpose of providing labels for interactive form controls in PDF documents?</summary>
+
+The purpose of this technique is to ensure that users of assistive technology are able to perceive form control labels and understand how form controls are used.
+
+**Procedure:**
+
+1. For each form control, verify visually that the label is positioned correctly in relation to the control.
+2. For each form control, verify that the name is programmatically associated with the control by one of the following:
+
+- Open the PDF document with a tool that is capable of showing the name assocaited with the control and verify that the name is assocaited correctly with the control.
+- Use a tool that exposes the document through the accessibility API, and verify that the name is associated correctly with the control.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/pdf/PDF10)
+
+</details>
