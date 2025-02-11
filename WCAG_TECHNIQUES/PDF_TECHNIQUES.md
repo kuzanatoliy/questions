@@ -194,3 +194,20 @@ The purpose of this technique is to show how link text in PDF documents can be m
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/pdf/PDF11)
 
 </details>
+
+<details>
+  <summary>What purpose of providing name, role, value information for form fields in PDF documents?</summary>
+
+The purpose of this technique is to ensure that assistive technologies can gather information about and interact with form controls in PDF content.
+
+**Procedure:**
+
+1. For the form control, verify that name, role, and value/state are specified by one of the following:
+
+- Use a screen reader to navigate to the form control and check that it can be activated or that its value can be changed. Verify that the name (tooltip) and role are announced.
+- Use a tool capable of showing the form field information to open the PDF doucment and verify that the form control has the correct name, role, value, and state infromation.
+- Use a tool that exposes the document through the accessibility API, and verify that the form control has the correct name, role, value, and state infromation.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/pdf/PDF12)
+
+</details>
