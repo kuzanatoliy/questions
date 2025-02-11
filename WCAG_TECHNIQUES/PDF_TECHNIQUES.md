@@ -177,3 +177,20 @@ The purpose of this technique is to ensure that users of assistive technology ar
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/pdf/PDF10)
 
 </details>
+
+<details>
+  <summary>What purpose of providing links and link text using the Link annotation and the /Link structure element in PDF documents?</summary>
+
+The purpose of this technique is to show how link text in PDF documents can be marked up to be recognizable by keyboard and assistive technology users. That is, the link information is programmatically available to user agents so that links are recognizable when presented in a different format. This is typically accomplished by using a tool for authoring PDF.
+
+**Procedure:**
+
+1. Read each PDF document with a screen reader, listening to hear that the link is read correctly and that it describes the purpose of the link.
+2. Visually scan the tag tree to verify that the link is tagged correctly and the link text is exposed.
+3. Use a tool that is capable of showing the /Link entry value to open the PDF document and view the hyperlink and link text.
+4. Use a tool that exposes the document through the accessbility API and verify that the link has the correct link text.
+5. Tab to each link and check that it can be followed to its target by pressing Enter.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/pdf/PDF11)
+
+</details>
