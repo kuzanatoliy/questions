@@ -228,3 +228,17 @@ The purpose of this technique is to provide replacement link text via the /Alt e
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/pdf/PDF13)
 
 </details>
+
+<details>
+  <summary>What purpose of providing running headers and footers in PDF documents?</summary>
+
+The purpose of this technique is to help users locate themselves in a doucment by providing running headers and footers via pagination artifacts. This is normally accomplished using a tool for authoring PDF.
+
+**Procedure:**
+
+1. Check that running headers and/or footers are provided and contain information to help users locate themselves within the document.
+2. If section headers are used in the running header or footer, check that the section header and the running header or footer are consistent.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/pdf/PDF14)
+
+</details>
