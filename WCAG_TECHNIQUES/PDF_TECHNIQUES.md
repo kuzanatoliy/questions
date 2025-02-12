@@ -242,3 +242,19 @@ The purpose of this technique is to help users locate themselves in a doucment b
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/pdf/PDF14)
 
 </details>
+
+<details>
+  <summary>What purpose of providing submit buttons with the submit-form action in PDF forms?</summary>
+
+The purpose of this technique is to provide a mechanism that allows users to explicitly request a change of context using the submit-form action in a PDF form. The intended use of a submit button is to generate an HTTP request that submits data entered in a form, so it is an appropriate control to use for causing a change of context. In PDF documents, submit buttons are normally implemented using a tool for authoring PDF.
+
+**Procedure:**
+
+1. For each page that submits a form, visually verify that the form contains a submit button and check one of the following:
+
+- Tab to the button and check that it submits the form in response to user action to select the button.
+- Open the PDF document with a tool that is capable of showing the submit-form action and check that the button action is to submit the form.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/pdf/PDF15)
+
+</details>
