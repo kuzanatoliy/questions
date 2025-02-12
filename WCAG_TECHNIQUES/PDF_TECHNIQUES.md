@@ -211,3 +211,20 @@ The purpose of this technique is to ensure that assistive technologies can gathe
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/pdf/PDF12)
 
 </details>
+
+<details>
+  <summary>What purpose of providing replacement text using the /Alt entry for links in PDF documents?</summary>
+
+The purpose of this technique is to provide replacement link text via the /Alt entry in the property list for a tag. This is usually not necessary, but in some situations, additional information beyond the visible link text is needed particularly for screen reader users. Screen readers can read visible link text, but replacing the screen text with meaningful alternate text for links in a PDF document can make links more accessible.
+
+**Procedure:**
+
+1. For the hyperlink, verify that the alternate link text is properly coded by one of the following:
+
+- Read the PDF document with a screen reader, listening to hear that the alternate link text is read correctly.
+- Use a tool that is capable of showing the /Alt entry to open the PDF document and view the hyperlink and alternate link text.
+- Use a tool that exposes the doucment through the accessibility API and verify that the alternate link text is the for the link.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/pdf/PDF13)
+
+</details>
