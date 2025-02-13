@@ -258,3 +258,21 @@ The purpose of this technique is to provide a mechanism that allows users to exp
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/pdf/PDF15)
 
 </details>
+
+<details>
+  <summary>What purpose of setting the default language using the /Lang entry in the doucment catalog of a PDF document?</summary>
+
+The purpose of this technique is to specify a document's default language by setting the /Lang entry in the document catalog. This is normally accomplished using a tool for authoring PDF.
+
+**Procedure:**
+
+Verify that the default language for the document is correctly specified by applying one of the following:
+
+- Read the PDF document with a screen reader, listening to hear the the text is read in the correct natural language.
+- Using a PDF editor, check that the language is set to the default document language.
+- Use a tool which is capable of showing the /Lang entry value in the docuemnt catalog to open the PDF document and view the language settings.
+- Use a tool that exposes the document through the accessibility API and verify that the language is set to the default language.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/pdf/PDF16)
+
+</details>
