@@ -276,3 +276,21 @@ Verify that the default language for the document is correctly specified by appl
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/pdf/PDF16)
 
 </details>
+
+<details>
+  <summary>What purpose of specifying consistent page numbering for PDF documents?</summary>
+
+The purpose of this technique is to help users locate themselves in a doucment by ensuring that the page numbering displayed in the PDF viewer page controls has the same page numbering as the document. For example, Adobe Acrobat Pro and Reader display page numbers in the Page Navigation toolbar. The page number format is specified by the /PageLabels entry in the Doucment Catalog
+
+**Procedure:**
+
+For every section in the docment that uses a different pagination format, check that the page navigation feature uses the same format used on the document pages:
+
+- Select the pages that begin a new pagination format and visually verify that the same format and page number is shown in the page navigation feature.
+- Using a screen reader, check that the page number announced in the page navigation feature is the same as page number announced on the doucment page.
+- Using a toll that is capable of showing the /PageLabels entries, open the PDF document and view the entries.
+- Use a tool that exposes the doucment through the accessibility API, and verify that the /PageLabels entries are specified correctly.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/pdf/PDF17)
+
+</details>
