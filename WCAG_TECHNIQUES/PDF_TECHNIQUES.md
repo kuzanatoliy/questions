@@ -280,7 +280,7 @@ Verify that the default language for the document is correctly specified by appl
 <details>
   <summary>What purpose of specifying consistent page numbering for PDF documents?</summary>
 
-The purpose of this technique is to help users locate themselves in a doucment by ensuring that the page numbering displayed in the PDF viewer page controls has the same page numbering as the document. For example, Adobe Acrobat Pro and Reader display page numbers in the Page Navigation toolbar. The page number format is specified by the /PageLabels entry in the Doucment Catalog
+The purpose of this technique is to help users locate themselves in a doucment by ensuring that the page numbering displayed in the PDF viewer page controls has the same page numbering as the document. For example, Adobe Acrobat Pro and Reader display page numbers in the Page Navigation toolbar. The page number format is specified by the /PageLabels entry in the Doucment Catalog.
 
 **Procedure:**
 
@@ -292,5 +292,22 @@ For every section in the docment that uses a different pagination format, check 
 - Use a tool that exposes the doucment through the accessibility API, and verify that the /PageLabels entries are specified correctly.
 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/pdf/PDF17)
+
+</details>
+
+<details>
+  <summary>What purpose of specifying the document title using the Title entry in the document information dictionary of a PDF document?</summary>
+
+The purpose of this technique is to show how a descriptive title for a PDF document can be specified for assistive technology by using the /Title entry in the document information dictionary and by setting the DisplayDocTitle flag to True in a viewer preferences dictionary. This is typically accomplished by using a tool for authoring PDF.
+
+**Procedure:**
+
+Verify that the title for the document is correctly specified and displayed in the user agent title bar by applying one of the following:
+
+- Open the PDF document with a screen reader, listening to hear that the doucment title is read correctly.
+- Using a PDF editor, check that the docuemtn title is specified. Select the Initial View tab to check that the title will be displayed.
+- Use a tool which is capable of showing the /Title entry value in the docuemtn catalog to open the PDF document and view the /Title entry and /DisplayDocTitle flag settings.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/pdf/PDF18)
 
 </details>
