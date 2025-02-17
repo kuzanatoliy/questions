@@ -311,3 +311,23 @@ Verify that the title for the document is correctly specified and displayed in t
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/pdf/PDF18)
 
 </details>
+
+<details>
+  <summary>What purpose of specifying the language for a passage or phrase with the Lang entry in PDF documents?</summary>
+
+The purpose of this technique is to specify the language of a passage, phrase, or word using the /Lang entry to provide information in the PDF document that user agents need to present text and other linguistic content correctly. This is normally accomplished using a tool for authoring PDF.
+
+**Procedure:**
+
+1. Verify that the language of a passage, phrase, or word that differs from the language of the surrounding text is correctly specified by a /Lang entry on an enclosing tag or container:
+
+- Read the PDF document with a screen reader that supports the language of the phrase and the language of the surrounding text, listening to hear that the text is read in the correct natural language.
+- Using a pDF editor, select the word or phrase that is in the different language and check that the language is set correctly.
+- Use a tool which is capable of showing the /Lang entry value to poen the PDF docuemnt and view the language settings.
+- Use a tool that exposes the doucment through the accessibility API and verify that the language for the passage or hprase is set correctly.
+
+2. Verify that if the container or tag contains the entrire document, the language setting is the language intended as the default for the document.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/pdf/PDF19)
+
+</details>
