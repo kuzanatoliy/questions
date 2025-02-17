@@ -331,3 +331,21 @@ The purpose of this technique is to specify the language of a passage, phrase, o
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/pdf/PDF19)
 
 </details>
+
+<details>
+  <summary>What purpose of using Adobe Acrobat Pro's Table Editor to repair mistagged tables?</summary>
+
+The purpose of this technique is to show how table cells in PDF documents canbe marked up so that the logical relationships among rows and columns are preserved and recognized by assistive technology. This is typically accomplished by using a tool for authoring PDF.
+
+**Procedure:**
+
+For a table that has been repaired with the Table Editor, confirma one of the following:
+
+- Read the PDF document with a screen reader, listening to hear that the tabular information is presented in a way that preserves ligical relationships among the table header and data cells.
+- Using a PDF editor, verify that the appropriate TR, TH, and TD tags are in the proper reading order and hierarchy in the table tree.
+- Use a tool which is capable of showing the table elements to open the PDF document, view the table structure, and verify that it contains the appropriate TR, TH, and TD structures.
+- Use a tool that exposes the doucment through the accessibility API, and verify that the table structure contains the appropriate TR, TH, and TD structures, and that they are in the proper reading order and hierarchy.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/pdf/PDF20)
+
+</details>
