@@ -367,3 +367,19 @@ For a list in a PDF document, verify in one of the following ways:
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/pdf/PDF21)
 
 </details>
+
+<details>
+  <summary>What purpose of indicationg when user input falls outside the required format or values in PDF forms?</summary>
+
+The purpose of this technique is to notify the user when user input to a field that requires a specific, required foramt is not submitted in that format.
+
+**Procedure:**
+
+For each form field that requires specific input, verify that validation information and instructions are provided by applying the following:
+
+1. Check that the format or value that is required is indicated in the form control's label.
+2. Use an erroneous foramt or value and move off the field: make sure that an altert describing the error is provided.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/pdf/PDF22)
+
+</details>
