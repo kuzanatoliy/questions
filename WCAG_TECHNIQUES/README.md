@@ -13,3 +13,5 @@
 [HTML Techniques](HTML_TECHNIQUES.md)
 
 [PDF Techniques](PDF_TECHNIQUES.md)
+
+[Server-Side Script Techniques](SERVER_SIDE_SCRIPT_TECHNIQUES.md)
