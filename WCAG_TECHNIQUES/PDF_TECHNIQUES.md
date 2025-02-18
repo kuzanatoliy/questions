@@ -349,3 +349,21 @@ For a table that has been repaired with the Table Editor, confirma one of the fo
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/pdf/PDF20)
 
 </details>
+
+<details>
+  <summary>What purpose of using List tags for lists in PDF documents?</summary>
+
+The purpose of this technique is to create lists of related items using list elements appropriate for their purposes. PDF files containing lists are normally created or repaired using a tool for authoring PDF.
+
+**Procedure:**
+
+For a list in a PDF document, verify in one of the following ways:
+
+- Read the PDF document with a screen reader, listening to hear that list is read correctly when reading the content line-by-line.
+- Use a tool that is capable of showing lists to open the PDF document and view the list to check that it is correctly structured.
+- Inspect the tag three to verify that the list is structured according to the PDF specification.
+- Use a tool that exposes the docuemtn through the accessibility API and verify that the list is correctly structured.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/pdf/PDF21)
+
+</details>
