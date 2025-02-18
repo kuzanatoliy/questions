@@ -383,3 +383,16 @@ For each form field that requires specific input, verify that validation informa
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/pdf/PDF22)
 
 </details>
+
+<details>
+  <summary>What purpose of providing interactive form controls in PDF documents?</summary>
+
+The purpose of this technique is to ensure that interactive form controls in PDF documents allow keybaord operation Interactive PDF forms are generally created using a tool for authoring PDF.
+
+**Procedure:**
+
+For each form control, verify that it is properly implemented by tabbing to each form control and checing that it can be activated or that its value can be changed from the keybaord.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/pdf/PDF23)
+
+</details>
