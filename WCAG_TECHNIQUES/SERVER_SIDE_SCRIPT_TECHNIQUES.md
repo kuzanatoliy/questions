@@ -32,3 +32,21 @@ The objective of this technique is to ensure that users can always acess an acce
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/server-side-script/SVR2)
 
 </details>
+
+<details>
+  <summary>What objective of using HTTP referer to ensure that the only way to access non-conforming content is fro mconforming content?</summary>
+
+The objective of this technique is to ensure that users can obtain an accessible version of content where both non-conformgin and conforming versions are provided.
+
+**Procedure:**
+
+1. Identify pages that do not conform to WCAG at the conformance Level claimed where accessible alternatives are served based on HTTP Referrer.
+2. Visit the URI of the non-conforming content.
+3. Verify that the resulting page is one of the following:
+
+- a conforming alternate version for the non-conforming content.
+- a page that includes a link to both the conforming alternate version and the non-conforming content.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/server-side-script/SVR3)
+
+</details>
