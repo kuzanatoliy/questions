@@ -14,3 +14,21 @@ The objective of this technique is to avoid confusion that may be caused when tw
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/server-side-script/SVR1)
 
 </details>
+
+<details>
+  <summary>What objective of using .htaccess to ensure that the only way to access non-conforming content is from conforming content?</summary>
+
+The objective of this technique is to ensure that users can always acess an accessible version of the content when non-conforming versions are also available. Whenever content is provided in a format that does not conform to WCAG, the site as a whole can still conform if alternate versions of the inaccessible content are provided. Conformatnce Requirement 4 requires that alternate versions can be derived from the nonconforming content or from its URI.
+
+**Procedure:**
+
+1. Identify pages that do not conform to WCAG at the conformance Level claimed where accessible alternatives are served based on the use of .htaccess files.
+2. Visit the URI of the non-conforming content.
+3. Verify that the resulting page is one of the following:
+
+- a conforming alternate version for the non-conforming content.
+- a page that includes a link to both the conforming alternate version and the non-conforming content.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/server-side-script/SVR2)
+
+</details>
