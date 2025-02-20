@@ -50,3 +50,20 @@ The objective of this technique is to ensure that users can obtain an accessible
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/server-side-script/SVR3)
 
 </details>
+
+<details>
+  <summary>What objective of allowing users to provide preferences for the display of conforming alternate versions?</summary>
+
+The objective of this technique is to provide a mechanism for users to select a preference for an alternate conforming version of a Web page.
+
+**Procedure:**
+
+1. Change a preference for how pages on the site are displayed.
+2. Check that the preference itself or a link to that page where it can be set can be reached from each non-conforming page.
+3. Check that Web pages are displayed according to the selected preference.
+4. Check that when the preference(s) are set, the Web page confroms as claimed.
+5. Verify that the resulting page is a conformaing alternate version for the original page.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/server-side-script/SVR4)
+
+</details>
