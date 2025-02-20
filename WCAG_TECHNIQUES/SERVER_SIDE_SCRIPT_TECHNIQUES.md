@@ -67,3 +67,17 @@ The objective of this technique is to provide a mechanism for users to select a 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/server-side-script/SVR4)
 
 </details>
+
+<details>
+  <summary>What objective of specifying the default language in the HTTP header?</summary>
+
+The objective of this technique is to provide information on the primary language or languages in a Web page, in order to identify the audience of the content. The Content-Language HTTP header can contain a list of one or more language codes, which can be used for language negotiation between a user agent and a server. If the language preferences in a user agent are set correctly, language negotiation can help the user to find a language version of the content that suits their preferences.
+
+**Procedure:**
+
+1. Use a Live HTTP Header viewer to find the value of the Content-Language header.
+2. Check that this value matches the default language of the Web page.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/server-side-script/SVR5)
+
+</details>
