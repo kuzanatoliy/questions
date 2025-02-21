@@ -14,3 +14,17 @@ The objective of this technique is to allow there to be more audio description t
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/smil/SM1)
 
 </details>
+
+<details>
+  <summary>What objective of adding extended audio descritpion in SMIL 2.0?</summary>
+
+The objective of this technique is to allow there to be more audio description than will fit into the gaps in the dialogue of the audio-visual material.
+
+**Procedure:**
+
+1. Play file with extended audio description.
+2. Check whether video freezes in places and plays extended audio description.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/smil/SM2)
+
+</details>
