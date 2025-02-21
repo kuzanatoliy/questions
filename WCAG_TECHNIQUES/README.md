@@ -15,3 +15,5 @@
 [PDF Techniques](PDF_TECHNIQUES.md)
 
 [Server-Side Script Techniques](SERVER_SIDE_SCRIPT_TECHNIQUES.md)
+
+[SMIL Techniques](SMIL_TECHNIQUES.md)
