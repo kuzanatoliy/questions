@@ -58,3 +58,18 @@ The objective of this technique is to provide a way for people who are blind or 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/smil/SM7)
 
 </details>
+
+<details>
+  <summary>What objective of providing captions through synchronized text streams in SMIL 1.0?</summary>
+
+The objective of this technique is to provide a way for people who are deaf or otherwise have trouble hearing the dialogue in audio visual material to be able to view the material. With this technique all of the dialogue and importatn sounds are available in text stream that is displayed in a caption area.
+
+**Procedure:**
+
+1. Enabled caption preference in player, if present.
+2. Play file with captions.
+3. Check whether captions are displayed.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/smil/SM11)
+
+</details>
