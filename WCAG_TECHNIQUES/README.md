@@ -17,3 +17,5 @@
 [Server-Side Script Techniques](SERVER_SIDE_SCRIPT_TECHNIQUES.md)
 
 [SMIL Techniques](SMIL_TECHNIQUES.md)
+
+[Plain-Text Techniques](PLAIN_TEXT_TECHNIQUES.md)
