@@ -31,3 +31,18 @@ The objective of this technique is to use text formatting conventions to create 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/text/T2)
 
 </details>
+
+<details>
+  <summary>What objective of using standard text formatting conventions for headings?</summary>
+
+The objective of this technique is to use text formatting conventions to convey the structuer of the content. Headings are used to locate and label sections of a text document showing the organization of the document.
+
+**Procedure:**
+
+1. Check that each heading is preceded by two blank lines.
+2. Check that each heading is followed by a blank line.
+3. Check that no heading contains any blank lines.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/text/T3)
+
+</details>
