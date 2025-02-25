@@ -92,7 +92,7 @@ The objective of this technique is to provide a way for people who are deaf or o
 <details>
   <summary>What objective of providing sign language interpretation through synchronized video streams in SMIL 1.0?</summary>
 
-The objective of this technique is to provide a way for people who are deaf or otherwise have trouble hearing the dialogue in audio visual material to be able to view the material. With this technique all of the dialogue and important sounds are available in a sign-language interpretation that is displayed in a caption area.
+The objective of this technique is to provide a way for people who are deaf or otherwise have trouble hearing the dialogue in audio visual material to be able to view the material. With this technique all of the dialogue and important sounds are available in a sign-language interpretation video that is displayed in a caption area.
 
 **Procedure:**
 
@@ -101,5 +101,20 @@ The objective of this technique is to provide a way for people who are deaf or o
 3. Check whether sign-language interpretation is displayed.
 
 [More >>](https://www.w3.org/WAI/WCAG22/Techniques/smil/SM13)
+
+</details>
+
+<details>
+  <summary>What objective of providing sign language interpretation through synchronized video streams in SMIL 2.0?</summary>
+
+The objective of this technique is to provide a way for people who are deaf or otherwise have trouble hearing the dialogue in audio visual material to be able to view the material. With this technique all of the dialogue and important sounds are available in a sign-language interpretation video that is displayed in a caption area.
+
+**Procedure:**
+
+1. Enabled control in content or player to turn on sign language interpretation.
+2. Play file with sign-language interpretation.
+3. Check whether sign-language interpretation is displayed.
+
+[More >>](https://www.w3.org/WAI/WCAG22/Techniques/smil/SM14)
 
 </details>
