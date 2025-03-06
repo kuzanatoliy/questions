@@ -1,6 +1,13 @@
 # Generative AI
 
 <details>
+  <summary>What are generative models?</summary>
+
+Generative models are those that center on the distribution of the classes within the dataset. The machine learning algorithms typically model the distribution of the data points. Generative models rely on finding joint probability. Creating points where a fiven input feature and a desired output/label exist concurrently.
+
+</details>
+
+<details>
   <summary>What are concepts of Generative AI?</summary>
 
 - **Deep learning(DL)** - a type of ML(machine learning) that involves trainign artificial networks;

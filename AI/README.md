@@ -6,6 +6,8 @@
 
 [Concepts and terms](CONCEPTS_AND_TERMS.md)
 
+[Discriminative AI](DISCRIMINATIVE_AI.md)
+
 [Generative AI](GENERATIVE_AI.md)
 
 [Language modeling](LANGUAGE_MODELING.md)
