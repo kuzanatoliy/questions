@@ -14,3 +14,12 @@ The Next allows to specify target browser that can affect bundle sizes for appli
 [More >>](https://nextjs.org/docs/architecture/supported-browsers)
 
 </details>
+
+<details>
+  <summary>What is dynamic function in nextjs?</summary>
+
+The next/dynamic is function that should be used for dynamic components to integrate them into system. It should allows to improve application performance. Moreover, could be used in specific corner cases to avoid server side rendering.
+
+[More >>](https://nextjs.org/docs/pages/guides/lazy-loading#with-named-exports)
+
+</details>
