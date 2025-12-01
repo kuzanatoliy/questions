@@ -44,6 +44,8 @@
 
 [Micro frontend](MICRO_FRONTEND.md)
 
+[NEXT](NEXT.md)
+
 [OOP](OOP.md)
 
 [Other](OTHER.md)
