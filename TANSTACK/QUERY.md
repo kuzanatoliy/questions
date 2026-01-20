@@ -32,3 +32,12 @@ For example:
 [More >>](https://tanstack.com/query/latest/docs/framework/react/guides/queries)
 
 </details>
+
+<details>
+  <summary>What query key is?</summary>
+
+A query key has to be an Array at the top level, and can be as simple as an Array with a single string, or as complex as an array of many strings and nested objects.
+
+[More >>](https://tanstack.com/query/latest/docs/framework/react/guides/query-keys)
+
+</details>
