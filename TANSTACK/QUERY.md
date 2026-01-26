@@ -59,3 +59,16 @@ A query options is a helper that returns what you pass but can be useful for typ
 [More >>](https://tanstack.com/query/latest/docs/framework/react/guides/query-options)
 
 </details>
+
+<details>
+  <summary>What is a network mode?</summary>
+
+A network mode is an option that control queries and mutations behaviour when application doesn't have network connection. It is possible to use following modes:
+
+- **online** (default mode) - In the mode, queries nad mutations will not fire unless you have network connection. It is possible to recongnize that query / mutation is paused by fetchStatus or isPaused flag.
+- **always** - In this mode, queries will always fetch and ignore onlin / offline state, as a result, the queries won't be in pause state.
+- **offlineFirst** - The mode is the middle ground between the previous two, where queries will run once, but then can be paused.
+
+[More >>](https://tanstack.com/query/latest/docs/framework/react/guides/network-mode)
+
+</details>
