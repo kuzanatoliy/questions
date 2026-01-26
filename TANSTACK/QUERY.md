@@ -120,3 +120,19 @@ By default library refresh data in the background and to avoid extra requests it
 [More >>](https://tanstack.com/query/latest/docs/framework/react/guides/window-focus-refetching)
 
 </details>
+
+<details>
+  <summary>How works query retries?</summary>
+
+When a `useQuery` query fails the system will automatically retry the query if that query's request has not reached the max number of consecutive reties (3 by default).
+
+**Options:**
+
+- `retry` - control count of retry requests. It can get boolean value, number and function.
+- `retryDelay` - control time between requests.
+- `refetchIntervalInBackground` - stop refetching on background.
+- `refetchInterval` - allows to have special delay for background refetching.
+
+[More >>](https://tanstack.com/query/latest/docs/framework/react/guides/query-retries)
+
+</details>
