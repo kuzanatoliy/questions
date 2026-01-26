@@ -111,3 +111,12 @@ It is possible to use status and isFetching indicator for query or mutation and,
 [More >>](https://tanstack.com/query/latest/docs/framework/react/guides/background-fetching-indicators)
 
 </details>
+
+<details>
+  <summary>What is window focus refetching?</summary>
+
+By default library refresh data in the background and to avoid extra requests it is possible to use `refetchOnWindowFocus` option. When it is set up as true it the system will refetch data when web application will start to be used again.
+
+[More >>](https://tanstack.com/query/latest/docs/framework/react/guides/window-focus-refetching)
+
+</details>
