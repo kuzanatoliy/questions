@@ -72,3 +72,21 @@ A network mode is an option that control queries and mutations behaviour when ap
 [More >>](https://tanstack.com/query/latest/docs/framework/react/guides/network-mode)
 
 </details>
+
+<details>
+  <summary>What are parallel queries?</summary>
+
+The library allows to run parallel queries by useQueries hook. For example:
+
+    const userQueries = useQueries({
+      queries: users.map((user) => {
+        return {
+          queryKey: ['user', user.id],
+          queryFn: () => fetchUserById(user.id),
+        }
+      }),
+    })
+
+[More >>](https://tanstack.com/query/latest/docs/framework/react/guides/parallel-queries)
+
+</details>
