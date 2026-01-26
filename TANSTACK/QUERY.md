@@ -50,3 +50,12 @@ A query function can be literally any function that returns a promise. The promi
 [More >>](https://tanstack.com/query/latest/docs/framework/react/guides/query-functions)
 
 </details>
+
+<details>
+  <summary>What is a query options?</summary>
+
+A query options is a helper that returns what you pass but can be useful for type defention.
+
+[More >>](https://tanstack.com/query/latest/docs/framework/react/guides/query-options)
+
+</details>
