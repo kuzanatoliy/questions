@@ -90,3 +90,15 @@ The library allows to run parallel queries by useQueries hook. For example:
 [More >>](https://tanstack.com/query/latest/docs/framework/react/guides/parallel-queries)
 
 </details>
+
+<details>
+  <summary>What are dependent queries?</summary>
+
+Dependent queries depend on previous ones to finish before they can execute. To achive this:
+
+- For useQuery, it is possible to use enabled option.
+- For useQueries, it is possible to pass empty array.
+
+[More >>](https://tanstack.com/query/latest/docs/framework/react/guides/dependent-queries)
+
+</details>
