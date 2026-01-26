@@ -102,3 +102,12 @@ Dependent queries depend on previous ones to finish before they can execute. To 
 [More >>](https://tanstack.com/query/latest/docs/framework/react/guides/dependent-queries)
 
 </details>
+
+<details>
+  <summary>What are fetching indicators?</summary>
+
+It is possible to use status and isFetching indicator for query or mutation and, even, get global fetching status by `useIsFetchig` hook.
+
+[More >>](https://tanstack.com/query/latest/docs/framework/react/guides/background-fetching-indicators)
+
+</details>
