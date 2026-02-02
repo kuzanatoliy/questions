@@ -50,3 +50,89 @@ A query function can be literally any function that returns a promise. The promi
 [More >>](https://tanstack.com/query/latest/docs/framework/react/guides/query-functions)
 
 </details>
+
+<details>
+  <summary>What is a query options?</summary>
+
+A query options is a helper that returns what you pass but can be useful for type defention.
+
+[More >>](https://tanstack.com/query/latest/docs/framework/react/guides/query-options)
+
+</details>
+
+<details>
+  <summary>What is a network mode?</summary>
+
+A network mode is an option that control queries and mutations behaviour when application doesn't have network connection. It is possible to use following modes:
+
+- **online** (default mode) - In the mode, queries nad mutations will not fire unless you have network connection. It is possible to recongnize that query / mutation is paused by fetchStatus or isPaused flag.
+- **always** - In this mode, queries will always fetch and ignore onlin / offline state, as a result, the queries won't be in pause state.
+- **offlineFirst** - The mode is the middle ground between the previous two, where queries will run once, but then can be paused.
+
+[More >>](https://tanstack.com/query/latest/docs/framework/react/guides/network-mode)
+
+</details>
+
+<details>
+  <summary>What are parallel queries?</summary>
+
+The library allows to run parallel queries by useQueries hook. For example:
+
+    const userQueries = useQueries({
+      queries: users.map((user) => {
+        return {
+          queryKey: ['user', user.id],
+          queryFn: () => fetchUserById(user.id),
+        }
+      }),
+    })
+
+[More >>](https://tanstack.com/query/latest/docs/framework/react/guides/parallel-queries)
+
+</details>
+
+<details>
+  <summary>What are dependent queries?</summary>
+
+Dependent queries depend on previous ones to finish before they can execute. To achive this:
+
+- For useQuery, it is possible to use enabled option.
+- For useQueries, it is possible to pass empty array.
+
+[More >>](https://tanstack.com/query/latest/docs/framework/react/guides/dependent-queries)
+
+</details>
+
+<details>
+  <summary>What are fetching indicators?</summary>
+
+It is possible to use status and isFetching indicator for query or mutation and, even, get global fetching status by `useIsFetchig` hook.
+
+[More >>](https://tanstack.com/query/latest/docs/framework/react/guides/background-fetching-indicators)
+
+</details>
+
+<details>
+  <summary>What is window focus refetching?</summary>
+
+By default library refresh data in the background and to avoid extra requests it is possible to use `refetchOnWindowFocus` option. When it is set up as true it the system will refetch data when web application will start to be used again.
+
+[More >>](https://tanstack.com/query/latest/docs/framework/react/guides/window-focus-refetching)
+
+</details>
+
+<details>
+  <summary>How works query retries?</summary>
+
+When a `useQuery` query fails the system will automatically retry the query if that query's request has not reached the max number of consecutive reties (3 by default).
+
+**Options:**
+
+- `retry` - control count of retry requests. It can get boolean value, number and function.
+- `retryDelay` - control time between requests.
+- `refetchIntervalInBackground` - stop refetching on background.
+- `refetchInterval` - allows to have special delay for background refetching.
+
+[More >>](https://tanstack.com/query/latest/docs/framework/react/guides/query-retries)
+
+</details>
