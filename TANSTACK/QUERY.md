@@ -152,3 +152,12 @@ To optimize user experience it is possible to use `keepPreviousDta` function to 
 [More >>](https://tanstack.com/query/latest/docs/framework/react/guides/paginated-queries)
 
 </details>
+
+<details>
+  <summary>How works infinite queries?</summary>
+
+`useInfiniteQuery` is a version of `useQuery` that provides the comfortable interface to work with 'load more' of 'infinite scroll' pattern
+
+[More >>](https://tanstack.com/query/latest/docs/framework/react/guides/infinite-queries)
+
+</details>
