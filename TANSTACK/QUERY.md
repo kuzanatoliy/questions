@@ -161,3 +161,12 @@ To optimize user experience it is possible to use `keepPreviousDta` function to 
 [More >>](https://tanstack.com/query/latest/docs/framework/react/guides/infinite-queries)
 
 </details>
+
+<details>
+  <summary>What is an initial query data?</summary>
+
+The queries allow to pass initial data as `useQuery` option to set up initial query state (It also allows to pass function that will initialize data or get them from cache).
+
+[More >>](https://tanstack.com/query/latest/docs/framework/react/guides/initial-query-data)
+
+</details>
