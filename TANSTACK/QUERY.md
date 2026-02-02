@@ -136,3 +136,19 @@ When a `useQuery` query fails the system will automatically retry the query if t
 [More >>](https://tanstack.com/query/latest/docs/framework/react/guides/query-retries)
 
 </details>
+
+<details>
+  <summary>How works paginated queries?</summary>
+
+The rendering paginated data works by including the page information in the query key. For example:
+
+    const result = useQuery({
+      queryKey: ['projects', page],
+      queryFn: () => fetchProjects(page),
+    })
+
+To optimize user experience it is possible to use `keepPreviousDta` function to demonstrate previous data to demonstrate previous data while the new set of data is loading.
+
+[More >>](https://tanstack.com/query/latest/docs/framework/react/guides/paginated-queries)
+
+</details>
