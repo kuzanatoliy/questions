@@ -170,3 +170,12 @@ The queries allow to pass initial data as `useQuery` option to set up initial qu
 [More >>](https://tanstack.com/query/latest/docs/framework/react/guides/initial-query-data)
 
 </details>
+
+<details>
+  <summary>What is placeholder data?</summary>
+
+The option is similar as `initialData`, but the data is not persisted to the cache. This comes in handy for situations where you have enough partial or face data to render the query successfully while the actual data is fetched in the background.
+
+[More >>](https://tanstack.com/query/latest/docs/framework/react/guides/placeholder-query-data)
+
+</details>
