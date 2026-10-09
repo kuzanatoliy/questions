@@ -330,6 +330,13 @@ useTransition is a Hook that lets you mark state updates as non-urgent (transiti
 </details>
 
 <details>
+  <summary>What is useDeferredValue</summary>
+
+useDeferredValue is a Hook that lets you defer updating a part of the UI. It keeps a "lagging" version of a value that will catch up in the background.
+
+</details>
+
+<details>
   <summary>Explain reconciliation in React.</summary>
 
 The React uses the O(n) algorithm for a component rerendering that has two assumptions:
