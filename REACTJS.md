@@ -296,6 +296,13 @@ Accepts a context object (the value returned from `React.createContext`) and ret
 </details>
 
 <details>
+  <summary>What is useReducer?</summary>
+
+An alternative to useState. Accepts a reducer of type (state, action) => newState, and returns the current state paired with a dispatch method. (This will be better understood when you study the Redux). useReducer is usually preferable to useState when you have complex state logic that involves multiple sub-values or when the next state depends on the previous one.
+
+</details>
+
+<details>
   <summary>Explain reconciliation in React.</summary>
 
 The React uses the O(n) algorithm for a component rerendering that has two assumptions:
