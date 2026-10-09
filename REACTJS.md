@@ -314,6 +314,15 @@ useCallback(fn, deps) is equivalent to useMemo(() => fn, deps).
 </details>
 
 <details>
+  <summary>What is useMemo</summary>
+
+Returns a memoized value.
+
+Pass a “create” function and an array of dependencies. useMemo will only recompute the memoized value when one of the dependencies has changed. This optimization helps to avoid expensive calculations on every render.
+
+</details>
+
+<details>
   <summary>Explain reconciliation in React.</summary>
 
 The React uses the O(n) algorithm for a component rerendering that has two assumptions:
