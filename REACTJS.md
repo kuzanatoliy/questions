@@ -303,6 +303,17 @@ An alternative to useState. Accepts a reducer of type (state, action) => newStat
 </details>
 
 <details>
+  <summary>What is useCallback?</summary>
+
+Returns a memoized callback.
+
+Pass an inline callback and an array of dependencies. useCallback will return a memoized version of the callback that only changes if one of the dependencies has changed. This is useful when passing callbacks to optimized child components that rely on reference equality to prevent unnecessary renders (e.g. shouldComponentUpdate).
+
+useCallback(fn, deps) is equivalent to useMemo(() => fn, deps).
+
+</details>
+
+<details>
   <summary>Explain reconciliation in React.</summary>
 
 The React uses the O(n) algorithm for a component rerendering that has two assumptions:
