@@ -1,6 +1,7 @@
 # ReactJS
 
 ### Links
+
 [Misconceptions about Virtual DOM](https://itnext.io/misconceptions-about-virtual-dom-35ec60b87086)
 
 ### Questions
@@ -17,21 +18,21 @@ React is Facebook's open-source JS library for building complex interactive UI i
 
 Prons:
 
-* React is easier for learning because uses JSX has good documentation and fewer structures;
+- React is easier for learning because uses JSX has good documentation and fewer structures;
 
-* Virtual DOM allows changing applications as fast as possible;
+- Virtual DOM allows changing applications as fast as possible;
 
-* React could support server-side rendering;
+- React could support server-side rendering;
 
-* React uses FP concepts that provide creating simple, testable applications;
+- React uses FP concepts that provide creating simple, testable applications;
 
-* React could use TypeScript or Flow;
+- React could use TypeScript or Flow;
 
-* ReactNative allows using experience for mobile development.
+- ReactNative allows using experience for mobile development.
 
 Cons:
 
-* The library has a lot of different ways that allow having a lot of technologies stacks versions.
+- The library has a lot of different ways that allow having a lot of technologies stacks versions.
 
 </details>
 
@@ -65,9 +66,9 @@ JSX is a syntax extension to JavaScript and comes with the full power of JavaScr
 
 Both props and state are plain JavaScript objects. But they have different functionality.
 
-* The props get passed to the component similar to function parameters.
+- The props get passed to the component similar to function parameters.
 
-* The React component can create the state object for the management of the inner state of it.
+- The React component can create the state object for the management of the inner state of it.
 
 </details>
 
@@ -99,7 +100,7 @@ Each component is a function or class that gets data and returns a React element
 
 It is possible to use class components if it has to work with state and life cycle methods. For all of the other cases, it is better to use the function component. One of the most important reasons to use a functional style is a minimization process. It is easier to minimize functions than classes.
 
-*Note*: Last versions of React allows using hooks for rendering optimization and state using.
+_Note_: Last versions of React allows using hooks for rendering optimization and state using.
 
 </details>
 
@@ -108,7 +109,7 @@ It is possible to use class components if it has to work with state and life cyc
 
 A ref is an optional component's param that allows access to a DOM element or a component state. A value is a callback function that gets a link to the DOM element or the component as a first function argument.
 
-*Note:* It is bad practice to use ref. So, to use a callback mechanism for getting a child state property.
+_Note:_ It is bad practice to use ref. So, to use a callback mechanism for getting a child state property.
 
 </details>
 
@@ -117,13 +118,13 @@ A ref is an optional component's param that allows access to a DOM element or a 
 
 There are four phases of React component's lifecycle:
 
-* Initialization: In this phase, a react component prepares settings up the initial state and default props.
+- Initialization: In this phase, a react component prepares settings up the initial state and default props.
 
-* Mounting: The react component is ready to mount in the browser DOM. This phase covers componentWillMount and componentDidMount lifecycle methods.
+- Mounting: The react component is ready to mount in the browser DOM. This phase covers componentWillMount and componentDidMount lifecycle methods.
 
-* Updating: In this phase, the component gets updated in two ways, sending the new props and updating the state. This phase covers shouldComponentUpdate, componentWillUpdate and componentDidUpdate lifecycle methods.
+- Updating: In this phase, the component gets updated in two ways, sending the new props and updating the state. This phase covers shouldComponentUpdate, componentWillUpdate and componentDidUpdate lifecycle methods.
 
-* Unmounting: In this last phase, the component is not needed and get unmounted from the browser DOM. This phase includes the componentWillUnmount lifecycle method.
+- Unmounting: In this last phase, the component is not needed and get unmounted from the browser DOM. This phase includes the componentWillUnmount lifecycle method.
 
 </details>
 
@@ -191,7 +192,6 @@ Because there is not a conviction that children prop will be an array.
 
 </details>
 
-
 <details>
   <summary>What is automatic batching?</summary>
 
@@ -204,13 +204,13 @@ The batching doesn't work correctly for async callbacks (Promises) into less tha
 <details>
   <summary>What are steps happened during server-side rendering (SSR)?</summary>
 
-* The server fetches the relevant data which needs on the UI;
+- The server fetches the relevant data which needs on the UI;
 
-* The server renders the entire app to HTML and sends it to the client in response;
+- The server renders the entire app to HTML and sends it to the client in response;
 
-* The client downloads the JavaScript bundle (apart from HTML);
+- The client downloads the JavaScript bundle (apart from HTML);
 
-* In the final step, the client connects the javascript logic to the HTML (hydration).
+- In the final step, the client connects the javascript logic to the HTML (hydration).
 
 </details>
 
@@ -258,32 +258,81 @@ It is a popular react pattern that lets a programmer specify which HTML tag to u
 
 Example:
 
-  import { ComponentPropsWithoutRef, ElementType, ReactNode } from "react";
+import { ComponentPropsWithoutRef, ElementType, ReactNode } from "react";
 
-  type MyButtonProps<T extends ElementType> = {
-    as?: T;
-    children: ReactNode;
-  };
+type MyButtonProps<T extends ElementType> = {
+as?: T;
+children: ReactNode;
+};
 
-  export const Button = <T extends ElementType = "button">({
-    as,
-    children,
-    ...props
-  }: MyButtonProps<T> & Omit<ComponentPropsWithoutRef<T>, keyof MyButtonProps<T>>) => {
-    const Component = as || "button";
+export const Button = <T extends ElementType = "button">({
+as,
+children,
+...props
+}: MyButtonProps<T> & Omit<ComponentPropsWithoutRef<T>, keyof MyButtonProps<T>>) => {
+const Component = as || "button";
 
     return <Component { ...props }>{ children }</Component>
-  };
+
+};
 
 </details>
 
 <details>
   <summary>What difference between useRef and useState?</summary>
 
-* Both of the hooks preserve data during render cycles and UI updates. But useState return updater that causes rerenders;
-* useRef returns an object with a property that contains an actual value (current). useState returns array that contains value and updater;
-* The ref object contains mutable property. The state is immutable;
-* Only useRef could be used in another field of an application. For example: gaining direct access to React components or DOM.
+- Both of the hooks preserve data during render cycles and UI updates. But useState return updater that causes rerenders;
+- useRef returns an object with a property that contains an actual value (current). useState returns array that contains value and updater;
+- The ref object contains mutable property. The state is immutable;
+- Only useRef could be used in another field of an application. For example: gaining direct access to React components or DOM.
+
+</details>
+
+<details>
+  <summary>What is useContext?</summary>
+
+Accepts a context object (the value returned from `React.createContext`) and returns the current context value for that context. The current context value is determined by the value prop of the nearest `<MyContext.Provider>` above the calling component in the tree.
+
+</details>
+
+<details>
+  <summary>What is useReducer?</summary>
+
+An alternative to useState. Accepts a reducer of type (state, action) => newState, and returns the current state paired with a dispatch method. (This will be better understood when you study the Redux). useReducer is usually preferable to useState when you have complex state logic that involves multiple sub-values or when the next state depends on the previous one.
+
+</details>
+
+<details>
+  <summary>What is useCallback?</summary>
+
+Returns a memoized callback.
+
+Pass an inline callback and an array of dependencies. useCallback will return a memoized version of the callback that only changes if one of the dependencies has changed. This is useful when passing callbacks to optimized child components that rely on reference equality to prevent unnecessary renders (e.g. shouldComponentUpdate).
+
+useCallback(fn, deps) is equivalent to useMemo(() => fn, deps).
+
+</details>
+
+<details>
+  <summary>What is useMemo</summary>
+
+Returns a memoized value.
+
+Pass a “create” function and an array of dependencies. useMemo will only recompute the memoized value when one of the dependencies has changed. This optimization helps to avoid expensive calculations on every render.
+
+</details>
+
+<details>
+  <summary>What is useTransaction</summary>
+
+useTransition is a Hook that lets you mark state updates as non-urgent (transitions), allowing React to keep the UI responsive even during large updates.
+
+</details>
+
+<details>
+  <summary>What is useDeferredValue</summary>
+
+useDeferredValue is a Hook that lets you defer updating a part of the UI. It keeps a "lagging" version of a value that will catch up in the background.
 
 </details>
 
