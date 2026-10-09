@@ -323,6 +323,13 @@ Pass a “create” function and an array of dependencies. useMemo will only rec
 </details>
 
 <details>
+  <summary>What is useTransaction</summary>
+
+useTransition is a Hook that lets you mark state updates as non-urgent (transitions), allowing React to keep the UI responsive even during large updates.
+
+</details>
+
+<details>
   <summary>Explain reconciliation in React.</summary>
 
 The React uses the O(n) algorithm for a component rerendering that has two assumptions:
