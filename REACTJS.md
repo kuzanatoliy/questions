@@ -443,3 +443,10 @@ The useParams hook returns an object of key/value pairs of the dynamic params fr
 The useRoutes hook is the functional equivalent of `<Routes>`, but it uses JavaScript objects instead of `<Route>` elements to define your routes. These objects have the same properties as normal `<Route>` elements, but they don't require JSX.
 
 </details>
+
+<details>
+  <summary>What is a redux?</summary>
+
+Redux is a state management library that helps you better manage state in your application. The Redux library is not specific to React. It's a library that you can use in any other library or framework like Angular, Vue, and even vanilla JavaScript. But developers mostly use Redux when working with React.
+
+</details>
