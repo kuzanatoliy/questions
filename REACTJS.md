@@ -466,3 +466,19 @@ Redux is more useful when:
 - The app has a medium or large-sized codebase, and might be worked on by many people.
 
 </details>
+
+<details>
+  <summary>What are redux principles and concepts?</summary>
+
+Principles:
+
+- Single source of truth
+- The State is Read-only
+- The Modifications are Done with Pure Functions
+
+Concepts:
+
+- One way data flow
+- Immutability
+
+</details>
