@@ -396,3 +396,22 @@ Why Code Splitting Matters:
 - `<Suspense>` - When using `React.lazy()`, you must wrap lazy-loaded components with `<Suspense>` to handle the loading state.
 
 </details>
+
+<details>
+  <summary>When to Use Code Splitting</summary>
+
+Good use cases:
+
+- Different routes/pages
+- Large components not needed immediately
+- Heavy third-party libraries
+- Modal dialogs or tabs
+- Features behind authentication
+
+Avoid splitting:
+
+- Small components (adds overhead)
+- Components needed on initial render
+- Critical UI elements
+
+</details>
