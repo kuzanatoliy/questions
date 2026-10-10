@@ -374,3 +374,17 @@ Key ideas:
 - Works entirely in the browser (client-side)
 
 </details>
+
+<details>
+  <summary>What is a code splitting?</summary>
+
+Code splitting is a technique that allows you to split your application into smaller chunks that can be loaded on demand, rather than loading the entire application at once.
+
+Why Code Splitting Matters:
+
+- Faster initial load — users download only what they need
+- Better performance — smaller bundle sizes improve load times
+- Improved user experience — pages become interactive faster
+- Efficient resource usage — code is loaded only when needed
+
+</details>
