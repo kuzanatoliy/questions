@@ -422,3 +422,10 @@ Avoid splitting:
 This hook returns the current location object. This can be useful if you'd like to perform some side effect whenever the current location changes.
 
 </details>
+
+<details>
+  <summary>What is useNavigate react router hook?</summary>
+
+The useNavigate hook returns a function that lets you navigate programmatically, for example after a form is submitted.
+
+</details>
