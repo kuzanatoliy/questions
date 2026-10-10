@@ -388,3 +388,11 @@ Why Code Splitting Matters:
 - Efficient resource usage — code is loaded only when needed
 
 </details>
+
+<details>
+  <summary>What react features support a code splitting technique?</summary>
+
+- `React.lazy()` - it enables you to dynamically import components, loading them only when they're rendered.
+- `<Suspense>` - When using `React.lazy()`, you must wrap lazy-loaded components with `<Suspense>` to handle the loading state.
+
+</details>
