@@ -358,3 +358,19 @@ Behaviour:
 FC and VFC are provided by React utility types and describe functional components. They add properties such as propTypes, contextTypes, defaultProps, displayName, children(only FC).
 
 </details>
+
+<details>
+  <summary>What is a react router?</summary>
+
+React Router is a library for client-side routing in React applications.
+
+It allows users to navigate between different UI views (components) without reloading the page. Even though the URL changes, the application behaves like a Single Page Application (SPA) — everything happens on the client side.
+
+Key ideas:
+
+- URL changes → different components are rendered
+- No full page reloads
+- Navigation feels fast and smooth
+- Works entirely in the browser (client-side)
+
+</details>
