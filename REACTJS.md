@@ -358,3 +358,88 @@ Behaviour:
 FC and VFC are provided by React utility types and describe functional components. They add properties such as propTypes, contextTypes, defaultProps, displayName, children(only FC).
 
 </details>
+
+<details>
+  <summary>What is a react router?</summary>
+
+React Router is a library for client-side routing in React applications.
+
+It allows users to navigate between different UI views (components) without reloading the page. Even though the URL changes, the application behaves like a Single Page Application (SPA) — everything happens on the client side.
+
+Key ideas:
+
+- URL changes → different components are rendered
+- No full page reloads
+- Navigation feels fast and smooth
+- Works entirely in the browser (client-side)
+
+</details>
+
+<details>
+  <summary>What is a code splitting?</summary>
+
+Code splitting is a technique that allows you to split your application into smaller chunks that can be loaded on demand, rather than loading the entire application at once.
+
+Why Code Splitting Matters:
+
+- Faster initial load — users download only what they need
+- Better performance — smaller bundle sizes improve load times
+- Improved user experience — pages become interactive faster
+- Efficient resource usage — code is loaded only when needed
+
+</details>
+
+<details>
+  <summary>What react features support a code splitting technique?</summary>
+
+- `React.lazy()` - it enables you to dynamically import components, loading them only when they're rendered.
+- `<Suspense>` - When using `React.lazy()`, you must wrap lazy-loaded components with `<Suspense>` to handle the loading state.
+
+</details>
+
+<details>
+  <summary>When to Use Code Splitting</summary>
+
+Good use cases:
+
+- Different routes/pages
+- Large components not needed immediately
+- Heavy third-party libraries
+- Modal dialogs or tabs
+- Features behind authentication
+
+Avoid splitting:
+
+- Small components (adds overhead)
+- Components needed on initial render
+- Critical UI elements
+
+</details>
+
+<details>
+  <summary>What is useLocation react router hook?</summary>
+
+This hook returns the current location object. This can be useful if you'd like to perform some side effect whenever the current location changes.
+
+</details>
+
+<details>
+  <summary>What is useNavigate react router hook?</summary>
+
+The useNavigate hook returns a function that lets you navigate programmatically, for example after a form is submitted.
+
+</details>
+
+<details>
+  <summary>What is useParams react router hook?</summary>
+
+The useParams hook returns an object of key/value pairs of the dynamic params from the current URL that were matched by the `<Route path >`.
+
+</details>
+
+<details>
+  <summary>What is useRoutes react router hook?</summary>
+
+The useRoutes hook is the functional equivalent of `<Routes>`, but it uses JavaScript objects instead of `<Route>` elements to define your routes. These objects have the same properties as normal `<Route>` elements, but they don't require JSX.
+
+</details>
