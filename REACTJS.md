@@ -436,3 +436,10 @@ The useNavigate hook returns a function that lets you navigate programmatically,
 The useParams hook returns an object of key/value pairs of the dynamic params from the current URL that were matched by the `<Route path >`.
 
 </details>
+
+<details>
+  <summary>What is useRoutes react router hook?</summary>
+
+The useRoutes hook is the functional equivalent of `<Routes>`, but it uses JavaScript objects instead of `<Route>` elements to define your routes. These objects have the same properties as normal `<Route>` elements, but they don't require JSX.
+
+</details>
