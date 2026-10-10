@@ -489,3 +489,10 @@ Concepts:
 Allows you to extract data from the Redux store state, using a selector function.
 
 </details>
+
+<details>
+  <summary>What is useDispatch redux hook?</summary>
+
+This hook returns a reference to the dispatch function from the Redux store. You may use it to dispatch actions as needed.
+
+</details>
