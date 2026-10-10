@@ -429,3 +429,10 @@ This hook returns the current location object. This can be useful if you'd like 
 The useNavigate hook returns a function that lets you navigate programmatically, for example after a form is submitted.
 
 </details>
+
+<details>
+  <summary>What is useParams react router hook?</summary>
+
+The useParams hook returns an object of key/value pairs of the dynamic params from the current URL that were matched by the `<Route path >`.
+
+</details>
