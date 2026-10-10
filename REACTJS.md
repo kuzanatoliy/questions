@@ -482,3 +482,10 @@ Concepts:
 - Immutability
 
 </details>
+
+<details>
+  <summary>What is useSelector redux hook?</summary>
+
+Allows you to extract data from the Redux store state, using a selector function.
+
+</details>
