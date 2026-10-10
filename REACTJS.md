@@ -443,3 +443,56 @@ The useParams hook returns an object of key/value pairs of the dynamic params fr
 The useRoutes hook is the functional equivalent of `<Routes>`, but it uses JavaScript objects instead of `<Route>` elements to define your routes. These objects have the same properties as normal `<Route>` elements, but they don't require JSX.
 
 </details>
+
+<details>
+  <summary>What is a redux?</summary>
+
+Redux is a state management library that helps you better manage state in your application. The Redux library is not specific to React. It's a library that you can use in any other library or framework like Angular, Vue, and even vanilla JavaScript. But developers mostly use Redux when working with React.
+
+</details>
+
+<details>
+  <summary>When Should Use Redux?</summary>
+
+Redux helps you deal with shared state management, but like any tool, it has tradeoffs. There are more concepts to learn, and more code to write. It also adds some indirection to your code, and asks you to follow certain restrictions.
+
+It's a tradeoff between short term and long term productivity.
+
+Redux is more useful when:
+
+- You have large amounts of application state that are needed in many places in the app.
+- The app state is updated frequently over time.
+- The logic to update that state may be complex.
+- The app has a medium or large-sized codebase, and might be worked on by many people.
+
+</details>
+
+<details>
+  <summary>What are redux principles and concepts?</summary>
+
+Principles:
+
+- Single source of truth
+- The State is Read-only
+- The Modifications are Done with Pure Functions
+
+Concepts:
+
+- One way data flow
+- Immutability
+
+</details>
+
+<details>
+  <summary>What is useSelector redux hook?</summary>
+
+Allows you to extract data from the Redux store state, using a selector function.
+
+</details>
+
+<details>
+  <summary>What is useDispatch redux hook?</summary>
+
+This hook returns a reference to the dispatch function from the Redux store. You may use it to dispatch actions as needed.
+
+</details>
