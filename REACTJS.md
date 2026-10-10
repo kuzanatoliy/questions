@@ -415,3 +415,10 @@ Avoid splitting:
 - Critical UI elements
 
 </details>
+
+<details>
+  <summary>What is useLocation react router hook?</summary>
+
+This hook returns the current location object. This can be useful if you'd like to perform some side effect whenever the current location changes.
+
+</details>
