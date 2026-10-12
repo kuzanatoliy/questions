@@ -510,3 +510,10 @@ Redux Thunk is a middleware that allows you to call the action creators that ret
 `Redux Saga` is also a middleware library that helps us with API calls or side effects. Redux Saga uses an ES6 feature called ‘Generators’ which helps us to write asynchronous code.
 
 </details>
+
+<details>
+  <summary>What is a react testing library?</summary>
+
+`React Testing Library` is a JavaScript testing utility built specifically for testing React components without relying on their implementation details.
+
+</details>
