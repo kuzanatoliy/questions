@@ -496,3 +496,10 @@ Allows you to extract data from the Redux store state, using a selector function
 This hook returns a reference to the dispatch function from the Redux store. You may use it to dispatch actions as needed.
 
 </details>
+
+<details>
+  <summary>What is a redux thunk?</summary>
+
+Redux Thunk is a middleware that allows you to call the action creators that return a function (thunk) which takes the store’s dispatch method as the argument and which is afterwards used to dispatch the synchronous action after the API or side effects has been finished.
+
+</details>
