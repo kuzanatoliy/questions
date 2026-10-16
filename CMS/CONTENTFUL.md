@@ -29,7 +29,7 @@ Contentful - the cloud CMS (Headless CMS) that split content storage and virtual
 
 </details>
 
-details>
+<details>
 
   <summary>What are Contentful's core product pillars?</summary>
 
@@ -37,5 +37,15 @@ details>
 - **Contentful Personalization:** Helps teams use audience data, content variants, experiments, and insights to create more relevant experiences.
 - **Contentful AI and Automations:** Helps teams move from isolated AI tasks to coordinated workflows from draft to release.
 - **Contentful Ecosystem:** The extensibility layer that connects Contentful to apps, integrations, partners, data, tools, and agents.
+
+</details>
+
+<details>
+
+  <summary>What the platform foundation Contentful provides?</summary>
+
+- **Build a single source of truth:** Contentful helps teams structure content so it can be reused across markets, brands, channels, and AI agents. Instead of managing many disconnected copies, teams work from a shared foundation.
+- **Launch faster without developer bottlenecks:** Teams can plan, localize, preview, schedule, and publish content using intuitive tools and workflows. Developers create the foundation, while marketers can move faster within the guardrails of that foundation.
+- **Scale content without losing control:** Built-in governance, ownership, workflows, roles, and permissions help teams maintain quality as content operations become more complex.
 
 </details>
