@@ -157,3 +157,19 @@ AI can make individual tasks faster, but teams need more than fast tasks. They n
 - **Governance:** Organizations need to control how AI is used, which models are approved, who can run AI actions, and how AI-driven changes are reviewed.
 
 </details>
+
+<details>
+
+  <summary>How AI and automation capabilities work together?</summary>
+
+Contentful AI and Automations is not just one feature. It is a set of capabilities that help teams bring AI into the content lifecycle. The value comes from how they work together inside the same foundation.
+
+- **AI Actions and suggestions:** Helps teams generate, refine, rewrite, translate, summarize, optimize, and transform content. Provides suggestions for tone, terminology, metadata, readability, SEO, accessibility, or compliance improvements.
+- **Content semantics:** Transforms structured content into reusable, context-aware inputs for AI, utilizing content models, fields, references, metadata, and brand context.
+- **Workflows:** Enables teams to define review steps, approvals, ownership, and routing, ensuring AI-assisted content adheres to established processes.
+- **Automations:** Automatically generates, updates, or transforms content based on conditions, such as triggering translation updates or metadata refreshes.
+- **MCP:** Supports external agents in reading, writing, and interacting with content in governed ways, promoting agent-ready content and connected AI workflows.
+- **Guardrails and Model Controls:** Provides governance and control over AI actions, allowing the use of approved models, custom LLMs, and defined access controls to align with company policies.
+- **AI Discovery for AEO:** Generates information that an organization can use to understand, measure, and improve their presence in answer engines.
+
+</details>
