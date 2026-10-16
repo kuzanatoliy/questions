@@ -49,3 +49,11 @@ Contentful - the cloud CMS (Headless CMS) that split content storage and virtual
 - **Scale content without losing control:** Built-in governance, ownership, workflows, roles, and permissions help teams maintain quality as content operations become more complex.
 
 </details>
+
+<details>
+
+  <summary>What is a content model?</summary>
+
+A content model is the structure behind your content. Instead of starting with a finished page, your team identifies the reusable pieces of content that need to exist.
+
+</details>
