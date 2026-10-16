@@ -218,3 +218,18 @@ These use cases show how AI can support the full content lifecycle, especially w
 - **Compliance and risk control:** Detect high-risk language, add required disclaimers, route content for legal review, and block publishing until required approvals are complete.
 
 </details>
+
+<details>
+
+  <summary>What the ecosystem helps teams connect?</summary>
+
+Contentful Ecosystem gives teams the flexibility to connect the systems that matter to their digital experience lifecycle. These connections help structured content become more useful across channels, teams, and business outcomes.
+
+- **Commerce:** Connect content to product catalogs, checkout flows, pricing, merchandising, and commerce experiences.
+- **Digital assets:** Connect content to images, videos, documents, media delivery, and digital asset management systems.
+- **Localization:** Connect content to translation and localization workflows so global teams can adapt content across markets.
+- **Analytics and search:** Connect content to performance data, search tools, discovery experiences, and optimization workflows.
+- **Marketing automation:** Connect content to campaign tools, email systems, customer journeys, and audience engagement workflows.
+- **Ai and agents:** Connect content to AI systems and agents so content can be discovered, drafted, updated, optimized, and acted on in governed ways.
+
+</details>
