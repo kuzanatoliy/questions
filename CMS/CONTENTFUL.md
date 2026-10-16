@@ -188,3 +188,18 @@ Contentful AI and Automations is not just one feature. It is a set of capabiliti
 - **Standardize terminology:** Replace outdated terms, align product names, update messaging, or fix inconsistent language across content sets.
 
 </details>
+
+<details>
+
+  <summary>Where content readiness tasks AI can support?</summary>
+
+Content readiness often depends on small but important details. AI and automation can help teams keep those details from becoming manual bottlenecks.
+
+- **Create SEO Metadata:** Generate or improve titles, descriptions, and other metadata so content is easier to discover.
+- **Fill Missing Fields:** Identify and complete required fields or metadata across entries.
+- **Add Accessibility Elements:** Generate or suggest alt text and other accessibility-related content to support more inclusive experiences.
+- **Identify Outdated Content:** Surface content that may be duplicated, stale, incomplete, or inconsistent.
+- **Standardize Metadata:** Apply consistent metadata patterns across entries, content types, markets, or campaigns.
+- **Run Recurring Checks:** Automate checks so content stays current as requirements, products, campaigns, or policies change.
+
+</details>
