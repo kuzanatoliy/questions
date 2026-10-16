@@ -102,3 +102,16 @@ Structured content building blocks:
 - **Device or Context:** Device type, browsing context, or entry point may influence what a visitor needs at that moment.
 
 </details>
+
+<details>
+
+  <summary>What are continuous optimization tools?</summary>
+
+- **Variant creation:** Teams create different versions of content, such as headlines, hero messages, images, proof points, offers, calls to action, or product recommendations.
+- **A/B testing:** Teams compare two or more variants and measure which one performs better against a selected goal, such as click-through rate, sign-up, demo request, purchase, or engagement..
+- **Smart traffic allocation:** Traffic can be shifted toward stronger-performing variants as results emerge, helping teams adapt the experience while the experiment runs.
+- **Feature experimentation:** Teams can test not only content but also features or experience behavior, depending on the implementation and use case.
+- **Custom flags:** Custom flags help teams run experiments or personalization beyond standard Contentful content, such as feature behavior, external components, or non-Contentful content.
+- **AI-powered experience suggestions:** AI can suggest experience opportunities, content variants, or optimization ideas based on the content model, audience data, and performance context.
+
+</details>
