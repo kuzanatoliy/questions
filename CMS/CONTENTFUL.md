@@ -115,3 +115,16 @@ Structured content building blocks:
 - **AI-powered experience suggestions:** AI can suggest experience opportunities, content variants, or optimization ideas based on the content model, audience data, and performance context.
 
 </details>
+
+<details>
+
+  <summary>What is AI-powered personalization support?</summary>
+
+AI can support personalization at several points in the workflow, from discovering audiences to generating variants and interpreting results. The goal is not to remove human judgment. The goal is to help teams make better decisions faster.
+
+- **Audience Suggestions:** AI can suggest audience segments that may be worth targeting based on signals, content context, or performance patterns.
+- **Experience suggestions:** AI can surface opportunities to improve an experience, such as testing a specific message, tailoring a variant, or adjusting content for a segment.
+- **Variant generation:** AI can help create draft variants for different audiences, channels, or campaign goals, giving marketers a faster starting point.
+- **Analytics agent:** AI-assisted analytics can help teams explore content and audience insights, ask better questions, and understand where optimization may be useful.
+
+</details>
