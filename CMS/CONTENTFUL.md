@@ -128,3 +128,18 @@ AI can support personalization at several points in the workflow, from discoveri
 - **Analytics agent:** AI-assisted analytics can help teams explore content and audience insights, ask better questions, and understand where optimization may be useful.
 
 </details>
+
+<details>
+
+  <summary>Where contentful Personalization helps teams improve relevance?</summary>
+
+Personalization opportunities often appear wherever audiences arrive with different needs, intent, or context. These use cases show how teams can move from one-size-fits-all content toward more relevant experiences.
+
+- **Compaign traffic personalization:** Visitors from different campaigns can see landing messages that match the source, promise, or offer that brought them to the experience.
+- **ABM personalization:** Target accounts can see industry-specific proof points, customer stories, product messaging, or calls to action that better match their needs.
+- **Location personalization:** Visitors can see region-specific content, language, events, offers, product availability, or examples based on location or market.
+- **Loyalty personalization:** Returning customers or loyalty members can see content that reflects their status, purchase history, subscription tier, or likely next step.
+- **Composable commerce:** Commerce teams can tailor product recommendations, bundles, offers, or checkout experiences based on customer profile, browsing behavior, or purchase history.
+- **Knowledge and support experiences:** Support teams can tailor help content, FAQs, onboarding guides, or notifications based on account tier, recent activity, product usage, or support history.
+
+</details>
