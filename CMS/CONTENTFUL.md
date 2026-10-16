@@ -241,3 +241,17 @@ Contentful Ecosystem gives teams the flexibility to connect the systems that mat
 The App Framework allows teams to extend the Contentful web app. That means teams can add functionality, connect third-party services, customize editorial workflows, and create experiences inside Contentful that better match how their organization works.
 
 </details>
+
+<details>
+
+  <summary>What ways teams use the App Framework?</summary>
+
+Apps can support many kinds of team needs, from simple integrations to highly customized workflows. The right app depends on the content process, the surrounding systems, and the experience the team wants to create.
+
+- **Install marketplace apps:** Teams can install apps from the Contentful Marketplace to enhance functionality or integrate with third-party services. These apps provide pre-built solutions for common use cases, streamlining the integration process. By leveraging marketplace apps, teams can quickly extend the capabilities of Contentful without requiring custom development.
+- **Build custom apps:** Teams have the ability to create custom apps within the Contentful UI to address specific workflows, data requirements, or editorial needs. These apps can be tailored to fit unique business processes. Custom apps empower teams to design solutions that align closely with their operational goals and enhance user experiences.
+- **Connect third-party services:** Apps can integrate external systems into the content workflow, such as Digital Asset Management (DAM) systems, e-commerce platforms, analytics tools, localization services, or AI technologies. This integration ensures seamless data exchange and operational efficiency. By connecting third-party services, teams can create a unified ecosystem that supports comprehensive content management strategies.
+- **Customize editorial workflows:** Teams can develop experiences that assist editors in making informed decisions, completing tasks more efficiently, and accessing the appropriate data. These customizations enhance the overall editorial process. By tailoring workflows, organizations can improve productivity and ensure content quality aligns with business objectives.
+- **Run custom code:** Serverless functions enable teams to execute custom logic and adapt Contentful to meet specific business requirements. These functions provide flexibility for implementing unique solutions. With the ability to run custom code, teams can address complex challenges and extend the platform's functionality to suit their needs.
+
+</details>
