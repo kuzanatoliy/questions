@@ -28,3 +28,14 @@ Contentful - the cloud CMS (Headless CMS) that split content storage and virtual
 - **Governed AI:** Governed AI helps teams use AI without losing control. AI can assist with drafting, refining, translating, classifying, and updating content while people remain responsible for review, approval, brand standards, and compliance.
 
 </details>
+
+details>
+
+  <summary>What are Contentful's core product pillars?</summary>
+
+- **Contentful Platform:** The structured content foundation for creating, managing, governing, and delivering content.
+- **Contentful Personalization:** Helps teams use audience data, content variants, experiments, and insights to create more relevant experiences.
+- **Contentful AI and Automations:** Helps teams move from isolated AI tasks to coordinated workflows from draft to release.
+- **Contentful Ecosystem:** The extensibility layer that connects Contentful to apps, integrations, partners, data, tools, and agents.
+
+</details>
