@@ -233,3 +233,11 @@ Contentful Ecosystem gives teams the flexibility to connect the systems that mat
 - **Ai and agents:** Connect content to AI systems and agents so content can be discovered, drafted, updated, optimized, and acted on in governed ways.
 
 </details>
+
+<details>
+
+  <summary>What is the App Framework?</summary>
+
+The App Framework allows teams to extend the Contentful web app. That means teams can add functionality, connect third-party services, customize editorial workflows, and create experiences inside Contentful that better match how their organization works.
+
+</details>
