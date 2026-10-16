@@ -56,4 +56,13 @@ Contentful - the cloud CMS (Headless CMS) that split content storage and virtual
 
 A content model is the structure behind your content. Instead of starting with a finished page, your team identifies the reusable pieces of content that need to exist.
 
+Structured content building blocks:
+
+- **Content type:** A content type defines the structure for a kind of content, such as a product listing, blog post, campaign module, FAQ, hero banner, author bio, or customer story.
+- **Field:** A field is a specific part of a content type. For example, a product listing might include fields for title, description, image, category, region, CTA text, and CTA link.
+- **reference:** A reference connects one piece of content to another. For example, a campaign page might reference product benefits, customer quotes, FAQ entries, assets, and related resources.
+- **Validation:** A validation helps protect quality by guiding what kind of content can be entered. For example, a field might require a specific format, character limit, or allowed set of values.
+- **Metadata and taxonomy:** Metadata and taxonomy help teams organize, find, govern, localize, and reuse content more effectively. They also help make content easier for systems and agents to interpret.
+- **Asset:** An asset is a reusable media file, such as an image, video, document, or other media item. Assets can be connected to structured content and reused across experiences.
+
 </details>
