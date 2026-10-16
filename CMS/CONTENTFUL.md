@@ -143,3 +143,17 @@ Personalization opportunities often appear wherever audiences arrive with differ
 - **Knowledge and support experiences:** Support teams can tailor help content, FAQs, onboarding guides, or notifications based on account tier, recent activity, product usage, or support history.
 
 </details>
+
+<details>
+
+  <summary>Where AI-assisted work can still get stuck?</summary>
+
+AI can make individual tasks faster, but teams need more than fast tasks. They need a connected workflow that protects quality while reducing coordination overhead.
+
+- **Review and approval:** AI-generated content still needs review for accuracy, usefulness, tone, brand voice, compliance, and customer context.
+- **Localization:** Translation is only part of localization. Teams also need regional tone, market context, legal requirements, local review, and publishing coordination.
+- **Lare-scale updates:** A content change may need to apply across many entries, markets, products, pages, or campaigns. Manual updates can create inconsistency and risk.
+- **Brand consistency:** As more teams create and adapt content, maintaining consistent terminology, tone, structure, and messaging becomes harder.
+- **Governance:** Organizations need to control how AI is used, which models are approved, who can run AI actions, and how AI-driven changes are reviewed.
+
+</details>
