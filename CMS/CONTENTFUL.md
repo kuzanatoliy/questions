@@ -173,3 +173,18 @@ Contentful AI and Automations is not just one feature. It is a set of capabiliti
 - **AI Discovery for AEO:** Generates information that an organization can use to understand, measure, and improve their presence in answer engines.
 
 </details>
+
+<details>
+
+  <summary>Where AI helps teams scale content work?</summary>
+
+Contentful AI and Automations is not just one feature. It is a set of capabilities that help teams bring AI into the content lifecycle. The value comes from how they work together inside the same foundation.
+
+- **Translate across locales:** Translate single entries or bulk content while keeping localization inside the content workflow.
+- **Adapt regional messaging:** Adjust tone, language, examples, and context for regional markets while maintaining shared brand rules.
+- **Generate campaign variations:** Create audience-specific or channel-specific versions of content from an approved content foundation.
+- **Refresh metadata:** Fill missing metadata, standardize fields, and improve content readiness across many entries.
+- **Review before publishing:** Use review and approval steps so teams can inspect AI-assisted changes before they go live.
+- **Standardize terminology:** Replace outdated terms, align product names, update messaging, or fix inconsistent language across content sets.
+
+</details>
