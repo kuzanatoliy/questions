@@ -66,3 +66,14 @@ Structured content building blocks:
 - **Asset:** An asset is a reusable media file, such as an image, video, document, or other media item. Assets can be connected to structured content and reused across experiences.
 
 </details>
+
+<details>
+
+  <summary>What are common barriers to relevance?</summary>
+
+- **Data activation:** Teams may have useful customer or audience data, but that data does not always reach the content decision at the right moment.
+- **Launch delays:** Marketers may need technical support for each new audience, rule, experiment, or content variation, slowing down testing and iteration.
+- **Disconnected tools:** When personalization happens outside the content workflow, teams may need extra coordination to keep content, rules, approvals, and reporting aligned.
+- **Unclear success:** Personalization is harder to improve when teams have not defined the audience, content change, and metric they want to learn from.
+
+</details>
