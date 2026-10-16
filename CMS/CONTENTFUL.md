@@ -255,3 +255,18 @@ Apps can support many kinds of team needs, from simple integrations to highly cu
 - **Run custom code:** Serverless functions enable teams to execute custom logic and adapt Contentful to meet specific business requirements. These functions provide flexibility for implementing unique solutions. With the ability to run custom code, teams can address complex challenges and extend the platform's functionality to suit their needs.
 
 </details>
+
+<details>
+
+  <summary>What are marketplace and ecosystem categories?</summary>
+
+- **Digital Asset Management:** Connect images, videos, documents, and media workflows to structured content and digital delivery.
+- **Composable Commerce:** Connect content to product data, commerce engines, checkout, merchandising, and shopping experiences.
+- **Translation and Localization:** Connect to localization tools and services that help teams adapt content across languages and markets.
+- **Build, Deploy, Hosting:** Connect to frontend frameworks, hosting, deployment, and delivery platforms that bring experiences to life.
+- **Analytics and Search:** Connect to tools that help teams measure, search, optimize, and improve digital experiences.
+- **AI:** Connect to AI tools and services that support content creation, optimization, automation, and agentic workflows.
+- **Communication an Collboration:** Connect to tools that help teams coordinate work, share updates, and collaborate across roles.
+- **Solution parners:** Work with agencies, consultancies, and implementation partners that help design, build, integrate, and scale Contentful solutions.
+
+</details>
