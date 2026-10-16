@@ -77,3 +77,15 @@ Structured content building blocks:
 - **Unclear success:** Personalization is harder to improve when teams have not defined the audience, content change, and metric they want to learn from.
 
 </details>
+
+<details>
+
+  <summary>What are steps of the personalization loop?</summary>
+
+- **Discover visitors:** Teams identify who is visiting based on signals such as traffic source, behavior, device, location, attributes, or other connected data. This helps teams understand the context around each visit before deciding what experience to show.
+- **Segment audiences:** Teams group visitors into meaningful audiences using behavioral signals, first-party data, or custom attributes. For example, teams might segment by campaign traffic, target account, location, loyalty status, product interest, or return visitor behavior.
+- **Analyze content performance:** Teams look at how content performs for different audiences. This helps them understand which entries, variants, messages, or calls to action are receiving more engagement, conversion, or other meaningful outcomes.
+- **Optimize experiences:** Teams use performance insights to adjust what visitors see. They might promote a proven variant, create a new message, test a different CTA, or route traffic toward the experience that appears to be working better.
+- **Monetize:** Teams track experiments and personalized experiences against business outcomes. The goal is to understand what contributes to conversion, revenue, pipeline, engagement, retention, or another meaningful measure of success.
+
+</details>
