@@ -278,3 +278,18 @@ Apps can support many kinds of team needs, from simple integrations to highly cu
 AI agents are becoming more capable, but they still need reliable access to the systems where business work happens. Without a standard way to connect, every tool may need its own custom integration. That can be slow, expensive, and difficult to maintain.
 
 </details>
+
+<details>
+
+  <summary>How end-to-end workflow different roles benefit?</summary>
+
+The end-to-end workflow helps teams collaborate because each role contributes to the same lifecycle.
+
+- **Marketers and Content Creators:** Create, preview, localize, personalize, and optimize content with fewer handoffs. Work from approved structures and variants instead of starting from scratch.
+- **Developers and Architects:** Design content models, APIs, integrations, app extensions, and delivery systems that scale across channels. Empower content teams while maintaining technical quality and governance.
+- **Content Operations Teams:** Define workflows, ownership, metadata, taxonomy, review steps, roles, permissions, and governance rules to ensure a repeatable lifecycle.
+- **Regional and Localization Teams:** Adapt content for language, market context, compliance, and audience expectations while staying connected to the global content foundation.
+- **digital Leaders:** Connect content operations to business outcomes, such as launch speed, content reuse, localization efficiency, conversion, engagement, quality, and risk reduction.
+- **Partners and Implementation Teams:** Design the operating model, connect the ecosystem, migrate content, build integrations, create templates, and support long-term optimization.
+
+</details>
