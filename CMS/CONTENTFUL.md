@@ -270,3 +270,11 @@ Apps can support many kinds of team needs, from simple integrations to highly cu
 - **Solution parners:** Work with agencies, consultancies, and implementation partners that help design, build, integrate, and scale Contentful solutions.
 
 </details>
+
+<details>
+
+  <summary>Why MCP matters?</summary>
+
+AI agents are becoming more capable, but they still need reliable access to the systems where business work happens. Without a standard way to connect, every tool may need its own custom integration. That can be slow, expensive, and difficult to maintain.
+
+</details>
