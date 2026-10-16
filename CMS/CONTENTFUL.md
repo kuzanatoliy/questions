@@ -89,3 +89,16 @@ Structured content building blocks:
 - **Monetize:** Teams track experiments and personalized experiences against business outcomes. The goal is to understand what contributes to conversion, revenue, pipeline, engagement, retention, or another meaningful measure of success.
 
 </details>
+
+<details>
+
+  <summary>What audience signals can be used?</summary>
+
+- **Campaign Traffic:** Visitors from different campaigns may need tailored landing messages, proof points, offers, or calls to action based on their source.
+- **Account or Company Fit:** Account-based marketing teams can customize messaging for specific industries, company sizes, target accounts, or buying stages.
+- **Location or Language:** Visitors in different regions may need localized messaging, market-specific offers, relevant events, or language-specific content.
+- **Loyalty or Customer Status:** New visitors, returning customers, subscribers, and loyalty members may require distinct messages, benefits, or recommendations.
+- **Behavior and Page Activity:** Visitor behavior, such as viewed pages, clicked content, or product interest, can guide experience adaptation based on intent.
+- **Device or Context:** Device type, browsing context, or entry point may influence what a visitor needs at that moment.
+
+</details>
