@@ -304,3 +304,14 @@ The end-to-end workflow helps teams collaborate because each role contributes to
 - **Loyalty personalization:** Loyalty personalization is about treating your best customers like they matter, not just sending them the same homepage and offers as everyone else. You're using indicators like purchase frequency and recency, value, and engagement.
 
 </details>
+
+<details>
+
+  <summary>What are common first-party data types?</summary>
+
+- Identity data
+- Behavioral data
+- Campaign data
+- Account data
+
+</details>
