@@ -293,3 +293,36 @@ The end-to-end workflow helps teams collaborate because each role contributes to
 - **Partners and Implementation Teams:** Design the operating model, connect the ecosystem, migrate content, build integrations, create templates, and support long-term optimization.
 
 </details>
+
+<details>
+
+  <summary>What are the personalization use cases to own?</summary>
+
+- **Paid traffic personalization:** Paid traffic personalization is all about using what you already know from the click (e.g., ad creative, keyword, audience settings, and UTM parameters) to tailor the experience on arrival.
+- **ABM personalization:** ABM personalization is about tailoring experiences to specific accounts or segments of accounts (e.g., SMB vs enterprise, HR tech vs fintech) using firmographic data and account lists.
+- **Location personalization:** Location personalization recognizes that context changes by region, and your experience should reflect that without turning into 50 separate sites. This doesn’t just mean “translate the page.” It can also include changes to currency, regulatory messaging, social proof, storytelling, and seasonality.
+- **Loyalty personalization:** Loyalty personalization is about treating your best customers like they matter, not just sending them the same homepage and offers as everyone else. You're using indicators like purchase frequency and recency, value, and engagement.
+
+</details>
+
+<details>
+
+  <summary>What are common first-party data types?</summary>
+
+- Identity data
+- Behavioral data
+- Campaign data
+- Account data
+
+</details>
+
+<details>
+
+  <summary>What are the personalization high-leverage placements?</summary>
+
+- **Hero section:** Sets the promise. Typically includes a Headline, visual, and primary CTA.
+- **First content:** Shows what's next. Typically includes product imagery and information.
+- **Proof modules:** Builds trust. Typically includes logos, quotes, and stats.
+- **Primary decision CTA:** Where the audience commits. Typically includes a trial, demo, or add-to-cart option.
+
+</details>
