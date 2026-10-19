@@ -315,3 +315,14 @@ The end-to-end workflow helps teams collaborate because each role contributes to
 - Account data
 
 </details>
+
+<details>
+
+  <summary>What are the personalization high-leverage placements?</summary>
+
+- **Hero section:** Sets the promise. Typically includes a Headline, visual, and primary CTA.
+- **First content:** Shows what's next. Typically includes product imagery and information.
+- **Proof modules:** Builds trust. Typically includes logos, quotes, and stats.
+- **Primary decision CTA:** Where the audience commits. Typically includes a trial, demo, or add-to-cart option.
+
+</details>
