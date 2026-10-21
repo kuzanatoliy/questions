@@ -339,3 +339,13 @@ The end-to-end workflow helps teams collaborate because each role contributes to
 - **Iterate:** Review outcomes, refine governance, and evolve the architecture as teams, channels, and markets grow.
 
 </details>
+
+<details>
+
+  <summary>What are additional spaces in multi-space architectures?</summary>
+
+- **Core space with satellite spaces:** most content remains in a core hub, with satellite spaces added only for experiments or unique use cases.
+- **Global reference space with brand/regional spaces:** a reference space stores shared content, while brand/regional spaces manage local publishing.
+- **Clustered spaces:** related experiences are grouped into clusters (e.g. regional clusters for shared locales) to keep the architecture manageable.
+
+</details>
