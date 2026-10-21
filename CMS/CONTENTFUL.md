@@ -326,3 +326,26 @@ The end-to-end workflow helps teams collaborate because each role contributes to
 - **Primary decision CTA:** Where the audience commits. Typically includes a trial, demo, or add-to-cart option.
 
 </details>
+
+<details>
+
+  <summary>What is the implementation lifecycle?</summary>
+
+- **Onboard:** Understand the organization, stakeholders, goals, and implementation scope.
+- **Discover:** Translate business needs, risks, and constraints into architecture requirements.
+- **Design & Build:** Evaluate architecture approaches and guide decisions across spaces, content models, governance, and integrations.
+- **Migrate & Test:** Confirm the architecture supports migration, validation, workflows, permissions, and integration testing.
+- **Release:** Validate that the implementation meets launch requirements and non-negotiables.
+- **Iterate:** Review outcomes, refine governance, and evolve the architecture as teams, channels, and markets grow.
+
+</details>
+
+<details>
+
+  <summary>What are additional spaces in multi-space architectures?</summary>
+
+- **Core space with satellite spaces:** most content remains in a core hub, with satellite spaces added only for experiments or unique use cases.
+- **Global reference space with brand/regional spaces:** a reference space stores shared content, while brand/regional spaces manage local publishing.
+- **Clustered spaces:** related experiences are grouped into clusters (e.g. regional clusters for shared locales) to keep the architecture manageable.
+
+</details>
