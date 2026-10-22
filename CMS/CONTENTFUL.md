@@ -370,3 +370,11 @@ The end-to-end workflow helps teams collaborate because each role contributes to
 - **API delivery:** Content is stored in JSON and delivered via APIs, so developers can pull exactly what they need into any frontend, whether it’s a website, mobile app, or even digital signing.
 
 </details>
+
+<details>
+
+  <summary>What is a content type?</summary>
+
+A content type in Contentful is like a blueprint or template for a specific kind of content. It defines the fields that entries of that type will contain, so your content is consistent and your API responses are predictable.
+
+</details>
