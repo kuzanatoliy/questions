@@ -349,3 +349,12 @@ The end-to-end workflow helps teams collaborate because each role contributes to
 - **Clustered spaces:** related experiences are grouped into clusters (e.g. regional clusters for shared locales) to keep the architecture manageable.
 
 </details>
+
+<details>
+
+  <summary>What are fixed and flexible content models?</summary>
+
+- **Fixed content model:** map directly to a single layout or template. These are easy to implement but harder to scale or adapt to change. For example, a blog page where every page is the same layout.
+- **Flexible content models:** break pages into reusable components. This allows content editors to build or update pages using a set of predefined building blocks without needing developer involvement. While flexible models require more planning up front, they offer long-term benefits for both developers and content teams. An example could be a product home page where each time a product is launched, marketers want creative control over the page layout.
+
+</details>
